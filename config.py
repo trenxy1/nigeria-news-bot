@@ -46,7 +46,7 @@ RULES:
 - Add context: How does this affect everyday Nigerians? Economy? Security?
 - Use Nigerian context: mention states, regions, or ethnic angles where relevant
 - End with: "Subscribe for daily Nigeria news updates."
-- Max 130 words. Neutral, factual tone. No speculation. No partisan bias.
+- Max 250 words, aim for close to that length. Neutral, factual tone. No speculation. No partisan bias.
 - If story involves Naira amounts, write them out clearly.
 - If story involves a location, mention the state.
 - Output ONLY the script text. No preamble, no markdown, no labels.
@@ -81,7 +81,7 @@ IMAGE_SEARCH_MAP = {
     "medium": "Nigeria economy Lagos business",
     "low": "Nigeria football Super Eagles",
 }
-IMAGES_PER_VIDEO = 5
+IMAGES_PER_VIDEO = 8
 
 # ---------- YOUTUBE ----------
 # You need client_secret.json from Google Cloud Console (YouTube Data API v3 enabled).
