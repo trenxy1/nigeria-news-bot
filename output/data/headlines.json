@@ -30,7 +30,7 @@
     "published": "Tue, 14 Jul 2026 19:19:49 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T18:40:56.552860+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "e31562d290eff6b4",
@@ -473,6 +473,72 @@
     "used": false
   },
   {
+    "id": "efd70d26713e976b",
+    "source": "Punch Nigeria",
+    "title": "Tinubu orders tougher engineering regulation, sanctions to curb infrastructure failures",
+    "link": "https://punchng.com/tinubu-orders-tougher-engineering-regulation-sanctions-to-curb-infrastructure-failures/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu directs COREN to strengthen engineering regulation and impose sanctions to curb infrastructure failures and safeguard public safety in Nig\n\nRead More: https://punchng.com/tinubu-orders-tougher-engineering-regulation-sanctions-to-curb-infrastructure-failures/",
+    "published": "Tue, 14 Jul 2026 21:32:14 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-14T21:34:28.849432+00:00",
+    "used": false
+  },
+  {
+    "id": "e636754c4d9937eb",
+    "source": "Premium Times",
+    "title": "Rescued Oyo pupils, teachers reunite with families after hospital discharge",
+    "link": "https://www.premiumtimesng.com/news/headlines/895361-rescued-oyo-pupils-teachers-reunite-with-families-after-hospital-discharge.html",
+    "summary": "<img alt=\"Freed Oyo pupils and their teacher\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"810\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG-20260710-WA0031.jpg?fit=1080%2C810&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Victims’ reunions with their families came a day after the victims were formally handed over to the Oyo State Government by the Nigerian military.</p>\n<p>The post <a href=\"https://www.premiumtimesn",
+    "published": "Tue, 14 Jul 2026 21:31:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-14T21:34:30.186239+00:00",
+    "used": false
+  },
+  {
+    "id": "1f423c0137f2ed45",
+    "source": "Premium Times",
+    "title": "Reps rescind earlier state police vote, begin fresh consideration of Tinubu’s bill",
+    "link": "https://www.premiumtimesng.com/news/headlines/895350-reps-rescind-earlier-state-police-vote-begin-fresh-consideration-of-tinubus-bill.html",
+    "summary": "<img alt=\"House of Reps (PHOTO CREDIT: @HouseNGR,https://twitter.com/HouseNGR/status/1790694422616650178/photo/4 )\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/05/House-of-Reps1.jpeg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Fresh issues identified in the proposed law require a comprehensive review to ensure the framework aligns with Nigeria’s security",
+    "published": "Tue, 14 Jul 2026 21:03:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-14T21:34:30.186332+00:00",
+    "used": false
+  },
+  {
+    "id": "5525248f87f8ddc7",
+    "source": "Channels TV",
+    "title": "Three AAU Students Rescued As Police Neutralise Suspected Kidnapper In Edo",
+    "link": "https://www.channelstv.com/2026/07/14/three-aau-students-rescued-as-police-neutralise-suspected-kidnapper-in-edo/",
+    "summary": "<p>The operation culminated in a fierce exchange of gunfire with the kidnappers, forcing the suspects to abandon their captives and flee.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/14/three-aau-students-rescued-as-police-neutralise-suspected-kidnapper-in-edo/\">Three AAU Students Rescued As Police Neutralise Suspected Kidnapper In Edo</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Tue, 14 Jul 2026 21:27:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-14T21:34:31.341942+00:00",
+    "used": false
+  },
+  {
+    "id": "9116e4ee5d2949eb",
+    "source": "Channels TV",
+    "title": "Nigerian Navy To Establish Base In Taraba",
+    "link": "https://www.channelstv.com/2026/07/14/nigerian-navy-to-establish-base-in-taraba/",
+    "summary": "<p>The move is to tame the rising spate of insecurity along the international waterways boundary between Nigeria and the Republic of Cameroon and to protect the territorial integrity of the nation.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/14/nigerian-navy-to-establish-base-in-taraba/\">Nigerian Navy To Establish Base In Taraba</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Tue, 14 Jul 2026 20:58:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-14T21:34:31.342010+00:00",
+    "used": false
+  },
+  {
+    "id": "45eccec3abd8b890",
+    "source": "Leadership Newspaper",
+    "title": "Tinubu Vows Clean Water For All FCT Satellite Towns, Commissions Bwari Water Network",
+    "link": "https://leadership.ng/ptinubu-vows-clean-water-for-all-fct-satellite-towns-commissions-bwari-water-network/",
+    "summary": "President Bola Tinubu has commissioned the Bwari Township Water Supply Network Project, declaring that access to clean water is a fundamental right and reaffirming his administration&#8217;s commitment to extending critical infrastructure to underserved communities across the Federal Capital Territory (FCT). The President said the commissioning of the 198-kilometre water pipeline network marked another milestone in [&#8230;]",
+    "published": "Tue, 14 Jul 2026 21:22:54 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-14T21:34:34.294851+00:00",
+    "used": false
+  },
+  {
     "id": "be765c2952fb520e",
     "source": "Punch Nigeria",
     "title": "FCCPC seals three milk factories, arrests owner in Anambra",
@@ -745,6 +811,160 @@
     "published": "Tue, 14 Jul 2026 19:34:25 +0000",
     "priority": "medium",
     "fetched_at": "2026-07-14T20:36:03.691554+00:00",
+    "used": false
+  },
+  {
+    "id": "f77054a820f0dabd",
+    "source": "Punch Nigeria",
+    "title": "A’Court reserves judgment in ADC, four parties’ deregistration appeals",
+    "link": "https://punchng.com/acourt-reserves-judgment-in-adc-four-parties-deregistration-appeals/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Court of Appeal has reserved judgment on the deregistration of ADC and four other political parties, challenging a Federal High Court decision. Learn m\n\nRead More: https://punchng.com/acourt-reserves-judgment-in-adc-four-parties-deregistration-appeals/",
+    "published": "Tue, 14 Jul 2026 22:04:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:28.849359+00:00",
+    "used": false
+  },
+  {
+    "id": "3603d6021248bc06",
+    "source": "Punch Nigeria",
+    "title": "Spain beat France 2-0, seal place in World Cup final",
+    "link": "https://punchng.com/spain-beat-france-2-0-seal-place-in-world-cup-final/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Spain secured their spot in the 2026 FIFA World Cup final with a dominant 2-0 victory over France. Read how La Roja sealed their place!\n\nRead More: https://punchng.com/spain-beat-france-2-0-seal-place-in-world-cup-final/",
+    "published": "Tue, 14 Jul 2026 21:43:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:28.849398+00:00",
+    "used": false
+  },
+  {
+    "id": "9b429fd2207c03b7",
+    "source": "Punch Nigeria",
+    "title": "How Mbappé makes Ballon d’Or top 10 for eighth year running without winning",
+    "link": "https://punchng.com/how-mbappe-makes-ballon-dor-top-10-for-eighth-year-running-without-winning/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Explore Kylian Mbappé&#8217;s consistent top 10 finishes in the Ballon d&#8217;Or rankings and his quest to finally win the coveted individual award.\n\nRead More: https://punchng.com/how-mbappe-makes-ballon-dor-top-10-for-eighth-year-running-without-winning/",
+    "published": "Tue, 14 Jul 2026 21:37:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:28.849424+00:00",
+    "used": false
+  },
+  {
+    "id": "7a201b28be844580",
+    "source": "Punch Nigeria",
+    "title": "US gripped by major outbreak of intestinal infections",
+    "link": "https://punchng.com/us-gripped-by-major-outbreak-of-intestinal-infections/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nearly 7,000 cases of cyclosporiasis, an intestinal infection, have been reported across 34 US states. Learn about the outbreak and its suspected causes.\n\nRead More: https://punchng.com/us-gripped-by-major-outbreak-of-intestinal-infections/",
+    "published": "Tue, 14 Jul 2026 20:00:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:28.849554+00:00",
+    "used": false
+  },
+  {
+    "id": "aa9e95c68c96d6a8",
+    "source": "Premium Times",
+    "title": "World Cup: Spain beat France to reach first final in 16 years",
+    "link": "https://www.premiumtimesng.com/news/top-news/895354-world-cup-spain-beat-france-to-reach-first-final-in-16-years.html",
+    "summary": "<img alt=\"France vs Spain (CREDIT: FIFA World Cup X Page)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"534\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003613186-e1784063905319.jpg?fit=854%2C534&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"854\" /><p>The reigning European champions will now face either defending champions Argentina or England in Sunday's final</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-new",
+    "published": "Tue, 14 Jul 2026 21:21:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:30.186292+00:00",
+    "used": false
+  },
+  {
+    "id": "92b99a41b5f77dff",
+    "source": "Premium Times",
+    "title": "Top US diplomat visits Nigeria, meets with Ribadu, other officials",
+    "link": "https://www.premiumtimesng.com/news/top-news/895351-top-us-diplomat-visits-nigeria-meets-with-ribadu-other-officials.html",
+    "summary": "<img alt=\"Top US diplomat visits Nigeria\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1667\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/HNNAR5kWQAEEJ1c.jpg?fit=2500%2C1667&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2500\" /><p>The US Secretary of State disclosed in a post on X that Mr Gracias met with the Minister of State for Foreign Affairs, Sola Enikanolaiye, to discuss relations between both countries.</p>\n<p>The post <a h",
+    "published": "Tue, 14 Jul 2026 21:14:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:30.186316+00:00",
+    "used": false
+  },
+  {
+    "id": "7a286e9d4e23c5d7",
+    "source": "Premium Times",
+    "title": "Appeal Court reserves judgement in ADC, Accord, other parties’ case against deregistration order",
+    "link": "https://www.premiumtimesng.com/news/headlines/895348-appeal-court-reserves-judgement-in-adc-accord-other-parties-case-against-deregistration-order.html",
+    "summary": "<img alt=\"Appeal Court\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"535\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/05/Court-of-Appeal-e1685035653392.jpg?fit=1081%2C535&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1081\" /><p>INEC and the five political parties urged the Court of Appeal to set aside the deregistration order of the Federal High Court.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/headlines/895348-app",
+    "published": "Tue, 14 Jul 2026 21:00:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:30.186360+00:00",
+    "used": false
+  },
+  {
+    "id": "8b01fca0df8d2b4e",
+    "source": "Premium Times",
+    "title": "London to host the 7th Africa Advancement Forum Global Summit 2026",
+    "link": "https://www.premiumtimesng.com/promoted/895333-london-to-host-the-7th-africa-advancement-forum-global-summit-2026.html",
+    "summary": "<img alt=\"Global Summit 2026\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1338\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG_9463.jpeg?fit=2484%2C1338&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2484\" /><p>The Summit which will hold under the theme: \"Africa’s Strength in Unity\" is expected to attract global leaders</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/promoted/895333-london-to-host-the-7th-africa-advancem",
+    "published": "Tue, 14 Jul 2026 20:46:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:30.186390+00:00",
+    "used": false
+  },
+  {
+    "id": "ed1bc59ee64ec6a7",
+    "source": "Channels TV",
+    "title": "Fantastic Spain Beat France To Reach World Cup Final",
+    "link": "https://www.channelstv.com/2026/07/14/fantastic-spain-beat-france-to-reach-world-cup-final/",
+    "summary": "<p>The European champions will face the winner of Wednesday's semi-final between England and Argentina in the final as they try to win the World Cup for a second time.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/14/fantastic-spain-beat-france-to-reach-world-cup-final/\">Fantastic Spain Beat France To Reach World Cup Final</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Tue, 14 Jul 2026 21:06:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:31.341986+00:00",
+    "used": false
+  },
+  {
+    "id": "61de9fa806ee9836",
+    "source": "Leadership Newspaper",
+    "title": "FCT Fire Service Seeks Urgent Funding, Modern Equipment To Strengthen Emergency Response",
+    "link": "https://leadership.ng/fct-fire-service-seeks-urgent-funding-modern-equipment-to-strengthen-emergency-response/",
+    "summary": "The Federal Capital Territory (FCT) Fire Service has appealed to the federal government for increased funding and urgent modernization of its operations, warning that many of its firefighting vehicles and equipment have exceeded their operational lifespan. Director of the FCT Fire Service, Adebayo Amiola, made the appeal while outlining the operational challenges confronting the agency, [&#8230;]",
+    "published": "Tue, 14 Jul 2026 21:34:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:34.294774+00:00",
+    "used": false
+  },
+  {
+    "id": "ce93df5e34e46789",
+    "source": "Leadership Newspaper",
+    "title": "PLSI, Partners Unveil Women In Public Sector Audit Initiative",
+    "link": "https://leadership.ng/plsi-partners-unveil-women-in-public-sector-audit-initiative/",
+    "summary": "The Paradigm Leadership Support Initiative (PLSI), in collaboration with the Society of Women Accountants of Nigeria (SWAN) and the International Budget Partnership (IBP) Nigeria, has inaugurated the Women in Public Sector Audit in Nigeria (WiPSA) Leadership Dialogue to promote women&#8217;s leadership in public sector auditing and strengthen accountability through gender-responsive auditing. The inaugural dialogue, held [&#8230;]",
+    "published": "Tue, 14 Jul 2026 21:27:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:34.294815+00:00",
+    "used": false
+  },
+  {
+    "id": "3ac704b10cb17426",
+    "source": "Leadership Newspaper",
+    "title": "Tom Holland Laughs Off Erling Haaland’s Dinner Snub",
+    "link": "https://leadership.ng/tom-holland-laughs-off-erling-haalands-dinner-snub/",
+    "summary": "Hollywood star Tom Holland has finally addressed the viral story of being ignored by football sensation Erling Haaland after inviting him to dinner, joking that the experience was a healthy reality check. &#160; Appearing on The Tonight Show Starring Jimmy Fallon while promoting Christopher Nolan&#8217;s The Odyssey, Holland admitted he reached out to Haaland after [&#8230;]",
+    "published": "Tue, 14 Jul 2026 21:24:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:34.294844+00:00",
+    "used": false
+  },
+  {
+    "id": "ad98f2ff45596d48",
+    "source": "Leadership Newspaper",
+    "title": "Spain Outclass France To Storm Into World Cup Final",
+    "link": "https://leadership.ng/spain-outclass-france-to-storm-into-world-cup-final/",
+    "summary": "Spain moved within one victory of global glory after producing a composed and clinical display to defeat France 2-0 in their 2026 FIFA World Cup semi-final on Tuesday, securing a place in the final where they will face either England or Argentina. The reigning European champions underlined their status as one of the tournament’s most [&#8230;]",
+    "published": "Tue, 14 Jul 2026 21:12:56 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:34.294875+00:00",
+    "used": false
+  },
+  {
+    "id": "1c23fc6b53eebc98",
+    "source": "Leadership Newspaper",
+    "title": "Porro Doubles Spain’s Lead As European Champions Close in on World Cup Final",
+    "link": "https://leadership.ng/oyarzabal-penalty-gives-spain-early-lead-against-france-in-world-cup-semi-final/",
+    "summary": "Spain have taken a commanding 2-0 lead over France in their FIFA World Cup semi-final after Pedro Porro struck in the 58th minute to put the European champions firmly in control. Porro finished clinically after being set up by Dani Olmo, capping another flowing Spanish attack to leave the tournament favourites with a mountain to [&#8230;]",
+    "published": "Tue, 14 Jul 2026 19:34:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-14T21:34:34.294922+00:00",
     "used": false
   },
   {
