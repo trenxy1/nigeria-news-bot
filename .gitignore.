@@ -1,0 +1,14 @@
+# Credentials — never commit these
+client_secret.json
+youtube_token.json
+*.env
+.env
+
+# Local run output (videos, audio, images, headline cache)
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
