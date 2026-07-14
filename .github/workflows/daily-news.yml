@@ -24,7 +24,7 @@ jobs:
       - name: Install system dependencies (ffmpeg + imagemagick for video/captions)
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg imagemagick
+          sudo apt-get install -y ffmpeg imagemagick fonts-dejavu-core
 
       - name: Relax ImageMagick's text policy
         # Ubuntu's ImageMagick blocks text rendering by default (security policy).
