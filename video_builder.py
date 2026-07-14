@@ -1,11 +1,9 @@
 """
 Step 5: Assemble images + voiceover + captions into a finished 1080p MP4.
 
-NOTE (Windows): TextClip requires ImageMagick to be installed and on PATH.
-Download from https://imagemagick.org/script/download.php#windows
-During install, check "Install legacy utilities" and "Add to system PATH".
-If MoviePy still can't find it, set IMAGEMAGICK_BINARY below to the exe path,
-e.g. r"C:\\Program Files\\ImageMagick-7.1.1-Q16\\magick.exe"
+Uses DejaVu Sans Bold, which is a real bold font pre-installed on the Linux
+runner (Arial doesn't exist on Linux, which is why earlier captions looked
+thin/unreadable even though we requested "Arial-Bold").
 """
 import textwrap
 from pathlib import Path
@@ -17,31 +15,28 @@ from moviepy.editor import (
 
 import config
 
-# Uncomment and edit on Windows if MoviePy can't auto-find ImageMagick:
-# from moviepy.config import change_settings
-# change_settings({"IMAGEMAGICK_BINARY": r"C:\Program Files\ImageMagick-7.1.1-Q16\magick.exe"})
-
 VIDEO_W, VIDEO_H = 1920, 1080
 FPS = 24
+FONT = "DejaVu-Sans-Bold"
 
 
 def _ken_burns_clip(img_path: Path, duration: float, zoom_ratio: float = 0.06):
-    """Slow zoom-in on a still image so it doesn't look like a static slideshow."""
     clip = ImageClip(str(img_path)).set_duration(duration)
-    clip = clip.resize(height=VIDEO_H + 100)  # oversize slightly so zoom has room
+    clip = clip.resize(height=VIDEO_H + 100)
     clip = clip.fx(vfx.resize, lambda t: 1 + zoom_ratio * (t / duration))
     clip = clip.set_position("center")
     return clip
 
 
 def _wrapped_caption(text: str, duration: float, start: float):
-    wrapped = "\n".join(textwrap.wrap(text, width=42))
+    wrapped = "\n".join(textwrap.wrap(text, width=36))
     txt = TextClip(
-        wrapped, fontsize=34, color="white", font="Arial-Bold",
-        stroke_color="black", stroke_width=1.5,
-        method="caption", size=(VIDEO_W - 200, None), align="center",
+        wrapped, fontsize=46, color="white", font=FONT,
+        stroke_color="black", stroke_width=3,
+        method="caption", size=(VIDEO_W - 160, None), align="center",
+        bg_color="rgba(0,0,0,0.6)",
     )
-    txt = txt.set_position(("center", VIDEO_H - 220)).set_start(start).set_duration(duration)
+    txt = txt.set_position(("center", VIDEO_H - 280)).set_start(start).set_duration(duration)
     return txt
 
 
@@ -57,15 +52,14 @@ def build_video(images: list[Path], audio_path: Path, script_text: str,
     bg_clips = [_ken_burns_clip(p, per_image) for p in images]
     background = concatenate_videoclips(bg_clips, method="compose").set_audio(audio)
 
-    # Headline card for first 5 seconds
     headline_txt = TextClip(
-        headline, fontsize=54, color="white", font="Arial-Bold",
-        stroke_color="black", stroke_width=2,
-        method="caption", size=(VIDEO_W - 300, None), align="center",
+        headline, fontsize=60, color="white", font=FONT,
+        stroke_color="black", stroke_width=4,
+        method="caption", size=(VIDEO_W - 260, None), align="center",
+        bg_color="rgba(0,0,0,0.55)",
     )
     headline_txt = headline_txt.set_position("center").set_start(0).set_duration(min(5, duration))
 
-    # Break the script into ~3 caption chunks spread across the runtime
     sentences = [s.strip() for s in script_text.replace("\n", " ").split(". ") if s.strip()]
     chunks = []
     chunk_size = max(1, len(sentences) // 4)
@@ -78,11 +72,11 @@ def build_video(images: list[Path], audio_path: Path, script_text: str,
         for i, chunk in enumerate(chunks):
             caption_clips.append(_wrapped_caption(chunk, seg, start=i * seg))
 
-    # "NIGERIA NEWS TODAY" title card overlay, top-left, persistent watermark-style
     brand = TextClip(
-        "NIGERIA NEWS TODAY", fontsize=28, color="white", font="Arial-Bold",
-        stroke_color="black", stroke_width=1,
-    ).set_position((40, 40)).set_duration(duration)
+        "NIGERIA NEWS TODAY", fontsize=32, color="white", font=FONT,
+        stroke_color="black", stroke_width=2,
+        bg_color="rgba(0,0,0,0.4)",
+    ).set_position((30, 30)).set_duration(duration)
 
     final = CompositeVideoClip(
         [background, headline_txt, brand, *caption_clips], size=(VIDEO_W, VIDEO_H)
@@ -98,4 +92,3 @@ def build_video(images: list[Path], audio_path: Path, script_text: str,
 
 if __name__ == "__main__":
     print("Run this via main.py — it needs images + an audio file + a script to work with.")
-                   
