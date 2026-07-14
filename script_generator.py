@@ -27,7 +27,7 @@ def _generate_gemini(headline: dict, timeout: int) -> str:
     payload = {
         "system_instruction": {"parts": [{"text": config.SYSTEM_PROMPT}]},
         "contents": [{"parts": [{"text": _build_user_prompt(headline)}]}],
-        "generationConfig": {"temperature": 0.4, "maxOutputTokens": 300},
+        "generationConfig": {"temperature": 0.4, "maxOutputTokens": 600},
     }
     resp = requests.post(
         f"{config.GEMINI_URL}?key={config.GEMINI_API_KEY}",
@@ -54,7 +54,7 @@ def _generate_groq(headline: dict, timeout: int) -> str:
             {"role": "user", "content": _build_user_prompt(headline)},
         ],
         "temperature": 0.4,
-        "max_tokens": 300,
+        "max_tokens": 600,
     }
     headers = {
         "Authorization": f"Bearer {config.GROQ_API_KEY}",
