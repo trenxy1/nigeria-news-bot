@@ -2,7 +2,7 @@ feedparser
 requests
 edge-tts
 moviepy==1.0.3
-Pillow
+Pillow<10
 numpy
 google-auth-oauthlib
 google-api-python-client
