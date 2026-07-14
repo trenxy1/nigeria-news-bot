@@ -62,7 +62,7 @@ def build_video(images: list[Path], audio_path: Path, script_text: str,
 
     sentences = [s.strip() for s in script_text.replace("\n", " ").split(". ") if s.strip()]
     chunks = []
-    chunk_size = max(1, len(sentences) // 4)
+    chunk_size = max(1, len(sentences) // 7)
     for i in range(0, len(sentences), chunk_size):
         chunks.append(". ".join(sentences[i:i + chunk_size]))
 
