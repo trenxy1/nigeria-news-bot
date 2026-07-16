@@ -85,7 +85,7 @@
     "published": "Tue, 14 Jul 2026 18:55:23 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T18:40:56.552973+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "c862edbdfba570ef",
@@ -1438,6 +1438,193 @@
     "published": "Wed, 15 Jul 2026 20:12:49 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T21:03:40.465985+00:00",
+    "used": false
+  },
+  {
+    "id": "fa268c884cfb2bb6",
+    "source": "Punch Nigeria",
+    "title": "CDS seeks stronger alliances to tackle insecurity",
+    "link": "https://punchng.com/cds-seeks-stronger-alliances-to-tackle-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Chief of Defence Staff calls for stronger alliances, trust, and consensus among stakeholders to effectively tackle insecurity in Nigeria.\n\nRead More: https://punchng.com/cds-seeks-stronger-alliances-to-tackle-insecurity/",
+    "published": "Thu, 16 Jul 2026 01:15:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:23.426829+00:00",
+    "used": false
+  },
+  {
+    "id": "3cf8cdfa1e278724",
+    "source": "Punch Nigeria",
+    "title": "Agents seek Maritime Fund support for fleet renewal",
+    "link": "https://punchng.com/agents-seek-maritime-fund-support-for-fleet-renewal/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Licensed customs agents urge President Tinubu to use the Maritime Fund for revolving loans, helping indigenous transporters renew their fleets and replace\n\nRead More: https://punchng.com/agents-seek-maritime-fund-support-for-fleet-renewal/",
+    "published": "Thu, 16 Jul 2026 01:14:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:23.426835+00:00",
+    "used": false
+  },
+  {
+    "id": "cbe8822238680b4a",
+    "source": "Punch Nigeria",
+    "title": "SEREC decries delay in NPERA Bill assent",
+    "link": "https://punchng.com/serec-decries-delay-in-npera-bill-assent/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "SEREC expresses deep concern over the delay in presidential assent to the NPERA Bill, warning of critical implications for Nigeria&#8217;s maritime competitivene\n\nRead More: https://punchng.com/serec-decries-delay-in-npera-bill-assent/",
+    "published": "Thu, 16 Jul 2026 01:13:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:23.426841+00:00",
+    "used": false
+  },
+  {
+    "id": "8e2b41b43a7686b5",
+    "source": "Punch Nigeria",
+    "title": "Ex-LP gov aspirant calls for better military welfare",
+    "link": "https://punchng.com/ex-lp-gov-aspirant-calls-for-better-military-welfare/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A former Labour Party aspirant advocates for comprehensive military welfare beyond salary increases, urging better healthcare, housing, and family support\n\nRead More: https://punchng.com/ex-lp-gov-aspirant-calls-for-better-military-welfare/",
+    "published": "Thu, 16 Jul 2026 00:55:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:23.426903+00:00",
+    "used": false
+  },
+  {
+    "id": "0c40baa40b32adc0",
+    "source": "Punch Nigeria",
+    "title": "Pipeline surveillance gains lift crude output",
+    "link": "https://punchng.com/pipeline-surveillance-gains-lift-crude-output/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Improved pipeline surveillance in Nigeria has boosted crude oil production, curbed theft, and strengthened national revenue. Learn how enhanced security pr\n\nRead More: https://punchng.com/pipeline-surveillance-gains-lift-crude-output/",
+    "published": "Thu, 16 Jul 2026 00:54:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:23.426909+00:00",
+    "used": false
+  },
+  {
+    "id": "c56408615ec1e76c",
+    "source": "Punch Nigeria",
+    "title": "Inflation still high despite latest decline, OPS warns",
+    "link": "https://punchng.com/inflation-still-high-despite-latest-decline-ops-warns/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Despite a marginal decline to 15.91% in June 2026, Nigeria&#8217;s inflation remains high, warns the Organised Private Sector. Food prices continue to rise.\n\nRead More: https://punchng.com/inflation-still-high-despite-latest-decline-ops-warns/",
+    "published": "Thu, 16 Jul 2026 00:49:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:23.426943+00:00",
+    "used": false
+  },
+  {
+    "id": "3cb1d179cb469798",
+    "source": "Punch Nigeria",
+    "title": "PIA permits Dangote’s dollar fuel sales – Regulator",
+    "link": "https://punchng.com/pia-permits-dangotes-dollar-fuel-sales-regulator/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria&#8217;s petroleum regulator confirms Dangote Refinery can sell fuel in dollars, citing PIA provisions for cost recovery. Learn how this impacts marketers\n\nRead More: https://punchng.com/pia-permits-dangotes-dollar-fuel-sales-regulator/",
+    "published": "Thu, 16 Jul 2026 00:47:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:23.426952+00:00",
+    "used": false
+  },
+  {
+    "id": "28372fdcdd920d3d",
+    "source": "Premium Times",
+    "title": "Ex-Speaker Etteh, Abbas’ wife, others press lawmakers to pass women’s representation bill",
+    "link": "https://www.premiumtimesng.com/news/more-news/895769-ex-speaker-etteh-abbas-wife-others-press-lawmakers-to-pass-womens-representation-bill.html",
+    "summary": "<img alt=\"Ex-Speaker Etteh, Abbas&#039; wife, others press lawmakers to pass women’s representation bill\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1059\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/4c2848f5-27d8-4c71-8c5b-90f5cdb318c0.jpeg?fit=1600%2C1059&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1600\" /><p>The Constitution Alteration Bill proposes the creation of additional seats exclusively for women in the National Asse",
+    "published": "Wed, 15 Jul 2026 23:05:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:24.815138+00:00",
+    "used": false
+  },
+  {
+    "id": "4923daed0ba4e01b",
+    "source": "Premium Times",
+    "title": "Senate urges immediate security deployment over fresh killings in Benue communities",
+    "link": "https://www.premiumtimesng.com/regional/north-central/895767-senate-urges-immediate-security-deployment-over-fresh-killings-in-benue-communities.html",
+    "summary": "<img alt=\"The Senate Plenary (Lawmakers)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"854\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/628230720_1486187942863062_5004199704705495161_n.jpg?fit=1280%2C854&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>The Senate observed a minute of silence in honour of the victims of the attacks on Akpachi-Ugboju and Otukpo-Nobi, as well as those who lost their lives in the fresh assaul",
+    "published": "Wed, 15 Jul 2026 23:00:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:24.815157+00:00",
+    "used": false
+  },
+  {
+    "id": "f82bf9e64894ee6d",
+    "source": "Premium Times",
+    "title": "Police launch campaign against jungle justice",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/895762-police-launch-campaign-against-jungle-justice.html",
+    "summary": "<img alt=\"Eitokpa Sunday, Police Spokesperson in Cross River State\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Eitokpa-Sunday-Police-Spokesperson-in-Cross-River-State-e1784155565263.jpg?fit=853%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"853\" /><p>The Cross River Police Command has launched a public campaign against jungle justice, urging residents to hand suspects to law",
+    "published": "Wed, 15 Jul 2026 22:46:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:24.815183+00:00",
+    "used": false
+  },
+  {
+    "id": "4caab7e7c815b213",
+    "source": "Premium Times",
+    "title": "‘Rape survivor’ narrates ordeal in emotional video before committing suicide",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/895759-rape-survivor-narrates-ordeal-in-emotional-video-before-committing-suicide.html",
+    "summary": "<img alt=\"The suspect, Ifeanyi Ogbonna also known as Odogwu Asaba\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"941\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/The-suspect-Ifeanyi-Ogbonna-also-known-as-Odogwu-Asaba-and-Favour-the-deceased.png?fit=1672%2C941&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1672\" /><p>A teary 20-year-old woman's final video accusing a popular Asaba content creator of rape before taking her own life h",
+    "published": "Wed, 15 Jul 2026 22:40:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:24.815200+00:00",
+    "used": false
+  },
+  {
+    "id": "8ef5b31e947615f7",
+    "source": "Premium Times",
+    "title": "Senate Chamber Renovation: Akpabio threatens contractor after faulty microphones embarrassed him, Speaker Abbas",
+    "link": "https://www.premiumtimesng.com/news/more-news/895738-senate-chamber-renovation-akpabio-threatens-contractor-after-faulty-microphones-embarrassed-him-speaker-abbas.html",
+    "summary": "<img alt=\"The Senate President, Godswill Akpabio [PHOTO CREDIT: Godswill Obot Akpabio]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"393\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/06/Capture-3.jpg?fit=728%2C393&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"728\" /><p>The renovation lasted for about two years and was awarded to Visible Construction Limited for the sum of N42 billion.</p>\n<p>The post <a href=\"https://www.premiumtimes",
+    "published": "Wed, 15 Jul 2026 21:14:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:24.815349+00:00",
+    "used": false
+  },
+  {
+    "id": "e312b0ed7fe60226",
+    "source": "Premium Times",
+    "title": "One killed, seven injured as bandit attack triggers reprisal in Katsina",
+    "link": "https://www.premiumtimesng.com/news/headlines/895736-one-killed-seven-injured-as-bandit-attack-triggers-reprisal-in-katsina.html",
+    "summary": "<img alt=\"Governor Dikko Umaru Radda addressing stakeholders from Bakori LGA\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1714\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/01/6eaf31d8-2f9e-4ebc-8df9-82b2326dd87e.jpeg?fit=2560%2C1714&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>A suspected bandit attack that residents said claimed the life of a prominent community member triggered reprisal attacks across three communitie",
+    "published": "Wed, 15 Jul 2026 21:07:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:24.815363+00:00",
+    "used": false
+  },
+  {
+    "id": "9f3ad7ed6ead9e7e",
+    "source": "Channels TV",
+    "title": "APC Begins Grassroots Push In Kano, Targets Tinubu’s Re-Election",
+    "link": "https://www.channelstv.com/2026/07/15/apc-begins-grassroots-push-in-kano-targets-tinubus-re-election/",
+    "summary": "<p>The mobilisation drive comes as political activities begin to gather pace ahead of the next general elections, with parties intensifying efforts to secure voter support at the grassroots.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/15/apc-begins-grassroots-push-in-kano-targets-tinubus-re-election/\">APC Begins Grassroots Push In Kano, Targets Tinubu’s Re-Election</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Wed, 15 Jul 2026 18:50:14 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:26.186595+00:00",
+    "used": false
+  },
+  {
+    "id": "c9612688f4a508e0",
+    "source": "Leadership Newspaper",
+    "title": "Our Economy Is On Steady Growth, Tinubu Tells Deloitte Africa",
+    "link": "https://leadership.ng/our-economy-is-on-steady-growth-tinubu-tells-deloitte-africa/",
+    "summary": "President Bola Ahmed Tinubu, on Wednesday in Abuja, received commendations from Deloitte Africa for the ongoing financial and fiscal reforms in the country and was encouraged to pursue a stronger partnership that supports investments, youth training, and employment. The President, who received a delegation from Deloitte Africa, led by the Chief Executive Officer (CEO), Ruwayda [&#8230;]",
+    "published": "Wed, 15 Jul 2026 22:49:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:29.240597+00:00",
+    "used": false
+  },
+  {
+    "id": "78cf4fce7b44b985",
+    "source": "Leadership Newspaper",
+    "title": "Xenophobia: FG Evacuates 1,409 Nigerians In From South Africa",
+    "link": "https://leadership.ng/xenophobia-fg-evacuates-1409-nigerians-in-from-south-africa/",
+    "summary": "The federal government has so far evacuated 1,409 Nigerians successfully in the fifth phase of the voluntary evacuation of it nationals affected by xenophobic attacks and related security concerns in the Republic of South Africa. This was disclosed in a statement issued on Wednesday n by the Spokesman of the Ministry of Foreign Affairs, Kimiebi [&#8230;]",
+    "published": "Wed, 15 Jul 2026 22:48:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:29.240604+00:00",
+    "used": false
+  },
+  {
+    "id": "e6c0a18a788d3d01",
+    "source": "Leadership Newspaper",
+    "title": "Judges’ Welfare Essential For Judicial Independence — FCT Chief Judge",
+    "link": "https://leadership.ng/judges-welfare-essential-for-judicial-independence-fct-chief-judge/",
+    "summary": "The Chief Judge of the Federal Capital Territory (FCT) High Court, Justice Husseini Baba-Yusuf, has said that improving the welfare of judicial officers is critical to safeguarding judicial independence, insisting that adequate living and working conditions are fundamental to the effective administration of justice. Justice Baba-Yusuf made the assertion on Wednesday during the presidential commissioning [&#8230;]",
+    "published": "Wed, 15 Jul 2026 22:37:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T00:27:29.240636+00:00",
     "used": false
   },
   {
@@ -2893,6 +3080,281 @@
     "used": false
   },
   {
+    "id": "e0bed36660e31156",
+    "source": "Punch Nigeria",
+    "title": "Ajiran double murder:  Setting the record straight",
+    "link": "https://punchng.com/ajiran-double-murder-setting-the-record-straight/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "New evidence clarifies the Ajiran double murder investigation, contradicting corruption claims against AIG Moshood Jimoh and reinforcing the judicial proce\n\nRead More: https://punchng.com/ajiran-double-murder-setting-the-record-straight/",
+    "published": "Thu, 16 Jul 2026 01:23:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:23.426786+00:00",
+    "used": false
+  },
+  {
+    "id": "6781d491005cf646",
+    "source": "Punch Nigeria",
+    "title": "Nigeria’s credit rating upgrade: The road to ‘A’ remains long",
+    "link": "https://punchng.com/nigerias-credit-rating-upgrade-the-road-to-a-remains-long/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria&#8217;s credit rating upgraded from B- to B by S&#038;P, reflecting economic reforms. Discover the impact on investors and the long road ahead for Nigeria cre\n\nRead More: https://punchng.com/nigerias-credit-rating-upgrade-the-road-to-a-remains-long/",
+    "published": "Thu, 16 Jul 2026 01:19:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:23.426820+00:00",
+    "used": false
+  },
+  {
+    "id": "0e76d9ec4930193f",
+    "source": "Punch Nigeria",
+    "title": "Blackouts: Group urges urgent national grid overhaul",
+    "link": "https://punchng.com/blackouts-group-urges-urgent-national-grid-overhaul/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "PowerUp Nigeria calls for an urgent national grid overhaul to combat persistent blackouts crippling the economy and forcing manufacturers off the grid. Lea\n\nRead More: https://punchng.com/blackouts-group-urges-urgent-national-grid-overhaul/",
+    "published": "Thu, 16 Jul 2026 01:10:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:23.426850+00:00",
+    "used": false
+  },
+  {
+    "id": "1ce4e7cf67f1a9ed",
+    "source": "Punch Nigeria",
+    "title": "Customs bust syndicate smuggling petrol to neighbouring countries",
+    "link": "https://punchng.com/customs-bust-syndicate-smuggling-petrol-to-neighbouring-countries/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria Customs Service&#8217;s Operation Whirlwind has busted a syndicate smuggling petrol to neighbouring countries, seizing 20,500 litres of PMS worth N38m.\n\nRead More: https://punchng.com/customs-bust-syndicate-smuggling-petrol-to-neighbouring-countries/",
+    "published": "Thu, 16 Jul 2026 00:59:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:23.426862+00:00",
+    "used": false
+  },
+  {
+    "id": "75bd5ec870b6449c",
+    "source": "Punch Nigeria",
+    "title": "NDC candidate seeks balanced representation",
+    "link": "https://punchng.com/ndc-candidate-seeks-balanced-representation/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An NDC candidate for Esan West Constituency, Rev Olu Martins, urges Senator Seriake Dickson to ensure equity and fairness in Edo politics for 2027 polls.\n\nRead More: https://punchng.com/ndc-candidate-seeks-balanced-representation/",
+    "published": "Thu, 16 Jul 2026 00:57:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:23.426878+00:00",
+    "used": false
+  },
+  {
+    "id": "1a91027b4a84721e",
+    "source": "Punch Nigeria",
+    "title": "Eno’s aide hails Oron jetty investment in A’Íbom",
+    "link": "https://punchng.com/enos-aide-hails-oron-jetty-investment-in-aibom/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Akwa Ibom&#8217;s Oron jetty redevelopment and new luxury ferries will stimulate tourism and unlock investment opportunities, enhancing connectivity and economic\n\nRead More: https://punchng.com/enos-aide-hails-oron-jetty-investment-in-aibom/",
+    "published": "Thu, 16 Jul 2026 00:57:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:23.426895+00:00",
+    "used": false
+  },
+  {
+    "id": "e6e33a637a5c083b",
+    "source": "Punch Nigeria",
+    "title": "Kano’s health insurance: A practical lesson for other states",
+    "link": "https://punchng.com/kanos-health-insurance-a-practical-lesson-for-other-states/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kano State&#8217;s health insurance scheme offers a practical lesson for other Nigerian states aiming for universal health coverage. Discover how Kano achieved o\n\nRead More: https://punchng.com/kanos-health-insurance-a-practical-lesson-for-other-states/",
+    "published": "Thu, 16 Jul 2026 00:53:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:23.426923+00:00",
+    "used": false
+  },
+  {
+    "id": "acbbba1b7143df69",
+    "source": "Punch Nigeria",
+    "title": "Plan to relocate Ibaka Deep Seaport from its natural harbour",
+    "link": "https://punchng.com/plan-to-relocate-ibaka-deep-seaport-from-its-natural-harbour/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Explore the controversial plan to relocate the Ibaka Deep Seaport from its naturally deep harbour in Akwa Ibom, raising concerns among stakeholders. Learn\n\nRead More: https://punchng.com/plan-to-relocate-ibaka-deep-seaport-from-its-natural-harbour/",
+    "published": "Thu, 16 Jul 2026 00:50:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:23.426935+00:00",
+    "used": false
+  },
+  {
+    "id": "e724fd2c3b26eacb",
+    "source": "Premium Times",
+    "title": "CAC begins sixth batch of company strike-off, targets 100,000 companies",
+    "link": "https://www.premiumtimesng.com/business/business-news/895765-cac-begins-sixth-batch-of-company-strike-off-targets-100000-companies.html",
+    "summary": "<img alt=\"Corporate Affairs Commission (CAC) Head Office [PHOTO CREDIT: @cacnigeria1]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"500\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2020/11/1500x500-3.jpg?fit=1500%2C500&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1500\" /><p>CAC said the exercise forms part of its regulatory mandate to maintain an accurate and up-to-date register of companies operating in Nigeria.</p>\n<p>The post <a href",
+    "published": "Wed, 15 Jul 2026 22:54:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:24.815174+00:00",
+    "used": false
+  },
+  {
+    "id": "5c628396013d0c46",
+    "source": "Premium Times",
+    "title": "Makoko waterfront reclamation in Lagos approved by FG, state govt – Official",
+    "link": "https://www.premiumtimesng.com/news/top-news/895757-makoko-waterfront-reclamation-in-lagos-approved-by-fg-state-govt-official.html",
+    "summary": "<img alt=\"Makoko\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/WhatsApp-Image-2026-02-09-at-17.06.57.jpeg?fit=1280%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>The official maintained that the reclamation project near the Third Mainland Bridge underwent environmental assessments, secured all required federal and state approvals, and was cleared by the relevant reg",
+    "published": "Wed, 15 Jul 2026 22:29:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:24.815229+00:00",
+    "used": false
+  },
+  {
+    "id": "c0127c3c90f89d99",
+    "source": "Premium Times",
+    "title": "Court dissolves APC’s chapters in UK, foreign countries, orders disclosure of donations from abroad",
+    "link": "https://www.premiumtimesng.com/news/top-news/895755-court-dissolves-apcs-chapters-in-uk-foreign-countries-orders-disclosure-of-donations-from-abroad.html",
+    "summary": "<img alt=\"APC Secretariat\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/06/APC-Secretariat.jpg?fit=1200%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>The court added that the APC or any political party must notify INEC and account for all donations received from outside Nigeria within 21 days, in compliance with the Nigerian constitution.</p>\n<p>The post <a href=\"http",
+    "published": "Wed, 15 Jul 2026 22:21:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:24.815251+00:00",
+    "used": false
+  },
+  {
+    "id": "25b85b60fc7b6da7",
+    "source": "Premium Times",
+    "title": "Airtel Africa secures legal authorisation over planned boost of future shareholder returns",
+    "link": "https://www.premiumtimesng.com/business/business-news/895751-airtel-africa-secures-legal-authorisation-over-planned-boost-of-future-shareholder-returns.html",
+    "summary": "<img alt=\"Airtel Africa\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"432\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/07/1657294360382blob.png?fit=780%2C432&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"780\" /><p>The capital reduction entails cancelling Airtel Africa’s capital redemption reserve to boost distributable reserves, which are vital to the corporation’s prospects of delivering future rewards to shareholders.</p>\n<p>The p",
+    "published": "Wed, 15 Jul 2026 22:17:15 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:24.815271+00:00",
+    "used": false
+  },
+  {
+    "id": "dea0e357c363364a",
+    "source": "Premium Times",
+    "title": "World Cup: Messi inspires Argentina’s late fightback to sink England, book final spot",
+    "link": "https://www.premiumtimesng.com/news/top-news/895747-world-cup-messi-inspires-argentinas-late-fightback-to-sink-england-book-final-spot.html",
+    "summary": "<img alt=\"Lionel Messi celebrating Argentina&#039;s victory over England\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"455\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/808x539_cmsv2_327c0059-fa04-58a1-aad1-5ea534e289ad-9816219-e1784152925502.jpg?fit=808%2C455&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"808\" /><p>Argentina will now aim to become the first nation since Brazil in 1958 and 1962 to successfully defend the FIFA World",
+    "published": "Wed, 15 Jul 2026 22:02:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:24.815300+00:00",
+    "used": false
+  },
+  {
+    "id": "9547b5babb6efe43",
+    "source": "Premium Times",
+    "title": "Family lauds Edo govt for rescuing mentally ill woman",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/895740-family-lauds-edo-govt-for-rescuing-mentally-ill-woman.html",
+    "summary": "<img alt=\"Family lauds Edo govt for rescuing mentally ill woman\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"691\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/20260714_144309-1536x691-1.webp?fit=1536%2C691&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>NAN reports that the Edo State Government rescued Evbu Eguasa on 13 July after receiving information about her condition and subsequently commenced her rehabilitation pro",
+    "published": "Wed, 15 Jul 2026 21:25:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:24.815343+00:00",
+    "used": false
+  },
+  {
+    "id": "8644d3c86a1b1e31",
+    "source": "Channels TV",
+    "title": "Radda Approves ₦500 Million Compensation For Federal Housing Project Victims",
+    "link": "https://www.channelstv.com/2026/07/15/radda-approves-%e2%82%a6500-million-compensation-for-federal-housing-project-victims/",
+    "summary": "<p>He explained that the decision reflects the administration's commitment to fairness, due process, and responsible implementation of development projects.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/15/radda-approves-%e2%82%a6500-million-compensation-for-federal-housing-project-victims/\">Radda Approves ₦500 Million Compensation For Federal Housing Project Victims</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Wed, 15 Jul 2026 21:49:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:26.186501+00:00",
+    "used": false
+  },
+  {
+    "id": "6b781f51d788d457",
+    "source": "Channels TV",
+    "title": "Yobe Govt Raises Alarm Over Diversion Of Ready-To-Use-Therapeutic Food",
+    "link": "https://www.channelstv.com/2026/07/15/yobe-govt-raises-alarm-over-diversion-of-ready-to-use-therapeutic-food/",
+    "summary": "<p>The state asked for a stop to the attitude. </p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/15/yobe-govt-raises-alarm-over-diversion-of-ready-to-use-therapeutic-food/\">Yobe Govt Raises Alarm Over Diversion Of Ready-To-Use-Therapeutic Food</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Wed, 15 Jul 2026 21:34:30 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:26.186525+00:00",
+    "used": false
+  },
+  {
+    "id": "41a1ddcea8e09a7e",
+    "source": "Channels TV",
+    "title": "Fintiri Swears In 21 New Council Chairmen, Charges Them To Deliver At Grassroots",
+    "link": "https://www.channelstv.com/2026/07/15/fintiri-swears-in-21-new-council-chairmen-charges-them-to-deliver-at-grassroots/",
+    "summary": "<p>The event attracted top government officials, lawmakers, party leaders, traditional rulers, and supporters from across the state amidst a mammoth crowd.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/15/fintiri-swears-in-21-new-council-chairmen-charges-them-to-deliver-at-grassroots/\">Fintiri Swears In 21 New Council Chairmen, Charges Them To Deliver At Grassroots</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Wed, 15 Jul 2026 19:59:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:26.186565+00:00",
+    "used": false
+  },
+  {
+    "id": "84dbdfa3f25d8fbe",
+    "source": "Channels TV",
+    "title": "FULL TIME: Argentina Beat England, Set Up Spain World Cup Final",
+    "link": "https://www.channelstv.com/2026/07/15/live-updates-england-vs-argentina-2026-world-cup-semi-final/",
+    "summary": "<p>Argentina will play Spain in the final on Sunday.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/15/live-updates-england-vs-argentina-2026-world-cup-semi-final/\">FULL TIME: Argentina Beat England, Set Up Spain World Cup Final</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Wed, 15 Jul 2026 18:49:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:26.186607+00:00",
+    "used": false
+  },
+  {
+    "id": "7d607c29d7c96c69",
+    "source": "Leadership Newspaper",
+    "title": "NACCIMA, Chinese Partners Sign MoU To Drive FDI, Boost Nigeria-China Trade",
+    "link": "https://leadership.ng/naccima-chinese-partners-sign-mou-to-drive-fdi-boost-nigeria-china-trade/",
+    "summary": "The Nigeria Association of Chambers of Commerce, Industry, Mines and Agriculture (NACCIMA) has signed a tripartite Memorandum of Understanding (MoU) with China&#8217;s Linyi Wholesalers Federation and TTC Hydra Limited to deepen bilateral trade and facilitate fresh Chinese investments into Nigeria. The agreement, signed on Tuesday at the NACCIMA Infrastructure Conference (INFRACON 2026) in Abuja, establishes [&#8230;]",
+    "published": "Wed, 15 Jul 2026 23:21:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:29.240525+00:00",
+    "used": false
+  },
+  {
+    "id": "d0a6773e1ea5ebab",
+    "source": "Leadership Newspaper",
+    "title": "NITDA, FUET Deepen Collaboration On Digital Infrastructure, Skills Development",
+    "link": "https://leadership.ng/nitda-fuet-deepen-collaboration-on-digital-infrastructure-skills-development/",
+    "summary": "The National Information Technology Development Agency (NITDA) has reaffirmed its commitment to strengthening Nigeria’s higher education sector through strategic investments in digital infrastructure, innovation and digital skills development. This is part of the moves to establish a collaborative partnership with the Federal University of Environment and Technology (FUET), Ogoni, Rivers State, a statement issued on [&#8230;]",
+    "published": "Wed, 15 Jul 2026 23:13:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:29.240557+00:00",
+    "used": false
+  },
+  {
+    "id": "88d68fccec61f2df",
+    "source": "Leadership Newspaper",
+    "title": "NDDC Launches $500m Investment Fund To Drive Niger Delta Agricultural Transformation",
+    "link": "https://leadership.ng/nddc-launches-500m-investment-fund-to-drive-niger-delta-agricultural-transformation/",
+    "summary": "The Niger Delta Development Commission (NDDC) has unveiled plans to establish a $500 million Niger Delta Agricultural Development Investment Fund to attract large-scale investments, create jobs and reposition the Niger Delta as a leading agricultural hub. The announcement was made on Wednesday by the Managing Director and Chief Executive Officer of the NDDC, Chief Samuel [&#8230;]",
+    "published": "Wed, 15 Jul 2026 22:55:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:29.240574+00:00",
+    "used": false
+  },
+  {
+    "id": "a6c689d3423b43a4",
+    "source": "Leadership Newspaper",
+    "title": "Nigerians Losing Fortunes To Gym Mistakes",
+    "link": "https://leadership.ng/nigerians-losing-fortunes-to-gym-mistakes/",
+    "summary": "Many Nigerians investing in home gyms are losing money to avoidable mistakes,  fitness expert Sir Goodluck Obi, Chairman of Gategold Fitness Company, has warned. Obi outlined three common errors he sees families make when setting up home fitness spaces. “First, people buy fake or substandard equipment online because it is cheap. These machines often break [&#8230;]",
+    "published": "Wed, 15 Jul 2026 22:53:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:29.240592+00:00",
+    "used": false
+  },
+  {
+    "id": "11f347d73e74c44c",
+    "source": "Leadership Newspaper",
+    "title": "Former CCT Chairman Gets N100m Bail",
+    "link": "https://leadership.ng/former-cct-chairman-gets-n100m-bail/",
+    "summary": "Former Chairman of the Code of Conduct Tribunal (CCT), Mr Danladi Umar, has been granted bail by Justice Peter Kekemeke of the Federal Capital Territory High Court sitting in Maitama, Abuja. He was granted bail in the sum of N100million The court, in a brief ruling, ordered that the defendant must provide one surety in [&#8230;]",
+    "published": "Wed, 15 Jul 2026 22:41:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:29.240613+00:00",
+    "used": false
+  },
+  {
+    "id": "7ab849ef8ca54ab1",
+    "source": "Leadership Newspaper",
+    "title": "Dangote Refinery Symbol Of Africa’s Industrial Rise – LBS",
+    "link": "https://leadership.ng/dangote-refinery-symbol-of-africas-industrial-rise-lbs/",
+    "summary": "The Dangote Refinery has been described as a project that marks Africa’s emergence as a major player in global industry, with the potential to reshape Nigeria’s economy and drive continental trade under the African Continental Free Trade Area (AfCFTA). The academic director, Global Chief Executive Officer Africa (GCEO-Africa) Programme, Lagos Business School, Pan-Atlantic University stated [&#8230;]",
+    "published": "Wed, 15 Jul 2026 22:40:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:29.240628+00:00",
+    "used": false
+  },
+  {
+    "id": "8dce854f4008d03c",
+    "source": "Leadership Newspaper",
+    "title": "BBNaija Season 11 To Premiere July 26, Winner To Receive N160m Prize",
+    "link": "https://leadership.ng/bbnaija-season-11-to-premiere-july-26-winner-to-receive-n160m-prize/",
+    "summary": "MultiChoice Nigeria has announced that the 11th edition of the Big Brother Naija (BBNaija) reality television show will premiere on Sunday, July 26, with the winner set to receive a record-breaking grand prize of N160 million. The announcement was made during a press briefing on Wednesday, where the organisers revealed that this year’s prize is [&#8230;]",
+    "published": "Wed, 15 Jul 2026 22:30:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T00:27:29.240652+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -3088,6 +3550,17 @@
     "published": "Wed, 15 Jul 2026 20:31:01 +0000",
     "priority": "low",
     "fetched_at": "2026-07-15T21:03:40.465955+00:00",
+    "used": false
+  },
+  {
+    "id": "b5c7f060a9222606",
+    "source": "Premium Times",
+    "title": "Super Falcons defender Shukurat Oladipo signs new AS Roma deal",
+    "link": "https://www.premiumtimesng.com/sports/football/895743-super-falcons-defender-shukurat-oladipo-signs-new-as-roma-deal.html",
+    "summary": "<img alt=\"Shukurat Oladipo (Credit: As Roma Media)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"506\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003620976.webp?fit=900%2C506&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"900\" /><p>The Giallorossi confirmed the agreement in an official statement, rewarding the Nigerian centre-back for an impressive debut spell in the Italian capital</p>\n<p>The post <a href=\"https://www.premiumtim",
+    "published": "Wed, 15 Jul 2026 21:37:38 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-16T00:27:24.815319+00:00",
     "used": false
   }
 ]
