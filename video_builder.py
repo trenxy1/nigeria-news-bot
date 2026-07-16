@@ -88,14 +88,8 @@ def build_video(images: list[Path], audio_path: Path, script_text: str,
         for i, chunk in enumerate(chunks):
             caption_clips.append(_wrapped_caption(chunk, seg, i * seg, w, h, wrap_width))
 
-    brand = TextClip(
-        "NIGERIA NEWS TODAY", fontsize=30, color="white", font=FONT,
-        stroke_color="black", stroke_width=2,
-        bg_color="rgba(0,0,0,0.4)",
-    ).set_position((30, 60 if orientation == "vertical" else 30)).set_duration(duration)
-
     final = CompositeVideoClip(
-        [background, headline_txt, brand, *caption_clips], size=(w, h)
+        [background, headline_txt, *caption_clips], size=(w, h)
     )
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
