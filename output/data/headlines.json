@@ -107,7 +107,7 @@
     "published": "Tue, 14 Jul 2026 18:46:17 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T18:40:56.552993+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "e0530c82d15b3fc2",
@@ -1658,6 +1658,127 @@
     "published": "Thu, 16 Jul 2026 01:26:12 +0000",
     "priority": "high",
     "fetched_at": "2026-07-16T01:11:25.407843+00:00",
+    "used": false
+  },
+  {
+    "id": "7af07419996216a5",
+    "source": "Punch Nigeria",
+    "title": "Tinubu intentionally rebuilding South-East, says Soludo",
+    "link": "https://punchng.com/tinubu-intentionally-rebuilding-south-east-says-soludo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Anambra Governor Soludo praises President Tinubu&#8217;s commitment to rebuilding the South-East through critical infrastructure projects, including two major fe\n\nRead More: https://punchng.com/tinubu-intentionally-rebuilding-south-east-says-soludo/",
+    "published": "Thu, 16 Jul 2026 08:20:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:18.020242+00:00",
+    "used": false
+  },
+  {
+    "id": "a5c0c49b53729727",
+    "source": "Punch Nigeria",
+    "title": "Fear persists, Oyo teacher laments lack of security after pupils’ rescue",
+    "link": "https://punchng.com/fear-persists-oyo-teacher-laments-lack-of-security-after-pupils-rescue/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Despite rescued pupils, an Oyo teacher laments lingering fear due to lack of visible security. Learn how this impacts school attendance and staff morale.\n\nRead More: https://punchng.com/fear-persists-oyo-teacher-laments-lack-of-security-after-pupils-rescue/",
+    "published": "Thu, 16 Jul 2026 08:06:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:18.020274+00:00",
+    "used": false
+  },
+  {
+    "id": "02c7d2a5d4f954bc",
+    "source": "Punch Nigeria",
+    "title": "Customs, police strengthen partnership on strategic communication, information sharing",
+    "link": "https://punchng.com/customs-police-strengthen-partnership-on-strategic-communication-information-sharing/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria Customs Service and Nigeria Police Force reaffirm commitment to closer collaboration in strategic communication and information sharing to boost na\n\nRead More: https://punchng.com/customs-police-strengthen-partnership-on-strategic-communication-information-sharing/",
+    "published": "Thu, 16 Jul 2026 06:30:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:18.020376+00:00",
+    "used": false
+  },
+  {
+    "id": "e9cf341f8c46aa90",
+    "source": "Punch Nigeria",
+    "title": "Judge backs NIN verification for NBA elections, seeks electoral reforms",
+    "link": "https://punchng.com/judge-backs-nin-verification-for-nba-elections-seeks-electoral-reforms/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A retired judge endorses NIN verification for NBA elections, advocating for electoral reforms to enhance transparency and restore confidence in the process\n\nRead More: https://punchng.com/judge-backs-nin-verification-for-nba-elections-seeks-electoral-reforms/",
+    "published": "Thu, 16 Jul 2026 05:00:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:18.020384+00:00",
+    "used": false
+  },
+  {
+    "id": "5ad8578fa0f6f351",
+    "source": "Punch Nigeria",
+    "title": "PSC unveils 50,000 successful police constable recruits",
+    "link": "https://punchng.com/psc-unveils-50000-successful-police-constable-recruits/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Police Service Commission (PSC) has released the names of 50,000 successful police constable recruits. Check your status and prepare for training.\n\nRead More: https://punchng.com/psc-unveils-50000-successful-police-constable-recruits/",
+    "published": "Thu, 16 Jul 2026 05:00:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:18.020392+00:00",
+    "used": false
+  },
+  {
+    "id": "fb06acd85f3a18f5",
+    "source": "Punch Nigeria",
+    "title": "A’Ibom wife accuses husband of terrorising family with illegal firearm",
+    "link": "https://punchng.com/aibom-wife-accuses-husband-of-terrorising-family-with-illegal-firearm/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An Akwa Ibom wife has accused her husband of terrorising his family and community with an illegal firearm. Police recovered a single-barrel gun and cartrid\n\nRead More: https://punchng.com/aibom-wife-accuses-husband-of-terrorising-family-with-illegal-firearm/",
+    "published": "Thu, 16 Jul 2026 05:00:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:18.020421+00:00",
+    "used": false
+  },
+  {
+    "id": "a97e801a810e7f28",
+    "source": "Premium Times",
+    "title": "Niger Assembly has no website. It’s limiting residents’ access to information",
+    "link": "https://www.premiumtimesng.com/features-and-interviews/895783-niger-assembly-has-no-website-its-limiting-residents-access-to-information.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1440\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/MixCollage-16-Jul-2026-08-42-AM-1764.jpg?fit=2560%2C1440&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Twenty-seven years after Nigeria returned to democratic rule in 1999, the Niger State House of Assembly still has no official website where citizens can access bills, committee reports, voting records and other l",
+    "published": "Thu, 16 Jul 2026 07:45:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:19.127001+00:00",
+    "used": false
+  },
+  {
+    "id": "55bfdd27d597dc1f",
+    "source": "Channels TV",
+    "title": "South Korea Central Bank Raises Interest Rates To 2.75%",
+    "link": "https://www.channelstv.com/2026/07/16/south-korea-central-bank-raises-interest-rates-to-2-75/",
+    "summary": "<p>Consumer prices climbed 3.2 percent in June from a year earlier, partly due to higher energy costs and supply chain disruptions linked to conflict in the Middle East.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/south-korea-central-bank-raises-interest-rates-to-2-75/\">South Korea Central Bank Raises Interest Rates To 2.75%</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 06:27:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:22.552785+00:00",
+    "used": false
+  },
+  {
+    "id": "80e8479900fcd63e",
+    "source": "Leadership Newspaper",
+    "title": "Oil Prices Rise As Hostilities Worsen In Middle East",
+    "link": "https://leadership.ng/oil-prices-rise-as-hostilities-worsen-in-middle-east/",
+    "summary": "Oil extended gains as the U.S. said it had begun a new wave of strikes against Iranian military ‌installations on Wednesday, aiming to limit Tehran&#8217;s ability to strike commercial shipping in the Strait of Hormuz. Washington had earlier reimposed a naval blockade of Iranian ports and launched overnight strikes, prompting Iran&#8217;s Islamic Revolutionary Guard Corps [&#8230;]",
+    "published": "Thu, 16 Jul 2026 07:38:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:26.166131+00:00",
+    "used": false
+  },
+  {
+    "id": "a190ab6a64cd78af",
+    "source": "Leadership Newspaper",
+    "title": "Governor AbdulRazaq: A Leader With Peace, Unity Identities",
+    "link": "https://leadership.ng/governor-abdulrazaq-a-leader-with-peace-unity-identities/",
+    "summary": "By AbdulRahman Babatunde Agbeyangi It is worth noting that constant abide and preaching of peace and unity are necessary tools to avoid incessant conflicts that emanate from political, religious, ethnic and cultural conflicts in our communities. Nigeria has been confronted with varied degrees of political crises and violence that threatened its unity and corporate existence. [&#8230;]",
+    "published": "Thu, 16 Jul 2026 06:19:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:26.166234+00:00",
+    "used": false
+  },
+  {
+    "id": "b6d3ccf282e32f93",
+    "source": "Leadership Newspaper",
+    "title": "Gov Idris Approves N2.11bn For Gratuities, Death Benefits",
+    "link": "https://leadership.ng/gov-idris-approves-n2-11bn-for-gratuities-death-benefits/",
+    "summary": "Governor Nasir Idris of Kebbi State has approved N2.11 billion for the immediate payment of gratuities and death benefits to 772 state and contract staff, as well as retirees from the Local Government Service and Local Government Education Authorities (LGEAs). The governor&#8217;s approval was contained in a statement signed by the head of Service, Malami [&#8230;]",
+    "published": "Thu, 16 Jul 2026 06:00:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T07:51:26.166246+00:00",
     "used": false
   },
   {
@@ -3498,6 +3619,270 @@
     "used": false
   },
   {
+    "id": "043d6580ae496ae1",
+    "source": "Punch Nigeria",
+    "title": "Next UK PM urged to end Labour Party’s ‘boys club’",
+    "link": "https://punchng.com/next-uk-pm-urged-to-end-labour-partys-boys-club/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "As Andy Burnham prepares to be UK&#8217;s next PM, he faces calls to ensure women get half of top jobs in his cabinet and end the Labour Party&#8217;s &#8216;boys club&#8217;.\n\nRead More: https://punchng.com/next-uk-pm-urged-to-end-labour-partys-boys-club/",
+    "published": "Thu, 16 Jul 2026 08:46:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020214+00:00",
+    "used": false
+  },
+  {
+    "id": "58be565ce04adc57",
+    "source": "Punch Nigeria",
+    "title": "World Cup: English FA backs Tuchel despite semi-final loss",
+    "link": "https://punchng.com/world-cup-english-fa-backs-tuchel-despite-semi-final-loss/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The English FA reaffirms support for head coach Thomas Tuchel after England&#8217;s World Cup semi-final defeat, backing him through Euro 2028. Read more about T\n\nRead More: https://punchng.com/world-cup-english-fa-backs-tuchel-despite-semi-final-loss/",
+    "published": "Thu, 16 Jul 2026 08:15:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020259+00:00",
+    "used": false
+  },
+  {
+    "id": "2166addba464136c",
+    "source": "Punch Nigeria",
+    "title": "World Cup: Argentina face FIFA sanction over Falklands banner display",
+    "link": "https://punchng.com/world-cup-argentina-face-fifa-sanction-over-falklands-banner-display/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Argentina could face FIFA sanction after players displayed a Falklands banner following their World Cup semi-final win. Learn more about the political mess\n\nRead More: https://punchng.com/world-cup-argentina-face-fifa-sanction-over-falklands-banner-display/",
+    "published": "Thu, 16 Jul 2026 08:02:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020296+00:00",
+    "used": false
+  },
+  {
+    "id": "889acfa898e39768",
+    "source": "Punch Nigeria",
+    "title": "Tuchel defends tactics after England World Cup semi final loss",
+    "link": "https://punchng.com/tuchel-defends-tactics-after-england-world-cup-semi-final-loss/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "England manager Thomas Tuchel defends his tactics after the Three Lions&#8217; World Cup semi-final defeat to Argentina, despite facing scrutiny for his decision\n\nRead More: https://punchng.com/tuchel-defends-tactics-after-england-world-cup-semi-final-loss/",
+    "published": "Thu, 16 Jul 2026 08:01:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020312+00:00",
+    "used": false
+  },
+  {
+    "id": "b26a7a4b51a6305d",
+    "source": "Punch Nigeria",
+    "title": "WHO backs Nigeria’s push to curb drug misuse, expand medicine access",
+    "link": "https://punchng.com/who-backs-nigerias-push-to-curb-drug-misuse-expand-medicine-access/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The WHO supports Nigeria&#8217;s intensified efforts to curb drug misuse while ensuring access to essential medicines for pain relief and mental health.\n\nRead More: https://punchng.com/who-backs-nigerias-push-to-curb-drug-misuse-expand-medicine-access/",
+    "published": "Thu, 16 Jul 2026 07:54:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020333+00:00",
+    "used": false
+  },
+  {
+    "id": "c3e6e9ec50ec6d6f",
+    "source": "Punch Nigeria",
+    "title": "US, Iran trade fresh strikes as Hormuz conflict escalates",
+    "link": "https://punchng.com/us-iran-trade-fresh-strikes-as-hormuz-conflict-escalates/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The US and Iran exchange fresh strikes over the vital Strait of Hormuz, escalating the Middle East conflict. Learn about the latest developments in the US\n\nRead More: https://punchng.com/us-iran-trade-fresh-strikes-as-hormuz-conflict-escalates/",
+    "published": "Thu, 16 Jul 2026 07:46:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020351+00:00",
+    "used": false
+  },
+  {
+    "id": "d2c1f1693a231e48",
+    "source": "Punch Nigeria",
+    "title": "EFCC releases activists Randy Peter, Mama Pee",
+    "link": "https://punchng.com/efcc-releases-activists-randy-peter-mama-pee/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The EFCC has released activists Randy Peter and Mama Pee after hours of questioning in Abuja. They are expected to return to the commission on Thursday.\n\nRead More: https://punchng.com/efcc-releases-activists-randy-peter-mama-pee/",
+    "published": "Thu, 16 Jul 2026 07:20:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020366+00:00",
+    "used": false
+  },
+  {
+    "id": "66582403b172fb20",
+    "source": "Punch Nigeria",
+    "title": "Lagos monarch rallies residents against sexual, domestic violence",
+    "link": "https://punchng.com/lagos-monarch-rallies-residents-against-sexual-domestic-violence/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Lagos monarch urges residents to report sexual and domestic violence, assuring justice for victims. Learn how Igbogbo Kingdom is fighting domestic violen\n\nRead More: https://punchng.com/lagos-monarch-rallies-residents-against-sexual-domestic-violence/",
+    "published": "Thu, 16 Jul 2026 05:00:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020409+00:00",
+    "used": false
+  },
+  {
+    "id": "5a39d5c63aa376a2",
+    "source": "Punch Nigeria",
+    "title": "Minor offences causing prison congestion, Tunji-Ojo says",
+    "link": "https://punchng.com/minor-offences-causing-prison-congestion-tunji-ojo-says/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Minister Tunji-Ojo highlights how minor offences contribute significantly to prison congestion in Nigeria and Africa, urging a review of incarceration poli\n\nRead More: https://punchng.com/minor-offences-causing-prison-congestion-tunji-ojo-says/",
+    "published": "Thu, 16 Jul 2026 05:00:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:18.020433+00:00",
+    "used": false
+  },
+  {
+    "id": "96bcd2ab68db0b9e",
+    "source": "Channels TV",
+    "title": "UK Govt Announces British Steel Nationalisation, Economy Rebounds",
+    "link": "https://www.channelstv.com/2026/07/16/uk-govt-announces-british-steel-nationalisation-economy-rebounds/",
+    "summary": "<p>The data comes as Andy Burnham prepares to take over as prime minister on Monday.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/uk-govt-announces-british-steel-nationalisation-economy-rebounds/\">UK Govt Announces British Steel Nationalisation, Economy Rebounds</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 07:15:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:22.552721+00:00",
+    "used": false
+  },
+  {
+    "id": "69c462fb62f8a094",
+    "source": "Channels TV",
+    "title": "Asia Stocks Tumble On Tech Worries, Mideast War",
+    "link": "https://www.channelstv.com/2026/07/16/asia-stocks-tumble-on-tech-worries-mideast-war/",
+    "summary": "<p>Japan's Nikkei 225 was 3.16 per cent lower at 66,579.31 points, while the Kospi in South Korea was down 6.21 per cent at 6,831.80.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/asia-stocks-tumble-on-tech-worries-mideast-war/\">Asia Stocks Tumble On Tech Worries, Mideast War</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 07:00:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:22.552751+00:00",
+    "used": false
+  },
+  {
+    "id": "bb85d851e2cd00ec",
+    "source": "Channels TV",
+    "title": "Niger Opens Bids For Mokwa Erosion Control Project",
+    "link": "https://www.channelstv.com/2026/07/16/niger-opens-bids-for-mokwa-erosion-control-project/",
+    "summary": "<p>The State Project Coordinator of Niger ACReSAL, Raji Shehu, said the flooding, which attracted national and international attention, was caused by a combination of natural factors and human activities, particularly the obstruction and encroachment on natural waterways.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/niger-opens-bids-for-mokwa-erosion-control-project/\">Niger Opens Bids For Mokwa Erosion Control Project</a> appeared first on <a href=\"https://www.channelstv.com\">C",
+    "published": "Thu, 16 Jul 2026 06:46:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:22.552772+00:00",
+    "used": false
+  },
+  {
+    "id": "8fafad03549e4487",
+    "source": "Channels TV",
+    "title": "Brazil Condemns US-Imposed 25% Tariffs On Its Products",
+    "link": "https://www.channelstv.com/2026/07/16/brazil-condemns-us-imposed-25-tariffs-on-its-products/",
+    "summary": "<p>The United States on Wednesday announced a new tariff on various imports from Brazil, after a year-long investigation into the Latin American giant’s trade and other policies.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/brazil-condemns-us-imposed-25-tariffs-on-its-products/\">Brazil Condemns US-Imposed 25% Tariffs On Its Products</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 06:14:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:22.552811+00:00",
+    "used": false
+  },
+  {
+    "id": "13d0392d4e24ac1b",
+    "source": "Channels TV",
+    "title": "US Unveils New 25% Tariff On Certain Imports From Brazil",
+    "link": "https://www.channelstv.com/2026/07/16/us-unveils-new-25-tariff-on-certain-imports-from-brazil/",
+    "summary": "<p>The 25-per cent tariff is set to take effect July 22, a senior US official told reporters.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/us-unveils-new-25-tariff-on-certain-imports-from-brazil/\">US Unveils New 25% Tariff On Certain Imports From Brazil</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 06:02:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:22.552829+00:00",
+    "used": false
+  },
+  {
+    "id": "8e81bdf966ed92cb",
+    "source": "Channels TV",
+    "title": "Investment In Critical Minerals Falls In 2025 — IEA",
+    "link": "https://www.channelstv.com/2026/07/16/investment-in-critical-minerals-falls-in-2025-iea/",
+    "summary": "<p>The Paris-based agency, which advises energy-consuming nations, said that top refining nations China and Indonesia accounted for over three-quarters of total growth in refined supply in the past two years.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/investment-in-critical-minerals-falls-in-2025-iea/\">Investment In Critical Minerals Falls In 2025 — IEA</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 05:52:18 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:22.552856+00:00",
+    "used": false
+  },
+  {
+    "id": "c47094308b30754c",
+    "source": "Channels TV",
+    "title": "Over 500 Feared Dead In Two Suspected Shipwrecks Off Myanmar",
+    "link": "https://www.channelstv.com/2026/07/16/over-500-feared-dead-in-two-suspected-shipwrecks-off-myanmar/",
+    "summary": "<p>Preliminary information by the UN indicated that the two vessels in question departed from war-torn Myanmar's Rakhine State in late June, with mainly members of the country's mostly Muslim Rohingya minority onboard. </p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/over-500-feared-dead-in-two-suspected-shipwrecks-off-myanmar/\">Over 500 Feared Dead In Two Suspected Shipwrecks Off Myanmar</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 05:37:37 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:22.552877+00:00",
+    "used": false
+  },
+  {
+    "id": "6a60bcaeb515d45e",
+    "source": "Channels TV",
+    "title": "Messi Praises ‘Special’ World Cup Win Over England",
+    "link": "https://www.channelstv.com/2026/07/16/messi-praises-special-world-cup-win-over-england/",
+    "summary": "<p>The forward said he was looking forward to facing Spain in the final at MetLife Stadium in New Jersey on Sunday, where he will face players he says he knows “quite well”.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/messi-praises-special-world-cup-win-over-england/\">Messi Praises &#8216;Special&#8217; World Cup Win Over England</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Wed, 15 Jul 2026 23:50:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:22.552900+00:00",
+    "used": false
+  },
+  {
+    "id": "c689264d56048dea",
+    "source": "Leadership Newspaper",
+    "title": "‘$7bn Leaves Africa Every Year As Patients Travel Abroad For Medical Treatment’",
+    "link": "https://leadership.ng/7bn-leaves-africa-every-year-as-patients-travel-abroad-for-medical-treatment/",
+    "summary": "African governments have been urged to shift their healthcare priorities from constructing hospital buildings to investing in the training, retention and welfare of medical professionals, with a warning that failure to do so could leave the continent with modern facilities but too few specialists to operate them. This warning was delivered by officials of Aga [&#8230;]",
+    "published": "Thu, 16 Jul 2026 07:49:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:26.166077+00:00",
+    "used": false
+  },
+  {
+    "id": "f61087710d0ca7d7",
+    "source": "Leadership Newspaper",
+    "title": "First Securities Launches FirstInvest App",
+    "link": "https://leadership.ng/first-securities-launches-firstinvest-app/",
+    "summary": "First Securities Brokers, a subsidiary of FirstHoldCo Plc, has announced the launch of the FirstInvest App, an innovative mobile investment platform designed to make stock market investing simpler, faster, and more accessible for Nigerians. The FirstInvest App offers investors a seamless digital experience, enabling them to open and manage their investment accounts, monitor their portfolios, [&#8230;]",
+    "published": "Thu, 16 Jul 2026 07:43:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:26.166115+00:00",
+    "used": false
+  },
+  {
+    "id": "62bf34f8e082ce00",
+    "source": "Leadership Newspaper",
+    "title": "US Launches New Round Of Strikes Against Iran As Escalation Threatens Shipping",
+    "link": "https://leadership.ng/us-launches-new-round-of-strikes-against-iran-as-escalation-threatens-shipping/",
+    "summary": "The U.S. conducted a new wave of strikes against Iran&#8217;s coastal defence systems and missile sites on Wednesday after reimposing a naval blockade of Iranian ports, while Iran threatened to shut off more regional energy exports. The daytime strikes mark the latest escalation of ‌attacks and counterattacks launched by the two sides as they vie [&#8230;]",
+    "published": "Thu, 16 Jul 2026 07:35:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:26.166150+00:00",
+    "used": false
+  },
+  {
+    "id": "5c7cef839751d077",
+    "source": "Leadership Newspaper",
+    "title": "Footnotes For A Nativeland: A Review",
+    "link": "https://leadership.ng/footnotes-for-a-nativeland-a-review/",
+    "summary": "By Angela Agoawike Emman Usman Shehu, PhD, has had a distinguished career as journalist and author. From NTA Sokoto to the Daily Times and Daily Independent, he is currently, he is the Director of the International Institute of Journalism, IIJ, Abuja. As an author, his latest outing is FOOTNOTES FOR A NATIVELAND. Published by Topaz [&#8230;]",
+    "published": "Thu, 16 Jul 2026 07:33:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:26.166168+00:00",
+    "used": false
+  },
+  {
+    "id": "15ca2ddb71ffb0cf",
+    "source": "Leadership Newspaper",
+    "title": "Arsenal’s Saliba Faces Five-Month Layoff After World Cup Injury",
+    "link": "https://leadership.ng/arsenals-saliba-faces-five-month-layoff-after-world-cup-injury/",
+    "summary": "Arsenal face a major defensive blow as William Saliba is set to miss up to five months following a back injury sustained in France&#8217;s World Cup semi-final loss to Spain, according to L&#8217;Equipe. The 25-year-old centre-back lasted just 30 minutes of Tuesday&#8217;s 2-0 defeat before signaling for a substitution, reportedly telling medical staff, &#8220;My back [&#8230;]",
+    "published": "Thu, 16 Jul 2026 07:13:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:26.166189+00:00",
+    "used": false
+  },
+  {
+    "id": "3cff3cb9d651cac2",
+    "source": "Leadership Newspaper",
+    "title": "Understanding UNESCO Convention On Intangible Cultural Heritage",
+    "link": "https://leadership.ng/understanding-unesco-convention-on-intangible-cultural-heritage/",
+    "summary": "By Mohammed Ahmed Ozegya The intangible cultural heritage has been in existence for a very long time. It is the chain web between the past and the present ways of life, and revolves around the awakening of the power of the past generation via the accession. In order to preserve this intangible heritage globally, the [&#8230;]",
+    "published": "Thu, 16 Jul 2026 06:34:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:26.166206+00:00",
+    "used": false
+  },
+  {
+    "id": "1e211562c7fc7dca",
+    "source": "Leadership Newspaper",
+    "title": "China, Poverty Eradication And The Global South",
+    "link": "https://leadership.ng/china-poverty-eradication-and-the-global-south/",
+    "summary": "On 19 May 2026 when I received an invitation to participate in a two-week media training programme in China as part of the Global Development Initiative, I did not hesitate to inform Chen Hong at the Chinese Embassy in Abuja that I would be available to attend. My quick response was borne out of curiosity [&#8230;]",
+    "published": "Thu, 16 Jul 2026 06:27:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T07:51:26.166222+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -3704,6 +4089,28 @@
     "published": "Wed, 15 Jul 2026 21:37:38 +0000",
     "priority": "low",
     "fetched_at": "2026-07-16T00:27:24.815319+00:00",
+    "used": false
+  },
+  {
+    "id": "c958fbe523671831",
+    "source": "Premium Times",
+    "title": "Argentina coach hails team’s fighting spirit after dramatic World Cup semi-final win",
+    "link": "https://www.premiumtimesng.com/sports/football/895778-argentina-coach-hails-teams-fighting-spirit-after-dramatic-world-cup-semi-final-win.html",
+    "summary": "<img alt=\"Lionel Scaloni (CREDIT: FIFA Media)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003622124.jpg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>During his post-match press conference, Scaloni reflected on the flow of the contest, explaining why he believes his players thrive when faced with adversity.</p>\n<p>The post <a href=\"https://www.premium",
+    "published": "Thu, 16 Jul 2026 06:29:57 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-16T07:51:19.127048+00:00",
+    "used": false
+  },
+  {
+    "id": "a7ed73699a2e9dd2",
+    "source": "Premium Times",
+    "title": "Omidiran accepts historic SWAN role, says sports can drive Nigeria’s GDP",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/895773-omidiran-accepts-historic-swan-role-says-sports-can-drive-nigerias-gdp.html",
+    "summary": "<img alt=\"Hulayat Omidiran is accepting the role as the first National Matron of SWAN\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"854\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003622135.jpg?fit=1280%2C854&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Mrs Omidiran described sports as a powerful driver of economic growth, youth empowerment and national unity</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/s",
+    "published": "Thu, 16 Jul 2026 06:24:18 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-16T07:51:19.127083+00:00",
     "used": false
   }
 ]
