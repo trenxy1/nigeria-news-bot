@@ -8,6 +8,12 @@ on:
     - cron: "0 17 * * *"   # 6:00 PM WAT
     - cron: "0 20 * * *"   # 9:00 PM WAT
   workflow_dispatch: {}   # lets you trigger it manually from the GitHub app/website
+
+jobs:
+  build-and-upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -23,8 +29,6 @@ on:
           sudo apt-get install -y ffmpeg imagemagick fonts-dejavu-core
 
       - name: Relax ImageMagick's text policy
-        # Ubuntu's ImageMagick blocks text rendering by default (security policy).
-        # This unblocks it so MoviePy's TextClip works.
         run: |
           sudo sed -i 's/rights="none" pattern="@\*"/rights="read|write" pattern="@*"/' /etc/ImageMagick-6/policy.xml || true
           sudo sed -i 's/rights="none" pattern="text"/rights="read|write" pattern="text"/' /etc/ImageMagick-6/policy.xml || true
