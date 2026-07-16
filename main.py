@@ -54,7 +54,7 @@ def process_one(headline: dict, do_upload: bool) -> str | None:
         import youtube_upload
         description = f"{script_text}\n\nSource: {headline['link']}\n\n#NigeriaNews #Naija"
         title = f"Nigeria News: {headline['title'][:80]}"
-        youtube_upload.upload_video(output_path, title, description, privacy="unlisted")
+        youtube_upload.upload_video(output_path, title, description, privacy="public")
 
     return str(output_path)
 
