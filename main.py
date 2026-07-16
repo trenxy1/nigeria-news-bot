@@ -29,10 +29,10 @@ def mark_used(headline_id: str):
         json.dump(items, f, indent=2, ensure_ascii=False)
 
 
-def process_one(headline: dict, do_upload: bool) -> str | None:
+def process_one(headline: dict, do_upload: bool) -> list[str]:
     print(f"\n=== {headline['title']} ({headline['priority']}) ===")
 
-    print("[1/4] Generating script with Groq...")
+    print("[1/4] Generating script with Gemini...")
     script_text = script_generator.generate_script(headline)
     print(script_text)
 
@@ -42,21 +42,33 @@ def process_one(headline: dict, do_upload: bool) -> str | None:
     print("[3/4] Fetching images...")
     images = image_fetch.fetch_images(headline["priority"], headline["id"])
 
-    print("[4/4] Building video...")
-    out_name = f"{date.today().isoformat()}_{headline['id']}.mp4"
-    output_path = config.VIDEO_DIR / out_name
-    video_builder.build_video(images, audio_path, script_text, headline["title"], output_path)
-    print(f"[OK] Video saved: {output_path}")
+    print("[4/4] Building videos (landscape + vertical)...")
+    date_str = date.today().isoformat()
+    landscape_path = config.VIDEO_DIR / f"{date_str}_{headline['id']}_landscape.mp4"
+    vertical_path = config.VIDEO_DIR / f"{date_str}_{headline['id']}_vertical.mp4"
+
+    video_builder.build_video(images, audio_path, script_text, headline["title"],
+                               landscape_path, orientation="landscape")
+    video_builder.build_video(images, audio_path, script_text, headline["title"],
+                               vertical_path, orientation="vertical")
+    print(f"[OK] Videos saved: {landscape_path}, {vertical_path}")
 
     mark_used(headline["id"])
+
+    output_paths = [str(landscape_path), str(vertical_path)]
 
     if do_upload:
         import youtube_upload
         description = f"{script_text}\n\nSource: {headline['link']}\n\n#NigeriaNews #Naija"
-        title = f"Nigeria News: {headline['title'][:80]}"
-        youtube_upload.upload_video(output_path, title, description, privacy="public")
 
-    return str(output_path)
+        landscape_title = f"Nigeria News: {headline['title'][:90]}"
+        youtube_upload.upload_video(landscape_path, landscape_title, description, privacy="public")
+
+        shorts_title = f"Nigeria News: {headline['title'][:80]} #Shorts"
+        shorts_description = f"{description}\n\n#Shorts"
+        youtube_upload.upload_video(vertical_path, shorts_title, shorts_description, privacy="public")
+
+    return output_paths
 
 
 def main():
