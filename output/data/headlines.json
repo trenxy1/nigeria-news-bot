@@ -118,7 +118,7 @@
     "published": "Tue, 14 Jul 2026 18:29:20 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T18:40:56.552999+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "6411b8a80606f03e",
@@ -1779,6 +1779,61 @@
     "published": "Thu, 16 Jul 2026 06:00:30 +0000",
     "priority": "high",
     "fetched_at": "2026-07-16T07:51:26.166246+00:00",
+    "used": false
+  },
+  {
+    "id": "38c032b1b7c7edf1",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Akpabio threatens to sue contractor over faulty N’Assembly microphones",
+    "link": "https://punchng.com/video-akpabio-threatens-to-sue-contractor-over-faulty-nassembly-microphones/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Senate President Godswill Akpabio threatens legal action against the contractor responsible for faulty National Assembly microphones. Read more on Punch.\n\nRead More: https://punchng.com/video-akpabio-threatens-to-sue-contractor-over-faulty-nassembly-microphones/",
+    "published": "Thu, 16 Jul 2026 09:23:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T09:11:34.533488+00:00",
+    "used": false
+  },
+  {
+    "id": "7b4f282d0f67a8a5",
+    "source": "Punch Nigeria",
+    "title": "Police demand autopsy for 26-year-old nurse found dead at Umahi’s country home",
+    "link": "https://punchng.com/police-demand-autopsy-for-26-year-old-nurse-found-dead-at-umahis-country-home/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ebonyi Police demand an autopsy for a 26-year-old nurse found dead at Minister David Umahi&#8217;s country home, despite the family&#8217;s refusal. Get the full story\n\nRead More: https://punchng.com/police-demand-autopsy-for-26-year-old-nurse-found-dead-at-umahis-country-home/",
+    "published": "Thu, 16 Jul 2026 09:21:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T09:11:34.533510+00:00",
+    "used": false
+  },
+  {
+    "id": "a0df1393ce2085c6",
+    "source": "Leadership Newspaper",
+    "title": "Experts Proffer Solutions To Protect Nigerian Schools",
+    "link": "https://leadership.ng/experts-proffer-solutions-to-protect-nigerian-schools/",
+    "summary": "Education, security and crisis management experts have proposed practical measures to protect Nigerian schools. The experts urged governments at all levels to adopt intelligence-led security, strengthen community participation, expand mental health support and improve emergency preparedness to tackle worsening insecurity and the country&#8217;s growing out-of-school crisis. Speaking in exclusive interviews with LEADERSHIP, they warned that [&#8230;]",
+    "published": "Thu, 16 Jul 2026 09:10:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T09:11:38.946818+00:00",
+    "used": false
+  },
+  {
+    "id": "4bbabe570cf1534f",
+    "source": "Leadership Newspaper",
+    "title": "Safe Schools Initiative Platform Records 4,150 School Registrations In Abia",
+    "link": "https://leadership.ng/safe-schools-initiative-platform-records-4150-school-registrations-in-abia/",
+    "summary": "Four thousand one hundred and fifty schools have been registered in Abia State on the platform of the National Safe Schools Initiative of the Nigeria Security and Civil Defence Corps (NSCDC). The commander of the National Safe Schools Response Coordination Centre of the NSCDC, Umanah Aniedi stated this when he visited the state governor, Alex [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:49:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T09:11:38.946865+00:00",
+    "used": false
+  },
+  {
+    "id": "b8667f58c061edc2",
+    "source": "Leadership Newspaper",
+    "title": "Inflation Falls To 15.91% In June Despite Jump In Food Costs",
+    "link": "https://leadership.ng/inflation-falls-to-15-91-in-june-despite-jump-in-food-costs/",
+    "summary": "Nigeria&#8217;s headline inflation rate slowed to 15.91 per cent in June 2026, easing marginally from 15.93 per cent recorded in May, the National Bureau of Statistics (NBS) said on Wednesday. The Bureau disclosed this in its Consumer Price Index (CPI) and Inflation Report for June 2026, released in Abuja on Wednesday, noting that the figure [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:43:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T09:11:38.946875+00:00",
     "used": false
   },
   {
@@ -3880,6 +3935,193 @@
     "published": "Thu, 16 Jul 2026 06:27:40 +0000",
     "priority": "medium",
     "fetched_at": "2026-07-16T07:51:26.166222+00:00",
+    "used": false
+  },
+  {
+    "id": "8e1df4bb6615b1b5",
+    "source": "Punch Nigeria",
+    "title": "Kano, Jigawa Customs generated N63.07bn in six months -Controller",
+    "link": "https://punchng.com/kano-jigawa-customs-generated-n63-07bn-in-six-months-controller/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kano/Jigawa Customs Area Command generated N63.07bn in revenue from January to June 2026, exceeding 2025 figures. Learn more about Kano Customs revenue and\n\nRead More: https://punchng.com/kano-jigawa-customs-generated-n63-07bn-in-six-months-controller/",
+    "published": "Thu, 16 Jul 2026 10:01:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:34.533398+00:00",
+    "used": false
+  },
+  {
+    "id": "8f23578b06a5d173",
+    "source": "Punch Nigeria",
+    "title": "FULL LIST: Messi overtakes Yamal as World Cup’s top dribbler",
+    "link": "https://punchng.com/full-list-messi-overtakes-yamal-as-world-cups-top-dribbler/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lionel Messi leads the 2026 FIFA World Cup in successful dribbles, surpassing Lamine Yamal. Discover the full list of top dribblers.\n\nRead More: https://punchng.com/full-list-messi-overtakes-yamal-as-world-cups-top-dribbler/",
+    "published": "Thu, 16 Jul 2026 09:44:53 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:34.533441+00:00",
+    "used": false
+  },
+  {
+    "id": "30ffb6f6b70757b6",
+    "source": "Punch Nigeria",
+    "title": "Messi, Argentina finds Pickford’s penalty cheat sheet – Report",
+    "link": "https://punchng.com/messi-argentina-finds-pickfords-penalty-cheat-sheet-report/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Jordan Pickford&#8217;s detailed penalty cheat sheet for Argentina players was discovered by Lionel Messi and his teammates after England&#8217;s World Cup semi-final\n\nRead More: https://punchng.com/messi-argentina-finds-pickfords-penalty-cheat-sheet-report/",
+    "published": "Thu, 16 Jul 2026 09:39:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:34.533460+00:00",
+    "used": false
+  },
+  {
+    "id": "299aa07a603365e1",
+    "source": "Punch Nigeria",
+    "title": "Argentina punished England after sensing weakness, doubts, says Scaloni W’Cup semi-final win",
+    "link": "https://punchng.com/argentina-punished-england-after-sensing-weakness-doubts-says-scaloni-wcup-semi-final-win/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Argentina sensed England&#8217;s weakness and capitalized on it to win the World Cup semi-final, says Scaloni. Read about Argentina&#8217;s dramatic comeback.\n\nRead More: https://punchng.com/argentina-punished-england-after-sensing-weakness-doubts-says-scaloni-wcup-semi-final-win/",
+    "published": "Thu, 16 Jul 2026 09:36:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:34.533480+00:00",
+    "used": false
+  },
+  {
+    "id": "4192ba5c5c8eaeaf",
+    "source": "Punch Nigeria",
+    "title": "Kano Hisbah bans mobile movie download business",
+    "link": "https://punchng.com/kano-hisbah-bans-mobile-movie-download-business/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kano State Hisbah Board outlaws mobile movie downloads and distribution across the state to protect public morality and promote Islamic values. Learn more\n\nRead More: https://punchng.com/kano-hisbah-bans-mobile-movie-download-business/",
+    "published": "Thu, 16 Jul 2026 09:23:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:34.533501+00:00",
+    "used": false
+  },
+  {
+    "id": "c6ff1c4b3c80fb86",
+    "source": "Punch Nigeria",
+    "title": "UK probes TikTok’s child safety measures",
+    "link": "https://punchng.com/uk-probes-tiktoks-child-safety-measures/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The UK&#8217;s communications regulator, Ofcom, has launched an investigation into TikTok&#8217;s child safety measures, focusing on age verification and harmful conte\n\nRead More: https://punchng.com/uk-probes-tiktoks-child-safety-measures/",
+    "published": "Thu, 16 Jul 2026 07:55:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:34.533596+00:00",
+    "used": false
+  },
+  {
+    "id": "76ffe4d48008ab3a",
+    "source": "Premium Times",
+    "title": "2027: Labour Party uploaded candidates’ names before INEC deadline – Spokesperson",
+    "link": "https://www.premiumtimesng.com/news/more-news/895789-2027-labour-party-uploaded-candidates-names-before-inec-deadline-spokesperson.html",
+    "summary": "<img alt=\"Labour Party\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"588\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/01/GnUB3AMWIAA7asp.jpg?fit=882%2C588&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"882\" /><p>The party said it uploaded its candidate on INEC portal on 10 July.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/895789-2027-labour-party-uploaded-candidates-names-before-inec-deadline-spokesperson.h",
+    "published": "Thu, 16 Jul 2026 09:06:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:35.326231+00:00",
+    "used": false
+  },
+  {
+    "id": "3e0878cbc7b9bc89",
+    "source": "Channels TV",
+    "title": "Zulum Calls For Anti-Deforestation Laws Enforcement, Awards Scholarships To 540 Council Workers",
+    "link": "https://www.channelstv.com/2026/07/16/zulum-calls-for-anti-deforestation-laws-enforcement-awards-scholarships-to-540-council-workers/",
+    "summary": "<p>Expressing concern over the indiscriminate felling of trees, Zulum noted that although Borno State has enacted laws prescribing stiff penalties for deforestation, enforcement remains a major challenge.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/zulum-calls-for-anti-deforestation-laws-enforcement-awards-scholarships-to-540-council-workers/\">Zulum Calls For Anti-Deforestation Laws Enforcement, Awards Scholarships To 540 Council Workers</a> appeared first on <a href=\"https://",
+    "published": "Thu, 16 Jul 2026 09:06:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:36.343681+00:00",
+    "used": false
+  },
+  {
+    "id": "baf38917b2414292",
+    "source": "Channels TV",
+    "title": "UK Opens Probe Into TikTok’s Child Safety Measures",
+    "link": "https://www.channelstv.com/2026/07/16/uk-opens-probe-into-tiktoks-child-safety-measures/",
+    "summary": "<p>In response, TikTok said it was \"confident\" that it met obligations set out by Britain's Online Safety Act, introduced last year to toughen laws around children's online safety.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/uk-opens-probe-into-tiktoks-child-safety-measures/\">UK Opens Probe Into TikTok&#8217;s Child Safety Measures</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 08:56:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:36.343719+00:00",
+    "used": false
+  },
+  {
+    "id": "6837721365dec49a",
+    "source": "Channels TV",
+    "title": "Uber To Take Over Delivery Hero In £12.7bn Merger Deal",
+    "link": "https://www.channelstv.com/2026/07/16/uber-to-take-over-delivery-hero-in-12-7bn-merger-deal/",
+    "summary": "<p>Uber CEO Dara Khosrowshahi said a merger would \"extend affordable, reliable delivery to many millions more people in some of the world's most dynamic economies, while creating more opportunities for merchants and couriers\".</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/uber-to-take-over-delivery-hero-in-12-7bn-merger-deal/\">Uber To Take Over Delivery Hero In £12.7bn Merger Deal</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 08:44:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:36.343741+00:00",
+    "used": false
+  },
+  {
+    "id": "bf288d0d59b4e5c4",
+    "source": "Leadership Newspaper",
+    "title": "VDM Honoured With ‘Atayese’ Title by Oluwo of Iwo",
+    "link": "https://leadership.ng/vdm-honoured-with-atayese-title-by-oluwo-of-iwo/",
+    "summary": "Popular Nigerian social media critic, Martins Vincent Otse, widely known as VeryDarkMan (VDM), has been honoured with a prestigious traditional title by the Oluwo of Iwo, Oba Abdulrosheed Adewale Akanbi. &#160; The monarch conferred the title of &#8220;Atayese&#8221; (the reformer) on the social Critic during his visit to the royal palace in Iwo, Osun State. [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:52:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:38.946856+00:00",
+    "used": false
+  },
+  {
+    "id": "e33fa9aa50e3cc78",
+    "source": "Leadership Newspaper",
+    "title": "Ministry, NIMC Partner To Digitally Identify 80 Million Learners",
+    "link": "https://leadership.ng/ministry-nimc-partner-to-digitally-identify-80-million-learners/",
+    "summary": "The Federal Government has reaffirmed its commitment to building a secure and trusted digital identity ecosystem as the Federal Ministry of Education and the National Identity Management Commission (NIMC) strengthen collaboration to extend trusted digital identity coverage to nearly 80 million learners across Nigeria&#8217;s education system. Speaking during a meeting with the Director General of [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:43:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:38.946891+00:00",
+    "used": false
+  },
+  {
+    "id": "35af01726b44bcf7",
+    "source": "Leadership Newspaper",
+    "title": "Weak Sentiment Pushes Equities Market Lower By 0.21%",
+    "link": "https://leadership.ng/weak-sentiment-pushes-equities-market-lower-by-0-21/",
+    "summary": "The Nigerian equities market retreated as the NGX All-Share Index declined by 0.21 per cent. The All Share Index (ASI) declined by 503.69 points, representing a loss of 0.21 per cent to close at 242,366.75 points. However, the market capitalisation gained N390 billion to close at N156.239 trillion. The downturn was impacted by losses recorded [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:32:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:38.946905+00:00",
+    "used": false
+  },
+  {
+    "id": "2e1dea46b918c9eb",
+    "source": "Leadership Newspaper",
+    "title": "Asaba Road Landing Incident: NCAA Bars Pilots From Airspace, Grounds Private Jet",
+    "link": "https://leadership.ng/asaba-road-landing-incident-ncaa-bars-pilots-from-airspace-grounds-private-jet-2/",
+    "summary": "The Nigeria Civil Aviation Authority (NCAA) has barred the pilot and first officer of a private aircraft that landed on a road in Delta State from operating in Nigerian airspace, while also grounding the aircraft pending the outcome of an ongoing investigation into the incident. The director general of the NCAA, Captain Chris Najomo, disclosed [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:31:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:38.946919+00:00",
+    "used": false
+  },
+  {
+    "id": "ce19808c33d67053",
+    "source": "Leadership Newspaper",
+    "title": "Power Minister Sets 9-man Panel To Tackle Regulatory Gaps Blocking Electricity Act Rollout",
+    "link": "https://leadership.ng/power-minister-sets-9-man-panel-to-tackle-regulatory-gaps-blocking-electricity-act-rollout/",
+    "summary": "The minister of Power, Joseph Tegbe, has announced a nine‑member inter‑agency panel to urgently address regulatory gaps hindering the implementation of the Electricity Act, 2023, giving the team four weeks to review issues, engage stakeholders and deliver recommendations to fast‑track the law’s operationalisation. The minister announced the nine-member Inter-Agency Committee to Address Issues around Decentralisation [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:27:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:38.946934+00:00",
+    "used": false
+  },
+  {
+    "id": "ba632fc369c30f17",
+    "source": "Leadership Newspaper",
+    "title": "Guaranty Trust Leads Nigerian Banks In Global Performance Ranking",
+    "link": "https://leadership.ng/guaranty-trust-leads-nigerian-banks-in-global-performance-ranking/",
+    "summary": "Guaranty Trust Bank (GTBank) has emerged as the highest-ranked Nigerian bank in The Banker magazine&#8217;s Top 1000 World Banks Rankings 2026, reinforcing its position as one of the country&#8217;s leading financial institutions. The global ranking, which assesses banks based on independently audited financial statements, ranked GTBank first among Nigerian banks in overall performance. The bank [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:20:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:38.946948+00:00",
+    "used": false
+  },
+  {
+    "id": "36f3fb2bce902f3b",
+    "source": "Leadership Newspaper",
+    "title": "$88bn Yearly Loss: Experts Seek Stronger Collaboration Against Illicit Financial Flows In Africa",
+    "link": "https://leadership.ng/88bn-yearly-loss-experts-seek-stronger-collaboration-against-illicit-financial-flows-in-africa/",
+    "summary": "Experts have called for stronger collaboration among governments, regulators, financial institutions, and civil society organisations to combat illicit financial flows in Africa while also protecting the operations of legitimate non-profit organisations. They made this call on Wednesday in Abuja at the 3rd Africa High-Level Civil Society Anti-Money Laundering and Counter-Terrorist Financing (AML/CFT) Conference, organised by [&#8230;]",
+    "published": "Thu, 16 Jul 2026 08:20:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T09:11:38.946965+00:00",
     "used": false
   },
   {
