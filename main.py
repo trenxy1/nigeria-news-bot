@@ -61,10 +61,10 @@ def process_one(headline: dict, do_upload: bool) -> list[str]:
         import youtube_upload
         description = f"{script_text}\n\nSource: {headline['link']}\n\n#NigeriaNews #Naija"
 
-        landscape_title = f"Nigeria News: {headline['title'][:90]}"
+        landscape_title = headline['title'][:100]
         youtube_upload.upload_video(landscape_path, landscape_title, description, privacy="public")
 
-        shorts_title = f"Nigeria News: {headline['title'][:80]} #Shorts"
+        shorts_title = f"{headline['title'][:90]} #Shorts"
         shorts_description = f"{description}\n\n#Shorts"
         youtube_upload.upload_video(vertical_path, shorts_title, shorts_description, privacy="public")
 
