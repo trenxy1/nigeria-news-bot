@@ -140,7 +140,7 @@
     "published": "Tue, 14 Jul 2026 17:26:58 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T18:40:57.478678+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "2ebba2c7f9bf0aa5",
@@ -2065,6 +2065,226 @@
     "published": "Thu, 16 Jul 2026 17:09:48 +0000",
     "priority": "high",
     "fetched_at": "2026-07-16T18:12:55.505449+00:00",
+    "used": false
+  },
+  {
+    "id": "be83f7679559684f",
+    "source": "Punch Nigeria",
+    "title": "Police arrest father in Ondo for burning daughter’s private part",
+    "link": "https://punchng.com/police-arrest-father-in-ondo-for-burning-daughters-private-part/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ondo State Police have arrested a father for allegedly burning his 10-year-old daughter&#8217;s private part over bedwetting. Read more on this child abuse case.\n\nRead More: https://punchng.com/police-arrest-father-in-ondo-for-burning-daughters-private-part/",
+    "published": "Thu, 16 Jul 2026 21:31:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:23.560807+00:00",
+    "used": false
+  },
+  {
+    "id": "b8e626c8be3dae06",
+    "source": "Punch Nigeria",
+    "title": "Illicit arms moving from North to South-West, says IG",
+    "link": "https://punchng.com/illicit-arms-moving-from-north-to-south-west-says-ig/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "IG Tunji Disu raises alarm over illicit arms moving from Northern Nigeria to the South-West, warning of growing security threats.\n\nRead More: https://punchng.com/illicit-arms-moving-from-north-to-south-west-says-ig/",
+    "published": "Thu, 16 Jul 2026 21:21:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:23.560831+00:00",
+    "used": false
+  },
+  {
+    "id": "8f521e173d3efdc4",
+    "source": "Punch Nigeria",
+    "title": "Bandits kill vigilante leader in Katsina",
+    "link": "https://punchng.com/bandits-kill-vigilante-leader-in-katsina/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Bandits killed a vigilante leader in Katsina, leading to protests and a highway blockade. Police confirm the incident and ongoing investigation into the Ka\n\nRead More: https://punchng.com/bandits-kill-vigilante-leader-in-katsina/",
+    "published": "Thu, 16 Jul 2026 21:09:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:23.560840+00:00",
+    "used": false
+  },
+  {
+    "id": "254f26db56fce8d4",
+    "source": "Punch Nigeria",
+    "title": "Tinubu mourns former Aso Villa Chaplain under Obasanjo, Jonathan",
+    "link": "https://punchng.com/tinubu-mourns-former-aso-villa-chaplain-under-obasanjo-jonathan/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu mourns the passing of Rev William Okoye, former Aso Villa Chaplain under Obasanjo and Jonathan, praising his service and deep faith.\n\nRead More: https://punchng.com/tinubu-mourns-former-aso-villa-chaplain-under-obasanjo-jonathan/",
+    "published": "Thu, 16 Jul 2026 21:05:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:23.560847+00:00",
+    "used": false
+  },
+  {
+    "id": "eb9af2e23f73bcd7",
+    "source": "Punch Nigeria",
+    "title": "Tinubu approves Lagos-Ibadan expressway reconstruction with concrete pavement",
+    "link": "https://punchng.com/tinubu-approves-lagos-ibadan-expressway-reconstruction-with-concrete-pavement/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu has approved the reconstruction of the Lagos-Ibadan Expressway with durable concrete pavement, ensuring a long-lasting solution for this v\n\nRead More: https://punchng.com/tinubu-approves-lagos-ibadan-expressway-reconstruction-with-concrete-pavement/",
+    "published": "Thu, 16 Jul 2026 20:13:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:23.560877+00:00",
+    "used": false
+  },
+  {
+    "id": "e2db4a23e5c4e35f",
+    "source": "Punch Nigeria",
+    "title": "INEC considers mock presidential poll before 2027 election",
+    "link": "https://punchng.com/inec-considers-mock-presidential-poll-before-2027-election/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "INEC is considering a mock presidential election and technology audit before the 2027 general election to enhance reliability and address 2023 concerns.\n\nRead More: https://punchng.com/inec-considers-mock-presidential-poll-before-2027-election/",
+    "published": "Thu, 16 Jul 2026 20:09:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:23.560885+00:00",
+    "used": false
+  },
+  {
+    "id": "39eba5e26a3bcc89",
+    "source": "Punch Nigeria",
+    "title": "Jonathan’s son graduates from UK university",
+    "link": "https://punchng.com/jonathans-son-graduates-from-uk-university/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former President Goodluck Jonathan&#8217;s son, Ariwera Jonathan, graduates from Manchester Metropolitan University. Read about Jonathan&#8217;s son graduates and fami\n\nRead More: https://punchng.com/jonathans-son-graduates-from-uk-university/",
+    "published": "Thu, 16 Jul 2026 19:57:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:23.560948+00:00",
+    "used": false
+  },
+  {
+    "id": "113ad3299db98598",
+    "source": "Punch Nigeria",
+    "title": "LG chair donates buses, motorcycles to police, Edo security outfit",
+    "link": "https://punchng.com/lg-chair-donates-buses-motorcycles-to-police-edo-security-outfit/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Egor Local Government Chairman donates buses and motorcycles to police and Edo security outfit to boost crime fighting and enhance security in the area.\n\nRead More: https://punchng.com/lg-chair-donates-buses-motorcycles-to-police-edo-security-outfit/",
+    "published": "Thu, 16 Jul 2026 19:54:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:23.560966+00:00",
+    "used": false
+  },
+  {
+    "id": "1b770ebb58f33c73",
+    "source": "Premium Times",
+    "title": "Senate rejects motion to review contract award process in National Assembly.",
+    "link": "https://www.premiumtimesng.com/news/headlines/896035-senate-rejects-motion-to-review-contract-award-process-in-national-assembly.html",
+    "summary": "<img alt=\"Screenshot of Senate at plenary (PHOTO CREDIT: NASSTV National Assembly, Nigeria)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"368\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/WhatsApp-Image-2025-10-15-at-08.31.15.jpeg?fit=828%2C368&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"828\" /><p>The lawmakers argued that the Senate leadership needed first to address the issues raised and reach a clear position before bringing ",
+    "published": "Thu, 16 Jul 2026 20:34:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:24.226458+00:00",
+    "used": false
+  },
+  {
+    "id": "8123233d46c2064d",
+    "source": "Premium Times",
+    "title": "“We thought it was AI” — Akpabio taunts Oshiomhole over viral private jet massage video",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/896026-we-thought-it-was-ai-akpabio-taunts-oshiomhole-over-viral-private-jet-massage-video.html",
+    "summary": "<img alt=\"“We thought it was AI” — Akpabio taunts Oshiomhole over viral private jet massage video\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"534\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-16-at-20.27.53.jpeg?fit=791%2C534&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"791\" /><p>The Senate President mocked his colleague with the old controversy during a heated exchange over ambassadorial nomination.</p>\n",
+    "published": "Thu, 16 Jul 2026 19:35:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:24.226487+00:00",
+    "used": false
+  },
+  {
+    "id": "6261bee83b4e1b17",
+    "source": "Premium Times",
+    "title": "Man remanded for alleged rape of his daughter, 14",
+    "link": "https://www.premiumtimesng.com/news/more-news/896003-man-remanded-for-alleged-rape-of-his-daughter-14.html",
+    "summary": "<img alt=\"FILE: Court and justice symbols used to illustrate the story\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"768\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/03/Nigerian-courts.jpg?fit=1024%2C768&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Police said the man was remanded after he was arraigned on Wednesday before the Gender Magistrate Court in Awka, Anambra State.</p>\n<p>The post <a href=\"https://www.premiumtim",
+    "published": "Thu, 16 Jul 2026 18:33:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:24.226695+00:00",
+    "used": false
+  },
+  {
+    "id": "6f8c41ac2b41c273",
+    "source": "Premium Times",
+    "title": "Police to hire pathologist for autopsy on Mary Habila – official",
+    "link": "https://www.premiumtimesng.com/news/895953-police-to-hire-pathologist-for-autopsy-on-mary-habila-official.html",
+    "summary": "<img alt=\"The late Mary Habila (Photo credit: @sowore)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"937\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/image0-e1784205798955.jpeg?fit=1664%2C937&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1664\" /><p>PREMIUM TIMES earlier reported that Mary Habila, who was attached to Dave Umahi, was brought dead to the David Umahi Federal University Teaching Hospital, Uburu, Ebonyi State on 27 Jun",
+    "published": "Thu, 16 Jul 2026 18:19:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:24.226712+00:00",
+    "used": false
+  },
+  {
+    "id": "17deeea6ddc08118",
+    "source": "Channels TV",
+    "title": "Security Operatives Rescue Abducted Persons In School Attack — Kogi Govt",
+    "link": "https://www.channelstv.com/2026/07/16/security-operatives-rescue-abducted-persons-in-school-attack-kogi-govt/",
+    "summary": "<p>The state commended security operatives for their gallantry in the rescue of the abducted persons.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/security-operatives-rescue-abducted-persons-in-school-attack-kogi-govt/\">Security Operatives Rescue Abducted Persons In School Attack — Kogi Govt</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 20:21:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:25.603676+00:00",
+    "used": false
+  },
+  {
+    "id": "988a70465c4720b8",
+    "source": "Channels TV",
+    "title": "Bitter Row Splits Ukraine’s Military Leadership After Defence Minister Ousted",
+    "link": "https://www.channelstv.com/2026/07/16/bitter-row-splits-ukraines-military-leadership-after-defence-minister-ousted/",
+    "summary": "<p>Protests are relatively rare in wartime Ukraine, which has seen society rally behind the military and, mostly, Zelensky.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/bitter-row-splits-ukraines-military-leadership-after-defence-minister-ousted/\">Bitter Row Splits Ukraine&#8217;s Military Leadership After Defence Minister Ousted</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 17:08:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:25.603874+00:00",
+    "used": false
+  },
+  {
+    "id": "8ef5b2d35e0971a6",
+    "source": "Leadership Newspaper",
+    "title": "Troops Arrest 24 Foreign Nationals In Raid On Suspected Hideout In Lagos",
+    "link": "https://leadership.ng/troops-arrest-24-foreign-nationals-in-raid-on-suspected-hideout-in-lagos/",
+    "summary": "Troops of the 65 Battalion of the Nigerian Army have arrested 24 foreign nationals during a raid on a suspected hideout in Epe Local Government Area of Lagos State as part of ongoing security operations targeting criminal elements and illegal immigrants. The operation, carried out by troops of the 81 Division Area of Responsibility (AOR), [&#8230;]",
+    "published": "Thu, 16 Jul 2026 20:36:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:28.368319+00:00",
+    "used": false
+  },
+  {
+    "id": "97a40e94086a9f88",
+    "source": "Leadership Newspaper",
+    "title": "2027: APC Chieftain Says Christians Now More Comfortable With Muslim-Muslim Ticket",
+    "link": "https://leadership.ng/2027-apc-chieftain-says-christians-now-more-comfortable-with-muslim-muslim-ticket/",
+    "summary": "A chieftain of the All Progressives Congress (APC), Farouk Aliyu, has said many Nigerian Christians are now more accepting of the party&#8217;s Muslim-Muslim presidential ticket than they were before the 2023 general election, arguing that President Bola Tinubu&#8217;s administration has dispelled fears of religious marginalisation. Aliyu made the remarks on Thursday during an appearance on [&#8230;]",
+    "published": "Thu, 16 Jul 2026 20:20:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:28.368356+00:00",
+    "used": false
+  },
+  {
+    "id": "389e0f2edbf3a62c",
+    "source": "Leadership Newspaper",
+    "title": "Akpabio Threatens Contactors With Legal Action Over Faulty NASS Microphones",
+    "link": "https://leadership.ng/akpabio-threatens-contactors-with-legal-action-over-faulty-nass-microphones/",
+    "summary": "Senate President Godswill Akpabio has threatened legal action against the contractor responsible for the renovation of the National Assembly complex following persistent technical faults affecting the microphones in both the Senate and House of Representatives chambers. Akpabio issued the warning during plenary on Wednesday after several senators encountered difficulties with malfunctioning microphones while making contributions [&#8230;]",
+    "published": "Thu, 16 Jul 2026 20:14:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:28.368363+00:00",
+    "used": false
+  },
+  {
+    "id": "f4352a62a14987da",
+    "source": "Leadership Newspaper",
+    "title": "Ugochinyere Hails Tinubu, Others Over Approval Of Oba–Uga–Akokwa Road Project",
+    "link": "https://leadership.ng/ugochinyere-hails-tinubu-others-over-approval-of-oba-uga-akokwa-road-project/",
+    "summary": "The lawmaker representing Ideato North and South Federal Constituency in the House of Representatives, Hon. Ikenga Imo Ugochinyere Ikeagwuanu, has commended President Bola Tinubu, the Federal Ministry of Works, Anambra State Governor Chukwuma Soludo, and Speaker of the House of Representatives, Tajudeen Abbas, following the approval of the Oba–Nnewi–Uga–Akokwa–Arondizuogu–Okigwe road project. Ugochinyere described the approval [&#8230;]",
+    "published": "Thu, 16 Jul 2026 20:07:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:28.368373+00:00",
+    "used": false
+  },
+  {
+    "id": "938da18fdd8ae875",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria Secures Global Passport Verification As NIS Joins ICAO Trust Network",
+    "link": "https://leadership.ng/nigeria-secures-global-passport-verification-as-nis-joins-icao-trust-network-2/",
+    "summary": "Nigeria has recorded a major breakthrough in international travel security after successfully integrating its passport authentication system into the International Civil Aviation Organisation (ICAO) Public Key Directory (PKD), a development expected to eliminate verification challenges previously encountered by some Nigerian passport holders at foreign borders. &#160; The Nigeria Immigration Service (NIS) in a statement by [&#8230;]",
+    "published": "Thu, 16 Jul 2026 19:58:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:28.368383+00:00",
+    "used": false
+  },
+  {
+    "id": "36ecbf844cf9dbac",
+    "source": "Leadership Newspaper",
+    "title": "Zambian Former Vice President Guy Scott Dies At 82",
+    "link": "https://leadership.ng/zambian-former-vice-president-guy-scott-dies-at-82/",
+    "summary": "Former Zambian Vice President Guy Scott, who briefly became Africa’s only white head of state after the end of apartheid, has died at the age of 82. The Zambian government announced his death on Wednesday, stating that the former acting president passed away at his farm in Lusaka, the country’s capital, after a short illness. [&#8230;]",
+    "published": "Thu, 16 Jul 2026 19:53:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T20:42:28.368391+00:00",
     "used": false
   },
   {
@@ -4653,6 +4873,193 @@
     "used": false
   },
   {
+    "id": "0a6eb75c8ac80e12",
+    "source": "Punch Nigeria",
+    "title": "Court convicts two men for impersonating EFCC officers",
+    "link": "https://punchng.com/court-convicts-two-men-for-impersonating-efcc-officers/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Two men, Haruna Mamuda and Sadiq Umar, have been convicted by an FCT High Court for EFCC impersonation and defrauding the public. Sentencing is set for Jul\n\nRead More: https://punchng.com/court-convicts-two-men-for-impersonating-efcc-officers/",
+    "published": "Thu, 16 Jul 2026 21:26:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:23.560822+00:00",
+    "used": false
+  },
+  {
+    "id": "2074dc6ed3b9a68f",
+    "source": "Punch Nigeria",
+    "title": "C’River unveils campaign to curb preeclampsia deaths",
+    "link": "https://punchng.com/criver-unveils-campaign-to-curb-preeclampsia-deaths/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Cross River State launches a weeklong campaign to curb preeclampsia deaths, a leading cause of maternal and neonatal fatalities. Early detection and qualit\n\nRead More: https://punchng.com/criver-unveils-campaign-to-curb-preeclampsia-deaths/",
+    "published": "Thu, 16 Jul 2026 20:36:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:23.560866+00:00",
+    "used": false
+  },
+  {
+    "id": "260aca1c384c04fc",
+    "source": "Punch Nigeria",
+    "title": "NHIA deploys compliance officers to tackle illegal charges in hospitals",
+    "link": "https://punchng.com/nhia-deploys-compliance-officers-to-tackle-illegal-charges-in-hospitals/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NHIA has deployed compliance officers to accredited hospitals to tackle illegal charges and improve service delivery for enrollees.\n\nRead More: https://punchng.com/nhia-deploys-compliance-officers-to-tackle-illegal-charges-in-hospitals/",
+    "published": "Thu, 16 Jul 2026 20:09:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:23.560899+00:00",
+    "used": false
+  },
+  {
+    "id": "2e07d4365a8256d9",
+    "source": "Punch Nigeria",
+    "title": "FG urges regional cooperation to bridge Africa’s digital divide",
+    "link": "https://punchng.com/fg-urges-regional-cooperation-to-bridge-africas-digital-divide/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government calls for stronger regional cooperation among African countries to bridge the continent&#8217;s digital divide and build an inclusive digi\n\nRead More: https://punchng.com/fg-urges-regional-cooperation-to-bridge-africas-digital-divide/",
+    "published": "Thu, 16 Jul 2026 20:08:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:23.560923+00:00",
+    "used": false
+  },
+  {
+    "id": "4d2b3dd911d1e834",
+    "source": "Punch Nigeria",
+    "title": "Lagos releases 2026/2027 academic calendar, fixes September 14 resumption",
+    "link": "https://punchng.com/lagos-releases-2026-2027-academic-calendar-fixes-september-14-resumption/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Lagos State Government has released the 2026/2027 academic calendar for primary and secondary schools, fixing September 14, 2026, as the resumption dat\n\nRead More: https://punchng.com/lagos-releases-2026-2027-academic-calendar-fixes-september-14-resumption/",
+    "published": "Thu, 16 Jul 2026 20:03:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:23.560939+00:00",
+    "used": false
+  },
+  {
+    "id": "58455978a5aad57b",
+    "source": "Punch Nigeria",
+    "title": "Stakeholders back NCC rules, seek tougher telecom enforcement",
+    "link": "https://punchng.com/stakeholders-back-ncc-rules-seek-tougher-telecom-enforcement/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Stakeholders in Nigeria&#8217;s telecom sector endorse NCC&#8217;s draft business rules for Mobile Virtual Network Operators (MVNOs) and urge stronger enforcement.\n\nRead More: https://punchng.com/stakeholders-back-ncc-rules-seek-tougher-telecom-enforcement/",
+    "published": "Thu, 16 Jul 2026 19:55:56 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:23.560959+00:00",
+    "used": false
+  },
+  {
+    "id": "4724eb8bec268797",
+    "source": "Premium Times",
+    "title": "EFCC arraigns ex-Skye Bank chair Tunde Ayeni for third time in N15.6bn fraud trial",
+    "link": "https://www.premiumtimesng.com/news/top-news/896006-efcc-arraigns-ex-skye-bank-chair-tunde-ayeni-for-third-time-in-n15-6bn-fraud-trial.html",
+    "summary": "<img alt=\"Mr Tunde Ayeni.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"451\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Former-Syke-bank-Chairman-Tunde-Ayeni-modified-e1777908131969.jpg?fit=800%2C451&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>EFCC re-arraigned him on Thursday before trial judge, Jude Onwuegbuzie, following the latest amendment of the charges.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/n",
+    "published": "Thu, 16 Jul 2026 19:33:30 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:24.226516+00:00",
+    "used": false
+  },
+  {
+    "id": "cbbe4d3e612c7a42",
+    "source": "Premium Times",
+    "title": "Court convicts two of impersonating EFCC officers, sets date for sentencing",
+    "link": "https://www.premiumtimesng.com/news/top-news/896027-court-convicts-two-of-impersonating-efcc-officers-sets-date-for-sentencing.html",
+    "summary": "<img alt=\"Haruna Mamuda and Sadiq Umar impersonating officers of the Economic and Financial Crimes Commission (EFCC)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1314\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1001280761-scaled-e1784229454974.jpg?fit=1920%2C1314&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>In a separate trial, two other men, Ojobo Joshua and Aliyu Hashim, face charges of conspiracy, impersonation o",
+    "published": "Thu, 16 Jul 2026 19:20:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:24.226536+00:00",
+    "used": false
+  },
+  {
+    "id": "d9a4d4ab46eb521a",
+    "source": "Premium Times",
+    "title": "Kaduna ADC Crisis: El-Rufai’s ally Salisu Lukman quits party",
+    "link": "https://www.premiumtimesng.com/news/top-news/896018-kaduna-adc-crisis-el-rufais-ally-salisu-lukman-quits-party.html",
+    "summary": "<img alt=\"Salihu Lukman\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"336\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/03/admin-ajax-19.jpg?fit=600%2C336&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>Mr Lukman lamented that decisions regarding leadership representation in Kaduna were being handled in a manner that \"reduced (him) to the status of a bastard,\" forcing him to excuse himself from the party’s activities.</p>\n<p>",
+    "published": "Thu, 16 Jul 2026 19:12:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:24.226591+00:00",
+    "used": false
+  },
+  {
+    "id": "18e3baa527906e5d",
+    "source": "Premium Times",
+    "title": "House of Reps says youth will determine Nigeria’s democratic future in 2027",
+    "link": "https://www.premiumtimesng.com/news/more-news/895967-house-of-reps-says-youth-will-determine-nigerias-democratic-future-in-2027.html",
+    "summary": "<img alt=\"Youth will determine Nigeria’s democratic future in 2027\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"593\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/a76a9393-2612-4025-ae66-4ae88b20a7d7.jpeg?fit=989%2C593&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"989\" /><p>The House said the quality of Nigeria’s democracy would depend largely on the choices and civic engagement of the young people.</p>\n<p>The post <a href=\"https:",
+    "published": "Thu, 16 Jul 2026 19:10:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:24.226626+00:00",
+    "used": false
+  },
+  {
+    "id": "dd915287453f57e3",
+    "source": "Premium Times",
+    "title": "Speaker Abbas pledges repeal of outdated laws to strengthen Nigerian business reforms",
+    "link": "https://www.premiumtimesng.com/news/top-news/895968-speaker-abbas-pledges-repeal-of-outdated-laws-to-strengthen-nigerian-business-reforms.html",
+    "summary": "<img alt=\"Speaker Abbas pledges repeal of outdated laws\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/43f57b38-2d8c-47c2-83e8-d0306426284f.jpeg?fit=1080%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The Speaker of the House of Representatives has announced that lawmakers will collaborate closely with the private sector to improve Nigeria’s investment climate and su",
+    "published": "Thu, 16 Jul 2026 18:47:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:24.226652+00:00",
+    "used": false
+  },
+  {
+    "id": "d8e8ccc487901ebc",
+    "source": "Premium Times",
+    "title": "Big tech, AI and the future of Nigerian Journalism, By Shuaib S. Agaka",
+    "link": "https://www.premiumtimesng.com/opinion/895941-big-tech-ai-and-the-future-of-nigerian-journalism-by-shuaib-s-agaka.html",
+    "summary": "<img alt=\"Shuaib Agaka writes about how the implosion of Okra.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/03/Shuaib-Agaka.jpg?fit=543%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"543\" /><p>If approached with wisdom and balance, this investigation may ultimately be remembered not as another confrontation with Big Tech, but as the moment Nigeria began redefining the relationsh",
+    "published": "Thu, 16 Jul 2026 18:40:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:24.226684+00:00",
+    "used": false
+  },
+  {
+    "id": "a502546fca8dae0f",
+    "source": "Channels TV",
+    "title": "[VIDEO] Umahi Dismisses ‘Foul Play’, Warns Against Politicisation Of Nurse’s Death",
+    "link": "https://www.channelstv.com/2026/07/16/video-umahi-dismisses-foul-play-warns-against-politicisation-of-nurses-death/",
+    "summary": "<p>​Habila was part of a medical team accompanying Umahi to his hometown in Uburu, Ohaozara Local Government Area, where she was allegedly found dead within his residential compound.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/video-umahi-dismisses-foul-play-warns-against-politicisation-of-nurses-death/\">[VIDEO] Umahi Dismisses &#8216;Foul Play&#8217;, Warns Against Politicisation Of Nurse&#8217;s Death</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Televi",
+    "published": "Thu, 16 Jul 2026 19:50:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:25.603719+00:00",
+    "used": false
+  },
+  {
+    "id": "23053affba5896cc",
+    "source": "Channels TV",
+    "title": "Top 11 World News Today",
+    "link": "https://www.channelstv.com/2026/07/16/top-11-world-news-today/",
+    "summary": "<p>From escalating tensions across the Middle East, down to new fears regarding the quick spread of Ebola, here are some of the biggest stories we have been tracking today around the globe. </p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/top-11-world-news-today/\">Top 11 World News Today</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 19:18:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:25.603757+00:00",
+    "used": false
+  },
+  {
+    "id": "cae3789a19ed98a1",
+    "source": "Leadership Newspaper",
+    "title": "Beauty Queen ‎Chidimma Adetshina Fights Deportation In Court After Being Arrested",
+    "link": "https://leadership.ng/beauty-queen-chidimma-adetshina-fights-deportation-in-court-after-being-arrested/",
+    "summary": "‎‎The legal battle surrounding former Miss Universe Nigeria and Miss South Africa finalist, Chidimma Adetshina, has escalated into a high-stakes court case following her arrest in South Africa. ‎‎In June 2026, Adetshina was arrested in Summer Greens, Cape Town, by South African authorities. She appeared before the Cape Town Regional Court after being accused of [&#8230;]",
+    "published": "Thu, 16 Jul 2026 20:36:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:28.368296+00:00",
+    "used": false
+  },
+  {
+    "id": "50018fae575a4c13",
+    "source": "Leadership Newspaper",
+    "title": "Mary Habila Complained of Nosebleed Before Death, Says Umahi",
+    "link": "https://leadership.ng/mary-habila-complained-of-nosebleed-before-death-says-umahi/",
+    "summary": "Minister of Works, David Umahi, has disclosed that the late Mary Habila complained of a nosebleed to her boyfriend shortly before she was found dead in a guest house within his residence in Uburu, Ohaozara Local Government Area of Ebonyi State. &#160; Speaking publicly for the first time since the incident, Umahi said Habila, a [&#8230;]",
+    "published": "Thu, 16 Jul 2026 20:35:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:28.368333+00:00",
+    "used": false
+  },
+  {
+    "id": "1ddf8aabda838d80",
+    "source": "Leadership Newspaper",
+    "title": "75-Year-Old Man Sentenced To 10 Years In Prison For Defiling Minor In Rivers",
+    "link": "https://leadership.ng/75-year-old-man-sentenced-to-10-years-in-prison-for-defiling-minor-in-rivers/",
+    "summary": "A Rivers State Family Court sitting in Port Harcourt has sentenced a 75-year-old man, Promise Chukwumatti, to 10 years imprisonment without an option of fine for sexually abusing an 11-year-old girl. The court, presided over by Justice Rita Oguguo, convicted Chukwumatti after finding that the prosecution had successfully established the one-count charge against him through [&#8230;]",
+    "published": "Thu, 16 Jul 2026 19:50:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T20:42:28.368404+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -4903,6 +5310,50 @@
     "published": "Thu, 16 Jul 2026 16:10:40 +0000",
     "priority": "low",
     "fetched_at": "2026-07-16T18:12:55.505529+00:00",
+    "used": false
+  },
+  {
+    "id": "29ac8b6a8d391c15",
+    "source": "Punch Nigeria",
+    "title": "World Cup winners to receive historic championship rings — FIFA",
+    "link": "https://punchng.com/world-cup-winners-to-receive-historic-championship-rings-fifa/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "For the first time, 2026 World Cup winners will receive championship rings, a new tradition blending global football with American sports. Learn more about\n\nRead More: https://punchng.com/world-cup-winners-to-receive-historic-championship-rings-fifa/",
+    "published": "Thu, 16 Jul 2026 21:33:06 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-16T20:42:23.560777+00:00",
+    "used": false
+  },
+  {
+    "id": "fa90f8719bd322ca",
+    "source": "Channels TV",
+    "title": "Ogun Extends Work Palliative, Transport Allowance For Civil Servants",
+    "link": "https://www.channelstv.com/2026/07/16/ogun-extends-work-palliative-transport-allowance-for-civil-servants/",
+    "summary": "<p>He had earlier approved the palliative measures for the period of April to June 2026 in response to the increase in the pump price of petrol.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/ogun-extends-work-palliative-transport-allowance-for-civil-servants/\">Ogun Extends Work Palliative, Transport Allowance For Civil Servants</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 19:22:40 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-16T20:42:25.603738+00:00",
+    "used": false
+  },
+  {
+    "id": "ed2aa640c7be24ea",
+    "source": "Channels TV",
+    "title": "No Plumptre, Experienced Core, New Faces… Assessing Super Falcons’ Squad For WAFCON 2026",
+    "link": "https://www.channelstv.com/2026/07/16/no-plumptre-experienced-core-new-faces-assessing-super-falcons-squad-for-wafcon-2026/",
+    "summary": "<p>With an 11th continental title on the line and a ticket to the 2027 World Cup in Brazil at stake, the mission for the Super Eagles at WAFCON is clear. </p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/16/no-plumptre-experienced-core-new-faces-assessing-super-falcons-squad-for-wafcon-2026/\">No Plumptre, Experienced Core, New Faces&#8230; Assessing Super Falcons&#8217; Squad For WAFCON 2026</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Thu, 16 Jul 2026 19:05:37 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-16T20:42:25.603782+00:00",
+    "used": false
+  },
+  {
+    "id": "5f8bf58050d55940",
+    "source": "Leadership Newspaper",
+    "title": "Throwback Photo Of Messi Bathing Baby Yamal Resurfaces Ahead Of World Cup Final",
+    "link": "https://leadership.ng/throwback-photo-of-messi-bathing-baby-yamal-resurfaces-ahead-of-world-cup-final/",
+    "summary": "A 19-year-old photograph of Argentine football icon Lionel Messi bathing an infant Lamine Yamal has resurfaced on social media ahead of the 2026 FIFA World Cup final between Argentina and Spain, rekindling one of football&#8217;s most remarkable stories. The image, taken in 2007 during a charity calendar photoshoot organised by Barcelona in partnership with a [&#8230;]",
+    "published": "Thu, 16 Jul 2026 20:29:18 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-16T20:42:28.368350+00:00",
     "used": false
   }
 ]
