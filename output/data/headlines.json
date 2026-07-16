@@ -96,7 +96,7 @@
     "published": "Tue, 14 Jul 2026 18:55:18 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T18:40:56.552987+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "188e666d72c4bb86",
@@ -1625,6 +1625,39 @@
     "published": "Wed, 15 Jul 2026 22:37:00 +0000",
     "priority": "high",
     "fetched_at": "2026-07-16T00:27:29.240636+00:00",
+    "used": false
+  },
+  {
+    "id": "998799c2c9d489db",
+    "source": "Punch Nigeria",
+    "title": "Akpabio, A’Ibom gov pledge sustained partnership for development",
+    "link": "https://punchng.com/akpabio-aibom-gov-pledge-sustained-partnership-for-development/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Akwa Ibom State Governor Umo Eno and Senate President Godswill Akpabio reaffirm their commitment to sustained partnership for peace and development in Akwa\n\nRead More: https://punchng.com/akpabio-aibom-gov-pledge-sustained-partnership-for-development/",
+    "published": "Thu, 16 Jul 2026 01:33:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T01:11:25.407770+00:00",
+    "used": false
+  },
+  {
+    "id": "7a8f8681d95a0190",
+    "source": "Punch Nigeria",
+    "title": "Delta CP orders crackdown on forest bandits",
+    "link": "https://punchng.com/delta-cp-orders-crackdown-on-forest-bandits/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Delta State Commissioner of Police intensifies efforts to root out forest bandits. Learn about the new directives for security agents and vigilantes.\n\nRead More: https://punchng.com/delta-cp-orders-crackdown-on-forest-bandits/",
+    "published": "Thu, 16 Jul 2026 01:32:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T01:11:25.407796+00:00",
+    "used": false
+  },
+  {
+    "id": "7bcbe0dc02f7fb01",
+    "source": "Punch Nigeria",
+    "title": "2027: Adamawa won’t elect APC gov, PDP chair insists",
+    "link": "https://punchng.com/2027-adamawa-wont-elect-apc-gov-pdp-chair-insists/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adamawa State PDP Chairman declares APC has no chance in the 2027 governorship election, challenging their candidate&#8217;s contributions to the state.\n\nRead More: https://punchng.com/2027-adamawa-wont-elect-apc-gov-pdp-chair-insists/",
+    "published": "Thu, 16 Jul 2026 01:26:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-16T01:11:25.407843+00:00",
     "used": false
   },
   {
@@ -3352,6 +3385,116 @@
     "published": "Wed, 15 Jul 2026 22:30:51 +0000",
     "priority": "medium",
     "fetched_at": "2026-07-16T00:27:29.240652+00:00",
+    "used": false
+  },
+  {
+    "id": "da74cadef7801953",
+    "source": "Punch Nigeria",
+    "title": "Wildlife expert seeks snake protection laws to curb Lassa fever",
+    "link": "https://punchng.com/wildlife-expert-seeks-snake-protection-laws-to-curb-lassa-fever/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A wildlife expert urges the Nigerian government to enact snake protection laws to control rodent populations and reduce Lassa fever spread.\n\nRead More: https://punchng.com/wildlife-expert-seeks-snake-protection-laws-to-curb-lassa-fever/",
+    "published": "Thu, 16 Jul 2026 01:44:19 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407682+00:00",
+    "used": false
+  },
+  {
+    "id": "605246b376adeec8",
+    "source": "Punch Nigeria",
+    "title": "Activist demands probe of Umahi physiotherapist’s death",
+    "link": "https://punchng.com/activist-demands-probe-of-umahi-physiotherapists-death/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A human rights activist is demanding a comprehensive probe into the mysterious death of Mary Habila, Dave Umahi&#8217;s physiotherapist, at his Uburu residence.\n\nRead More: https://punchng.com/activist-demands-probe-of-umahi-physiotherapists-death/",
+    "published": "Thu, 16 Jul 2026 01:34:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407723+00:00",
+    "used": false
+  },
+  {
+    "id": "a923fac6e1c69b47",
+    "source": "Punch Nigeria",
+    "title": "‘Foreign fleets maintain dominance in Nigeria’s maritime support industry’",
+    "link": "https://punchng.com/foreign-fleets-maintain-dominance-in-nigerias-maritime-support-industry/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Foreign fleets still dominate Nigeria&#8217;s maritime support industry, despite being Africa&#8217;s largest oil and gas producer. Discover how this impacts the econo\n\nRead More: https://punchng.com/foreign-fleets-maintain-dominance-in-nigerias-maritime-support-industry/",
+    "published": "Thu, 16 Jul 2026 01:34:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407747+00:00",
+    "used": false
+  },
+  {
+    "id": "92b4e1ef78198823",
+    "source": "Punch Nigeria",
+    "title": "Oloja stool: Court orders parties to maintain status quo",
+    "link": "https://punchng.com/oloja-stool-court-orders-parties-to-maintain-status-quo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos High Court orders parties in the Oloja of Lagos chieftaincy dispute to maintain status quo, affirming Prince Abiola Olojo-Kosoko as Oloja-elect.\n\nRead More: https://punchng.com/oloja-stool-court-orders-parties-to-maintain-status-quo/",
+    "published": "Thu, 16 Jul 2026 01:34:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407760+00:00",
+    "used": false
+  },
+  {
+    "id": "b2a1ece4f167f1af",
+    "source": "Punch Nigeria",
+    "title": "Bishop rejects alleged Islamisation, sharia policy",
+    "link": "https://punchng.com/bishop-rejects-alleged-islamisation-sharia-policy/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Calabar Bishop Nneoyi Egbe rejects alleged Islamisation and integration of Sharia law into Nigeria&#8217;s financial system, citing concerns over transparency.\n\nRead More: https://punchng.com/bishop-rejects-alleged-islamisation-sharia-policy/",
+    "published": "Thu, 16 Jul 2026 01:32:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407788+00:00",
+    "used": false
+  },
+  {
+    "id": "db3267d5c137439d",
+    "source": "Punch Nigeria",
+    "title": "Engineers urge FG to fund modern learning facilities",
+    "link": "https://punchng.com/engineers-urge-fg-to-fund-modern-learning-facilities/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian engineers and academics call on the Federal Government to invest in modern engineering education and facilities to boost global competitiveness.\n\nRead More: https://punchng.com/engineers-urge-fg-to-fund-modern-learning-facilities/",
+    "published": "Thu, 16 Jul 2026 01:31:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407816+00:00",
+    "used": false
+  },
+  {
+    "id": "c0424180698b6b43",
+    "source": "Punch Nigeria",
+    "title": "Kebbi approves N75m dowries for 300 mass wedding couples",
+    "link": "https://punchng.com/kebbi-approves-n75m-dowries-for-300-mass-wedding-couples/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kebbi State Government approves N750m for dowries for 300 couples in its third inclusive mass wedding programme, fostering stable homes and employment.\n\nRead More: https://punchng.com/kebbi-approves-n75m-dowries-for-300-mass-wedding-couples/",
+    "published": "Thu, 16 Jul 2026 01:31:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407832+00:00",
+    "used": false
+  },
+  {
+    "id": "1b9e7d50cf3e5dc2",
+    "source": "Punch Nigeria",
+    "title": "Oyo abduction: LAUTECH holds interfaith thanksgiving service",
+    "link": "https://punchng.com/oyo-abduction-lautech-holds-interfaith-thanksgiving-service/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "LAUTECH holds an interfaith thanksgiving service to celebrate the safe rescue of abductees, including staff family members, after a traumatic Oyo abduction\n\nRead More: https://punchng.com/oyo-abduction-lautech-holds-interfaith-thanksgiving-service/",
+    "published": "Thu, 16 Jul 2026 01:25:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407859+00:00",
+    "used": false
+  },
+  {
+    "id": "853671d05a8a1243",
+    "source": "Punch Nigeria",
+    "title": "FG begins fresh count of Nigeria’s out-of-school children",
+    "link": "https://punchng.com/fg-begins-fresh-count-of-nigerias-out-of-school-children/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government is conducting a nationwide survey to get an accurate figure of Nigeria&#8217;s out-of-school children, aiming for evidence-based policies.\n\nRead More: https://punchng.com/fg-begins-fresh-count-of-nigerias-out-of-school-children/",
+    "published": "Thu, 16 Jul 2026 01:23:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407892+00:00",
+    "used": false
+  },
+  {
+    "id": "30a3a9f69fbd7437",
+    "source": "Punch Nigeria",
+    "title": "US presses Nigeria on Christian attacks, IDP resettlement",
+    "link": "https://punchng.com/us-presses-nigeria-on-christian-attacks-idp-resettlement/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The US urges Nigeria to protect Christian communities from attacks and ensure safe resettlement for internally displaced persons. Learn more about the US-N\n\nRead More: https://punchng.com/us-presses-nigeria-on-christian-attacks-idp-resettlement/",
+    "published": "Thu, 16 Jul 2026 01:20:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-16T01:11:25.407908+00:00",
     "used": false
   },
   {
