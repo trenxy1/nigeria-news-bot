@@ -206,7 +206,7 @@
     "published": "Tue, 14 Jul 2026 18:04:55 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T18:41:00.664860+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "6bf76b9878b184fe",
@@ -3077,6 +3077,160 @@
     "published": "Sat, 18 Jul 2026 17:09:17 +0000",
     "priority": "high",
     "fetched_at": "2026-07-18T18:01:21.026253+00:00",
+    "used": false
+  },
+  {
+    "id": "7c3dc122970074ab",
+    "source": "Punch Nigeria",
+    "title": "Gombe PDP female gov aspirant withdraws lawsuit, backs Pantami",
+    "link": "https://punchng.com/gombe-pdp-female-gov-aspirant-withdraws-lawsuit-backs-pantami/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Gombe PDP female governorship aspirant, Monica Yahaya Kaltho, withdraws lawsuit challenging primary and declares support for candidate Prof. Isa Pantami.\n\nRead More: https://punchng.com/gombe-pdp-female-gov-aspirant-withdraws-lawsuit-backs-pantami/",
+    "published": "Sat, 18 Jul 2026 21:32:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:08.260480+00:00",
+    "used": false
+  },
+  {
+    "id": "9fd1b91ce2826860",
+    "source": "Punch Nigeria",
+    "title": "Christian group urges Tinubu to reject bill criminalising preaching in commercial vehicles",
+    "link": "https://punchng.com/christian-group-urges-tinubu-to-reject-bill-criminalising-preaching-in-commercial-vehicles/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Christian group calls on President Tinubu to reject a bill criminalising preaching in commercial vehicles, citing threats to constitutional rights.\n\nRead More: https://punchng.com/christian-group-urges-tinubu-to-reject-bill-criminalising-preaching-in-commercial-vehicles/",
+    "published": "Sat, 18 Jul 2026 21:26:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:08.260510+00:00",
+    "used": false
+  },
+  {
+    "id": "fa6adcfb80a42395",
+    "source": "Punch Nigeria",
+    "title": "FG seals AI crop monitoring deal with Morocco, targets 15 states",
+    "link": "https://punchng.com/fg-seals-ai-crop-monitoring-deal-with-morocco-targets-15-states/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria&#8217;s FG partners with Morocco to deploy an AI crop monitoring system, targeting 15 states to boost food security and agricultural productivity.\n\nRead More: https://punchng.com/fg-seals-ai-crop-monitoring-deal-with-morocco-targets-15-states/",
+    "published": "Sat, 18 Jul 2026 20:41:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:08.260554+00:00",
+    "used": false
+  },
+  {
+    "id": "48160980c0cb97a6",
+    "source": "Punch Nigeria",
+    "title": "Benue killings: Ex-LP presidential aspirant urges Tinubu to end bloodshed",
+    "link": "https://punchng.com/benue-killings-ex-lp-presidential-aspirant-urges-tinubu-to-end-bloodshed/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Labour Party presidential aspirant, Peter Agada, urges President Tinubu to take decisive action to end the persistent Benue killings and restore pea\n\nRead More: https://punchng.com/benue-killings-ex-lp-presidential-aspirant-urges-tinubu-to-end-bloodshed/",
+    "published": "Sat, 18 Jul 2026 20:02:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:08.260580+00:00",
+    "used": false
+  },
+  {
+    "id": "86ca25b0aec53435",
+    "source": "Punch Nigeria",
+    "title": "Police nab fake pastor, woman after rescuing abducted four-week-old baby",
+    "link": "https://punchng.com/police-nab-fake-pastor-woman-after-rescuing-abducted-four-week-old-baby/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Niger State Police rescued a four-week-old baby and arrested a fake pastor and his accomplice involved in the baby abduction in Minna.\n\nRead More: https://punchng.com/police-nab-fake-pastor-woman-after-rescuing-abducted-four-week-old-baby/",
+    "published": "Sat, 18 Jul 2026 19:32:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:08.260614+00:00",
+    "used": false
+  },
+  {
+    "id": "139476272cc4eed4",
+    "source": "Punch Nigeria",
+    "title": "Police arrest robbery suspect in Oyo, recover stolen bike",
+    "link": "https://punchng.com/police-arrest-robbery-suspect-in-oyo-recover-stolen-bike/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Oyo State Police Command arrests a robbery suspect, Shafiu Nuhu, who attacked a motorcyclist in Ibadan and recovered the stolen Bajaj Boxer bike.\n\nRead More: https://punchng.com/police-arrest-robbery-suspect-in-oyo-recover-stolen-bike/",
+    "published": "Sat, 18 Jul 2026 19:22:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:08.260623+00:00",
+    "used": false
+  },
+  {
+    "id": "71693450aca605fc",
+    "source": "Punch Nigeria",
+    "title": "ADC faults Tinubu’s economic policies, promises better deal",
+    "link": "https://punchng.com/adc-faults-tinubus-economic-policies-promises-better-deal/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The African Democratic Congress (ADC) criticizes President Tinubu&#8217;s economic policies, citing worsening poverty and hunger, and offers an alternative plan\n\nRead More: https://punchng.com/adc-faults-tinubus-economic-policies-promises-better-deal/",
+    "published": "Sat, 18 Jul 2026 19:06:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:08.260662+00:00",
+    "used": false
+  },
+  {
+    "id": "7e2644f4c8589a03",
+    "source": "Premium Times",
+    "title": "Uba Sani compensates Sabon Gari residents ahead of major road construction",
+    "link": "https://www.premiumtimesng.com/promoted/896389-uba-sani-compensates-sabon-gari-residents-ahead-of-major-road-construction.html",
+    "summary": "<img alt=\"Governor Uba Sani (right) presenting cheque to one of the beneficiaries\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1366\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG_0576.jpeg?fit=2048%2C1366&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>At a cheque presentation ceremony held in Basawa, Sabon Gari Local Government Area, on Friday, Governor Sani reaffirmed that his administration places the welfare and d",
+    "published": "Sat, 18 Jul 2026 18:55:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:09.393281+00:00",
+    "used": false
+  },
+  {
+    "id": "e40e6cc66208d27a",
+    "source": "Channels TV",
+    "title": "Banditry: Kwara Community Writes Tinubu For Intervention",
+    "link": "https://www.channelstv.com/2026/07/18/banditry-kwara-community-writes-tinubu-for-intervention/",
+    "summary": "<p>They appealed to the president to direct the immediate deployment of security personnel to secure the community.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/banditry-kwara-community-writes-tinubu-for-intervention/\">Banditry: Kwara Community Writes Tinubu For Intervention</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 19:50:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:13.303993+00:00",
+    "used": false
+  },
+  {
+    "id": "e10bce733095ccf5",
+    "source": "Leadership Newspaper",
+    "title": "APC Support Group Urges Tuggar To Accept Bauchi Primary Out Come",
+    "link": "https://leadership.ng/apc-support-group-urges-tuggar-to-accept-bauchi-primary-out-come/",
+    "summary": "&#160; &#160; The League of APC Support Groups in Bauchi State has urged former Minister of Foreign Affairs, Ambassador Yusuf Maitama Tuggar, to accept the outcome of the All Progressives Congress (APC) governorship primary election in the state, which produced former Governor Mohammed Abdullahi Abubakar (SAN) as the party&#8217;s candidate for the 2027 governorship election. [&#8230;]",
+    "published": "Sat, 18 Jul 2026 19:52:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:16.122560+00:00",
+    "used": false
+  },
+  {
+    "id": "7c8d888096ec9e1a",
+    "source": "Leadership Newspaper",
+    "title": "Shaquille O’Neal Helps 7-Foot-3 Aspiring Officer Achieve Lifelong Dream",
+    "link": "https://leadership.ng/shaquille-oneal-helps-7-foot-3-aspiring-officer-achieve-lifelong-dream/",
+    "summary": "For Jordan Willmore, standing 7 feet 3 inches tall has always made him impossible to miss. But it is his determination to serve his community, not his towering height, that is now inspiring people around the world. &#160; The aspiring police officer recently became the tallest recruit in his police academy after passing his entrance [&#8230;]",
+    "published": "Sat, 18 Jul 2026 19:17:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:16.122574+00:00",
+    "used": false
+  },
+  {
+    "id": "74f5061357409359",
+    "source": "Leadership Newspaper",
+    "title": "2027: Oyo APC Accuses Makinde Of Planning Crackdown On Opposition Campaigns",
+    "link": "https://leadership.ng/2027-oyo-apc-accuses-makinde-of-planning-crackdown-on-opposition-campaigns/",
+    "summary": "As political parties, candidates and their supporters prepare for electioneering campaigns ahead of 2027 general elections, the All Progressives Congress (APC) in Oyo State has alleged that governor Seyi Makinde is planning to clamp down on the opposition by restricting its campaign activities. The opposition party said it was reacting to a recent notice issued by [&#8230;]",
+    "published": "Sat, 18 Jul 2026 19:00:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:16.122586+00:00",
+    "used": false
+  },
+  {
+    "id": "245628418669c409",
+    "source": "Leadership Newspaper",
+    "title": "Igala Community in Ajaokuta Steel Township Endorses Abdulraheem, Backs APC Ahead of 2027",
+    "link": "https://leadership.ng/igala-community-in-ajaokuta-steel-township-endorses-abdulraheem-backs-apc-ahead-of-2027/",
+    "summary": "The Igala community in Ajaokuta Steel Township, Ajaokuta Local Government Area of Kogi State, has reaffirmed its support for the member representing Ajaokuta Federal Constituency in the House of Representatives, Hon. Sanni Egidi Abdulraheem, and other candidates of the All Progressives Congress (APC) ahead of the 2027 general elections. The community, represented by members of [&#8230;]",
+    "published": "Sat, 18 Jul 2026 18:57:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:16.122595+00:00",
+    "used": false
+  },
+  {
+    "id": "002a0a7251c66fd5",
+    "source": "Leadership Newspaper",
+    "title": "Isaac Fayose Reverses Position, Hails Obi As ‘Nigeria’s Incoming President’",
+    "link": "https://leadership.ng/isaac-fayose-reverses-position-hails-obi-as-nigerias-incoming-president/",
+    "summary": "Social commentator and businessman, Isaac Fayose, has made a dramatic reversal in his stance towards the presidential candidate of the Nigeria Democratic Congress (NDC), Peter Obi, describing him as Nigeria&#8217;s &#8220;incoming president&#8221; during a visit by the former Anambra State governor to his residence on Saturday. The development comes just days after Fayose publicly criticised [&#8230;]",
+    "published": "Sat, 18 Jul 2026 18:35:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-18T20:36:16.122627+00:00",
     "used": false
   },
   {
@@ -7282,6 +7436,215 @@
     "used": false
   },
   {
+    "id": "239548ea536a13e2",
+    "source": "Punch Nigeria",
+    "title": "My colleagues lack love, says Nollywood actress Halima Abubakar after 13-year ordeal",
+    "link": "https://punchng.com/my-colleagues-lack-love-empathy-says-halima-abubakar-after-13-year-ordeal/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nollywood actress Halima Abubakar shares her 13-year health ordeal, stating colleagues lacked love and empathy. She urges unity in the film industry.\n\nRead More: https://punchng.com/my-colleagues-lack-love-empathy-says-halima-abubakar-after-13-year-ordeal/",
+    "published": "Sat, 18 Jul 2026 21:18:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:08.260527+00:00",
+    "used": false
+  },
+  {
+    "id": "e18ffd2b23ab9daf",
+    "source": "Punch Nigeria",
+    "title": "British Airways donates laptops to bridge digital divide for out-of-school children",
+    "link": "https://punchng.com/british-airways-donates-laptops-to-bridge-digital-divide-for-out-of-school-children/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "British Airways partners with IA-Foundation to donate laptops, bridging the digital divide for out-of-school children in Nigeria and expanding access to te\n\nRead More: https://punchng.com/british-airways-donates-laptops-to-bridge-digital-divide-for-out-of-school-children/",
+    "published": "Sat, 18 Jul 2026 20:57:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:08.260546+00:00",
+    "used": false
+  },
+  {
+    "id": "bfbb72f178fc719b",
+    "source": "Punch Nigeria",
+    "title": "NEMA urges flood-prone residents to relocate as rains intensify nationwide",
+    "link": "https://punchng.com/nema-urges-flood-prone-residents-to-relocate-as-rains-intensify-nationwide/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NEMA advises residents in flood-prone areas to relocate as heavy rains intensify nationwide. Learn how to prepare and prevent flood-related losses.\n\nRead More: https://punchng.com/nema-urges-flood-prone-residents-to-relocate-as-rains-intensify-nationwide/",
+    "published": "Sat, 18 Jul 2026 20:21:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:08.260573+00:00",
+    "used": false
+  },
+  {
+    "id": "f273dee8c9f7a57b",
+    "source": "Punch Nigeria",
+    "title": "Chelsea agree club-record £117m deal for Rogers",
+    "link": "https://punchng.com/chelsea-agree-club-record-117m-deal-for-rogers/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Chelsea shatters transfer records with a £117m deal for Aston Villa&#8217;s Morgan Rogers. This club-record signing marks a new era for the Blues.\n\nRead More: https://punchng.com/chelsea-agree-club-record-117m-deal-for-rogers/",
+    "published": "Sat, 18 Jul 2026 19:37:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:08.260605+00:00",
+    "used": false
+  },
+  {
+    "id": "f26c174fb908964d",
+    "source": "Punch Nigeria",
+    "title": "‘I regret going to BBNaija, but love the benefits’ — Ex-winner Mercy Eke",
+    "link": "https://punchng.com/i-regret-going-to-bbnaija-but-love-the-benefits-ex-winner-mercy-eke/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Big Brother Naija season four winner, Mercy Eke, says she regrets taking part in the reality television show, even though she has enjoyed the benefits that came with it. She made this known during an interview on media personality, Toke Makinwa&#8217;s show, Toke Moments which was published on Saturday. Eke, who won the fourth edition\n\nRead More: https://punchng.com/i-regret-going-to-bbnaija-but-love-the-benefits-ex-winner-mercy-eke/",
+    "published": "Sat, 18 Jul 2026 19:07:53 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:08.260651+00:00",
+    "used": false
+  },
+  {
+    "id": "d71a4eaba6960fb6",
+    "source": "Premium Times",
+    "title": "How political vanity is choking Nigeria’s future, By Adeola Akinremi",
+    "link": "https://www.premiumtimesng.com/opinion/896408-how-political-vanity-is-choking-nigerias-future-by-adeola-akinremi.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"620\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Adeola-Akinremi.jpeg?fit=640%2C620&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>“Democracy dies in darkness.” I thought about those words this week as I walked past The Washington Post headquarters on K Street in northwest, downtown Washington D.C. Some phrases become so familiar that they risk fading into the back",
+    "published": "Sat, 18 Jul 2026 20:31:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:09.393143+00:00",
+    "used": false
+  },
+  {
+    "id": "90ce6b38fc3247ff",
+    "source": "Premium Times",
+    "title": "Nigeria, Ghana to cooperate against xenophobia in Africa",
+    "link": "https://www.premiumtimesng.com/news/top-news/896395-nigeria-ghana-to-cooperate-against-xenophobia-in-africa.html",
+    "summary": "<img alt=\"The Minister of State for Foreign Affairs, Amb. Sola Enikanolaiye and the Minister of Foreign Affairs of Ghana, Hon. Samuel Okudzeto Ablakwa had a bilateral meeting on the sidelines of the ongoing ECOWAS Mid-Year Summit in Freetown, Sierra Leone, on Friday, 17 July 2026 [PHOTO CREDIT: @NigeriaMFA]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"551\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Screenshot-2026-07-18-202132.jpg?fit=963%2C551&amp;ssl=1\" s",
+    "published": "Sat, 18 Jul 2026 19:23:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:09.393224+00:00",
+    "used": false
+  },
+  {
+    "id": "cef7f4e143a92bda",
+    "source": "Premium Times",
+    "title": "Updated: Two US soldiers killed, another missing in Iranian strikes",
+    "link": "https://www.premiumtimesng.com/news/headlines/896387-just-in-two-us-soldiers-killed-another-missing-in-iranian-strikes.html",
+    "summary": "<img alt=\"US soldiers (PHOTO CREDIT: nationalguard)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1080\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/220211-A-VH689-623-1.jpg?fit=1620%2C1080&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1620\" /><p>Another soldier is currently listed as missing in action while four others were injured in the strikes and have been successfully treated.</p>\n<p>The post <a href=\"https://www.premiumtime",
+    "published": "Sat, 18 Jul 2026 18:50:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:09.393304+00:00",
+    "used": false
+  },
+  {
+    "id": "2c5ce99f7b4e569b",
+    "source": "Premium Times",
+    "title": "Pupils in Smart Green School in Igbo-Eze South receive uniforms from Enugu govt",
+    "link": "https://www.premiumtimesng.com/promoted/896383-pupils-in-smart-green-school-in-igbo-eze-south-receive-uniforms-from-enugu-govt.html",
+    "summary": "<img alt=\"Smart Green School in Igbo-Eze South Local Government Area of Enugu State\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1153\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG_9571.jpeg?fit=2048%2C1153&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>“Every uniform tells a story of hope and every child in it represents a brighter future.”</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/promoted/896383-pupi",
+    "published": "Sat, 18 Jul 2026 18:44:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:09.393337+00:00",
+    "used": false
+  },
+  {
+    "id": "1481234120d48e0a",
+    "source": "Premium Times",
+    "title": "Court jails ‘prophet’ who defrauded church members of N136m",
+    "link": "https://www.premiumtimesng.com/news/top-news/896380-court-jails-prophet-who-defrauded-church-members-of-n136m.html",
+    "summary": "<img alt=\"An illustration of a prophet calling on holy ghost thunder\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"708\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/ChatGPT-Image-Jul-18-2026-07_29_17-PM-e1784399573193.png?fit=1122%2C708&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1122\" /><p>The EFCC told the court that its investigations showed that the modus operandi of the self-acclaimed prophet was luring his church members i",
+    "published": "Sat, 18 Jul 2026 18:33:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:09.393363+00:00",
+    "used": false
+  },
+  {
+    "id": "1ddd13305b696a09",
+    "source": "Premium Times",
+    "title": "PT Health Watch: Why high cholesterol is easy to miss but dangerous to ignore",
+    "link": "https://www.premiumtimesng.com/news/top-news/896376-pt-health-watch-why-high-cholesterol-is-easy-to-miss-but-dangerous-to-ignore.html",
+    "summary": "<img alt=\"An image showing the difference between good and bad cholesterol in the artery\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"986\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/ChatGPT-Image-Jul-18-2026-07_05_13-PM-e1784398035753.png?fit=1536%2C986&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>To better understand the hidden dangers of high cholesterol, PT HEALTH WATCH spoke with Happiness Akinde, a medical doct",
+    "published": "Sat, 18 Jul 2026 18:11:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:09.393391+00:00",
+    "used": false
+  },
+  {
+    "id": "032db54c304df0a8",
+    "source": "Channels TV",
+    "title": "Madonna, Burna Boy Cruise Among A-List Stars To Headline World Cup Final",
+    "link": "https://www.channelstv.com/2026/07/18/madonna-burna-boy-cruise-among-a-list-stars-to-headline-world-cup-final/",
+    "summary": "<p>Madonna, who just dropped a new album at 67, will share the stage with Justin Bieber, K-pop megagroup BTS and Shakira, whose song \"Dai Dai\" with Burna Boy is the official song of the tournament.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/madonna-burna-boy-cruise-among-a-list-stars-to-headline-world-cup-final/\">Madonna, Burna Boy Cruise Among A-List Stars To Headline World Cup Final</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 20:33:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:13.303935+00:00",
+    "used": false
+  },
+  {
+    "id": "9ff3b81f5403dfde",
+    "source": "Channels TV",
+    "title": "Senator Katung Appeals For Calm Over Mary Habila’s Death",
+    "link": "https://www.channelstv.com/2026/07/18/senator-katung-appeals-for-calm-over-mary-habilas-death-urges-respect-for-familys-wishes/",
+    "summary": "<p>Katung also called on the public to respect the family's desire to mourn privately and bury their daughter with dignity.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/senator-katung-appeals-for-calm-over-mary-habilas-death-urges-respect-for-familys-wishes/\">Senator Katung Appeals For Calm Over Mary Habila&#8217;s Death</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 20:16:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:13.303984+00:00",
+    "used": false
+  },
+  {
+    "id": "966ce3262e0c63fe",
+    "source": "Channels TV",
+    "title": "Radda Commissions Ultra-Modern Remawa Health Clinic",
+    "link": "https://www.channelstv.com/2026/07/18/radda-commissions-ultra-modern-health-clinic/",
+    "summary": "<p>He also announced that 1,000 vulnerable residents from the Remawa, Yargwamna, ’Yartsamiya and ’Yarnabanye communities would be enrolled in the Katsina State Contributory Healthcare Management Agency (KTSCHMA).</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/radda-commissions-ultra-modern-health-clinic/\">Radda Commissions Ultra-Modern Remawa Health Clinic</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 19:33:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:13.304019+00:00",
+    "used": false
+  },
+  {
+    "id": "4ebd4f575a485d0e",
+    "source": "Channels TV",
+    "title": "GOC Urges Commanders To Leave Lasting Legacies Via Welfare Projects",
+    "link": "https://www.channelstv.com/2026/07/18/goc-urges-commanders-to-leave-lasting-legacies-via-welfare-projects/",
+    "summary": "<p>The GOC encouraged commanders across the Division to continue executing impactful projects, irrespective of their size.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/goc-urges-commanders-to-leave-lasting-legacies-via-welfare-projects/\"> GOC Urges Commanders To Leave Lasting Legacies Via Welfare Projects</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 18:35:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:13.304044+00:00",
+    "used": false
+  },
+  {
+    "id": "e338062962fe7d53",
+    "source": "Channels TV",
+    "title": "Soludo Unveils Chinua Achebe’s Statue, Pledges To Nurture Future Literary Icons",
+    "link": "https://www.channelstv.com/2026/07/18/soludo-unveils-chinua-achebes-statue-in-anambra-pledges-to-nurture-future-literary-icons/",
+    "summary": "<p>Achebe gained international acclaim with his 1958 classic, Things Fall Apart, a novel translated into dozens of languages and studied across the world.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/soludo-unveils-chinua-achebes-statue-in-anambra-pledges-to-nurture-future-literary-icons/\">Soludo Unveils Chinua Achebe&#8217;s Statue, Pledges To Nurture Future Literary Icons</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 18:20:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:13.304094+00:00",
+    "used": false
+  },
+  {
+    "id": "513b782e24eb8bfa",
+    "source": "Leadership Newspaper",
+    "title": "Antonelli Beats Verstappen To Belgian Grand Prix Pole",
+    "link": "https://leadership.ng/antonelli-beats-verstappen-to-belgian-grand-prix-pole/",
+    "summary": "Mercedes&#8217; Kimi Antonelli delivered a stunning pole position at the Belgian Grand Prix, leaving teammate and title rival George Russell floundering in fourth, over half a second behind. The championship leader, who holds a 25-point advantage over Russell, edged out Red Bull&#8217;s Max Verstappen by 0.317 seconds—despite the Dutchman receiving a blatant slipstream assist from [&#8230;]",
+    "published": "Sat, 18 Jul 2026 20:30:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:16.122534+00:00",
+    "used": false
+  },
+  {
+    "id": "1717412bf54535ac",
+    "source": "Leadership Newspaper",
+    "title": "Aremu Urges South African Leaders To Uphold Nelson Mandela’s Legacy",
+    "link": "https://leadership.ng/aremu-urges-south-african-leaders-to-uphold-nelson-mandelas-legacy/",
+    "summary": "The director general of the Michael Imoudu National Institute for Labour Studies (MINILS), Ilorin, Comrade Issa Aremu, has called on South African leaders to uphold the enduring ideals of the late Nelson Mandela by promoting tolerance, reconciliation, Pan-Africanism and respect for human dignity. He also urged them to bring an end to recurring xenophobic attacks [&#8230;]",
+    "published": "Sat, 18 Jul 2026 18:56:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:16.122618+00:00",
+    "used": false
+  },
+  {
+    "id": "95d9d15b6e8ec18c",
+    "source": "Leadership Newspaper",
+    "title": "Borno Govt Releases Proof-Of-Life Video Of Abducted Mussa School Pupils",
+    "link": "https://leadership.ng/borno-govt-releases-proof-of-life-video-of-abducted-mussa-school-pupils/",
+    "summary": "The Borno State Government has released a proof-of-life video showing the 42 pupils abducted from Mussa Primary and Junior Secondary School in Askira/Uba Local Government Area, confirming they are still alive as efforts to secure their release continue. The 15-second video was played on Saturday during a presentation at the Borno State Education Summit in [&#8230;]",
+    "published": "Sat, 18 Jul 2026 17:56:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-18T20:36:16.122646+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -7708,6 +8071,39 @@
     "published": "Sat, 18 Jul 2026 17:42:21 +0000",
     "priority": "low",
     "fetched_at": "2026-07-18T18:01:21.026205+00:00",
+    "used": false
+  },
+  {
+    "id": "a6ede2b3b9bed8d7",
+    "source": "Premium Times",
+    "title": "Nigeria sends largest-ever archery team to African Championships in Algeria",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/896403-nigeria-sends-largest-ever-archery-team-to-african-championships-in-algeria.html",
+    "summary": "<img alt=\"Team Nigeria Credit: NAFED\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1708\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003643694-scaled.jpg?fit=2560%2C1708&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The Nigeria Archery Federation is seeking corporate sponsorship to be able to attend more championships </p>\n<p>The post <a href=\"https://www.premiumtimesng.com/sports/nigeria-sports-news/896403-nigeria-se",
+    "published": "Sat, 18 Jul 2026 19:58:41 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-18T20:36:09.393190+00:00",
+    "used": false
+  },
+  {
+    "id": "82f4a78b6e23ba05",
+    "source": "Premium Times",
+    "title": "1xCup organisers unveil plans for 2026 tournament",
+    "link": "https://www.premiumtimesng.com/sports/football/896396-1xcup-organisers-unveil-plans-for-2026-tournament.html",
+    "summary": "<img alt=\"L-R: 1xCup Technical Director Waidi Akanni, Head of Operations Abiodun Babalola and General Manager Adedapo Dimeji at the unveiling of the 2026 1xCup tournament in Lagos.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"853\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003641034.jpg?fit=1280%2C853&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p> At the launch of the fourth edition in Lagos on Friday, organisers an",
+    "published": "Sat, 18 Jul 2026 19:21:46 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-18T20:36:09.393259+00:00",
+    "used": false
+  },
+  {
+    "id": "9c5414794edad0e1",
+    "source": "Channels TV",
+    "title": "Gov Eno Directs Transport Operators To Register On Akwa Ibom State Database",
+    "link": "https://www.channelstv.com/2026/07/18/gov-eno-directs-transport-operators-to-register-on-akwa-ibom-state-database/",
+    "summary": "<p>He said the initiative is aimed at preventing criminals from disguising themselves as commercial transport operators to perpetrate crime in the state.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/gov-eno-directs-transport-operators-to-register-on-akwa-ibom-state-database/\">Gov Eno Directs Transport Operators To Register On Akwa Ibom State Database</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 18:31:47 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-18T20:36:13.304065+00:00",
     "used": false
   }
 ]
