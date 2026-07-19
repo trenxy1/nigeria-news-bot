@@ -53,6 +53,7 @@ jobs:
         with:
           name: nigeria-news-video-${{ github.run_number }}
           path: output/videos/*.mp4
+            output/thumbnails/*.jpg
           retention-days: 7
 
       - name: Commit updated headlines.json back to repo
