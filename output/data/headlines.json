@@ -239,7 +239,7 @@
     "published": "Tue, 14 Jul 2026 20:00:13 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T19:29:50.401141+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "b837facde8a48ee3",
@@ -3561,6 +3561,72 @@
     "published": "Sun, 19 Jul 2026 16:57:36 +0000",
     "priority": "high",
     "fetched_at": "2026-07-19T18:02:22.431669+00:00",
+    "used": false
+  },
+  {
+    "id": "85ee23e5df0abadf",
+    "source": "Premium Times",
+    "title": "FG to digitise mining sector, track operators",
+    "link": "https://www.premiumtimesng.com/business/business-news/896584-fg-to-digitise-mining-sector-track-operators.html",
+    "summary": "<img alt=\"Minister of Solid Minerals Development, Dele Alake\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/WhatsApp-Image-2026-05-22-at-07.41.44.jpeg?fit=1080%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>According to the Federal Government, integrating digital identity into the mining sector will improve oversight of mining operators, strengthen regulation, and su",
+    "published": "Sun, 19 Jul 2026 19:24:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T20:36:21.387091+00:00",
+    "used": false
+  },
+  {
+    "id": "9e6521b11b3ef3b1",
+    "source": "Channels TV",
+    "title": "[BREAKING] Senegal President Elected ECOWAS Chairman",
+    "link": "https://www.channelstv.com/2026/07/19/breaking-senegal-president-elected-ecowas-chairman/",
+    "summary": "<p>Faye emerged as the new chairman during the 69th Ordinary Session of the Authority of Heads of State and Government of the Economic Community of West African States (ECOWAS) in Sierra Leone.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/19/breaking-senegal-president-elected-ecowas-chairman/\">[BREAKING] Senegal President Elected ECOWAS Chairman</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 19 Jul 2026 20:00:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T20:36:23.170231+00:00",
+    "used": false
+  },
+  {
+    "id": "f5fc131a9afbbc9d",
+    "source": "Channels TV",
+    "title": "Bago Pledges Completion Of IBBU Teaching Hospital",
+    "link": "https://www.channelstv.com/2026/07/19/bago-pledges-completion-of-ibbu-teaching-hospital/",
+    "summary": "<p>As part of the state's support, Governor Umaru Bago announced a grant of ₦2 million each to 41 medical students of the university to assist with their academic and living expenses. </p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/19/bago-pledges-completion-of-ibbu-teaching-hospital/\">Bago Pledges Completion Of IBBU Teaching Hospital</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 19 Jul 2026 18:08:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T20:36:23.170301+00:00",
+    "used": false
+  },
+  {
+    "id": "591ecd45cdb2a27f",
+    "source": "Leadership Newspaper",
+    "title": "NBA Election Sparks New Controversy As Akinboro, Akangbe Reject Badejo-Okusanya’s Victory",
+    "link": "https://leadership.ng/nba-election-sparks-new-controversy-as-akinboro-akangbe-reject-badejo-okusanyas-victory/",
+    "summary": "The 2026 Nigerian Bar Association (NBA) national election has ignited a fresh controversy, as two of the three presidential candidates, Aare Olumuyiwa Akinboro (SAN) and Lateef Akangbe (SAN), challenged the legitimacy of Oyinkansola Badejo-Okusanya (SAN) as the winner of the highly contested poll. Badejo-Okusanya was declared the winner of the election by the Electoral Committee [&#8230;]",
+    "published": "Sun, 19 Jul 2026 20:00:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T20:36:25.982705+00:00",
+    "used": false
+  },
+  {
+    "id": "d74d90a8354f9c1c",
+    "source": "Leadership Newspaper",
+    "title": "2027:  Kebbi ADC Alleges Malami’s Prosecution Is Politically Motivated",
+    "link": "https://leadership.ng/2027-kebbi-adc-alleges-malamis-prosecution-is-politically-motivated/",
+    "summary": "The Kebbi State chapter of the African Democratic Congress (ADC) has alleged that the prosecution of its governorship candidate and former Attorney-General of the Federation and Minister of Justice, Abubakar Malami, is politically motivated and aimed at weakening the opposition ahead of the 2027 general elections. The allegation was contained in a statement jointly signed [&#8230;]",
+    "published": "Sun, 19 Jul 2026 18:58:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T20:36:25.982730+00:00",
+    "used": false
+  },
+  {
+    "id": "6983d8a0b20c1e24",
+    "source": "Leadership Newspaper",
+    "title": "NLC To Push For New Minimum Wage, National Minimum Pension",
+    "link": "https://leadership.ng/nlc-to-push-for-new-minimum-wage-national-minimum-pension/",
+    "summary": "The Nigeria Labor Congress (NLC) has announced plans to launch a major national campaign to review the national minimum wage and to demand the introduction of a national minimum pension for retirees. NLC president, Comrade Joe Ajaero, disclosed this during the commissioning of the Comrade Godwin Abumisi Pensioners Legacy House and Multipurpose Hall in Abuja. [&#8230;]",
+    "published": "Sun, 19 Jul 2026 18:24:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T20:36:25.982762+00:00",
     "used": false
   },
   {
@@ -8459,6 +8525,160 @@
     "used": false
   },
   {
+    "id": "5ec2cf98b6d01d2c",
+    "source": "Premium Times",
+    "title": "Enugu govt upscales tourism status, approves massive infrastructure projects",
+    "link": "https://www.premiumtimesng.com/promoted/896586-enugu-govt-upscales-tourism-status-approves-massive-infrastructure-projects.html",
+    "summary": "<img alt=\"A cross section of Enugu State Government commissioners speaking on the new projects\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"539\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/7528d8e4-40c9-4060-8386-bfb186c6e766.jpeg?fit=1080%2C539&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The government also approved 1,000 housing units at Enugu Smart City, 18,000 mass housing units at Gateway Estate, cable car with",
+    "published": "Sun, 19 Jul 2026 20:14:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:21.387073+00:00",
+    "used": false
+  },
+  {
+    "id": "eaf970f16fccc209",
+    "source": "Premium Times",
+    "title": "Entering into your season of rest (1), By Ayo Akerele",
+    "link": "https://www.premiumtimesng.com/opinion/896581-entering-into-your-season-of-rest-1-by-ayo-akerele.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"590\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/09/Dr-Ayo-Akerele.jpeg?fit=502%2C590&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"502\" /><p>Before teaching on the mystery of rest, I must begin with my own story, because revelation becomes more powerful when it is backed by experience. My journey into rest did not begin in comfort; it began in crisis. It began in foreign land",
+    "published": "Sun, 19 Jul 2026 19:12:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:21.387113+00:00",
+    "used": false
+  },
+  {
+    "id": "87f40b15ed9a31ba",
+    "source": "Premium Times",
+    "title": "You are a product of your decisions, By Sunday Adelaja",
+    "link": "https://www.premiumtimesng.com/opinion/896577-you-are-a-product-of-your-decisions-by-sunday-adelaja.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"553\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/Dr-Sunday-Adelaja.jpg?fit=448%2C553&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"448\" /><p>Every decision carries consequences. Once you make a decision, you become accountable to the outcome of that decision, whether good or bad. So if you want a different life, begin by making different decisions&#8230; Choose wisely. Choo",
+    "published": "Sun, 19 Jul 2026 18:42:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:21.387135+00:00",
+    "used": false
+  },
+  {
+    "id": "e004596dc5a557de",
+    "source": "Channels TV",
+    "title": "Burna Boy, Shakira, BTS, Others Wow Fans At Historic FIFA World Cup Final Halftime Show",
+    "link": "https://www.channelstv.com/2026/07/19/burna-boy-shakira-bts-others-wow-fans-at-historic-fifa-world-cup-final-halftime-show/",
+    "summary": "<p>The show marked FIFA's first-ever Super Bowl-style halftime performance during the World Cup final between defending champions Argentina and Spain at MetLife Stadium.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/19/burna-boy-shakira-bts-others-wow-fans-at-historic-fifa-world-cup-final-halftime-show/\">Burna Boy, Shakira, BTS, Others Wow Fans At Historic FIFA World Cup Final Halftime Show</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 19 Jul 2026 20:34:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:23.170217+00:00",
+    "used": false
+  },
+  {
+    "id": "b46964b434b973a2",
+    "source": "Channels TV",
+    "title": "Jennifer Hudson, Post Malone, Robbie Williams Headline FIFA World Cup 2026 Closing Ceremony",
+    "link": "https://www.channelstv.com/2026/07/19/jennifer-hudson-post-malone-robbie-williams-headline-fifa-world-cup-2026-closing-ceremony/",
+    "summary": "<p>The pre-match celebration featured an array of internationally acclaimed entertainers assembled to mark the conclusion of the first 48-team FIFA World Cup.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/19/jennifer-hudson-post-malone-robbie-williams-headline-fifa-world-cup-2026-closing-ceremony/\">Jennifer Hudson, Post Malone, Robbie Williams Headline FIFA World Cup 2026 Closing Ceremony</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 19 Jul 2026 19:12:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:23.170247+00:00",
+    "used": false
+  },
+  {
+    "id": "39d34addc624bcf4",
+    "source": "Channels TV",
+    "title": "Hundreds Evacuated As Wildfire Scorches 13,000 Hectares In Spain",
+    "link": "https://www.channelstv.com/2026/07/19/hundreds-evacuated-as-wildfire-scorches-13000-hectares-in-spain/",
+    "summary": "<p>The wildfire comes after another blaze broke out on Wednesday near Zaragoza, in the northeastern region of Aragon, forcing around 1,000 people to evacuate their homes.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/19/hundreds-evacuated-as-wildfire-scorches-13000-hectares-in-spain/\">Hundreds Evacuated As Wildfire Scorches 13,000 Hectares In Spain</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 19 Jul 2026 18:44:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:23.170274+00:00",
+    "used": false
+  },
+  {
+    "id": "c0e104cc1c7671e3",
+    "source": "Channels TV",
+    "title": "World Cup Final Line-Ups: Yamal Starts For Spain, Messi Leads Argentina",
+    "link": "https://www.channelstv.com/2026/07/19/world-cup-final-line-ups-yamal-starts-for-spain-messi-leads-argentina/",
+    "summary": "<p>Argentina and Spain have both named strong sides for the World Cup final, as the defending champions seek to become only the third team to retain the trophy.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/19/world-cup-final-line-ups-yamal-starts-for-spain-messi-leads-argentina/\">World Cup Final Line-Ups: Yamal Starts For Spain, Messi Leads Argentina</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 19 Jul 2026 18:15:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:23.170288+00:00",
+    "used": false
+  },
+  {
+    "id": "b445f21aafd0cad8",
+    "source": "Leadership Newspaper",
+    "title": "Cross River Trains 221 Facilitators For Social Intervention Programme",
+    "link": "https://leadership.ng/cross-river-trains-221-facilitators-for-social-intervention-programme/",
+    "summary": "The Cross River State Government, through the Office of the Social Intervention and Investment Programme during the weekend commenced capacity building for its statewide program with the training of 221 facilitators. The team  made up of 196 Ward Development Officers (WDOs) and 25 local government liaison Officers to cover the 196 political wards in the [&#8230;]",
+    "published": "Sun, 19 Jul 2026 20:31:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:25.982645+00:00",
+    "used": false
+  },
+  {
+    "id": "641b84d1a832d9cd",
+    "source": "Leadership Newspaper",
+    "title": "‎“You Have No Business Relocating Abroad If You’re In Your 50s” – Singer Speed Darlington",
+    "link": "https://leadership.ng/you-have-no-business-relocating-abroad-if-youre-in-your-50s-singer-speed-darlington/",
+    "summary": "‎Nigerian British rapper Speed Darlington has addressed those in their 50s who want to relocate abroad. ‎In a video captured online, he told them they have no business relocating abroad. He questioned their purpose in going there, wondering if they wanted to hustle at such an age. ‎Speed said that by the time they start [&#8230;]",
+    "published": "Sun, 19 Jul 2026 20:09:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:25.982667+00:00",
+    "used": false
+  },
+  {
+    "id": "452d141ab900439a",
+    "source": "Leadership Newspaper",
+    "title": "World Cup Final Deadlocked As Spain, Argentina Cancel Each Other Out At Half-Time",
+    "link": "https://leadership.ng/world-cup-final-deadlocked-as-spain-argentina-cancel-each-other-out-at-half-time/",
+    "summary": "Spain and Argentina remain locked at 0-0 at half-time in the 2026 FIFA World Cup final after a tense and closely contested opening 45 minutes at the New York New Jersey Stadium. Neither side was able to break the deadlock despite enjoying spells of possession in a cagey first half, with both defences standing firm [&#8230;]",
+    "published": "Sun, 19 Jul 2026 20:07:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:25.982681+00:00",
+    "used": false
+  },
+  {
+    "id": "9e0cc33be6fadbdf",
+    "source": "Leadership Newspaper",
+    "title": "‎Stella Damasus Leaves Many Confused Over Striking Resemblance With Second Daughter As Toolz, Others, React",
+    "link": "https://leadership.ng/stella-damasus-leaves-many-confused-over-striking-resemblance-with-second-daughter-as-toolz-others-react/",
+    "summary": "‎Nollywood actress Stella Damasus has left many gushing over a video of herself and her second daughter, Angelica Aboderin. ‎The actress shared a video on Instagram of her and her mini-me engaging in a Q&#38;A. ‎In the clip, the mother-daughter duo sat side by side as they answered questions about who was most likely to [&#8230;]",
+    "published": "Sun, 19 Jul 2026 20:06:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:25.982698+00:00",
+    "used": false
+  },
+  {
+    "id": "6caef6b63d0bcf8a",
+    "source": "Leadership Newspaper",
+    "title": "NASENI Developed 44 Commercial Products, Created 30,000 Jobs In 2025 – Halilu",
+    "link": "https://leadership.ng/naseni-developed-44-commercial-products-created-30000-jobs-in-2025-halilu/",
+    "summary": "The Executive Vice Chairman of the National Agency for Science and Engineering Infrastructure (NASENI), Khalil Suleiman Halilu, has said the agency developed more than 44 commercially viable Made-in-Nigeria products and created over 30,000 direct and indirect jobs in 2025, attributing the achievements to the dedication and professionalism of its workforce. Halilu disclosed this during the [&#8230;]",
+    "published": "Sun, 19 Jul 2026 19:14:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:25.982722+00:00",
+    "used": false
+  },
+  {
+    "id": "8f4e7beeaac9dd5d",
+    "source": "Leadership Newspaper",
+    "title": "Benue Kidnappers Free Driver, Hold 2 Siblings, Demand ₦30m Ransom",
+    "link": "https://leadership.ng/benue-kidnappers-free-driver-hold-2-siblings-demand-%e2%82%a630m-ransom/",
+    "summary": "Some of the victims abducted along the Otukpo–Ogobia Road in Benue State have regained their freedom after gunmen released the driver, the body of an elderly woman and one of her three children. The abductors, however, are still holding two of the siblings and have demanded a ₦30 million ransom for their release. The victims [&#8230;]",
+    "published": "Sun, 19 Jul 2026 18:41:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:25.982744+00:00",
+    "used": false
+  },
+  {
+    "id": "c8f9ebc2369b9138",
+    "source": "Leadership Newspaper",
+    "title": "Northern Group Warns Against Attempts To Use NNPCL To Divide Nigerians",
+    "link": "https://leadership.ng/northern-group-warns-against-attempts-to-use-nnpcl-to-divide-nigerians/",
+    "summary": "The Concerned Northern Forum has urged Nigerians to reject narratives capable of pitching the North against the South,warning some people to stop using  the affairs of the Nigerian National Petroleum Company Limited (NNPC Ltd) to sow ethnic and regional divisions. Addressing a news conference in Kaduna, the Convener of the forum, Aliyu Muhammad, said recent [&#8230;]",
+    "published": "Sun, 19 Jul 2026 18:29:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T20:36:25.982758+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -8973,6 +9193,17 @@
     "published": "Sun, 19 Jul 2026 17:50:36 +0000",
     "priority": "low",
     "fetched_at": "2026-07-19T18:02:18.433054+00:00",
+    "used": false
+  },
+  {
+    "id": "e40e79033a42487b",
+    "source": "Channels TV",
+    "title": "[World Cup Final Live] Second-Half: Spain 0-0 Argentina",
+    "link": "https://www.channelstv.com/2026/07/19/live-updates-spain-argentina-battle-for-world-cup-glory/",
+    "summary": "<p>With two of international football's most successful nations meeting on the grandest stage, fans can expect a fiercely contested battle for global supremacy.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/19/live-updates-spain-argentina-battle-for-world-cup-glory/\">[World Cup Final Live] Second-Half: Spain 0-0 Argentina</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 19 Jul 2026 18:55:44 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-19T20:36:23.170260+00:00",
     "used": false
   }
 ]
