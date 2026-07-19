@@ -1,17 +1,11 @@
 """
-Step 6: Upload the finished video to YouTube.
+Uploads a finished video to YouTube, and can set a custom thumbnail.
 
-ONE-TIME SETUP:
-1. Go to https://console.cloud.google.com/ -> create a project.
-2. Enable "YouTube Data API v3" for that project.
-3. Go to "Credentials" -> Create Credentials -> OAuth client ID -> type "Desktop app".
-4. Download the JSON, save it as client_secret.json in this folder
-   (path is set in config.YOUTUBE_CLIENT_SECRET_FILE).
-5. First time you run this script it will open a browser window asking you
-   to log into the YouTube account you want to upload to. After you approve,
-   a youtube_token.json is saved so you won't have to log in again.
-
-Install deps: pip install google-auth-oauthlib google-api-python-client --break-system-packages
+IMPORTANT: setting a custom thumbnail via the API requires the YouTube
+channel to have a verified phone number. If yours isn't verified,
+thumbnails().set() will fail with a 403 — the video still uploads fine,
+it just falls back to YouTube's auto-picked frame. Verify at
+https://www.youtube.com/verify if you hit that error.
 """
 import json
 from pathlib import Path
@@ -28,12 +22,6 @@ SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
 
 
 def _get_authenticated_service():
-    """
-    Loads credentials in this order:
-    1. YOUTUBE_TOKEN_JSON env var / GitHub Secret (used in CI — no browser available)
-    2. Local youtube_token.json file (used the one time you run this interactively,
-       e.g. in a GitHub Codespace, to generate that token in the first place)
-    """
     creds = None
 
     if config.YOUTUBE_TOKEN_JSON_ENV:
@@ -45,30 +33,34 @@ def _get_authenticated_service():
         if token_path.exists():
             creds = Credentials.from_authorized_user_file(str(token_path), SCOPES)
 
+    if creds:
+        print(f"[DEBUG] creds loaded — valid={creds.valid}, expired={creds.expired}, "
+              f"has_refresh_token={bool(creds.refresh_token)}, has_token={bool(creds.token)}")
+    else:
+        print("[DEBUG] no creds object was created at all — env var or file was empty/missing")
+
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
+            print("[DEBUG] attempting creds.refresh()...")
             creds.refresh(Request())
+            print("[DEBUG] refresh succeeded")
         else:
             if not Path(config.YOUTUBE_CLIENT_SECRET_FILE).exists():
                 raise RuntimeError(
                     f"Missing {config.YOUTUBE_CLIENT_SECRET_FILE}. This one-time auth step "
-                    "must be run interactively (e.g. in a GitHub Codespace), not in CI. "
-                    "See README.md 'One-time YouTube authorization' section."
+                    "must be run interactively (e.g. in a GitHub Codespace), not in CI."
                 )
             flow = google_auth_oauthlib.flow.InstalledAppFlow.from_client_secrets_file(
                 config.YOUTUBE_CLIENT_SECRET_FILE, SCOPES
             )
             creds = flow.run_local_server(port=0)
         Path(config.YOUTUBE_TOKEN_FILE).write_text(creds.to_json())
-        print("Save the contents of youtube_token.json as a GitHub Secret named "
-              "YOUTUBE_TOKEN_JSON so future automated runs don't need to re-authenticate.")
 
     return googleapiclient.discovery.build("youtube", "v3", credentials=creds)
 
 
 def upload_video(video_path: Path, title: str, description: str,
-                  tags: list[str] | None = None, privacy: str = "unlisted") -> str:
-    """privacy: 'private' | 'unlisted' | 'public'. Start with 'unlisted' to review."""
+                  tags: list[str] | None = None, privacy: str = "public") -> str:
     youtube = _get_authenticated_service()
 
     body = {
@@ -95,6 +87,20 @@ def upload_video(video_path: Path, title: str, description: str,
     return video_id
 
 
-if __name__ == "__main__":
-    print("Import and call upload_video(...) from main.py after a video is built.")
-  
+def set_thumbnail(video_id: str, thumbnail_path: Path) -> bool:
+    """Returns True if the thumbnail was set, False if it failed (e.g. the
+    channel isn't phone-verified) — failure here should never crash the
+    whole pipeline, since the video itself already uploaded fine."""
+    try:
+        youtube = _get_authenticated_service()
+        media = googleapiclient.http.MediaFileUpload(str(thumbnail_path))
+        youtube.thumbnails().set(videoId=video_id, media_body=media).execute()
+        print(f"[OK] Thumbnail set for {video_id}")
+        return True
+    except Exception as e:
+        print(f"[WARN] Could not set custom thumbnail for {video_id}: {e}")
+        print("[WARN] This usually means the channel needs phone verification "
+              "(https://www.youtube.com/verify). Video is still live with "
+              "YouTube's auto-picked frame instead.")
+        return False
+       
