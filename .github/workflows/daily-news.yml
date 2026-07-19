@@ -45,7 +45,7 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
         run: |
-          python main.py --count 1 --upload
+          python main.py --count 1 
 
       - name: Upload video as workflow artifact (backup / manual review)
         if: always()
