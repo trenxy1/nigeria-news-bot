@@ -217,7 +217,7 @@
     "published": "Tue, 14 Jul 2026 17:51:29 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T18:41:00.664952+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "b2656c2a68a7ed77",
@@ -3231,6 +3231,138 @@
     "published": "Sat, 18 Jul 2026 18:35:00 +0000",
     "priority": "high",
     "fetched_at": "2026-07-18T20:36:16.122627+00:00",
+    "used": false
+  },
+  {
+    "id": "5fe6c7872683576a",
+    "source": "Punch Nigeria",
+    "title": "Tinubu celebrates Senator Omilani at 90",
+    "link": "https://punchng.com/tinubu-celebrates-senator-omilani-at-90/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Bola Tinubu celebrates former Senator Yinka Omilani on his 90th birthday, praising his statesmanship, philanthropy, and enduring impact.\n\nRead More: https://punchng.com/tinubu-celebrates-senator-omilani-at-90/",
+    "published": "Sun, 19 Jul 2026 09:48:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:04:14.507335+00:00",
+    "used": false
+  },
+  {
+    "id": "8b92de296aed9501",
+    "source": "Punch Nigeria",
+    "title": "Shettima departs Abuja for ECOWAS summit in Sierra Leone",
+    "link": "https://punchng.com/shettima-departs-abuja-for-ecowas-summit-in-sierra-leone/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Vice President Shettima represents Nigeria at the 69th ECOWAS Summit in Sierra Leone, focusing on peace, democracy, and economic growth.\n\nRead More: https://punchng.com/shettima-departs-abuja-for-ecowas-summit-in-sierra-leone/",
+    "published": "Sun, 19 Jul 2026 09:17:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:04:14.507352+00:00",
+    "used": false
+  },
+  {
+    "id": "1b67d442b03a94c4",
+    "source": "Punch Nigeria",
+    "title": "Feature Tinubu, fan urges Yoruba quiz Masoyinbo host",
+    "link": "https://punchng.com/feature-tinubu-fan-urges-yoruba-quiz-masoyinbo-host/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A fan has urged Masoyinbo host Olalekan Fabilola to feature President Bola Tinubu on the popular Yoruba quiz show. Fabilola hints it&#8217;s possible.\n\nRead More: https://punchng.com/feature-tinubu-fan-urges-yoruba-quiz-masoyinbo-host/",
+    "published": "Sun, 19 Jul 2026 06:37:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:04:14.507430+00:00",
+    "used": false
+  },
+  {
+    "id": "07ab01df74fe9e15",
+    "source": "Punch Nigeria",
+    "title": "Police recover pistol, stolen car in separate Gombe operations",
+    "link": "https://punchng.com/police-recover-pistol-stolen-car-in-separate-gombe-operations/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Gombe State Police Command recovers a Beretta pistol and a stolen Toyota Camry in separate operations, demonstrating effective crime-fighting efforts.\n\nRead More: https://punchng.com/police-recover-pistol-stolen-car-in-separate-gombe-operations/",
+    "published": "Sun, 19 Jul 2026 06:20:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:04:14.507436+00:00",
+    "used": false
+  },
+  {
+    "id": "a6db5fc999e3de5d",
+    "source": "Premium Times",
+    "title": "FG clarifies position on raw cocoa exports",
+    "link": "https://www.premiumtimesng.com/news/896440-fg-clarifies-position-on-raw-cocoa-exports.html",
+    "summary": "<img alt=\"cocoa\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"614\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/11/cocoa.jpg?fit=1024%2C614&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Clarification follows public discussions suggesting Federal Government planned to ban raw cocoa exports after President Bola Tinubu unveiled plans to expand domestic cocoa processing.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/",
+    "published": "Sun, 19 Jul 2026 05:42:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:04:15.709245+00:00",
+    "used": false
+  },
+  {
+    "id": "276ee39cef5dfd06",
+    "source": "Premium Times",
+    "title": "NBA Election: Badejo-Okusanya extends lead in presidential race",
+    "link": "https://www.premiumtimesng.com/news/top-news/896415-nba-election-badejo-okusanya-extends-lead-in-presidential-race.html",
+    "summary": "<img alt=\"A collage of the presidential candidates in the NBA Election\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1440\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/MixCollage-18-Jul-2026-04-43-PM-3569.jpg?fit=2560%2C1440&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Of the three candidates, only Mrs Badejo-Okusanya secured additional votes that were substantial enough to increase her share of the total votes cast.</",
+    "published": "Sat, 18 Jul 2026 22:36:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:04:15.709340+00:00",
+    "used": false
+  },
+  {
+    "id": "00b86423d91b2201",
+    "source": "Channels TV",
+    "title": "‘Not Time To Complain’: Rivers Senator Charges Youths To Embrace Skills Acquisition",
+    "link": "https://www.channelstv.com/2026/07/18/not-time-to-complain-rivers-senator-charges-youths-to-embrace-skills-acquisition/",
+    "summary": "<p>Banigo also praised President Tinubu and Senate President Godswill Akpabio for backing the initiative, urging the graduates not to let the training end as a line on a certificate but to carry it into the community.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/not-time-to-complain-rivers-senator-charges-youths-to-embrace-skills-acquisition/\">&#8216;Not Time To Complain&#8217;: Rivers Senator Charges Youths To Embrace Skills Acquisition</a> appeared first on <a href=\"https://w",
+    "published": "Sat, 18 Jul 2026 21:03:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:04:21.106646+00:00",
+    "used": false
+  },
+  {
+    "id": "7318dd890fefbb94",
+    "source": "Leadership Newspaper",
+    "title": "INEC Gets Court’s Nod For Election Guidelines, El-Rufai’s Ally Lukman Dumps ADC",
+    "link": "https://leadership.ng/inec-gets-courts-nod-for-election-guidelines-el-rufais-ally-lukman-dumps-adc/",
+    "summary": "The Independent National Electoral Commission (INEC), over the week, disclosed plans to conduct a mock presidential election and a comprehensive audit of its electoral technology systems to strengthen preparations for the 2027 general election. The INEC Chairman, Prof. Joash Amupitan (SAN) made the disclosure when he received the British High Commissioner to Nigeria, Dr Richard [&#8230;]",
+    "published": "Sun, 19 Jul 2026 08:52:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:05:14.724603+00:00",
+    "used": false
+  },
+  {
+    "id": "e1e8eb5bf4c6ba6d",
+    "source": "Leadership Newspaper",
+    "title": "Kwairanga Sets The Record Straight",
+    "link": "https://leadership.ng/kwairanga-sets-the-record-straight/",
+    "summary": "Outperforming Ndi Okereke-Onyuike, who was Managing Director of the Nigerian Stock Exchange and has a wall of awards to her credit; Aliko Dangote, who was once President of the Council of the Nigerian Stock Exchange; and high-performing, transformative Oscar Onyema, the past CEO of NGX, is no small feat. That is exactly what Umaru Kwairanga [&#8230;]",
+    "published": "Sun, 19 Jul 2026 08:50:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:05:14.724609+00:00",
+    "used": false
+  },
+  {
+    "id": "490c2aedb34e27fc",
+    "source": "Leadership Newspaper",
+    "title": "China Unveils 5,000 AI Training Opportunities For Nigeria, Others",
+    "link": "https://leadership.ng/china-unveils-5000-ai-training-opportunities-for-nigeria-others-2/",
+    "summary": "Nigeria and other developing countries are poised to benefit from 5,000 Artificial Intelligence (AI) training opportunities made available by the Chinese government over the next five years in a bid to bridge the digital divide in an increasingly digital world. Chinese President Xi Jinping made this announcement on Friday during the opening ceremony of the [&#8230;]",
+    "published": "Sun, 19 Jul 2026 08:48:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:05:14.724614+00:00",
+    "used": false
+  },
+  {
+    "id": "bb6d8702859d0460",
+    "source": "Leadership Newspaper",
+    "title": "BREAKING: Badejo Okunsanya Emerges New NBA President With 12,317 Votes",
+    "link": "https://leadership.ng/breaking-badejo-okunsanya-emerges-new-nba-president-with-12317-votes/",
+    "summary": "A Senior Advocate of Nigeria, Oyinkansola Badejo Okunsanya, has emerged as the new President of the Nigerian Bar Association (NBA). With this victory, Okunsanya became the second female President of the association, after Priscilla Kuye. According to the resuls on the live update on the NBA, Lateef Omoyemi Akangbe came second with 7,934 votes and [&#8230;]",
+    "published": "Sun, 19 Jul 2026 08:46:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:05:14.724618+00:00",
+    "used": false
+  },
+  {
+    "id": "805ceb1c8ae2cd30",
+    "source": "Leadership Newspaper",
+    "title": "Benue APC Crisis: Alia Gets 24 State Assembly Candidates, Akume Picks 13",
+    "link": "https://leadership.ng/benue-apc-crisis-alia-gets-24-state-assembly-candidates-akume-picks-13/",
+    "summary": "The crisis rocking the All Progressives Congress (APC), in Benue State may have taken a new dimension  as Governor Hyacinth Alia and Secretary to the Government of the Federation, George Akume’s camps shared thirty seven State House of Assembly nominations tickets. Governor Alia got twenty four APC state Assembly candidates, while Akume clinched thirteen for [&#8230;]",
+    "published": "Sun, 19 Jul 2026 08:41:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-19T09:05:14.724665+00:00",
     "used": false
   },
   {
@@ -7645,6 +7777,314 @@
     "used": false
   },
   {
+    "id": "9dc8635704ca44e5",
+    "source": "Punch Nigeria",
+    "title": "UNILORIN assures students of protection from excessive hostel charges",
+    "link": "https://punchng.com/unilorin-assures-students-of-protection-from-excessive-hostel-charges/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "UNILORIN reassures students of protection from excessive hostel charges, rejecting a 100% fee hike proposal and approving a 30% increase after negotiations\n\nRead More: https://punchng.com/unilorin-assures-students-of-protection-from-excessive-hostel-charges/",
+    "published": "Sun, 19 Jul 2026 09:53:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507289+00:00",
+    "used": false
+  },
+  {
+    "id": "d83603297c549989",
+    "source": "Punch Nigeria",
+    "title": "NDLEA intercepts 1.5 million tramadol pills hidden in trucks from Togo",
+    "link": "https://punchng.com/ndlea-intercepts-1-5-million-tramadol-pills-hidden-in-trucks-from-togo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NDLEA operatives have intercepted over 1.5 million tramadol pills hidden in trucks from Togo, dealing a major blow to drug trafficking syndicates.\n\nRead More: https://punchng.com/ndlea-intercepts-1-5-million-tramadol-pills-hidden-in-trucks-from-togo/",
+    "published": "Sun, 19 Jul 2026 09:52:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507312+00:00",
+    "used": false
+  },
+  {
+    "id": "3da8406a739c099e",
+    "source": "Punch Nigeria",
+    "title": "How 10 African teams fared at 2026 FIFA World Cup",
+    "link": "https://punchng.com/how-10-african-teams-fared-at-2026-fifa-world-cup/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Explore how 10 African teams fared at the 2026 FIFA World Cup, from Cape Verde&#8217;s surprise run to Morocco&#8217;s historic quarter-final finish. Discover the mixe\n\nRead More: https://punchng.com/how-10-african-teams-fared-at-2026-fifa-world-cup/",
+    "published": "Sun, 19 Jul 2026 09:51:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507329+00:00",
+    "used": false
+  },
+  {
+    "id": "314df572460f1e72",
+    "source": "Punch Nigeria",
+    "title": "Facebook users report widespread desktop access issues",
+    "link": "https://punchng.com/facebook-users-report-widespread-desktop-access-issues/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Thousands of Facebook users reported widespread issues accessing the platform&#8217;s desktop version today. Many encountered an &#8220;Account Temporarily Unavailable\n\nRead More: https://punchng.com/facebook-users-report-widespread-desktop-access-issues/",
+    "published": "Sun, 19 Jul 2026 09:46:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507346+00:00",
+    "used": false
+  },
+  {
+    "id": "07dd9cf34e5f6656",
+    "source": "Punch Nigeria",
+    "title": "US Marshals arrest influencer Andrew Tate, brother on 59 charges",
+    "link": "https://punchng.com/us-marshals-arrest-influencer-andrew-tate-brother-on-59-charges/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Social media influencer Andrew Tate and his brother Tristan have been arrested by US Marshals in Miami, facing 59 charges including rape and sex traffickin\n\nRead More: https://punchng.com/us-marshals-arrest-influencer-andrew-tate-brother-on-59-charges/",
+    "published": "Sun, 19 Jul 2026 08:50:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507364+00:00",
+    "used": false
+  },
+  {
+    "id": "a5625c24b48a5ca2",
+    "source": "Punch Nigeria",
+    "title": "World Cup recap: Six key moments before Argentina-Spain final",
+    "link": "https://punchng.com/world-cup-recap-six-key-moments-before-argentina-spain-final/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Relive the most thrilling moments of the 2026 World Cup, from minnows&#8217; sparkle to Argentina&#8217;s comebacks, before the highly anticipated Argentina-Spain fina\n\nRead More: https://punchng.com/world-cup-recap-six-key-moments-before-argentina-spain-final/",
+    "published": "Sun, 19 Jul 2026 08:49:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507380+00:00",
+    "used": false
+  },
+  {
+    "id": "97ebdc2a0a48264b",
+    "source": "Punch Nigeria",
+    "title": "Customs pledge support for National Merit Award",
+    "link": "https://punchng.com/customs-pledge-support-for-national-merit-award/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria Customs Service pledges continued support for the National Merit Award, recognising its vital role in celebrating excellence and inspiring future g\n\nRead More: https://punchng.com/customs-pledge-support-for-national-merit-award/",
+    "published": "Sun, 19 Jul 2026 08:47:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507392+00:00",
+    "used": false
+  },
+  {
+    "id": "f866f8d7fe161c20",
+    "source": "Punch Nigeria",
+    "title": "Abia blames flooding on terrain, heavy rainfall",
+    "link": "https://punchng.com/abia-blames-flooding-on-terrain-heavy-rainfall/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Abia State Government addresses recent flooding along Owerrinta Road, attributing it to natural terrain and heavy rainfall. Officials assure residents a la\n\nRead More: https://punchng.com/abia-blames-flooding-on-terrain-heavy-rainfall/",
+    "published": "Sun, 19 Jul 2026 08:31:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507403+00:00",
+    "used": false
+  },
+  {
+    "id": "d27184ecabba1026",
+    "source": "Punch Nigeria",
+    "title": "US says retaliatory strikes launched after Iran attack kills troops",
+    "link": "https://punchng.com/us-says-retaliatory-strikes-launched-after-iran-attack-kills-troops/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The US launched retaliatory strikes against Iran after an attack killed American troops. Tensions escalate in the US Iran conflict over the Strait of Hormu\n\nRead More: https://punchng.com/us-says-retaliatory-strikes-launched-after-iran-attack-kills-troops/",
+    "published": "Sun, 19 Jul 2026 07:33:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507414+00:00",
+    "used": false
+  },
+  {
+    "id": "c5380923b530b4a6",
+    "source": "Punch Nigeria",
+    "title": "PHOTOS: Peter Obi spotted shopping at supermarket",
+    "link": "https://punchng.com/photos-peter-obi-spotted-shopping-at-supermarket/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "See photos of Peter Obi shopping for personal items at H-Medix Supermarket, interacting with staff and shoppers, reflecting his connection with ordinary Ni\n\nRead More: https://punchng.com/photos-peter-obi-spotted-shopping-at-supermarket/",
+    "published": "Sun, 19 Jul 2026 06:47:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507425+00:00",
+    "used": false
+  },
+  {
+    "id": "3826eddd5e9101a5",
+    "source": "Punch Nigeria",
+    "title": "Singer Niniola resurfaces two months after husband’s death",
+    "link": "https://punchng.com/singer-niniola-resurfaces-two-months-after-husbands-death/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Singer Niniola makes her first public appearance two months after her husband&#8217;s death, sparking fan concern over her noticeable weight loss.\n\nRead More: https://punchng.com/singer-niniola-resurfaces-two-months-after-husbands-death/",
+    "published": "Sun, 19 Jul 2026 06:13:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:14.507453+00:00",
+    "used": false
+  },
+  {
+    "id": "94f837fc525177ce",
+    "source": "Premium Times",
+    "title": "Scaling health solutions for systems impact: 10 lessons from financial inclusion, By Olu Akanmu",
+    "link": "https://www.premiumtimesng.com/opinion/896432-scaling-health-solutions-for-systems-impact-10-lessons-from-financial-inclusion-by-olu-akanmu.html",
+    "summary": "<img alt=\"Olu Akanmu writes about accessing finance for Nigerian MSMEs.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/12/Olu-Akanmu.jpg?fit=482%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"482\" /><p>&#8230;Nigeria has made very significant progress in financial inclusion. Formal financial inclusion in Nigeria grew from 36 per cent in 2010 to 64 per cent in 2023. Access to digit",
+    "published": "Sun, 19 Jul 2026 08:38:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:15.709095+00:00",
+    "used": false
+  },
+  {
+    "id": "8e85fb0c0bbaec57",
+    "source": "Premium Times",
+    "title": "UPDATED: US continues strikes on Iran after confirming death of American soldiers",
+    "link": "https://www.premiumtimesng.com/news/headlines/896457-updated-us-continues-strikes-on-iran-after-confirming-death-of-american-soldiers.html",
+    "summary": "<img alt=\"US aircraft\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"437\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-19-at-07.56.32.jpeg?fit=797%2C437&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"797\" /><p>The strikes on Saturday night marked the eighth consecutive night of American strikes on Iran, the US Central Command (CENTCOM) said.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/headline",
+    "published": "Sun, 19 Jul 2026 06:58:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:15.709177+00:00",
+    "used": false
+  },
+  {
+    "id": "8b54ad4cf54126a7",
+    "source": "Premium Times",
+    "title": "Three Bayelsa civil servants arrested for allegedly stealing N500m equipment",
+    "link": "https://www.premiumtimesng.com/news/more-news/896454-three-bayelsa-civil-servants-arrested-for-allegedly-stealing-n500m-equipment.html",
+    "summary": "<img alt=\"Bayelsa on Nigerian map\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"599\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2016/10/Nigeria_Bayelsa_State_map.png?fit=777%2C599&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /><p>The stolen items allegedly included a 110 KVA Perkins generator, forklift, lathe machines, electric filling machines and other equipment.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-",
+    "published": "Sun, 19 Jul 2026 06:22:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:15.709199+00:00",
+    "used": false
+  },
+  {
+    "id": "09866c3a4c7a6b78",
+    "source": "Premium Times",
+    "title": "Three dead, four injured in truck accident in Anambra – FRSC",
+    "link": "https://www.premiumtimesng.com/news/headlines/896452-three-dead-four-injured-in-truck-accident-in-anambra-frsc.html",
+    "summary": "<img alt=\"FRSC on the road\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"351\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/04/FRSC-on-the-road-.jpg?fit=640%2C351&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>“The crash involved seven male occupants. Three persons died, while four others sustained serious injuries,” she said.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/headlines/896452-three-dead-four-injure",
+    "published": "Sun, 19 Jul 2026 06:15:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:15.709225+00:00",
+    "used": false
+  },
+  {
+    "id": "a26f8599cb539225",
+    "source": "Premium Times",
+    "title": "Weekly Review: Nigeria stock market gains N622bn amid decline in trades",
+    "link": "https://www.premiumtimesng.com/business/business-news/896448-weekly-review-nigeria-stock-market-gains-n622bn-amid-decline-in-trades.html",
+    "summary": "<img alt=\"Stock market trading graph used to illustrate the story\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"375\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/09/Stock-market-trading-graph.jpg?fit=563%2C375&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"563\" /><p>The market opened the week with a capitalisation of N156.445 trillion and an All-Share Index of 243,798.76 points.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/",
+    "published": "Sun, 19 Jul 2026 06:08:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:15.709239+00:00",
+    "used": false
+  },
+  {
+    "id": "22a598bc181fd34f",
+    "source": "Premium Times",
+    "title": "World Cup: England beat France 6-4 as Saka makes history with hat-trick",
+    "link": "https://www.premiumtimesng.com/news/top-news/896434-world-cup-england-beat-france-6-4-as-saka-makes-history-with-hat-trick.html",
+    "summary": "<img alt=\"Bukayo Saka England (PHOTO CREDIT: @FIFAWorldCup)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"952\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/HNi5MIjXQAAPcNJ-e1784432615238.jpg?fit=1536%2C952&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>The third-place match produced so many goals as well as so many records</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/896434-world-cup-england-beat",
+    "published": "Sun, 19 Jul 2026 03:46:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:15.709282+00:00",
+    "used": false
+  },
+  {
+    "id": "96b8fa87e901ed36",
+    "source": "Premium Times",
+    "title": "Nigeria’s Civilian JTF gets new Commander General",
+    "link": "https://www.premiumtimesng.com/regional/nnorth-east/896435-nigerias-civilian-jtf-gets-new-commander-general.html",
+    "summary": "<img alt=\"Maj.-Gen. Abdullahi Maikano (Rtd) speaking with reporters shortly after announcing his appointment as new Civilian JTF Commander General in Abuja\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"449\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/17844155806352451572982881233517.jpg?fit=800%2C449&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>“I thank God and the executive chairman of this Civilian JTF of Nigeria for",
+    "published": "Sun, 19 Jul 2026 03:45:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:15.709309+00:00",
+    "used": false
+  },
+  {
+    "id": "2ae7be0a4bbc5ec7",
+    "source": "Premium Times",
+    "title": "Stakeholders call for stronger investment in parenting support to protect children, strengthen families",
+    "link": "https://www.premiumtimesng.com/news/more-news/896410-stakeholders-call-for-stronger-investment-in-parenting-support-to-protect-children-strengthen-families.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG_9493-scaled.jpg?fit=2560%2C1707&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The call was made during a stakeholder dissemination workshop titled \"From the Airwaves to Stronger Families: Evaluating Parenting 101 with Isang and Shaping the Future of Parenting Support in Akwa Ibom State,\"</p>\n<p>The post <a hre",
+    "published": "Sat, 18 Jul 2026 22:01:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:15.709363+00:00",
+    "used": false
+  },
+  {
+    "id": "640faa888ad83442",
+    "source": "Channels TV",
+    "title": "US Launches Strikes To ‘Punish’ Iran After Troops Killed",
+    "link": "https://www.channelstv.com/2026/07/19/us-launches-strikes-to-punish-iran-after-troops-killed/",
+    "summary": "<p>A preliminary deal aimed at ending the war has collapsed as the foes fight to break the deadlock over the Strait of Hormuz, a waterway key to the world's oil supply.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/19/us-launches-strikes-to-punish-iran-after-troops-killed/\">US Launches Strikes To &#8216;Punish&#8217; Iran After Troops Killed</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 19 Jul 2026 08:53:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:21.106604+00:00",
+    "used": false
+  },
+  {
+    "id": "7b0ca9d312f419b5",
+    "source": "Channels TV",
+    "title": "Iran Threatens ‘Unforgettable Lessons’, As Two US Troops Killed",
+    "link": "https://www.channelstv.com/2026/07/18/iran-threatens-unforgettable-lessons-as-two-us-troops-killed/",
+    "summary": "<p>A month after the foes signed a now-abandoned preliminary deal aimed at ending their war, Tehran struck infrastructure around the Gulf in retaliation for a week of intensifying US attacks, which Iran said had hit an airport, a railway station, and bridges.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/iran-threatens-unforgettable-lessons-as-two-us-troops-killed/\">Iran Threatens &#8216;Unforgettable Lessons&#8217;, As Two US Troops Killed</a> appeared first on <a href=\"https:/",
+    "published": "Sat, 18 Jul 2026 21:40:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:21.106635+00:00",
+    "used": false
+  },
+  {
+    "id": "6bd5e503190c1163",
+    "source": "Channels TV",
+    "title": "Chelsea Agree Deal To Sign England’s Morgan Rogers From Aston Villa – Reports",
+    "link": "https://www.channelstv.com/2026/07/18/englands-morgan-rogers-set-to-join-chelsea-from-aston-villa-reports/",
+    "summary": "<p>His departure from Villa follows that of Belgium World Cup midfielder Youri Tielemans, who joined Manchester United this week.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/englands-morgan-rogers-set-to-join-chelsea-from-aston-villa-reports/\">Chelsea Agree Deal To Sign England&#8217;s Morgan Rogers From Aston Villa – Reports</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 20:41:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:21.106666+00:00",
+    "used": false
+  },
+  {
+    "id": "26470ff095ea58df",
+    "source": "Channels TV",
+    "title": "Madonna, Burna Boy, Cruise Among A-List Stars To Headline World Cup Final",
+    "link": "https://www.channelstv.com/2026/07/18/madonna-burna-boy-cruise-among-a-list-stars-to-headline-world-cup-final/",
+    "summary": "<p>Madonna, who just dropped a new album at 67, will share the stage with Justin Bieber, K-pop megagroup BTS and Shakira, whose song \"Dai Dai\" with Burna Boy is the official song of the tournament.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/18/madonna-burna-boy-cruise-among-a-list-stars-to-headline-world-cup-final/\">Madonna, Burna Boy, Cruise Among A-List Stars To Headline World Cup Final</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 18 Jul 2026 20:33:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:04:21.106682+00:00",
+    "used": false
+  },
+  {
+    "id": "d8adbabc12dfe24d",
+    "source": "Leadership Newspaper",
+    "title": "Rivers Court Ends 100-Year Land Dispute In Favour Of Obuama Community",
+    "link": "https://leadership.ng/rivers-court-ends-100-year-land-dispute-in-favour-of-obuama-community/",
+    "summary": "A Rivers State High Court sitting in Port Harcourt has dismissed a land ownership suit filed by the Usokun community against the Obuama community in Degema local government area of the state, reaffirming earlier judicial decisions that recognised Obuama&#8217;s ownership of the disputed Obupiri land. Justice David Gbasam, who presided over the matter, struck out [&#8230;]",
+    "published": "Sun, 19 Jul 2026 09:04:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:05:14.724552+00:00",
+    "used": false
+  },
+  {
+    "id": "4ed3304d7a13f6f1",
+    "source": "Leadership Newspaper",
+    "title": "Dangerous Enemies, Dangerous Prayers",
+    "link": "https://leadership.ng/dangerous-enemies-dangerous-prayers/",
+    "summary": "TEXT: 2 KINGS 2-19:23, ACTS 13-6 Instead of crying and complaining go to a powerful gathering where dangerous prayers are prayed. Uncommon favour. &#160; YOU NEED TO PRAY DANGEROUS PRAYERS WHEN; Unbelievers are asking where is your God When your marriage is at stake. You have been tied down with sickness and infirmity Things aren’t [&#8230;]",
+    "published": "Sun, 19 Jul 2026 09:00:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:05:14.724580+00:00",
+    "used": false
+  },
+  {
+    "id": "b4ef820523f01db3",
+    "source": "Leadership Newspaper",
+    "title": "Obong Of Calabar Executive Forum Faults WAEC Over Removal Of Efik Language",
+    "link": "https://leadership.ng/obong-of-calabar-executive-forum-faults-waec-over-removal-of-efik-language/",
+    "summary": "The Obong of Calabar Executive Forum, OCEF, has faulted the West African Examinations Council, WAEC, over the removal of Efik Language from its curriculum, describing the action as an assault on the Efik people. The position of the Forum was made known in a statement issued in Calabar by its Chairman, High Chief Gershom Henshaw. [&#8230;]",
+    "published": "Sun, 19 Jul 2026 08:58:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:05:14.724595+00:00",
+    "used": false
+  },
+  {
+    "id": "ecf66916fe5f46de",
+    "source": "Leadership Newspaper",
+    "title": "Africa’s Digital Investment Drive As Cornerstone Of ATU’s Special Session",
+    "link": "https://leadership.ng/africas-digital-investment-drive-as-cornerstone-of-atus-special-session/",
+    "summary": "The African Telecommunications Union (ATU) has outlined strategies to shape the continent’s digital future in the era of emerging technologies, to drive investment and bring economic prosperity to the region’s people. The ATU is the champion of digital transformation across Africa, and this move is consistent with the region’s plans to bridge the digital divide. [&#8230;]",
+    "published": "Sun, 19 Jul 2026 08:45:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:05:14.724636+00:00",
+    "used": false
+  },
+  {
+    "id": "786527c252f9933f",
+    "source": "Leadership Newspaper",
+    "title": "Mary Habila’s Death: AENWC Urges Nigerians Not To Judge Too Soon",
+    "link": "https://leadership.ng/mary-habilas-death-aenwc-urges-nigerians-not-to-judge-too-soon/",
+    "summary": "The Advocacy for the Empowerment of Nigerian Women and Children (AENWC) has called on Nigerians to remain calm, peaceful and law-abiding as investigations continue into the tragic death of Miss Mary Habila, warning against prejudging the outcome of the probe or demanding sanctions against individuals before the facts are established. In a statement issued on [&#8230;]",
+    "published": "Sun, 19 Jul 2026 08:42:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-19T09:05:14.724654+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -8104,6 +8544,50 @@
     "published": "Sat, 18 Jul 2026 18:31:47 +0000",
     "priority": "low",
     "fetched_at": "2026-07-18T20:36:13.304065+00:00",
+    "used": false
+  },
+  {
+    "id": "81be8ef6962f8bb2",
+    "source": "Premium Times",
+    "title": "World Cup Final: Spain coach unveils plan to stop Messi, Argentina",
+    "link": "https://www.premiumtimesng.com/sports/football/896463-world-cup-final-spain-coach-unveils-plan-to-stop-messi-argentina.html",
+    "summary": "<img alt=\"De la Fuente (PHOTO CREDIT: FIFA Media)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003645617.jpg?fit=1024%2C600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Having guided Spain to within one victory of a second FIFA World Cup title, De la Fuente admitted reaching football's biggest stage was already a privilege, but insisted his team would leave everything",
+    "published": "Sun, 19 Jul 2026 07:25:52 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-19T09:04:15.709125+00:00",
+    "used": false
+  },
+  {
+    "id": "3a68b4480bcad7a3",
+    "source": "Premium Times",
+    "title": "France bid farewell to coach Deschamps after 14 years",
+    "link": "https://www.premiumtimesng.com/news/more-news/896450-france-bid-farewell-to-coach-deschamps-after-14-years.html",
+    "summary": "<img alt=\"Didier Deschamps (PHOTO CREDIT: FFF on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1147\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003645653-e1784444560260.jpg?fit=1707%2C1147&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1707\" /><p>In an emotional statement released on its official X account, the federation celebrated Deschamps' extraordinary contribution to Les Bleus, bringing the curtain down on a 14-year spe",
+    "published": "Sun, 19 Jul 2026 07:06:58 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-19T09:04:15.709147+00:00",
+    "used": false
+  },
+  {
+    "id": "9af2bb548aead71b",
+    "source": "Premium Times",
+    "title": "Boniface scores twice as Leverkusen begin pre-season with 7-0 win",
+    "link": "https://www.premiumtimesng.com/sports/football/896443-boniface-scores-twice-as-leverkusen-begin-pre-season-with-7-0-win.html",
+    "summary": "<img alt=\"Victor Boniface (PHOTO CREDIT: Bayer Leverkusen Facebook Page)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1157\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003643088-e1784439244920.jpg?fit=1638%2C1157&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1638\" /><p>Boniface stole the spotlight in the second half, finding the net twice within five minutes.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/sports/footba",
+    "published": "Sun, 19 Jul 2026 05:37:15 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-19T09:04:15.709263+00:00",
+    "used": false
+  },
+  {
+    "id": "60968aca2dd934a2",
+    "source": "Premium Times",
+    "title": "Football is more than a game, By Hervé Verhoosel",
+    "link": "https://www.premiumtimesng.com/opinion/896426-football-is-more-than-a-game-by-herve-verhoosel.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"516\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Herve-Verhoosel.jpeg?fit=639%2C516&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"639\" /><p>&#8230;the recent controversies surrounding FIFA, and the perception that politics has found its way onto the pitch during this World Cup, concern me deeply. FIFA owes supporters, players and national associations complete transparency.",
+    "published": "Sun, 19 Jul 2026 03:25:07 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-19T09:04:15.709334+00:00",
     "used": false
   }
 ]
