@@ -21,7 +21,7 @@ RETRY_DELAY = 5.0  # seconds between attempts
 
 
 async def _generate(text: str, out_path: Path, voice: str, rate: str) -> list[dict]:
-    communicate = edge_tts.Communicate(text, voice, rate=rate)
+    communicate = edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary")
     boundaries = []
 
     with open(out_path, "wb") as f:
