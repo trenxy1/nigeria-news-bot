@@ -1,8 +1,9 @@
 """
 Groups TTS word-boundary timing data into scenes — each scene is one
 complete sentence-level beat with a REAL start/end time taken directly from
-when those words were actually spoken (not estimated). This is what
-eliminates caption/image drift over the course of a long video.
+when those words were actually spoken. Each scene also keeps its individual
+word-level boundaries (in "words") so captions can be rendered word-by-word,
+synced exactly to speech, instead of showing a whole sentence at once.
 """
 MIN_WORDS_PER_SCENE = 5
 MAX_WORDS_PER_SCENE = 22
@@ -44,11 +45,11 @@ def _merge_short_groups(groups: list[list[dict]], min_words: int) -> list[list[d
 
 
 def build_scenes(boundaries: list[dict], total_audio_duration: float | None = None) -> list[dict]:
-    """boundaries: word-timing list from tts_generator.generate_audio_with_timing.
-    Returns [{"text": str, "duration": float}, ...] with durations taken from
-    real speech timing, contiguous (no gaps/overlaps). If total_audio_duration
-    is given, the final scene is stretched to cover any trailing silence
-    after the last word, so captions don't end early."""
+    """Returns [{"text": str, "duration": float, "words": list[dict]}, ...].
+    "words" is the list of individual word-boundary dicts belonging to this
+    scene, each with its own real "start"/"end" timestamp — this is what
+    lets captions render word-by-word instead of a static full-sentence
+    block."""
     if not boundaries:
         return []
 
@@ -67,7 +68,7 @@ def build_scenes(boundaries: list[dict], total_audio_duration: float | None = No
         start = prev_end
         end = group[-1]["end"]
         duration = max(end - start, 0.1)
-        scenes.append({"text": text, "duration": duration})
+        scenes.append({"text": text, "duration": duration, "words": group})
         prev_end = end
 
     if total_audio_duration and scenes:
@@ -85,8 +86,6 @@ if __name__ == "__main__":
         {"word": "house", "start": 0.2, "end": 0.5},
         {"word": "was", "start": 0.5, "end": 0.7},
         {"word": "quiet.", "start": 0.7, "end": 1.1},
-        {"word": "Too", "start": 1.3, "end": 1.5},
-        {"word": "quiet.", "start": 1.5, "end": 1.9},
     ]
     for s in build_scenes(sample_boundaries):
         print(s)
