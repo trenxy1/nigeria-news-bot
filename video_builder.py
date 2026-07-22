@@ -1,44 +1,36 @@
 """
 Assembles scenes (text + matching AI-generated image) into a finished MP4.
-Captions render word-by-word, synced to real spoken timestamps — but as ONE
-dynamic clip (a make_frame callback that looks up the currently-active word
-at render time), not hundreds of separate overlapping clips. The earlier
-one-clip-per-word approach caused a severe render slowdown (compositing
-hundreds of overlapping clips is expensive) and led to workflow timeouts on
-longer scripts — this fixes that while keeping the same word-by-word look.
+Captions update every 2-3 words (grouped from real word-timing data), using
+standard TextClip objects — NOT a dynamic/masked VideoClip. Two earlier
+approaches were tried and both caused severe render slowdowns on GitHub's
+runners: one clip per single word (too many overlapping clips to composite),
+and one dynamic VideoClip for the whole video (MoviePy's masked-dynamic-clip
+compositing path is much slower per frame than its built-in TextClip path,
+regardless of clip count). This phrase-grouped TextClip approach avoids both
+problems while still updating frequently enough to track speech closely.
 """
+import textwrap
 from pathlib import Path
 
-import numpy as np
-from PIL import Image, ImageDraw, ImageFont
 from moviepy.editor import (
-    AudioFileClip, ImageClip, VideoClip, CompositeVideoClip,
+    AudioFileClip, ImageClip, TextClip, CompositeVideoClip,
     concatenate_videoclips, vfx,
 )
 
 import config
 
 FPS = 24
-FONT_PATHS = [
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans-BoldOblique.ttf",
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-]
+FONT = "DejaVu-Sans-Bold-Oblique"
+FONT_FALLBACK = "DejaVu-Sans-Bold"
 CROSSFADE_DURATION = 0.35
 TRAILING_BUFFER = 0.3
+WORDS_PER_CAPTION = 3   # how many words update together — tune lower for
+                         # tighter sync, higher for fewer/cheaper clips
 
 ORIENTATIONS = {
     "landscape": {"w": 1920, "h": 1080},
     "vertical": {"w": 1080, "h": 1920},
 }
-
-
-def _load_pil_font(size: int) -> ImageFont.FreeTypeFont:
-    for path in FONT_PATHS:
-        try:
-            return ImageFont.truetype(path, size)
-        except Exception:
-            continue
-    return ImageFont.load_default()
 
 
 def _cover_scale(clip, target_w, target_h):
@@ -61,81 +53,47 @@ def _ken_burns_clip(img_path: Path, duration: float, w: int, h: int, zoom_direct
     return clip
 
 
-def _find_active_word(words: list[dict], t: float) -> str:
-    """words must be sorted by start time. Binary search for the word whose
-    [start, extended_end) window contains t."""
-    if not words:
-        return ""
-    lo, hi = 0, len(words) - 1
-    while lo < hi:
-        mid = (lo + hi + 1) // 2
-        if words[mid]["start"] <= t:
-            lo = mid
+def _make_text_clip(text: str, fontsize: int, w: int, wrap_width: int, stroke_width: int):
+    wrapped = "\n".join(textwrap.wrap(text, width=wrap_width))
+    try:
+        return TextClip(
+            wrapped, fontsize=fontsize, color="white", font=FONT,
+            stroke_color="black", stroke_width=stroke_width,
+            method="caption", size=(w - 100, None), align="center",
+        )
+    except Exception:
+        return TextClip(
+            wrapped, fontsize=fontsize, color="white", font=FONT_FALLBACK,
+            stroke_color="black", stroke_width=stroke_width,
+            method="caption", size=(w - 100, None), align="center",
+        )
+
+
+def _group_words_into_phrases(all_words: list[dict], group_size: int) -> list[dict]:
+    """Groups consecutive words into small phrase-captions. Each phrase's
+    duration comes from real timestamps (first word's start to next
+    phrase's start, so there's no gap)."""
+    phrases = []
+    for i in range(0, len(all_words), group_size):
+        chunk = all_words[i:i + group_size]
+        phrases.append({"text": " ".join(w["word"] for w in chunk), "start": chunk[0]["start"],
+                         "end": chunk[-1]["end"]})
+
+    for i, p in enumerate(phrases):
+        if i + 1 < len(phrases):
+            p["duration"] = max(phrases[i + 1]["start"] - p["start"], 0.1)
         else:
-            hi = mid - 1
-    w = words[lo]
-    if w["start"] <= t <= w["display_end"]:
-        return w["word"]
-    return ""
+            p["duration"] = max((p["end"] - p["start"]) + TRAILING_BUFFER, 0.1)
 
-
-def _build_caption_layer(all_words: list[dict], duration: float, w: int, h: int,
-                          fontsize: int, bottom_margin: int):
-    """One dynamic clip for ALL word captions in the video, instead of one
-    clip per word — this is what keeps render time reasonable regardless of
-    how many words the script has. Each unique word is only rendered with
-    PIL once and cached, since the same word typically stays on screen for
-    several consecutive frames."""
-    font = _load_pil_font(fontsize)
-    color_cache: dict[str, np.ndarray] = {}
-    mask_cache: dict[str, np.ndarray] = {}
-    blank_color = np.zeros((h, w, 3), dtype=np.uint8)
-    blank_mask = np.zeros((h, w), dtype=np.float64)
-
-    def _render_word(word: str, as_mask: bool):
-        mode = "L" if as_mask else "RGBA"
-        fill_val = 0 if as_mask else (0, 0, 0, 0)
-        img = Image.new(mode, (w, h), fill_val)
-        draw = ImageDraw.Draw(img)
-        bbox = draw.textbbox((0, 0), word, font=font)
-        tw = bbox[2] - bbox[0]
-        x = (w - tw) // 2
-        y = h - bottom_margin
-        if as_mask:
-            draw.text((x, y), word, font=font, fill=255, stroke_width=6, stroke_fill=255)
-            return np.array(img) / 255.0
-        else:
-            draw.text((x, y), word, font=font, fill=(255, 255, 255, 255),
-                       stroke_width=6, stroke_fill=(0, 0, 0, 255))
-            return np.array(img.convert("RGB"))
-
-    def make_frame(t):
-        word = _find_active_word(all_words, t)
-        if not word:
-            return blank_color
-        if word not in color_cache:
-            color_cache[word] = _render_word(word, as_mask=False)
-        return color_cache[word]
-
-    def make_mask_frame(t):
-        word = _find_active_word(all_words, t)
-        if not word:
-            return blank_mask
-        if word not in mask_cache:
-            mask_cache[word] = _render_word(word, as_mask=True)
-        return mask_cache[word]
-
-    clip = VideoClip(make_frame, duration=duration)
-    mask_clip = VideoClip(make_mask_frame, duration=duration, ismask=True)
-    clip = clip.set_mask(mask_clip)
-    return clip
+    return phrases
 
 
 def build_video_from_scenes(scenes: list[dict], audio_path: Path, output_path: Path,
                              orientation: str = "landscape") -> Path:
     dims = ORIENTATIONS[orientation]
     w, h = dims["w"], dims["h"]
-    fontsize = 64 if orientation == "vertical" else 66
+    wrap_width = 20 if orientation == "vertical" else 30
+    fontsize = 58 if orientation == "vertical" else 60
     bottom_margin = 420 if orientation == "vertical" else 220
 
     audio = AudioFileClip(str(audio_path))
@@ -156,15 +114,15 @@ def build_video_from_scenes(scenes: list[dict], audio_path: Path, output_path: P
     for scene in scenes:
         all_words.extend(scene.get("words", []))
 
-    for i, wd in enumerate(all_words):
-        if i + 1 < len(all_words):
-            wd["display_end"] = all_words[i + 1]["start"]
-        else:
-            wd["display_end"] = wd["end"] + TRAILING_BUFFER
+    phrases = _group_words_into_phrases(all_words, WORDS_PER_CAPTION)
 
-    caption_layer = _build_caption_layer(all_words, audio.duration, w, h, fontsize, bottom_margin)
+    caption_clips = []
+    for p in phrases:
+        cap = _make_text_clip(p["text"], fontsize, w, wrap_width, stroke_width=4)
+        cap = cap.set_position(("center", h - bottom_margin)).set_start(p["start"]).set_duration(p["duration"])
+        caption_clips.append(cap)
 
-    final = CompositeVideoClip([background, caption_layer], size=(w, h))
+    final = CompositeVideoClip([background, *caption_clips], size=(w, h))
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     final.write_videofile(
