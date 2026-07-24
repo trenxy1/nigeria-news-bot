@@ -89,7 +89,7 @@ def _group_words_into_phrases(all_words: list[dict], group_size: int) -> list[di
 
 
 def build_video_from_scenes(scenes: list[dict], audio_path: Path, output_path: Path,
-                             orientation: str = "landscape") -> Path:
+                             orientation: str = "landscape", subscribe_cta: str | None = None) -> Path:
     dims = ORIENTATIONS[orientation]
     w, h = dims["w"], dims["h"]
     wrap_width = 20 if orientation == "vertical" else 30
@@ -122,7 +122,18 @@ def build_video_from_scenes(scenes: list[dict], audio_path: Path, output_path: P
         cap = cap.set_position(("center", h - bottom_margin)).set_start(p["start"]).set_duration(p["duration"])
         caption_clips.append(cap)
 
-    final = CompositeVideoClip([background, *caption_clips], size=(w, h))
+    layers = [background, *caption_clips]
+
+    if subscribe_cta:
+        cta_duration = config.SUBSCRIBE_CTA_DURATION
+        cta_start = max(audio.duration - cta_duration, 0)
+        cta_clip = _make_text_clip(subscribe_cta, int(fontsize * 0.75), w, wrap_width, stroke_width=4)
+        # place in the upper area so it never collides with the bottom captions
+        cta_top = int(h * 0.12)
+        cta_clip = cta_clip.set_position(("center", cta_top)).set_start(cta_start).set_duration(cta_duration)
+        layers.append(cta_clip)
+
+    final = CompositeVideoClip(layers, size=(w, h))
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     final.write_videofile(
@@ -134,3 +145,4 @@ def build_video_from_scenes(scenes: list[dict], audio_path: Path, output_path: P
 
 if __name__ == "__main__":
     print("Run this via main.py — needs scenes with matching images + words + an audio file.")
+    
