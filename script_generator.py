@@ -1,41 +1,33 @@
 """
-Step 2: Turn a headline + summary into a broadcast-ready script.
+Step 2: Generate a news script from a headline, using Gemini as primary and
+Groq as automatic fallback. Also generates a short teaser cut FROM that
+script (not independent content) to drive Shorts viewers to the full video.
 
-Tries Gemini first (default, free tier: https://aistudio.google.com/apikey).
-If that fails or isn't configured, automatically falls back to Groq
-(https://console.groq.com/keys) so one flaky provider doesn't stall the pipeline.
+If BOTH providers fail on the first pass, wait and retry the whole chain
+once before giving up — rate-limit windows are usually short.
 """
-import json
+import time
 import requests
 
 import config
 
-
-def _build_user_prompt(headline: dict) -> str:
-    return (
-        f"Headline: {headline['title']}\n"
-        f"Source: {headline['source']}\n"
-        f"Summary: {headline.get('summary', '')}\n\n"
-        f"Write the news script now."
-    )
+FULL_CHAIN_RETRY_WAIT = 45.0
 
 
-def _generate_gemini(headline: dict, timeout: int) -> str:
+def _call_gemini(system_prompt: str, user_prompt: str, timeout: int, max_tokens: int) -> str:
     if not config.GEMINI_API_KEY:
         raise RuntimeError("GEMINI_API_KEY not set")
 
     payload = {
-        "system_instruction": {"parts": [{"text": config.SYSTEM_PROMPT}]},
-        "contents": [{"parts": [{"text": _build_user_prompt(headline)}]}],
-        "generationConfig": {"temperature": 0.4, "maxOutputTokens": 600},
+        "system_instruction": {"parts": [{"text": system_prompt}]},
+        "contents": [{"parts": [{"text": user_prompt}]}],
+        "generationConfig": {"temperature": 0.4, "maxOutputTokens": max_tokens},
     }
     resp = requests.post(
-        f"{config.GEMINI_URL}?key={config.GEMINI_API_KEY}",
-        json=payload, timeout=timeout,
+        f"{config.GEMINI_URL}?key={config.GEMINI_API_KEY}", json=payload, timeout=timeout
     )
     if resp.status_code != 200:
         raise RuntimeError(f"Gemini API error {resp.status_code}: {resp.text[:300]}")
-
     data = resp.json()
     try:
         return data["candidates"][0]["content"]["parts"][0]["text"].strip()
@@ -43,59 +35,88 @@ def _generate_gemini(headline: dict, timeout: int) -> str:
         raise RuntimeError(f"Unexpected Gemini response shape: {data}") from e
 
 
-def _generate_groq(headline: dict, timeout: int) -> str:
+def _call_groq(system_prompt: str, user_prompt: str, timeout: int, max_tokens: int) -> str:
     if not config.GROQ_API_KEY:
         raise RuntimeError("GROQ_API_KEY not set")
 
     payload = {
         "model": config.GROQ_MODEL,
         "messages": [
-            {"role": "system", "content": config.SYSTEM_PROMPT},
-            {"role": "user", "content": _build_user_prompt(headline)},
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
         ],
         "temperature": 0.4,
-        "max_tokens": 600,
+        "max_tokens": max_tokens,
     }
-    headers = {
-        "Authorization": f"Bearer {config.GROQ_API_KEY}",
-        "Content-Type": "application/json",
-    }
+    headers = {"Authorization": f"Bearer {config.GROQ_API_KEY}", "Content-Type": "application/json"}
     resp = requests.post(config.GROQ_URL, headers=headers, json=payload, timeout=timeout)
     if resp.status_code != 200:
         raise RuntimeError(f"Groq API error {resp.status_code}: {resp.text[:300]}")
-
-    data = resp.json()
-    return data["choices"][0]["message"]["content"].strip()
+    return resp.json()["choices"][0]["message"]["content"].strip()
 
 
-def generate_script(headline: dict, timeout: int = 60) -> str:
-    providers = (
-        [_generate_gemini, _generate_groq]
-        if config.LLM_PROVIDER == "gemini"
-        else [_generate_groq, _generate_gemini]
-    )
+def _try_all_providers(system_prompt: str, user_prompt: str, timeout: int, max_tokens: int) -> str:
+    providers = [_call_gemini, _call_groq] if config.LLM_PROVIDER == "gemini" else [_call_groq, _call_gemini]
 
     errors = []
-    for provider_fn in providers:
+    for fn in providers:
         try:
-            script = provider_fn(headline, timeout)
-            if script:
-                return script
+            result = fn(system_prompt, user_prompt, timeout, max_tokens)
+            if result:
+                return result
         except Exception as e:
-            errors.append(f"{provider_fn.__name__}: {e}")
-            print(f"[WARN] {provider_fn.__name__} failed, trying next provider: {e}")
+            errors.append(f"{fn.__name__}: {e}")
+            print(f"[WARN] {fn.__name__} failed, trying next provider: {e}")
 
-    raise RuntimeError(
-        "All LLM providers failed for '" + headline["title"] + "':\n" + "\n".join(errors)
+    raise RuntimeError("All providers failed:\n" + "\n".join(errors))
+
+
+def _generate_with_full_retry(system_prompt: str, user_prompt: str, timeout: int, max_tokens: int,
+                               label: str) -> str:
+    try:
+        return _try_all_providers(system_prompt, user_prompt, timeout, max_tokens)
+    except Exception as first_error:
+        print(f"[WARN] All providers failed for {label} on first pass. "
+              f"Waiting {FULL_CHAIN_RETRY_WAIT}s and retrying the full chain once...")
+        time.sleep(FULL_CHAIN_RETRY_WAIT)
+        try:
+            return _try_all_providers(system_prompt, user_prompt, timeout, max_tokens)
+        except Exception as second_error:
+            raise RuntimeError(
+                f"All LLM providers failed for {label} even after retry.\n"
+                f"First attempt: {first_error}\nRetry attempt: {second_error}"
+            )
+
+
+def generate_script(headline: dict) -> str:
+    user_prompt = (
+        f"Headline: {headline['title']}\n"
+        f"Source: {headline['source']}\n"
+        f"Summary: {headline.get('summary', '')}\n\n"
+        f"Write the news script now."
+    )
+    return _generate_with_full_retry(
+        config.SYSTEM_PROMPT, user_prompt, timeout=60, max_tokens=500,
+        label=f"script (headline: {headline['title'][:50]})",
+    )
+
+
+def generate_teaser(full_script_text: str) -> str:
+    user_prompt = f"FULL SCRIPT TEXT:\n\n{full_script_text}\n\nWrite the teaser now."
+    return _generate_with_full_retry(
+        config.SYSTEM_PROMPT_TEASER, user_prompt, timeout=45, max_tokens=200,
+        label="teaser",
     )
 
 
 if __name__ == "__main__":
-    with open(config.HEADLINES_FILE, "r", encoding="utf-8") as f:
-        headlines = json.load(f)
-    if not headlines:
-        print("No headlines found. Run rss_fetch.py first.")
-    else:
-        script = generate_script(headlines[0])
-        print("---- GENERATED SCRIPT ----")
-        print(script)
+    test_headline = {
+        "title": "Police arrest 10 suspected cultists over deadly Bayelsa attack",
+        "source": "Test", "summary": "Test summary",
+    }
+    script = generate_script(test_headline)
+    print("=== SCRIPT ===")
+    print(script)
+    print("\n=== TEASER ===")
+    print(generate_teaser(script))
+            
