@@ -27,10 +27,17 @@ RSS_FEEDS = {
     "Leadership Newspaper": "https://leadership.ng/feed",
 }
 
+# "high" bumped with more crime/security terms — this channel's own
+# analytics show crime/arrest stories dramatically outperforming policy
+# stories (e.g. an arrest story got 331 views vs 127 for a policy story),
+# so these get selected first more often.
 PRIORITY_KEYWORDS = {
     "high": ["president", "tinubu", "naira", "senate", "election", "security",
               "police", "military", "boko haram", "bandits", "fuel", "subsidy",
-              "cbn", "central bank", "assembly", "governor", "inflation"],
+              "cbn", "central bank", "assembly", "governor", "inflation",
+              "arrest", "arrested", "kidnap", "kidnapped", "abduct", "abducted",
+              "cult", "cultist", "gunmen", "killed", "attack", "robbery",
+              "rescue", "rescued", "manhunt", "wanted"],
     "medium": ["economy", "business", "court", "minister", "policy", "budget",
                 "strike", "protest", "flood", "health"],
     "low": ["sport", "football", "super eagles", "entertainment", "music"],
@@ -67,23 +74,52 @@ RULES:
 - Output ONLY the script text. No preamble, no markdown, no labels.
 """
 
+# This teaser prompt mirrors the horror bot's working pattern: a short cut
+# FROM the full script (not an independent piece), withholding a specific
+# detail, driving the viewer to the full video. Fixes the funnel problem
+# where Shorts previously contained the whole story with no reason to click
+# through — Shorts got 561 views vs 41 for long-form on nearly equal output.
+SYSTEM_PROMPT_TEASER = """You are cutting a short, high-curiosity teaser from
+a Nigeria news script, to hook viewers into watching the full story on the
+main channel. Target: 60-90 words, roughly 25-40 seconds spoken aloud.
+
+You will be given the FULL SCRIPT TEXT. Do not write new content — extract
+or lightly rework the single most attention-grabbing fact or detail from it
+(often the "what happened" hook, or the most striking specific detail — NOT
+every fact, and not the full resolution/outcome if there is one).
+
+RULES:
+- Open with the strongest hook from the story — the first sentence must
+  grab attention immediately.
+- Include enough real information to be genuinely informative on its own
+  (this is news, not clickbait) — but deliberately leave out at least one
+  specific detail (an exact figure, a name, an outcome) that the full video
+  covers.
+- End with a brief, natural call-to-action: "Full story on the channel" or
+  similar — one short sentence.
+- Same neutral, factual, non-partisan tone as the full script.
+- Output ONLY the teaser text. No preamble, no markdown, no labels.
+"""
+
 # ---------- TTS ----------
 TTS_VOICE = os.environ.get("TTS_VOICE", "en-GB-RyanNeural")
 TTS_RATE = os.environ.get("TTS_RATE", "+0%")
 
 # ---------- AI IMAGE GENERATION (Pollinations.ai — free, no API key) ----------
-# IMPORTANT: this style suffix deliberately steers toward generic, symbolic,
-# location-based imagery rather than depicting specific real people. A
+# Deliberately steers toward generic, symbolic, location-based imagery
+# rather than depicting specific real people — see prior discussion: a
 # fabricated "photo" of a real named politician in a scene that didn't
-# happen is a misinformation and channel-safety risk — generic illustrative
-# imagery (a podium, a government building, a market scene, a flag) still
-# looks relevant to the story without that risk.
+# happen is a misinformation and channel-safety risk.
 IMAGE_STYLE_SUFFIX = (
     "photojournalistic style, realistic, natural lighting, high detail, "
     "documentary photography, generic illustrative scene, no specific "
     "recognizable individual's face, wide shot or symbolic imagery, 4k quality"
 )
 IMAGE_GEN_MAX_WORKERS = 1
+
+# ---------- END-CARD / SUBSCRIBE PROMPT ----------
+SUBSCRIBE_CTA_TEXT = "SUBSCRIBE to NewsUpdate for daily Nigeria news"
+SUBSCRIBE_CTA_DURATION = 4.0  # seconds shown at the end of each video
 
 # ---------- YOUTUBE ----------
 YOUTUBE_CLIENT_SECRET_FILE = str(BASE_DIR / "client_secret.json")
