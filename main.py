@@ -1,10 +1,12 @@
 """
 Orchestrator: fetches headlines, picks the top-priority unused one, writes a
-script, generates a voiceover with real word-timing data, generates one
-AI image per sentence-level scene (generic/symbolic imagery — see config.py
-for why real people aren't depicted), builds both landscape and vertical
-videos from the SAME image set (no need to generate images twice), builds a
-custom thumbnail, and uploads everything.
+full script (for the main/landscape video) and a SEPARATE teaser cut from it
+(for Shorts — deliberately incomplete, linking to the full video). Generates
+real word-timed voiceovers and AI images for each independently, adds a
+subscribe end-card, builds a custom thumbnail, and uploads everything.
+
+This fixes the earlier funnel problem where Shorts contained the whole
+story with no reason to click through to the full video.
 
 Usage:
     py main.py --count 1              # process 1 headline, no upload
@@ -38,40 +40,53 @@ def mark_used(headline_id: str):
         json.dump(items, f, indent=2, ensure_ascii=False)
 
 
-def process_one(headline: dict, do_upload: bool) -> list[str]:
-    print(f"\n=== {headline['title']} ({headline['priority']}) ===")
-
-    print("[1/6] Generating script...")
-    script_text = script_generator.generate_script(headline)
-    print(f"({len(script_text.split())} words)")
-
-    print("[2/6] Generating voiceover + word timing...")
-    audio_path, boundaries = tts_generator.generate_audio_with_timing(script_text, headline["id"])
-
+def _build_one(text: str, story_id: str, tag: str, orientation: str, output_path) -> list:
+    """Returns the scenes list (with images attached) so the caller can
+    reuse e.g. the first scene's image for a thumbnail."""
+    audio_path, boundaries = tts_generator.generate_audio_with_timing(text, f"{story_id}_{tag}")
     total_duration = AudioFileClip(str(audio_path)).duration
-    scenes = scene_builder.build_scenes(boundaries, total_audio_duration=total_duration)
-    print(f"  {len(scenes)} scenes ({total_duration:.0f}s total audio)")
 
-    print("[3/6] Generating AI images (reused for both video formats)...")
+    scenes = scene_builder.build_scenes(boundaries, total_audio_duration=total_duration)
+    print(f"  {len(scenes)} scenes for {tag} ({total_duration:.0f}s total audio)")
+
+    dims = video_builder.ORIENTATIONS[orientation]
     image_paths = image_generate.generate_images_for_scenes(
-        [s["text"] for s in scenes], headline["id"], 1920, 1080,
+        [s["text"] for s in scenes], f"{story_id}_{tag}", dims["w"], dims["h"],
     )
     scenes = scenes[: len(image_paths)]
     for scene, img_path in zip(scenes, image_paths):
         scene["image"] = img_path
 
-    print("[4/6] Building landscape video...")
+    video_builder.build_video_from_scenes(
+        scenes, audio_path, output_path, orientation=orientation,
+        subscribe_cta=config.SUBSCRIBE_CTA_TEXT,
+    )
+    return scenes
+
+
+def process_one(headline: dict, do_upload: bool) -> list[str]:
+    print(f"\n=== {headline['title']} ({headline['priority']}) ===")
     date_str = date.today().isoformat()
+
+    print("[1/5] Generating full script...")
+    script_text = script_generator.generate_script(headline)
+    print(f"({len(script_text.split())} words)")
+
+    print("[2/5] Generating teaser cut from that script (for Shorts)...")
+    teaser_text = script_generator.generate_teaser(script_text)
+    print(f"({len(teaser_text.split())} words)")
+
+    print("[3/5] Building landscape video (full script)...")
     landscape_path = config.VIDEO_DIR / f"{date_str}_{headline['id']}_landscape.mp4"
-    video_builder.build_video_from_scenes(scenes, audio_path, landscape_path, orientation="landscape")
+    landscape_scenes = _build_one(script_text, headline["id"], "landscape", "landscape", landscape_path)
 
-    print("[5/6] Building vertical (Shorts) video...")
+    print("[4/5] Building Shorts video (teaser, separate content)...")
     vertical_path = config.VIDEO_DIR / f"{date_str}_{headline['id']}_vertical.mp4"
-    video_builder.build_video_from_scenes(scenes, audio_path, vertical_path, orientation="vertical")
+    _build_one(teaser_text, headline["id"], "teaser", "vertical", vertical_path)
 
-    print("[6/6] Building thumbnail...")
+    print("[5/5] Building thumbnail...")
     thumb_path = config.THUMBNAIL_DIR / f"{headline['id']}_thumb.jpg"
-    thumbnail_generator.generate_thumbnail(scenes[0]["image"], headline["title"], thumb_path)
+    thumbnail_generator.generate_thumbnail(landscape_scenes[0]["image"], headline["title"], thumb_path)
 
     print(f"[OK] Videos saved: {landscape_path}, {vertical_path}")
     mark_used(headline["id"])
@@ -81,13 +96,17 @@ def process_one(headline: dict, do_upload: bool) -> list[str]:
     if do_upload:
         import youtube_upload
 
-        description = f"{script_text}\n\nSource: {headline['link']}\n\n#NigeriaNews #Naija"
+        landscape_description = f"{script_text}\n\nSource: {headline['link']}\n\n#NigeriaNews #Naija"
         landscape_title = headline["title"][:100]
-        video_id = youtube_upload.upload_video(landscape_path, landscape_title, description, privacy="public")
+        video_id = youtube_upload.upload_video(landscape_path, landscape_title, landscape_description, privacy="public")
         youtube_upload.set_thumbnail(video_id, thumb_path)
 
-        shorts_title = f"{headline['title'][:90]} #Shorts"
-        shorts_description = f"{description}\n\n#Shorts"
+        shorts_title = f"{headline['title'][:80]} #Shorts"
+        shorts_description = (
+            f"{teaser_text}\n\n"
+            f"Watch the FULL story here: https://youtu.be/{video_id}\n\n"
+            f"#Shorts #NigeriaNews #Naija"
+        )
         youtube_upload.upload_video(vertical_path, shorts_title, shorts_description, privacy="public")
 
     return output_paths
@@ -132,4 +151,4 @@ if __name__ == "__main__":
         print(f"Error: Pipeline failed: {e}")
         traceback.print_exc()
         sys.exit(1)
-        
+    
