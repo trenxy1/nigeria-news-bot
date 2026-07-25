@@ -448,7 +448,7 @@
     "published": "Tue, 14 Jul 2026 20:41:53 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T20:35:58.274101+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "d18dee0bffc87d9a",
@@ -7378,6 +7378,105 @@
     "published": "Sat, 25 Jul 2026 16:32:38 +0000",
     "priority": "high",
     "fetched_at": "2026-07-25T18:02:02.250303+00:00",
+    "used": false
+  },
+  {
+    "id": "b8b5bfc736f3b698",
+    "source": "Punch Nigeria",
+    "title": "Four police officers face disciplinary action over viral stop-and-search video",
+    "link": "https://punchng.com/four-police-officers-face-disciplinary-action-over-viral-stop-and-search-video/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Four Nigerian police officers face disciplinary action over a viral stop-and-search video showing alleged unprofessional conduct and ethnic remarks. The Fo\n\nRead More: https://punchng.com/four-police-officers-face-disciplinary-action-over-viral-stop-and-search-video/",
+    "published": "Sat, 25 Jul 2026 20:59:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:14.515580+00:00",
+    "used": false
+  },
+  {
+    "id": "1c891d33baa2c3e4",
+    "source": "Punch Nigeria",
+    "title": "Adeleke, Oyebamiji pledge to boost Osun’s culture, tourism",
+    "link": "https://punchng.com/adeleke-oyebamiji-pledge-to-boost-osuns-culture-tourism/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun State Governor Adeleke and challenger Oyebamiji outline plans to boost Osun tourism and culture, aiming to attract global visitors and increase state\n\nRead More: https://punchng.com/adeleke-oyebamiji-pledge-to-boost-osuns-culture-tourism/",
+    "published": "Sat, 25 Jul 2026 20:54:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:14.515644+00:00",
+    "used": false
+  },
+  {
+    "id": "df7af27948f192c9",
+    "source": "Punch Nigeria",
+    "title": "NSCDC unveils safety campaign to secure schools in Abia",
+    "link": "https://punchng.com/nscdc-unveils-safety-campaign-to-secure-schools-in-abia/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NSCDC Abia Command launches a school safety campaign to educate students and staff on security threats and drug abuse, promoting a safer learning envir\n\nRead More: https://punchng.com/nscdc-unveils-safety-campaign-to-secure-schools-in-abia/",
+    "published": "Sat, 25 Jul 2026 19:32:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:14.515701+00:00",
+    "used": false
+  },
+  {
+    "id": "3a332ddb5ab1504e",
+    "source": "Channels TV",
+    "title": "Police Probe Death Of Pastor In Akwa Ibom",
+    "link": "https://www.channelstv.com/2026/07/25/police-probe-death-of-pastor-in-akwa-ibom/",
+    "summary": "<p>The police appealed to anyone with useful information that could assist the investigation to come forward.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/25/police-probe-death-of-pastor-in-akwa-ibom/\">Police Probe Death Of Pastor In Akwa Ibom</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 25 Jul 2026 18:36:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:15.432637+00:00",
+    "used": false
+  },
+  {
+    "id": "4ad8b0d71aaa0ee1",
+    "source": "Channels TV",
+    "title": "Kebbi Govt Dismisses Claims of Abandoning Communities to Insecurity",
+    "link": "https://www.channelstv.com/2026/07/25/kebbi-govt-dismisses-claims-of-abandoning-communities-to-insecurity/",
+    "summary": "<p>It said that security operations are highly sensitive and that not every strategy, intelligence-gathering effort, or operational activity can be disclosed publicly.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/25/kebbi-govt-dismisses-claims-of-abandoning-communities-to-insecurity/\">Kebbi Govt Dismisses Claims of Abandoning Communities to Insecurity</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 25 Jul 2026 18:13:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:15.432647+00:00",
+    "used": false
+  },
+  {
+    "id": "5f08e7a8763ccc10",
+    "source": "Leadership Newspaper",
+    "title": "Oluremi Tinubu Visits Sultan Of Sokoto, Commends Monarch’s Fatherly Guidance",
+    "link": "https://leadership.ng/oluremi-tinubu-visits-sultan-of-sokoto-commends-monarchs-fatherly-guidance/",
+    "summary": "Nigeria’s First Lady, Senator Oluremi Tinubu, on Saturday paid homage to the Sultan of Sokoto, His Eminence Alhaji Muhammad Sa’ad Abubakar III, during her official visit to Sokoto State. She described the visit as a long-overdue opportunity to personally appreciate the revered monarch for his unwavering support, fatherly guidance, and prayers for the administration of [&#8230;]",
+    "published": "Sat, 25 Jul 2026 19:42:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:18.480141+00:00",
+    "used": false
+  },
+  {
+    "id": "d27925a7625331ea",
+    "source": "Leadership Newspaper",
+    "title": "Security Challenges Confronting North, Other Parts Will Soon Be Behind Us – Tinubu",
+    "link": "https://leadership.ng/security-challenges-confronting-north-other-parts-will-soon-be-behind-us-tinubu/",
+    "summary": "President Bola Ahmed Tinubu has declared that the security challenges confronting the north and other parts of Nigeria will soon be thing of the past. In his speech at the third General Hassan Usman Katsina memorial conference held in Kaduna, Tinubu reaffirmed his administration’s commitment to safeguarding the legacies of the past heroes. Represented by [&#8230;]",
+    "published": "Sat, 25 Jul 2026 19:36:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:18.480152+00:00",
+    "used": false
+  },
+  {
+    "id": "f6859524eec25740",
+    "source": "Leadership Newspaper",
+    "title": "2027: APC Support Group Targets 10m Votes For Tinubu, Yari",
+    "link": "https://leadership.ng/2027-apc-support-group-targets-10m-votes-for-tinubu-yari/",
+    "summary": "A political support group, YARI 774 for Asiwaju Initiative, has begun mobilisation across the country ahead of the 2027 general elections, targeting 10 million votes for President Bola Tinubu and former Zamfara State Governor, Senator Abdulaziz Yari. The group announced the mobilisation plan at its maiden National Executive Council (NEC) meeting held yesterday in Abuja. [&#8230;]",
+    "published": "Sat, 25 Jul 2026 19:20:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:18.480159+00:00",
+    "used": false
+  },
+  {
+    "id": "6bb24a20e11fae14",
+    "source": "Leadership Newspaper",
+    "title": "Cybercriminals Deploy Malware to Hijack Crypto Wallets, Monitor Browsers- Report",
+    "link": "https://leadership.ng/cybercriminals-deploy-malware-to-hijack-crypto-wallets-monitor-browsers-report/",
+    "summary": "Cybersecurity researchers at Kaspersky have uncovered a sophisticated malware framework, dubbed OkoBot, that is targeting cryptocurrency users by stealing wallet recovery phrases, browser credentials and other sensitive information through a multi-stage attack campaign spanning more than 25 countries. The researchers said the malware, active since April 2025, employs more than 20 malicious payloads and has [&#8230;]",
+    "published": "Sat, 25 Jul 2026 18:36:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-25T20:39:18.480264+00:00",
     "used": false
   },
   {
@@ -17556,6 +17655,204 @@
     "used": false
   },
   {
+    "id": "eda9b8f76597867a",
+    "source": "Punch Nigeria",
+    "title": "Iran says it sold $18bn of oil during war, ceasefire",
+    "link": "https://punchng.com/iran-says-it-sold-18bn-of-oil-during-war-ceasefire/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Iran&#8217;s oil ministry announced it sold $18 billion worth of oil during the recent conflict and ceasefire with the US, covering 60% of its budget forecast.\n\nRead More: https://punchng.com/iran-says-it-sold-18bn-of-oil-during-war-ceasefire/",
+    "published": "Sat, 25 Jul 2026 21:23:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:14.515496+00:00",
+    "used": false
+  },
+  {
+    "id": "3a17fdc1b0926ce3",
+    "source": "Punch Nigeria",
+    "title": "Lagos trains 400 retiring officers for life after service",
+    "link": "https://punchng.com/lagos-trains-400-retiring-officers-for-life-after-service/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos State Government trains 400 retiring officers in the Unified Local Government Service, equipping them for a smooth transition to life after service.\n\nRead More: https://punchng.com/lagos-trains-400-retiring-officers-for-life-after-service/",
+    "published": "Sat, 25 Jul 2026 21:17:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:14.515536+00:00",
+    "used": false
+  },
+  {
+    "id": "0ebb95629c9a7891",
+    "source": "Punch Nigeria",
+    "title": "Xenophobia: S’Africa returnees recount ordeal, seek fresh start in Nigeria",
+    "link": "https://punchng.com/xenophobia-safrica-returnees-recount-ordeal-seek-fresh-start-in-nigeria/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerians evacuated from South Africa share their xenophobia experiences and hopes for a fresh start in Nigeria, with NiDCOM pledging support for their rei\n\nRead More: https://punchng.com/xenophobia-safrica-returnees-recount-ordeal-seek-fresh-start-in-nigeria/",
+    "published": "Sat, 25 Jul 2026 21:11:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:14.515569+00:00",
+    "used": false
+  },
+  {
+    "id": "9342dee0ba98d4db",
+    "source": "Punch Nigeria",
+    "title": "La Liga: Real Madrid agree personal terms with Côte d’Ivoire’s Diomande — Reports",
+    "link": "https://punchng.com/la-liga-real-madrid-agree-personal-terms-with-cote-divoires-diomande-reports/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Real Madrid has reportedly agreed personal terms with Côte d&#8217;Ivoire&#8217;s Yan Diomande, moving closer to signing the RB Leipzig winger.\n\nRead More: https://punchng.com/la-liga-real-madrid-agree-personal-terms-with-cote-divoires-diomande-reports/",
+    "published": "Sat, 25 Jul 2026 20:54:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:14.515624+00:00",
+    "used": false
+  },
+  {
+    "id": "d6ff4b477b75fcf2",
+    "source": "Punch Nigeria",
+    "title": "UN urges Africa to invest in people to meet 2030 goals",
+    "link": "https://punchng.com/un-urges-africa-to-invest-in-people-to-meet-2030-goals/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The UN calls on African nations to scale up investments in people, mobilise sustainable financing, and strengthen partnerships to meet 2030 development goa\n\nRead More: https://punchng.com/un-urges-africa-to-invest-in-people-to-meet-2030-goals/",
+    "published": "Sat, 25 Jul 2026 20:18:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:14.515664+00:00",
+    "used": false
+  },
+  {
+    "id": "1c206c64a0da72e1",
+    "source": "Punch Nigeria",
+    "title": "EPL: Newcastle want Guimarães to stay, says coach Howe",
+    "link": "https://punchng.com/epl-newcastle-want-guimaraes-to-stay-says-coach-howe/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Newcastle coach Eddie Howe reiterates the club&#8217;s desire to keep captain Bruno Guimarães amidst Arsenal transfer speculation. Find out more about Guimarães\n\nRead More: https://punchng.com/epl-newcastle-want-guimaraes-to-stay-says-coach-howe/",
+    "published": "Sat, 25 Jul 2026 20:04:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:14.515690+00:00",
+    "used": false
+  },
+  {
+    "id": "c843bfe5ad4d20cb",
+    "source": "Punch Nigeria",
+    "title": "Benue investigates suspected Mpox case",
+    "link": "https://punchng.com/benue-investigates-suspected-mpox-case/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Benue State Government is investigating a suspected Mpox case in Konshisha LGA. Residents are urged to remain calm and report symptoms for proper medical e\n\nRead More: https://punchng.com/benue-investigates-suspected-mpox-case/",
+    "published": "Sat, 25 Jul 2026 19:12:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:14.515728+00:00",
+    "used": false
+  },
+  {
+    "id": "fc2e66e6728dfa4c",
+    "source": "Premium Times",
+    "title": "Forgive South Africans for they know not what they do, By Ahmed Aminu-Ramatu Yusuf",
+    "link": "https://www.premiumtimesng.com/opinion/898182-forgive-south-africans-for-they-know-not-what-they-do-by-ahmed-aminu-ramatu-yusuf.html",
+    "summary": "<img alt=\"Ahmed Aminu-Ramatu Yusuf writes about the struggle for June 12.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"827\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/05/Ahmed-Aminu-Ramatu-Yusuf.jpeg?fit=591%2C827&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"591\" /><p>I can understand when some  Africans argue that March and March (M&#38;M) leaders like Jacinta Ngobese-Zuma and Andile Somgxada, Sandile Dube, should never be forgi",
+    "published": "Sat, 25 Jul 2026 20:12:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:15.050404+00:00",
+    "used": false
+  },
+  {
+    "id": "49ac4bc24dc1c0a5",
+    "source": "Channels TV",
+    "title": "Two Dead After Plane Crashes Onto German House’s Roof",
+    "link": "https://www.channelstv.com/2026/07/25/two-dead-after-plane-crashes-onto-german-houses-roof/",
+    "summary": "<p>The light aircraft came down in a residential area of Ganderkesee, near Oldenburg, striking the pitched roof of a house head-on.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/25/two-dead-after-plane-crashes-onto-german-houses-roof/\">Two Dead After Plane Crashes Onto German House&#8217;s Roof</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 25 Jul 2026 20:18:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:15.432514+00:00",
+    "used": false
+  },
+  {
+    "id": "8c6660558ef255ba",
+    "source": "Channels TV",
+    "title": "Gov Sule Hosts Ophthalmological Society, Pledges Support For 51st Annual Conference",
+    "link": "https://www.channelstv.com/2026/07/25/gov-sule-hosts-ophthalmological-society-pledges-support-for-51st-annual-conference/",
+    "summary": "<p>The conference will feature free cataract surgeries at select hospitals, including the Mararaba General Hospital in Nasarawa State.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/25/gov-sule-hosts-ophthalmological-society-pledges-support-for-51st-annual-conference/\">Gov Sule Hosts Ophthalmological Society, Pledges Support For 51st Annual Conference</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 25 Jul 2026 19:24:18 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:15.432556+00:00",
+    "used": false
+  },
+  {
+    "id": "96c9223d18a58a87",
+    "source": "Channels TV",
+    "title": "No Mpox Outbreak Confirmed In Benue, Says Health Commissioner",
+    "link": "https://www.channelstv.com/2026/07/25/no-mpox-outbreak-confirmed-in-benue-says-health-commissioner/",
+    "summary": "<p>It however advised anyone experiencing fever accompanied by unexplained rashes or blisters to seek immediate medical attention at the nearest health facility.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/25/no-mpox-outbreak-confirmed-in-benue-says-health-commissioner/\">No Mpox Outbreak Confirmed In Benue, Says Health Commissioner</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 25 Jul 2026 19:13:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:15.432581+00:00",
+    "used": false
+  },
+  {
+    "id": "ce3f5fab94ecc2dd",
+    "source": "Channels TV",
+    "title": "Red Cross Activates Response Mechanism To Tackle Flooding In Kebbi",
+    "link": "https://www.channelstv.com/2026/07/25/red-cross-activates-response-mechanism-to-tackle-flooding-in-kebbi/",
+    "summary": "<p>It said that the trainees were provided with river water gauges to enable them to monitor water levels and issue early warnings to communities in the event of impending floods.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/25/red-cross-activates-response-mechanism-to-tackle-flooding-in-kebbi/\">Red Cross Activates Response Mechanism To Tackle Flooding In Kebbi</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 25 Jul 2026 18:55:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:15.432624+00:00",
+    "used": false
+  },
+  {
+    "id": "da077e74eabb2c33",
+    "source": "Channels TV",
+    "title": "100-Year-Old Mel Brooks Lands At Comic-Con For ‘Spaceballs’ Sequel",
+    "link": "https://www.channelstv.com/2026/07/25/100-year-old-mel-brooks-lands-at-comic-con-for-spaceballs-sequel/",
+    "summary": "<p>The legendary filmmaker, who has just turned 100, did not attend Hall H, the convention's largest venue, but recorded a hilarious video for an enthusiastic audience.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/25/100-year-old-mel-brooks-lands-at-comic-con-for-spaceballs-sequel/\">100-Year-Old Mel Brooks Lands At Comic-Con For &#8216;Spaceballs&#8217; Sequel</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 25 Jul 2026 18:10:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:15.432678+00:00",
+    "used": false
+  },
+  {
+    "id": "d659a7f58cb47ef2",
+    "source": "Channels TV",
+    "title": "Niger State Eyes Industrial Boom With Proposed International Trade Zone",
+    "link": "https://www.channelstv.com/2026/07/25/niger-state-eyes-industrial-boom-with-proposed-international-trade-zone/",
+    "summary": "<p>Covering approximately 206 hectares, the project is expected to serve as a major hub for industrial and commercial activities.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/25/niger-state-eyes-industrial-boom-with-proposed-international-trade-zone/\">Niger State Eyes Industrial Boom With Proposed International Trade Zone</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sat, 25 Jul 2026 18:05:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:15.432702+00:00",
+    "used": false
+  },
+  {
+    "id": "f98f837681fe4cbc",
+    "source": "Leadership Newspaper",
+    "title": "Erling Haaland Laughs Along As He Reacts To Viral Memes About His Appearance",
+    "link": "https://leadership.ng/erling-haaland-laughs-along-as-he-reacts-to-viral-memes-about-his-appearance/",
+    "summary": "Football superstar Erling Haaland has won over fans after reacting with humour to the countless memes inspired by his appearance, proving he can laugh at himself just as much as the internet does. &#160; In a new YouTube episode, Haaland addressed the flood of viral jokes and edited images that have circulated online over the [&#8230;]",
+    "published": "Sat, 25 Jul 2026 20:36:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:18.480123+00:00",
+    "used": false
+  },
+  {
+    "id": "11c30e814955b7b5",
+    "source": "Leadership Newspaper",
+    "title": "TCN Strengthens Community Partnership for Infrastructure Protection",
+    "link": "https://leadership.ng/tcn-strengthens-community-partnership-for-infrastructure-protection/",
+    "summary": "The Transmission Company of Nigeria (TCN) has moved to deepen ties with communities that host its power infrastructure, renewing calls for local stewardship and joint protection of transmission facilities during a courtesy visit by the United Progressive Youth of Afaka (UPYA) to TCN’s Kaduna Regional Office on Tuesday, July 21. The visit – part of [&#8230;]",
+    "published": "Sat, 25 Jul 2026 19:09:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:18.480182+00:00",
+    "used": false
+  },
+  {
+    "id": "0941253012fc813b",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria Assumes Chair Of ATU, Urges Deeper Cooperation Among Members",
+    "link": "https://leadership.ng/nigeria-assumes-chair-of-atu-urges-deeper-cooperation-among-members/",
+    "summary": "Nigeria has assumed the chairmanship of the African Telecommunications Union (ATU) during the 7th Ordinary Session of the Union’s Conference of Plenipotentiaries (CPL-26) that concluded in Abuja on Friday, July 24, 2026, where it urged deeper cooperation among  Member States. &#160; Dr. Bosun Tijani. Photo: Google Nigeria’s Minister of Communications, Innovation and Digital Economy, Bosun [&#8230;]",
+    "published": "Sat, 25 Jul 2026 19:07:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:18.480206+00:00",
+    "used": false
+  },
+  {
+    "id": "271f116a4bb6ebc9",
+    "source": "Leadership Newspaper",
+    "title": "NIDCOM Leverages Diaspora Investment For Transformation In Nigeria’s Health Sector",
+    "link": "https://leadership.ng/nidcom-leveraging-diaspora-investment-for-transformation-in-nigerias-health-sector/",
+    "summary": "The Nigerians in the Diaspora Commission (NIDCOM) and other stakeholders have intensified efforts to harness the resources, expertise, skill and experience of the Nigerians in the Diaspora to positively transform the country’s health and other critical sectors to boost the Nigerian economy. The hallmark of the NIDCOM activities is the enhanced engagement with the Diasporas, [&#8230;]",
+    "published": "Sat, 25 Jul 2026 18:54:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-25T20:39:18.480229+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -18609,6 +18906,50 @@
     "published": "Sat, 25 Jul 2026 16:25:18 +0000",
     "priority": "low",
     "fetched_at": "2026-07-25T18:02:02.250324+00:00",
+    "used": false
+  },
+  {
+    "id": "2132867306b042b9",
+    "source": "Premium Times",
+    "title": "ECOWAS needs our collective wisdom, not a shared amnesia, By Owei Lakemfa",
+    "link": "https://www.premiumtimesng.com/opinion/898152-ecowas-needs-our-collective-wisdom-not-a-shared-amnesia-by-owei-lakemfa.html",
+    "summary": "<img alt=\"Owei Lakemfa writes about Yeslem Beisat.and the Sahrawi struggle.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1050\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/04/Owei-Lakemfa.jpeg?fit=750%2C1050&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"750\" /><p>&#8230;ECOWAS reiterated its promise to reduce the airfares amongst its member states. But I wonder why the emphasis as regards regional transportation is not on building r",
+    "published": "Sat, 25 Jul 2026 19:59:55 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-25T20:39:15.050456+00:00",
+    "used": false
+  },
+  {
+    "id": "0657ad6bf9402b73",
+    "source": "Premium Times",
+    "title": "PHOTOS: Soso Soberekon weds partner in Warri",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/898146-photos-soso-soberekon-weds-partner-in-warri.html",
+    "summary": "<img alt=\"Husband and wife (CREDIT IG@sososoberekon)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"676\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Husband-and-wife-Credit_-Instagram%40sososoberekon-e1785006144998.jpg?fit=1080%2C676&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Nigerian singers Timi Dakolo and 2Baba serenaded the couple with love songs as they exchanged marital vows in a celebration of love and heritag",
+    "published": "Sat, 25 Jul 2026 18:41:08 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-25T20:39:15.050489+00:00",
+    "used": false
+  },
+  {
+    "id": "18a710f4a6ddd41e",
+    "source": "Leadership Newspaper",
+    "title": "Guests Get Exclusive Treatment At Wedding Of Soso Soberekon In Warri",
+    "link": "https://leadership.ng/guests-get-exclusive-treatment-at-wedding-of-soso-soberekon-in-warri/",
+    "summary": "Music executive Soso Soberekon and his wife, Princess Ebiere, had a grand wedding ceremony today and guests were treated specially. Soberekon had raised the bar as he welcomed his celebrity guests from the airport with luxury cars and convoys. Spotted arriving for his wedding were Ini Edo, IK Ogbonna, Medlinboss, Tubaba, Iyabo Ojo and daughter [&#8230;]",
+    "published": "Sat, 25 Jul 2026 20:38:55 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-25T20:39:18.480089+00:00",
+    "used": false
+  },
+  {
+    "id": "1e94d04a90c48154",
+    "source": "Leadership Newspaper",
+    "title": "Kano Govt Bans ‘After-Party’ At Weddings",
+    "link": "https://leadership.ng/kano-govt-bans-after-party-at-weddings/",
+    "summary": "The Kano State Censorship Board has suspended with immediate effect the conduct of activities popularly known as &#8220;after-party&#8221; and &#8220;hot challenge&#8221; at wedding ceremonies and other social events held in event centres across the state. The Board said the directive is part of ongoing efforts to regulate entertainment activities and ensure compliance with existing guidelines [&#8230;]",
+    "published": "Sat, 25 Jul 2026 18:45:30 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-25T20:39:18.480255+00:00",
     "used": false
   }
 ]
