@@ -481,7 +481,7 @@
     "published": "Tue, 14 Jul 2026 21:32:14 +0000",
     "priority": "high",
     "fetched_at": "2026-07-14T21:34:28.849432+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "e636754c4d9937eb",
@@ -7961,6 +7961,204 @@
     "published": "Sun, 26 Jul 2026 15:36:02 +0000",
     "priority": "high",
     "fetched_at": "2026-07-26T18:06:20.536437+00:00",
+    "used": false
+  },
+  {
+    "id": "1e5b97435ce99980",
+    "source": "Punch Nigeria",
+    "title": "Nigeria needs new leadership — Peter Obi",
+    "link": "https://punchng.com/nigeria-needs-new-leadership-peter-obi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Peter Obi urges President Tinubu to step aside, stating Nigeria needs new leadership with capacity to tackle economic and security challenges.\n\nRead More: https://punchng.com/nigeria-needs-new-leadership-peter-obi/",
+    "published": "Sun, 26 Jul 2026 21:13:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:07.490303+00:00",
+    "used": false
+  },
+  {
+    "id": "fceedde943d489da",
+    "source": "Punch Nigeria",
+    "title": "I’m not desperate to be president, says Peter Obi",
+    "link": "https://punchng.com/im-not-desperate-to-be-president-says-peter-obi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Peter Obi, NDC presidential candidate, states he&#8217;s not desperate to be president in 2027. His priority is seeing Nigeria work, not occupying office.\n\nRead More: https://punchng.com/im-not-desperate-to-be-president-says-peter-obi/",
+    "published": "Sun, 26 Jul 2026 21:05:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:07.490313+00:00",
+    "used": false
+  },
+  {
+    "id": "8ef617f562e4c053",
+    "source": "Punch Nigeria",
+    "title": "Osun Accord party candidates accuse police of intimidation, seek Tinubu’s intervention",
+    "link": "https://punchng.com/osun-accord-party-candidates-accuse-police-of-intimidation-seek-tinubus-intervention/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun Accord Party candidates accuse police of intimidation and persecution, urging President Tinubu to intervene. They demand the release of detained membe\n\nRead More: https://punchng.com/osun-accord-party-candidates-accuse-police-of-intimidation-seek-tinubus-intervention/",
+    "published": "Sun, 26 Jul 2026 20:02:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:07.490439+00:00",
+    "used": false
+  },
+  {
+    "id": "7ebf78cd75cfbf00",
+    "source": "Punch Nigeria",
+    "title": "Nigerians have accepted Makinde as alternative to Tinubu – APM",
+    "link": "https://punchng.com/nigerians-have-accepted-makinde-as-alternative-to-tinubu-apm/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The APM states Nigerians have accepted Seyi Makinde as a credible alternative to President Tinubu for the 2027 elections, citing his performance in Oyo Sta\n\nRead More: https://punchng.com/nigerians-have-accepted-makinde-as-alternative-to-tinubu-apm/",
+    "published": "Sun, 26 Jul 2026 19:27:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:07.490471+00:00",
+    "used": false
+  },
+  {
+    "id": "1c17391737c7a84e",
+    "source": "Punch Nigeria",
+    "title": "Ex-Lagos first lady hails Supreme Court judgment confirming Oyebanji’s election",
+    "link": "https://punchng.com/ex-lagos-first-lady-hails-supreme-court-judgment-confirming-oyebanjis-election/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Lagos First Lady hails Supreme Court judgment confirming Biodun Oyebanji as Ekiti State Governor, urging unity for peace and development.\n\nRead More: https://punchng.com/ex-lagos-first-lady-hails-supreme-court-judgment-confirming-oyebanjis-election/",
+    "published": "Sun, 26 Jul 2026 19:25:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:07.490482+00:00",
+    "used": false
+  },
+  {
+    "id": "a0581eddec926ec1",
+    "source": "Premium Times",
+    "title": "Osun 2026: Uzodimma, Akpabio, Abbas, others to lead APC campaign council",
+    "link": "https://www.premiumtimesng.com/news/top-news/898354-osun-2026-uzodimma-akpabio-abbas-others-to-lead-apc-campaign-council.html",
+    "summary": "<img alt=\"Logo of the All Progressives Congress (APC)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"630\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/05/Screenshot-498.png?fit=760%2C630&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"760\" /><p>The APC will, on Tuesday, inaugurate the campaign council for the election scheduled for 15 August.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/898354-osun-2026-uzodimma",
+    "published": "Sun, 26 Jul 2026 20:24:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:08.090382+00:00",
+    "used": false
+  },
+  {
+    "id": "cb5722f43a904859",
+    "source": "Premium Times",
+    "title": "Xenophobia: Another Nigerian killed in South Africa",
+    "link": "https://www.premiumtimesng.com/foreign/898336-xenophobia-another-nigerian-killed-in-south-africa.html",
+    "summary": "<img alt=\"South Africa on map\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"566\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2017/12/south-africa-map-e1594636392714.png?fit=800%2C566&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>The consulate disclosed that the police also shot another Nigerian national, Egwabor Patrick, who is still receiving treatment.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/foreign/898336-xen",
+    "published": "Sun, 26 Jul 2026 19:23:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:08.090482+00:00",
+    "used": false
+  },
+  {
+    "id": "e90584a0b51533ce",
+    "source": "Premium Times",
+    "title": "Bandits abduct high court judge in Kebbi",
+    "link": "https://www.premiumtimesng.com/news/top-news/898319-bandits-abduct-high-court-judge-in-kebbi.html",
+    "summary": "<img alt=\"Bandits\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"400\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/output-11-e1772014388303.jpg?fit=640%2C400&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>The judge was reportedly seized from his residence in Bunza LGA in the early hours of Sunday, shortly after returning from a trip to neighbouring Sokoto State.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/",
+    "published": "Sun, 26 Jul 2026 18:50:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:08.090531+00:00",
+    "used": false
+  },
+  {
+    "id": "e324682e2d9dbcde",
+    "source": "Premium Times",
+    "title": "Around Africa, elections have become too inconvenient, By Chidi Anselm Odinkalu",
+    "link": "https://www.premiumtimesng.com/opinion/898327-around-africa-elections-have-become-too-inconvenient-by-chidi-anselm-odinkalu.html",
+    "summary": "<img alt=\"Chidi Anselm Odinkalu writes that democracy without voters is the origin of Nigeria’s insecurity crisis.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"441\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/01/chidi-odinkalu-632x441-1.jpg?fit=632%2C441&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"632\" /><p>José Eduardo Van-Dúnem dos Santos was 37 when the ruling Popular Movement for the Liberation of Angola, (better known by its",
+    "published": "Sun, 26 Jul 2026 18:49:14 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:08.090546+00:00",
+    "used": false
+  },
+  {
+    "id": "c6292c8b26c3c237",
+    "source": "Channels TV",
+    "title": "‘That’s Renewed Hopelessness’: Obi Criticises Tinubu’s Renewed Hope Agenda",
+    "link": "https://www.channelstv.com/2026/07/26/thats-renewed-hopelessness-obi-criticises-tinubus-renewed-hope-agenda/",
+    "summary": "<p>Peter Obi says, unlike President Bola Tinubu, he would provide real hope, tangible hope that people will see if he is elected as President.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/26/thats-renewed-hopelessness-obi-criticises-tinubus-renewed-hope-agenda/\">&#8216;That&#8217;s Renewed Hopelessness&#8217;: Obi Criticises Tinubu&#8217;s Renewed Hope Agenda</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 26 Jul 2026 20:35:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:08.975410+00:00",
+    "used": false
+  },
+  {
+    "id": "497170be7495bb8d",
+    "source": "Channels TV",
+    "title": "I Will Unite Nigeria, I Know What It Takes — Peter Obi",
+    "link": "https://www.channelstv.com/2026/07/26/i-will-unite-nigeria-i-know-what-it-takes-peter-obi/",
+    "summary": "<p>The former Anambra State governor argued that his actions over the years, rather than political rhetoric, reflected his commitment to every part of the country.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/26/i-will-unite-nigeria-i-know-what-it-takes-peter-obi/\">I Will Unite Nigeria, I Know What It Takes — Peter Obi</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 26 Jul 2026 19:54:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:08.975443+00:00",
+    "used": false
+  },
+  {
+    "id": "37cb234b900d5c2a",
+    "source": "Channels TV",
+    "title": "Tinubu Is Tired, Should Be Allowed To Retire In Peace, Says Peter Obi",
+    "link": "https://www.channelstv.com/2026/07/26/tinubu-is-tired-should-be-allowed-to-retire-in-peace-says-peter-obi/",
+    "summary": "<p>The former Anambra State governor said Nigeria was \"headed in the wrong direction\" and required a leader with the energy and commitment to reverse the country's fortunes.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/26/tinubu-is-tired-should-be-allowed-to-retire-in-peace-says-peter-obi/\">Tinubu Is Tired, Should Be Allowed To Retire In Peace, Says Peter Obi</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Sun, 26 Jul 2026 19:37:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:08.975453+00:00",
+    "used": false
+  },
+  {
+    "id": "a885c1e5e531fb62",
+    "source": "Channels TV",
+    "title": "Gov Sani Launches Distribution Of 500 Trucks Of Free Fertiliser To 150,000 Kaduna Farmers",
+    "link": "https://www.channelstv.com/2026/07/26/gov-sani-launches-distribution-of-500-trucks-of-free-fertiliser-to-150000-kaduna-farmers/",
+    "summary": "<p>He also argued that selling the fertiliser could have allowed large-scale farmers and middlemen to buy it in bulk and resell it at inflated prices, thereby defeating the purpose of the subsidy.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/26/gov-sani-launches-distribution-of-500-trucks-of-free-fertiliser-to-150000-kaduna-farmers/\">Gov Sani Launches Distribution Of 500 Trucks Of Free Fertiliser To 150,000 Kaduna Farmers</a> appeared first on <a href=\"https://www.channelstv.com\">",
+    "published": "Sun, 26 Jul 2026 18:51:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:08.975468+00:00",
+    "used": false
+  },
+  {
+    "id": "d55f8753eba014a7",
+    "source": "Leadership Newspaper",
+    "title": "US-Iran War Escalates As Houthis Fire At Saudi Oil Facilities",
+    "link": "https://leadership.ng/us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities/",
+    "summary": "Houthi  forces  allied to the Islamic Republic of Iran in Yemen have attacked two of Saudi Arabia’s most strategically important oil facilities on the Red Sea, with missiles and drones in a latest intensification of the  simmering regional conflict, following the war launched by the United States and Israel against Iran. &#160; Houthi Rebels in [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:39:54 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:14.507694+00:00",
+    "used": false
+  },
+  {
+    "id": "8a2ed04f5d07656a",
+    "source": "Leadership Newspaper",
+    "title": "Heavy Downpour Destroys Over 200 Houses, Shops In Katsina Community",
+    "link": "https://leadership.ng/heavy-downpour-destroys-over-200-houses-shops-in-katsina-community/",
+    "summary": "A heavy downpour has destroyed over 200 houses, shops among other properties worth billions at Dangamau community of Kusada local government area of Katsina State. Katsina State governor, Malam Dikko Umaru Radda, has expressed sympathy to residents of the community, describing the incident as painful and unfortunate He explained that the destruction caused by the [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:32:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:14.507716+00:00",
+    "used": false
+  },
+  {
+    "id": "0a6cd389ab7303e0",
+    "source": "Leadership Newspaper",
+    "title": "Task Force On Illegal Mining Arrests 20 Suspected Miners In Taraba",
+    "link": "https://leadership.ng/task-force-on-illegal-mining-arrests-20-suspected-miners-in-taraba/",
+    "summary": "The Taraba State Anti-Illegal Mining Task Force has arrested 20 suspected illegal miners as part of renewed efforts to clamp down on unauthorized mining activities across the state. The chairman of the Task Force, SP Emmanuel Jamu, who disclosed this to newsmen in Jalingo, said the suspects were apprehended based on credible intelligence while on [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:25:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:14.507730+00:00",
+    "used": false
+  },
+  {
+    "id": "ece4d59c3e2a7c86",
+    "source": "Leadership Newspaper",
+    "title": "Period Stigma, Poor Menstrual Education Driving Teen Pregnancies, NGOs Warn",
+    "link": "https://leadership.ng/period-stigma-poor-menstrual-education-driving-teen-pregnancies-ngos-warn/",
+    "summary": "Pad Up Africa, in partnership with the ÀLÁÁFÍÀ Initiative for Gender and Development, has raised concerns that poor menstrual health education, persistent cultural stigma and weak implementation of existing government policies are fueling the growing rate of teenage pregnancies in Nigeria. The organisations also stressed the importance of involving men and boys in menstrual health [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:18:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:14.507774+00:00",
+    "used": false
+  },
+  {
+    "id": "28533e897d949adb",
+    "source": "Leadership Newspaper",
+    "title": "Benue Police Deny Mass Killing, Confirm 1 Dead In Ohimini Attack",
+    "link": "https://leadership.ng/benue-police-deny-mass-killing-confirm-1-dead-in-ohimini-attack/",
+    "summary": "The Benue State Police Command has confirmed the killing one person in Agadagba community in Ohimini local government area of the state, debunking the reported mass killing and missing of thirty persons in the village. In a statement issued by the Command’s spokesperson, DSP Edet Udeme, Sunday night, the police narrated that on Saturday, 25th [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:06:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-26T20:44:14.507834+00:00",
     "used": false
   },
   {
@@ -18766,6 +18964,149 @@
     "used": false
   },
   {
+    "id": "72d50c0b06fc2f9e",
+    "source": "Punch Nigeria",
+    "title": "Efakpokire, Orewa claim Prime Atlantic squash titles",
+    "link": "https://punchng.com/efakpokire-orewa-claim-prime-atlantic-squash-titles/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Clement Efakpokire and Ngozi-Pope Orewa win the 2026 Prime Atlantic Squash Closed Tournament at Ikoyi Club 1938. Read about the champions and the tournamen\n\nRead More: https://punchng.com/efakpokire-orewa-claim-prime-atlantic-squash-titles/",
+    "published": "Sun, 26 Jul 2026 21:40:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:07.490236+00:00",
+    "used": false
+  },
+  {
+    "id": "79ed5902aa5b9e1c",
+    "source": "Punch Nigeria",
+    "title": "I have what it takes to unite Nigeria, Peter Obi replies critics",
+    "link": "https://punchng.com/i-have-what-it-takes-to-unite-nigeria-peter-obi-replies-critics/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Peter Obi dismisses critics, insisting his track record proves he can unite Nigeria. Discover his vision for national cohesion and healing divisions.\n\nRead More: https://punchng.com/i-have-what-it-takes-to-unite-nigeria-peter-obi-replies-critics/",
+    "published": "Sun, 26 Jul 2026 21:36:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:07.490271+00:00",
+    "used": false
+  },
+  {
+    "id": "416b759639958983",
+    "source": "Punch Nigeria",
+    "title": "My husband fought my BBNaija decision, says housemate",
+    "link": "https://punchng.com/my-husband-fought-my-bbnaija-decision-says-housemate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "BBNaija Season 11 housemate, Abi, reveals her husband initially opposed her decision to join the reality show. Get the full story on her journey.\n\nRead More: https://punchng.com/my-husband-fought-my-bbnaija-decision-says-housemate/",
+    "published": "Sun, 26 Jul 2026 21:17:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:07.490291+00:00",
+    "used": false
+  },
+  {
+    "id": "bed4de17a96fdb19",
+    "source": "Punch Nigeria",
+    "title": "Algeria win WAFCON opener as blunder seals Senegal’s fate",
+    "link": "https://punchng.com/algeria-win-wafcon-opener-as-blunder-seals-senegals-fate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Algeria secured a 2-0 victory over Senegal in the WAFCON opener, with a late blunder sealing Senegal&#8217;s fate. Read about the thrilling match.\n\nRead More: https://punchng.com/algeria-win-wafcon-opener-as-blunder-seals-senegals-fate/",
+    "published": "Sun, 26 Jul 2026 20:44:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:07.490357+00:00",
+    "used": false
+  },
+  {
+    "id": "a2f1bb39967b6a85",
+    "source": "Punch Nigeria",
+    "title": "Female referee suffers concussion while trying to break up players’ clash",
+    "link": "https://punchng.com/female-referee-suffers-concussion-while-trying-to-break-up-players-clash/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Female referee Mathilde Demoncay suffered a concussion while breaking up a heated clash between Metz and Fortuna Sittard players. Learn more about the inci\n\nRead More: https://punchng.com/female-referee-suffers-concussion-while-trying-to-break-up-players-clash/",
+    "published": "Sun, 26 Jul 2026 20:12:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:07.490387+00:00",
+    "used": false
+  },
+  {
+    "id": "afa869150dd14bba",
+    "source": "Punch Nigeria",
+    "title": "FULL LIST: Meet the BBNaija Season 11 housemates",
+    "link": "https://punchng.com/full-list-meet-the-bbnaija-season-11-housemates/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Meet the BBNaija Season 11 housemates competing for the ₦160 million grand prize. Get the full list and profiles of all contestants here.\n\nRead More: https://punchng.com/full-list-meet-the-bbnaija-season-11-housemates/",
+    "published": "Sun, 26 Jul 2026 20:07:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:07.490410+00:00",
+    "used": false
+  },
+  {
+    "id": "83ee4c92240ae45c",
+    "source": "Punch Nigeria",
+    "title": "FG seeks Lagos-Dakar minerals corridor to unlock Africa’s mineral wealth",
+    "link": "https://punchng.com/fg-seeks-lagos-dakar-minerals-corridor-to-unlock-africas-mineral-wealth/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria&#8217;s FG and AfDB advocate for a Lagos-Dakar minerals corridor to boost Africa&#8217;s mineral wealth, promoting local processing and value addition.\n\nRead More: https://punchng.com/fg-seeks-lagos-dakar-minerals-corridor-to-unlock-africas-mineral-wealth/",
+    "published": "Sun, 26 Jul 2026 19:30:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:07.490461+00:00",
+    "used": false
+  },
+  {
+    "id": "3303a7fde49eda31",
+    "source": "Punch Nigeria",
+    "title": "FULL LIST: 11 most memorable relationships in BBNaija",
+    "link": "https://punchng.com/full-list-11-most-memorable-relationships-in-bbnaija/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Explore the 11 most memorable BBNaija relationships, from enduring love stories like BamTeddy to dramatic love triangles. Relive the romance and drama!\n\nRead More: https://punchng.com/full-list-11-most-memorable-relationships-in-bbnaija/",
+    "published": "Sun, 26 Jul 2026 19:14:12 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:07.490499+00:00",
+    "used": false
+  },
+  {
+    "id": "e78d86f530203637",
+    "source": "Premium Times",
+    "title": "Labour shuts down FUTA Teaching Hospital over non-implementation of agreement",
+    "link": "https://www.premiumtimesng.com/news/top-news/898359-labour-shuts-down-futa-teaching-hospital-over-non-implementation-of-agreement.html",
+    "summary": "<img alt=\"Federal University of Technology Akure Teaching Hospital (FUTATH)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"450\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/745288446_2214375389385359_619458677351317604_n.jpg?fit=600%2C450&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>The NLC and TUC, in a notice on Sunday, directed the workers at the institution to down tools as from 12 midnight.</p>\n<p>The post <a href=\"",
+    "published": "Sun, 26 Jul 2026 20:39:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:08.090314+00:00",
+    "used": false
+  },
+  {
+    "id": "e2aa19852dc290c9",
+    "source": "Channels TV",
+    "title": "From Nnadozie To Ajibade: Five Key Players Set To Shape Nigeria’s WAFCON Title Defence",
+    "link": "https://www.channelstv.com/2026/07/26/from-nnadozie-to-ajibade-five-key-players-set-to-shape-nigerias-wafcon-title-defence/",
+    "summary": "<p>Ten-time champions Super Falcons set out to defend their WAFCON title in Morocco. Meet the core players leading Nigeria’s charge for continental glory and a World Cup ticket.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/26/from-nnadozie-to-ajibade-five-key-players-set-to-shape-nigerias-wafcon-title-defence/\">From Nnadozie To Ajibade: Five Key Players Set To Shape Nigeria&#8217;s WAFCON Title Defence</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television<",
+    "published": "Sun, 26 Jul 2026 18:30:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:08.975505+00:00",
+    "used": false
+  },
+  {
+    "id": "880e646250c25cc8",
+    "source": "Leadership Newspaper",
+    "title": "Chukwueze Inspires Milan Comeback With Assist In Pre-Season Draw",
+    "link": "https://leadership.ng/chukwueze-inspires-milan-comeback-with-assist-in-pre-season-draw/",
+    "summary": "In their first pre-season friendly of the 2026/27 campaign, AC Milan fought back from a two-goal deficit to secure a 2-2 draw against Celtic on Saturday night, with Nigerian winger Samuel Chukwueze delivering a transformative second-half performance that earned widespread praise—and a public vote of confidence from new head coach Ruben Amorim. Chukwueze, who began [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:20:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:14.507760+00:00",
+    "used": false
+  },
+  {
+    "id": "99534238f8fac5bf",
+    "source": "Leadership Newspaper",
+    "title": "Why I Stopped Attending Church – AY Comedian",
+    "link": "https://leadership.ng/why-i-stopped-attending-church-ay-comedian/",
+    "summary": "Nigerian comedian and actor, Ayo Makun, popularly known as AY, has revealed why he stopped attending church for a period, saying he withdrew from congregational worship after becoming the subject of negative public narratives. The comedian also questioned the role of the church after disclosing that he was later removed from participating in a church [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:09:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:14.507822+00:00",
+    "used": false
+  },
+  {
+    "id": "25ac73d517971616",
+    "source": "Leadership Newspaper",
+    "title": "BBNaija Season 11: Tram’s Alleged Engagement Video Sparks Online Buzz",
+    "link": "https://leadership.ng/bbnaija-season-11-tramps-alleged-engagement-video-sparks-online-buzz/",
+    "summary": "Big Brother Naija Season 11 is already generating conversation beyond Biggie’s house after a video purportedly showing housemate Tram proposing to his white fiancée surfaced online. The clip, which has been widely shared across social media, appears to capture a romantic proposal, prompting fans to question the housemate’s current relationship status just as the new [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:05:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-26T20:44:14.507862+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -19896,6 +20237,105 @@
     "published": "Sun, 26 Jul 2026 17:58:07 +0000",
     "priority": "low",
     "fetched_at": "2026-07-26T18:06:20.536313+00:00",
+    "used": false
+  },
+  {
+    "id": "4a1f1fc53b1ec693",
+    "source": "Punch Nigeria",
+    "title": "Stop wasting your destiny, Oyedepo warns youths against betting",
+    "link": "https://punchng.com/stop-wasting-your-destiny-oyedepo-warns-youths-against-betting/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Bishop David Oyedepo advises Nigerian youths to stop wasting their destiny on sports betting, urging them to pursue genuine prosperity through hard work.\n\nRead More: https://punchng.com/stop-wasting-your-destiny-oyedepo-warns-youths-against-betting/",
+    "published": "Sun, 26 Jul 2026 21:01:30 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:07.490331+00:00",
+    "used": false
+  },
+  {
+    "id": "c78e01c6caf6bd3a",
+    "source": "Punch Nigeria",
+    "title": "Travel with valid passports, US warns citizens",
+    "link": "https://punchng.com/travel-with-valid-passports-us-warns-citizens/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "US citizens, including dual nationals, must travel with a valid US passport when entering or departing the United States. Ensure your US passport is up-to-\n\nRead More: https://punchng.com/travel-with-valid-passports-us-warns-citizens/",
+    "published": "Sun, 26 Jul 2026 20:05:25 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:07.490428+00:00",
+    "used": false
+  },
+  {
+    "id": "4a1dacde617ff5ed",
+    "source": "Premium Times",
+    "title": "‘I waited 20 days for Burna Boy to send his ‘Dai Dai’ verse — Shakira",
+    "link": "https://www.premiumtimesng.com/entertainment/music/898355-i-waited-20-days-for-burna-boy-to-send-his-dai-dai-verse-shakira.html",
+    "summary": "<img alt=\"shakira ft burna boy world cup 2026\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"454\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/shakira-ft-burna-boy-world-cup-2026-.webp?fit=681%2C454&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"681\" /><p>The Colombian singer said Burna Boy's contribution elevated Dai Dai, the official song of the 2026 FIFA World Cup.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertain",
+    "published": "Sun, 26 Jul 2026 20:27:44 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:08.090370+00:00",
+    "used": false
+  },
+  {
+    "id": "3159464296069fc2",
+    "source": "Premium Times",
+    "title": "“We weren’t referring to anybody” — Kwam 1’s saxophonist clarifies ‘unnecessary pregnancy’ song backlash",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/898347-we-werent-referring-to-anybody-kwam-1s-saxophonist-clarifies-unnecessary-pregnancy-song-backlash.html",
+    "summary": "<img alt=\"Fuji musician, Wasiu Ayinde Marshal, also known as Kwam 1.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"529\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Fuji-musician-Wasiu-Ayinde-Marshal-also-known-as-Kwam-1.jpg?fit=768%2C529&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>“On this particular day that the incident happened, I won't lie to you, from the beginning of that show, Alhaji was in a very good mood wit",
+    "published": "Sun, 26 Jul 2026 20:14:13 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:08.090430+00:00",
+    "used": false
+  },
+  {
+    "id": "009009a9e34b28c5",
+    "source": "Premium Times",
+    "title": "59 microphones,19 speakers; here’s the first look of BBNaija season 11 house (PHOTOS)",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/898338-59-microphones19-speakers-heres-the-first-look-of-bbnaija-season-11-house-photos.html",
+    "summary": "<img alt=\"BBNaija season 11\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-26-at-8.54.56-PM.jpeg?fit=1080%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>More than 1,000 Nigerian workers are involved in building the BBNaija house before each new season premieres.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/naija-fashion",
+    "published": "Sun, 26 Jul 2026 20:09:48 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:08.090471+00:00",
+    "used": false
+  },
+  {
+    "id": "0c7e548058da8e95",
+    "source": "Premium Times",
+    "title": "Asake’s M$NEY concert film debuts exclusively on Spotify",
+    "link": "https://www.premiumtimesng.com/entertainment/music/898329-asakes-mney-concert-film-debuts-exclusively-on-spotify.html",
+    "summary": "<img alt=\"Asake&#039;s concert\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"500\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/6ADB652B-EA1B-4094-8AF9-DDB08521573E.jpeg?fit=750%2C500&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"750\" /><p>The film captures Asake's one-night-only performance of his latest album at London's historic Theatre Royal Drury Lane.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/music",
+    "published": "Sun, 26 Jul 2026 19:01:17 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:08.090519+00:00",
+    "used": false
+  },
+  {
+    "id": "10b8daace30fa524",
+    "source": "Premium Times",
+    "title": "Archery: Nigeria win historic team gold, seven medals at African Championships",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/898317-archery-nigeria-win-historic-team-gold-seven-medals-at-african-championships.html",
+    "summary": "<img alt=\"Team Nigeria at the African Archery Championships Credit: NAFED\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"666\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003703455.jpg?fit=1000%2C666&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>The federation's Director of Marketing, Emmanuel Oyeleke, said the success should inspire greater investment in the sport</p>\n<p>The post <a href=\"https://www.premiumtimesng.com",
+    "published": "Sun, 26 Jul 2026 18:07:35 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:08.090578+00:00",
+    "used": false
+  },
+  {
+    "id": "ce67e60dc1f1a5db",
+    "source": "Leadership Newspaper",
+    "title": "BBNaijaS11: Last Loverboy Standing Model Vibe Curator Meet Ar",
+    "link": "https://leadership.ng/bbnaijas11-last-loverboy-standing-model-vibe-curator-meet-ar/",
+    "summary": "The fashion and entertainment world has made another bold mark on Big Brother Naija Season 11 (BBNaijaS11) with the unveiling of fashion model, self-proclaimed king, and full-time vibe curator, Araga. &#160; Self-described as &#8220;the last loverboy standing in Nigeria,&#8221; Araga brings a mix of high fashion charisma, magnetic energy, and unapologetic confidence into Africa&#8217;s most-watched [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:13:22 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:14.507796+00:00",
+    "used": false
+  },
+  {
+    "id": "fdc7fe4249629201",
+    "source": "Leadership Newspaper",
+    "title": "Glasgow 2026: Olopade Backs Team Nigeria to Exceed Medal Projections",
+    "link": "https://leadership.ng/glasgow-2026-olopade-backs-team-nigeria-to-exceed-medal-projections/",
+    "summary": "The Director-General of the National Sports Commission (NSC), Hon Bukola Olopade, has expressed confidence that Team Nigeria will surpass its medal projections at the ongoing Glasgow 2026 Commonwealth Games. Olopade said Nigeria’s campaign remained on course, pointing to Ruth Asuquo Nyong’s silver medal in the women’s 48kg weightlifting event as evidence that the country’s athletes [&#8230;]",
+    "published": "Sun, 26 Jul 2026 20:05:17 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-26T20:44:14.507887+00:00",
     "used": false
   }
 ]
