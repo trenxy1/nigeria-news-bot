@@ -547,7 +547,7 @@
     "published": "Wed, 15 Jul 2026 07:47:29 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T07:53:12.435813+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "8089d7c5eb41001f",
@@ -9171,6 +9171,171 @@
     "published": "Tue, 28 Jul 2026 15:07:51 +0000",
     "priority": "high",
     "fetched_at": "2026-07-28T18:20:59.978459+00:00",
+    "used": false
+  },
+  {
+    "id": "194d22c9d04cb23a",
+    "source": "Punch Nigeria",
+    "title": "2027: Tinubu promises to fight opponents to finish line",
+    "link": "https://punchng.com/2027-tinubu-promises-to-fight-opponents-to-finish-line/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Bola Tinubu warns political opponents seeking to unseat him in 2027, vowing to fight to the finish line. He defends INEC and highlights reforms.\n\nRead More: https://punchng.com/2027-tinubu-promises-to-fight-opponents-to-finish-line/",
+    "published": "Tue, 28 Jul 2026 21:39:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.104494+00:00",
+    "used": false
+  },
+  {
+    "id": "50e9171a7f6d5213",
+    "source": "Punch Nigeria",
+    "title": "Six involved in Jos mob killing, four arrested — Police",
+    "link": "https://punchng.com/six-involved-in-jos-mob-killing-four-arrested-police/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Plateau Police confirm four arrests in the brutal Jos mob killing of model Ibrahim Mbaya, with two suspects still at large. Justice sought for the victim.\n\nRead More: https://punchng.com/six-involved-in-jos-mob-killing-four-arrested-police/",
+    "published": "Tue, 28 Jul 2026 21:37:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.104528+00:00",
+    "used": false
+  },
+  {
+    "id": "ddaf3beeae4bdbdb",
+    "source": "Punch Nigeria",
+    "title": "Gombe CP decorates area commander with DCP rank",
+    "link": "https://punchng.com/gombe-cp-decorates-area-commander-with-dcp-rank/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Gombe State Commissioner of Police decorates Suur Chafa with the rank of Deputy Commissioner of Police, recognizing his professionalism and meritorious ser\n\nRead More: https://punchng.com/gombe-cp-decorates-area-commander-with-dcp-rank/",
+    "published": "Tue, 28 Jul 2026 21:02:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.104540+00:00",
+    "used": false
+  },
+  {
+    "id": "fd533b9869f6129d",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Trump promises White House honour for teen who braved deadly waves to save boy",
+    "link": "https://punchng.com/video-trump-promises-white-house-honour-for-teen-who-braved-deadly-waves-to-save-boy/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Trump pledges a White House honor for a 16-year-old lifeguard, Ryder, who bravely saved a boy from deadly waves off the California coast.\n\nRead More: https://punchng.com/video-trump-promises-white-house-honour-for-teen-who-braved-deadly-waves-to-save-boy/",
+    "published": "Tue, 28 Jul 2026 20:08:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.104578+00:00",
+    "used": false
+  },
+  {
+    "id": "cc92294188b80ed0",
+    "source": "Punch Nigeria",
+    "title": "State police: Afenifere, Southern leaders seek powers for govs to appoint, sack CPs",
+    "link": "https://punchng.com/state-police-afenifere-southern-leaders-seek-powers-for-govs-to-appoint-sack-cps/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Afenifere and Southern leaders endorse state police but demand governors have full powers to appoint and sack CPs, advocating for true federalism in Nigeri\n\nRead More: https://punchng.com/state-police-afenifere-southern-leaders-seek-powers-for-govs-to-appoint-sack-cps/",
+    "published": "Tue, 28 Jul 2026 19:59:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.104587+00:00",
+    "used": false
+  },
+  {
+    "id": "7ea94ca83179d536",
+    "source": "Punch Nigeria",
+    "title": "Govt contributing to insecurity, says ex-IG Okiro",
+    "link": "https://punchng.com/govt-contributing-to-insecurity-says-ex-ig-okiro/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former IG Mike Okiro accuses the Nigerian government of weakening the police force, contributing to worsening Nigeria insecurity. He highlights inadequate\n\nRead More: https://punchng.com/govt-contributing-to-insecurity-says-ex-ig-okiro/",
+    "published": "Tue, 28 Jul 2026 19:48:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.104596+00:00",
+    "used": false
+  },
+  {
+    "id": "d944ec88d6b27d9b",
+    "source": "Punch Nigeria",
+    "title": "Gov condemns fresh Benue attack, commends security men",
+    "link": "https://punchng.com/gov-condemns-fresh-benue-attack-commends-security-men/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Benue State Governor condemns a fresh attack on Efeyi community by suspected armed herders, killing 15. Security forces neutralized two attackers.\n\nRead More: https://punchng.com/gov-condemns-fresh-benue-attack-commends-security-men/",
+    "published": "Tue, 28 Jul 2026 19:43:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.104608+00:00",
+    "used": false
+  },
+  {
+    "id": "0c69fba05a78da3a",
+    "source": "Punch Nigeria",
+    "title": "Gunmen abduct three Nasarawa federal varsity students",
+    "link": "https://punchng.com/gunmen-abduct-three-nasarawa-federal-varsity-students/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Three students of the Federal University of Lafia have been abducted by gunmen in Nasarawa. Police have launched a manhunt to rescue the victims.\n\nRead More: https://punchng.com/gunmen-abduct-three-nasarawa-federal-varsity-students/",
+    "published": "Tue, 28 Jul 2026 19:29:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.104659+00:00",
+    "used": false
+  },
+  {
+    "id": "c06fe17080d83027",
+    "source": "Premium Times",
+    "title": "Nigeria police recover stolen vehicles trafficked to Burkina Faso",
+    "link": "https://www.premiumtimesng.com/news/898949-nigeria-police-recover-stolen-vehicles-trafficked-to-burkina-faso.html",
+    "summary": "<img alt=\"An AI-generated image of Nigerian Police Officers\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1080\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/11/Untitled-design-3-1.jpg?fit=1920%2C1080&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>The vehicles were seized at separate gunpoints in Abuja.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/898949-nigeria-police-recover-stolen-vehicles-trafficked-to-bu",
+    "published": "Tue, 28 Jul 2026 20:48:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.749679+00:00",
+    "used": false
+  },
+  {
+    "id": "380fb48b7e8ce4ba",
+    "source": "Premium Times",
+    "title": "US walks out on France at UN meeting over human rights remark",
+    "link": "https://www.premiumtimesng.com/foreign/898948-us-walks-out-on-france-at-un-meeting-over-human-rights-remark.html",
+    "summary": "<img alt=\"President Donald Trump of the US\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1080\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/01/Donald-Trump.jpg?fit=1920%2C1080&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>The move reflects the growing tensions between the US and Europe and between President Donald Trump and his French counterpart, Emmanuel Macron.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/for",
+    "published": "Tue, 28 Jul 2026 20:40:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.749700+00:00",
+    "used": false
+  },
+  {
+    "id": "9d9ab104aee48d3e",
+    "source": "Premium Times",
+    "title": "Nigerian Army colonel shot dead while resisting kidnappers in Abuja – Report",
+    "link": "https://www.premiumtimesng.com/news/top-news/898946-nigerian-army-colonel-shot-dead-while-resisting-kidnappers-in-abuja-report.html",
+    "summary": "<img alt=\"Fct-Abuja City Gate [PHOTO CREDIT: Abuja on IG]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"405\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2020/05/abuja-abuja-15892815380281.jpg?fit=608%2C405&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"608\" /><p>The attack also left the officer’s wife, his driver and a security guard with gunshot injuries.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/898946-nigeri",
+    "published": "Tue, 28 Jul 2026 20:29:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.749722+00:00",
+    "used": false
+  },
+  {
+    "id": "fc781cef1d1dde99",
+    "source": "Premium Times",
+    "title": "Ebonyi spent 6.2 per cent of health capital budget in first half of 2026 despite N210.64bn revenue",
+    "link": "https://www.premiumtimesng.com/news/top-news/898939-ebonyi-spent-6-2-per-cent-of-health-capital-budget-in-first-half-of-2026-despite-n210-64bn-revenue.html",
+    "summary": "<img alt=\"Ebonyi state governor, Francis Nwifuru.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1366\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/ebonyi-governor.jpeg?fit=2048%2C1366&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Ebonyi released barely one-tenth of its education capital budget and only 6.2 per cent of its health allocation in the first half of 2026, while some ministries received no capital funding desp",
+    "published": "Tue, 28 Jul 2026 20:12:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.749742+00:00",
+    "used": false
+  },
+  {
+    "id": "3b140eb5b71c1e18",
+    "source": "Premium Times",
+    "title": "Ex-JTF commander hails Tinubu for restructuring Nigerian Army",
+    "link": "https://www.premiumtimesng.com/news/more-news/898936-ex-jtf-commander-hails-tinubu-for-restructuring-nigerian-army.html",
+    "summary": "<img alt=\"PRESIDENT BOLA AHMED TINUBU\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"882\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/HKmCvFcXEAA56p3.jpg?fit=1280%2C882&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Anthony Atolagbe, a retired general, says the expansion of the army from eight to 12 divisions is a decisive step towards eliminating criminal elements across the country.</p>\n<p>The post <a href=\"https://www",
+    "published": "Tue, 28 Jul 2026 20:03:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.749801+00:00",
+    "used": false
+  },
+  {
+    "id": "80fb88817e31eda2",
+    "source": "Premium Times",
+    "title": "Financial Inclusion: Policy fragmentation, dollar dependence stall cross-border payments in Africa",
+    "link": "https://www.premiumtimesng.com/business/financial-inclusion/898887-financial-inclusion-policy-fragmentation-dollar-dependence-stall-cross-border-payments-in-africa.html",
+    "summary": "<img alt=\"Sabina Mensah, deputy chief executive officer of the AfricaNenda Foundation\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1706\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/photo-10-scaled.jpg?fit=2560%2C1706&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Many cross-border transactions still rely on the US dollar as an intermediary currency. At the same time, African currencies are often difficult to exchange d",
+    "published": "Tue, 28 Jul 2026 18:26:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:15.750021+00:00",
+    "used": false
+  },
+  {
+    "id": "d07503624072a692",
+    "source": "Channels TV",
+    "title": "‘Is He Going For Boxing?’ APC Dismisses Peter Obi’s Call For Tinubu’s Resignation",
+    "link": "https://www.channelstv.com/2026/07/28/is-he-going-for-boxing-apc-dismisses-peter-obis-call-for-tinubus-resignation/",
+    "summary": "<p>The former Anambra State governor, who is eyeing the nation's top job, had urged Tinubu to step aside before the 2027 election.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/28/is-he-going-for-boxing-apc-dismisses-peter-obis-call-for-tinubus-resignation/\">&#8216;Is He Going For Boxing?&#8217; APC Dismisses Peter Obi’s Call For Tinubu’s Resignation</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Tue, 28 Jul 2026 20:23:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-28T20:56:16.548001+00:00",
     "used": false
   },
   {
@@ -21362,6 +21527,127 @@
     "used": false
   },
   {
+    "id": "852670b55bc7665c",
+    "source": "Punch Nigeria",
+    "title": "Obi has been switching parties since 2014, nobody forced him – APC chair",
+    "link": "https://punchng.com/obi-has-been-switching-parties-since-2014-nobody-forced-him-apc-chair/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "APC Chairman, Prof. Nentawe Yilwatda, states Peter Obi has been switching parties since 2014, dismissing claims APC is behind opposition crises.\n\nRead More: https://punchng.com/obi-has-been-switching-parties-since-2014-nobody-forced-him-apc-chair/",
+    "published": "Tue, 28 Jul 2026 20:10:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:15.104570+00:00",
+    "used": false
+  },
+  {
+    "id": "2e705045f3ceb67e",
+    "source": "Punch Nigeria",
+    "title": "2025 WAFCON victory: FG presents houses to Super Falcons ahead of Malawi clash",
+    "link": "https://punchng.com/2025-wafcon-victory-fg-presents-houses-to-super-falcons-in-morocco/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government has presented houses to the Super Falcons for their 2025 WAFCON victory, fulfilling a promise ahead of their 2026 WAFCON campaign.\n\nRead More: https://punchng.com/2025-wafcon-victory-fg-presents-houses-to-super-falcons-in-morocco/",
+    "published": "Tue, 28 Jul 2026 19:33:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:15.104634+00:00",
+    "used": false
+  },
+  {
+    "id": "d2539bb844e5a535",
+    "source": "Punch Nigeria",
+    "title": "IPAC hails Appeal Court verdict restoring ADC, four others",
+    "link": "https://punchng.com/ipac-hails-appeal-court-verdict-restoring-adc-four-others/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "IPAC hails the Appeal Court&#8217;s verdict restoring ADC and four other political parties, calling it a courageous reaffirmation of constitutional democracy.\n\nRead More: https://punchng.com/ipac-hails-appeal-court-verdict-restoring-adc-four-others/",
+    "published": "Tue, 28 Jul 2026 19:33:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:15.104650+00:00",
+    "used": false
+  },
+  {
+    "id": "11cb33c71455dd44",
+    "source": "Premium Times",
+    "title": "South Africa: Turning a crisis into a continental conversation on migration and Africa’s future, By Mcebisi Jonas",
+    "link": "https://www.premiumtimesng.com/opinion/898899-south-africa-turning-a-crisis-into-a-continental-conversation-on-migration-and-africas-future-by-mcebisi-jonas.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"517\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Mcebisi-Jonas.jpeg?fit=510%2C517&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"510\" /><p>The challenge now is to transform the crisis that the protests have created into a serious discussion among ourselves and with our African neighbours about how to confront the challenges of migration and find solutions together. If we are",
+    "published": "Tue, 28 Jul 2026 20:05:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:15.749793+00:00",
+    "used": false
+  },
+  {
+    "id": "06cad4fb3515438a",
+    "source": "Premium Times",
+    "title": "Aviation workers threaten nationwide protest over unpaid ticket sales charges",
+    "link": "https://www.premiumtimesng.com/news/top-news/898909-aviation-workers-threaten-nationwide-protest-over-unpaid-ticket-sales-charges.html",
+    "summary": "<img alt=\"Airlines used to illustrate a story\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"673\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/04/Airlines.png?fit=1024%2C673&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>The unions issued a seven-day ultimatum to airlines and other organisations owing statutory Ticket Sales Charges, warning of nationwide picketing if the debts remain unpaid.</p>\n<p>The post <a href=\"https://",
+    "published": "Tue, 28 Jul 2026 19:24:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:15.749863+00:00",
+    "used": false
+  },
+  {
+    "id": "b452125ee92214a8",
+    "source": "Premium Times",
+    "title": "NNMDA says funding challenges, infrastructure gaps slowing herbal medicine research, integration into healthcare",
+    "link": "https://www.premiumtimesng.com/health/health-news/898900-nnmda-says-funding-challenges-infrastructure-gaps-slowing-herbal-medicine-research-integration-into-healthcare.html",
+    "summary": "<img alt=\"Minister of Innovation, Science and Technology, Kingsley Udeh, during his one-day working visit at the NNMDA in Lagos on Tuesday.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"762\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-28-at-7.43.56-PM.jpeg?fit=1016%2C762&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1016\" /><p>Mr Emeje said the challenges have slowed efforts to validate traditional medicine",
+    "published": "Tue, 28 Jul 2026 18:48:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:15.749897+00:00",
+    "used": false
+  },
+  {
+    "id": "dac297e267c9ab9c",
+    "source": "Premium Times",
+    "title": "Cyberstalking Trial: Sowore drops request to summon DG of SSS",
+    "link": "https://www.premiumtimesng.com/news/top-news/898891-cyberstalking-trial-sowore-drops-request-to-summon-dg-of-sss.html",
+    "summary": "<img alt=\"Omoyele Sowore and SSS DG Oluwatosin Ajayi\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"941\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/379aaa0b-e196-49ff-9594-a7934ed620fd.png?fit=1672%2C941&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1672\" /><p>The Attorney-General of the Federation, Lateef Fagbemi, made a surprise appearance for the prosecution in Mr Sowore’s cyberstalking trial on Tuesday to block the summons is",
+    "published": "Tue, 28 Jul 2026 18:34:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:15.749940+00:00",
+    "used": false
+  },
+  {
+    "id": "591d09571d673cb7",
+    "source": "Premium Times",
+    "title": "Afrilition: Diversity, collaboration, and the agenda for a new Pan-Africanism, By Adéwálé Àjàdí",
+    "link": "https://www.premiumtimesng.com/opinion/898877-afrilition-diversity-collaboration-and-the-agenda-for-a-new-pan-africanism-by-adewale-ajadi.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"621\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/Adewale-Ajadi.jpeg?fit=640%2C621&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>The choice of an African world allows for the complexity of perspectives and the inevitable process of effective disagreement needed to establish new ways of interacting, both positively and negatively, in our world. Afrilition does not i",
+    "published": "Tue, 28 Jul 2026 18:26:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:15.749996+00:00",
+    "used": false
+  },
+  {
+    "id": "b70e026ce9f54ada",
+    "source": "Channels TV",
+    "title": "LIVE UPDATES: Nigeria Vs Malawi WAFCON 2026 Ends Goalless At Half-Time",
+    "link": "https://www.channelstv.com/2026/07/28/live-updates-nigeria-vs-malawi-wafcon-2026-clash/",
+    "summary": "<p>The 2026 WAFCON will serve as the qualification tournament for the 2027 Women's World Cup in Brazil. </p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/28/live-updates-nigeria-vs-malawi-wafcon-2026-clash/\">LIVE UPDATES: Nigeria Vs Malawi WAFCON 2026 Ends Goalless At Half-Time</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Tue, 28 Jul 2026 20:37:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:16.547972+00:00",
+    "used": false
+  },
+  {
+    "id": "6b4d1c5b4aa1c0f6",
+    "source": "Channels TV",
+    "title": "Nigeria Vs Malawi: Nnadozie, Ajibade Lead Super Falcons’ Starting XI For WAFCON 2026 Clash",
+    "link": "https://www.channelstv.com/2026/07/28/nigeria-vs-malawi-nnadozie-ajibade-lead-super-falcons-starting-xi-for-wafcon-2026-clash/",
+    "summary": "<p>Nigeria take on the Scorchers, debutants in the competition, in the Group C clash in Rabat, seeking to begin their WAFCON quest on a good note.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/28/nigeria-vs-malawi-nnadozie-ajibade-lead-super-falcons-starting-xi-for-wafcon-2026-clash/\">Nigeria Vs Malawi: Nnadozie, Ajibade Lead Super Falcons&#8217; Starting XI For WAFCON 2026 Clash</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Tue, 28 Jul 2026 19:50:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:16.548037+00:00",
+    "used": false
+  },
+  {
+    "id": "321464dd1cec711d",
+    "source": "Channels TV",
+    "title": "Fire Destroys 40 Makeshift Structures, Leaves Families Homeless In Rivers",
+    "link": "https://www.channelstv.com/2026/07/28/blaze-destroys-40-makeshift-structures-leaves-families-homeless-in-rivers/",
+    "summary": "<p>Scores of residents were displaced when the fire broke out and swept rapidly through the densely populated settlement.</p>\n<p>The post <a href=\"https://www.channelstv.com/2026/07/28/blaze-destroys-40-makeshift-structures-leaves-families-homeless-in-rivers/\">Fire Destroys 40 Makeshift Structures, Leaves Families Homeless In Rivers</a> appeared first on <a href=\"https://www.channelstv.com\">Channels Television</a>.</p>",
+    "published": "Tue, 28 Jul 2026 19:31:37 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-28T20:56:16.548065+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -22701,6 +22987,17 @@
     "published": "Tue, 28 Jul 2026 19:03:24 +0000",
     "priority": "low",
     "fetched_at": "2026-07-28T18:20:57.559343+00:00",
+    "used": false
+  },
+  {
+    "id": "09d80d8832b4f444",
+    "source": "Premium Times",
+    "title": "Glasgow 2026: All eyes on Ajayi as Nigerian sprinters falter in 100m semi-finals",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/898922-glasgow-2026-all-eyes-on-ajayi-as-nigerian-sprinters-falter-in-100m-semi-finals.html",
+    "summary": "<img alt=\"Kanyinsola Ajayi (CREDIT: MakingofChampions)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"908\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003722098.jpg?fit=1364%2C908&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1364\" /><p>Ajayi is carrying the nation's sprint hopes when the men's 100m final takes place later on Tuesday.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/sports/nigeria-sports-news/898922-glasgo",
+    "published": "Tue, 28 Jul 2026 19:37:12 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-28T20:56:15.749832+00:00",
     "used": false
   }
 ]
