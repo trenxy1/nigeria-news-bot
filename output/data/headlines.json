@@ -580,7 +580,7 @@
     "published": "Wed, 15 Jul 2026 05:16:01 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T07:53:12.435906+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "36e06545a9acde91",
@@ -9732,6 +9732,204 @@
     "published": "Wed, 29 Jul 2026 14:56:48 +0000",
     "priority": "high",
     "fetched_at": "2026-07-29T18:12:12.379697+00:00",
+    "used": false
+  },
+  {
+    "id": "ee1b630a042d2fbe",
+    "source": "Punch Nigeria",
+    "title": "DSS arraigns five over Oyo school abduction",
+    "link": "https://punchng.com/dss-arraigns-five-over-oyo-school-abduction/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Five suspected Ansaru members have been arraigned by the DSS over the Oyo school abduction, facing charges of terrorism, conspiracy, and murder.\n\nRead More: https://punchng.com/dss-arraigns-five-over-oyo-school-abduction/",
+    "published": "Wed, 29 Jul 2026 21:30:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064014+00:00",
+    "used": false
+  },
+  {
+    "id": "611a94e17b3cd7ca",
+    "source": "Punch Nigeria",
+    "title": "Police arrest suspected robber in Lagos, recover pistol",
+    "link": "https://punchng.com/police-arrest-suspected-robber-in-lagos-recover-pistol/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos State Police have arrested a suspected armed robber in Igando, recovering a locally fabricated pistol and charms. Efforts are ongoing to apprehend fl\n\nRead More: https://punchng.com/police-arrest-suspected-robber-in-lagos-recover-pistol/",
+    "published": "Wed, 29 Jul 2026 21:30:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064038+00:00",
+    "used": false
+  },
+  {
+    "id": "84c4a3b7ae4cf520",
+    "source": "Punch Nigeria",
+    "title": "UI staff donate N6m to victims of Oyo school attack",
+    "link": "https://punchng.com/ui-staff-donate-n6m-to-victims-of-oyo-school-attack/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "University of Ibadan staff donate N6m to victims of the recent Oyo school attack in Oriire LGA, offering crucial support for rehabilitation and recovery.\n\nRead More: https://punchng.com/ui-staff-donate-n6m-to-victims-of-oyo-school-attack/",
+    "published": "Wed, 29 Jul 2026 20:54:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064053+00:00",
+    "used": false
+  },
+  {
+    "id": "ac18a19ba7bab611",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Adeleke campaign group seeks release of detained supporters",
+    "link": "https://punchng.com/osun-poll-adeleke-campaign-group-seeks-release-of-detained-supporters/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adeleke&#8217;s campaign group demands the release of over 86 supporters allegedly arrested ahead of the Osun governorship election, citing politically motivated\n\nRead More: https://punchng.com/osun-poll-adeleke-campaign-group-seeks-release-of-detained-supporters/",
+    "published": "Wed, 29 Jul 2026 20:16:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064062+00:00",
+    "used": false
+  },
+  {
+    "id": "56e866a4a3d31042",
+    "source": "Punch Nigeria",
+    "title": "Shettima urges S’West leaders to prioritise delivery over bureaucracy",
+    "link": "https://punchng.com/shettima-urges-swest-leaders-to-prioritise-delivery-over-bureaucracy/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Vice President Shettima charges the South-West Development Commission to focus on tangible delivery like roads and jobs, not bureaucracy, for regional pros\n\nRead More: https://punchng.com/shettima-urges-swest-leaders-to-prioritise-delivery-over-bureaucracy/",
+    "published": "Wed, 29 Jul 2026 20:08:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064076+00:00",
+    "used": false
+  },
+  {
+    "id": "b56cf90c119a7afe",
+    "source": "Punch Nigeria",
+    "title": "NSCDC arrests four for vandalism in Jigawa",
+    "link": "https://punchng.com/nscdc-arrests-four-for-vandalism-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NSCDC in Jigawa has arrested four suspects, including a security guard, for vandalising the School of Nursing, Hadejia. Learn more about the NSCDC arrests\n\nRead More: https://punchng.com/nscdc-arrests-four-for-vandalism-in-jigawa/",
+    "published": "Wed, 29 Jul 2026 20:03:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064085+00:00",
+    "used": false
+  },
+  {
+    "id": "dbec0c6a2be5f488",
+    "source": "Punch Nigeria",
+    "title": "Plateau Assembly bows to pressure, withdraws ex-lawmakers’ pension bill",
+    "link": "https://punchng.com/plateau-assembly-bows-to-pressure-withdraws-ex-lawmakers-pension-bill/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Following public outcry, the Plateau State House of Assembly has withdrawn a controversial bill seeking life pensions for ex-lawmakers. This decision comes\n\nRead More: https://punchng.com/plateau-assembly-bows-to-pressure-withdraws-ex-lawmakers-pension-bill/",
+    "published": "Wed, 29 Jul 2026 19:59:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064100+00:00",
+    "used": false
+  },
+  {
+    "id": "9ad5990fa1fd1ad4",
+    "source": "Punch Nigeria",
+    "title": "Aguiyi-Ironsi’s legacy remains vital to Nigeria’s unity – Tinubu",
+    "link": "https://punchng.com/2202697-2/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu pays tribute to Aguiyi-Ironsi, highlighting his vital role in preserving Nigeria&#8217;s unity and stability. Learn about his enduring legacy.\n\nRead More: https://punchng.com/2202697-2/",
+    "published": "Wed, 29 Jul 2026 19:33:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064159+00:00",
+    "used": false
+  },
+  {
+    "id": "aa0b44116b4ccac3",
+    "source": "Punch Nigeria",
+    "title": "ADC vows to end APC rule in Kwara",
+    "link": "https://punchng.com/adc-vows-to-end-apc-rule-in-kwara/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The African Democratic Congress (ADC) declares its readiness to unseat the APC in Kwara State in the 2027 elections, positioning itself as the preferred al\n\nRead More: https://punchng.com/adc-vows-to-end-apc-rule-in-kwara/",
+    "published": "Wed, 29 Jul 2026 19:30:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064166+00:00",
+    "used": false
+  },
+  {
+    "id": "c4817c304b055308",
+    "source": "Punch Nigeria",
+    "title": "JUST IN: Police detain Osun SSG, five others",
+    "link": "https://punchng.com/just-in-police-detain-osun-ssg-five-others/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun State Secretary to the Government, Teslim Igbalaye, and five others have been detained by police following a raid on his residence. Find out more abou\n\nRead More: https://punchng.com/just-in-police-detain-osun-ssg-five-others/",
+    "published": "Wed, 29 Jul 2026 19:22:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064173+00:00",
+    "used": false
+  },
+  {
+    "id": "f956528343f4103a",
+    "source": "Punch Nigeria",
+    "title": "APM challenges Tinubu to visit local communities, markets",
+    "link": "https://punchng.com/apm-challenges-tinubu-to-visit-local-communities-markets/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The APM challenges President Tinubu to visit local communities and markets to verify his administration&#8217;s claims of an improved economy and security situat\n\nRead More: https://punchng.com/apm-challenges-tinubu-to-visit-local-communities-markets/",
+    "published": "Wed, 29 Jul 2026 19:17:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064198+00:00",
+    "used": false
+  },
+  {
+    "id": "543e0dd653ef9376",
+    "source": "Punch Nigeria",
+    "title": "Police arrest two women for staging fake kidnap in Benue",
+    "link": "https://punchng.com/police-arrest-two-women-for-staging-fake-kidnap-in-benue/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Benue Police have arrested two women for staging a fake kidnap to extort money from a family. Discover how the fake kidnap plot unfolded.\n\nRead More: https://punchng.com/police-arrest-two-women-for-staging-fake-kidnap-in-benue/",
+    "published": "Wed, 29 Jul 2026 19:12:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.064209+00:00",
+    "used": false
+  },
+  {
+    "id": "ef2b38dd5d75ee4a",
+    "source": "Premium Times",
+    "title": "NBA condemns non-payment of Oyo judges’ rent allowances",
+    "link": "https://www.premiumtimesng.com/news/top-news/899254-nba-condemns-non-payment-of-oyo-judges-rent-allowances.html",
+    "summary": "<img alt=\"Oyo State Governor, Seyi Makinde\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"563\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Oyo-State-Governor-Seyi-Makinde-e1778707068869.jpg?fit=1000%2C563&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>The state's chief judge wrote to Governor Seyi Makinde requesting the payment of the outstanding judges' allowances.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com",
+    "published": "Wed, 29 Jul 2026 19:25:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.706533+00:00",
+    "used": false
+  },
+  {
+    "id": "295c9e5bf4f91214",
+    "source": "Premium Times",
+    "title": "State police alone cannot solve insecurity, CSOs warn federal govt",
+    "link": "https://www.premiumtimesng.com/news/more-news/899252-state-police-alone-cannot-solve-insecurity-csos-warn-federal-govt.html",
+    "summary": "<img alt=\"President Bola Tinubu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/HInO1oOXkAA1PxW-e1779119982462.jpg?fit=2560%2C1600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>“Police can respond to crime, but they cannot eliminate the structural conditions that produce it. No restructuring of police institutions alone will solve Nigeria's security crisis,” Mr Nwanguma s",
+    "published": "Wed, 29 Jul 2026 19:08:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.706546+00:00",
+    "used": false
+  },
+  {
+    "id": "3508131a6e4d3fba",
+    "source": "Premium Times",
+    "title": "SSS arraigns man for soliciting funds for ISWAP, Boko Haram following kidnap incident",
+    "link": "https://www.premiumtimesng.com/news/top-news/899248-sss-arraigns-man-for-soliciting-funds-for-iswap-boko-haram-following-kidnap-incident.html",
+    "summary": "<img alt=\"JNIM terrorists/Gun men\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"562\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/12/terror.jpeg?fit=1000%2C562&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>The SSS accused the man of raising funds from unsuspecting members of the public, knowing the proceeds would finance the terrorist activities of ISWAP and Boko Haram.</p>\n<p>The post <a href=\"https://www.premiumtimesng.c",
+    "published": "Wed, 29 Jul 2026 18:54:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.706559+00:00",
+    "used": false
+  },
+  {
+    "id": "19ffdf9075ebfdd2",
+    "source": "Premium Times",
+    "title": "Wike approves promotion of 3,592 FCT civil servants",
+    "link": "https://www.premiumtimesng.com/news/899243-wike-approves-promotion-of-3592-fct-civil-servants.html",
+    "summary": "<img alt=\"Mr Nyesom Wike\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"427\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/1772945225953-e1772945268830.jpeg?fit=683%2C427&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"683\" /><p>The Chairman of the CSC, Emeka Ezeh, announced the approval on Wednesday, describing it as part of activities marking the third anniversary of President Bola Tinubu's administration.</p>\n<p>The post <a href=\"h",
+    "published": "Wed, 29 Jul 2026 18:46:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.706566+00:00",
+    "used": false
+  },
+  {
+    "id": "10e82101f19dddc5",
+    "source": "Premium Times",
+    "title": "INEC identifies 11 Osun LGAs as potential flashpoints ahead of 2026 poll",
+    "link": "https://www.premiumtimesng.com/news/top-news/899239-inec-identifies-11-osun-lgas-as-potential-flashpoints-ahead-of-2026-poll.html",
+    "summary": "<img alt=\"The Chairperson of the Independent National Electoral Commission (INEC), Joash Amupitan\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1165\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/709783104_1412827500870305_5911715596684305422_n-e1785351462912.jpg?fit=1864%2C1165&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1864\" /><p>\"Security forces have been issued strict operational directives to neutralise thuggery, cult activ",
+    "published": "Wed, 29 Jul 2026 18:33:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.706585+00:00",
+    "used": false
+  },
+  {
+    "id": "ff724f7835ac88fb",
+    "source": "Premium Times",
+    "title": "Trump threatens retaliatory strikes after Iran attacks US base in Jordan",
+    "link": "https://www.premiumtimesng.com/foreign/899237-trump-threatens-retaliatory-strikes-after-iran-attacks-us-base-in-jordan.html",
+    "summary": "<img alt=\"President Donald Trump of the US\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/06/trump-ap-020425-768x512-1.webp?fit=768%2C512&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>CENTCOM disclosed on X that it intercepted multiple ballistic missiles in an attempted surprise attack on US forces based in the Middle East.</p>\n<p>The post <a href=\"https://www.premiumtimesng.",
+    "published": "Wed, 29 Jul 2026 18:26:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-29T20:41:34.706592+00:00",
     "used": false
   },
   {
@@ -22495,6 +22693,83 @@
     "used": false
   },
   {
+    "id": "c1797323403ad30f",
+    "source": "Punch Nigeria",
+    "title": "Ban on tree felling, charcoal production still in force — Nasarawa",
+    "link": "https://punchng.com/ban-on-tree-felling-charcoal-production-still-in-force-nasarawa/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nasarawa State warns residents that the ban on tree felling and charcoal production remains in force to combat climate change and environmental degradation\n\nRead More: https://punchng.com/ban-on-tree-felling-charcoal-production-still-in-force-nasarawa/",
+    "published": "Wed, 29 Jul 2026 19:50:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-29T20:41:34.064130+00:00",
+    "used": false
+  },
+  {
+    "id": "f41a0b2ccaaef820",
+    "source": "Punch Nigeria",
+    "title": "Imports from Nigeria rose 81% in H1 2026 — China",
+    "link": "https://punchng.com/imports-from-nigeria-rose-81-in-h1-2026-china/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Chinese Embassy reports Nigeria&#8217;s imports to China surged by 81% in H1 2026, driven by expanding bilateral trade and China&#8217;s zero-tariff policy.\n\nRead More: https://punchng.com/imports-from-nigeria-rose-81-in-h1-2026-china/",
+    "published": "Wed, 29 Jul 2026 19:48:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-29T20:41:34.064150+00:00",
+    "used": false
+  },
+  {
+    "id": "50c8875397aa268a",
+    "source": "Punch Nigeria",
+    "title": "FIFA probes Argentina players over post-final clash with Spain",
+    "link": "https://punchng.com/fifa-probes-argentina-players-over-post-final-clash-with-spain/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "FIFA has opened disciplinary proceedings against Argentina players and officials following their World Cup final defeat to Spain and other tournament incid\n\nRead More: https://punchng.com/fifa-probes-argentina-players-over-post-final-clash-with-spain/",
+    "published": "Wed, 29 Jul 2026 19:18:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-29T20:41:34.064192+00:00",
+    "used": false
+  },
+  {
+    "id": "0a9682159c66a16b",
+    "source": "Premium Times",
+    "title": "Fake Agency Scandal: Group dismisses Reps probe, demands Gbajabiamila’s suspension",
+    "link": "https://www.premiumtimesng.com/news/more-news/899266-fake-agency-scandal-group-dismisses-reps-probe-demands-gbajabiamilas-suspension.html",
+    "summary": "<img alt=\"Adeniyi Adeyemi\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"893\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/7f097639-4efc-4ab3-9cc3-b7d78fba0e0f-e1785356786971.jpg?fit=1586%2C893&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1586\" /><p>The group says no credible investigation can be conducted while Mr Gbajabiamila remains in office.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/899266-fake-ag",
+    "published": "Wed, 29 Jul 2026 20:23:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-29T20:41:34.706398+00:00",
+    "used": false
+  },
+  {
+    "id": "4c818b00bf188725",
+    "source": "Premium Times",
+    "title": "PFIPC Probe: Reps panel declares appointment letter of agency’s DG fake, HOS testifies",
+    "link": "https://www.premiumtimesng.com/news/top-news/899261-pfipc-probe-reps-panel-declares-appointment-letter-of-agencys-dg-fake-hos-testifies.html",
+    "summary": "<img alt=\"The Head of the Civil Service of the Federation, Didi Walson-Jack and her team\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1071\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/33066eee-b061-4d57-8ce0-8593f6399738.jpeg?fit=1600%2C1071&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1600\" /><p>The Head of the Civil Service of the Federation, Didi Walson-Jack, has acknowledged that her office relied on documents later found t",
+    "published": "Wed, 29 Jul 2026 20:07:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-29T20:41:34.706449+00:00",
+    "used": false
+  },
+  {
+    "id": "475e78340af367ba",
+    "source": "Premium Times",
+    "title": "JUST IN: Glasgow 2026: Goodness Nwachukwu wins Nigeria’s seventh gold with world record throw",
+    "link": "https://www.premiumtimesng.com/news/more-news/899258-just-in-glasgow-2026-goodness-nwachukwu-wins-nigerias-seventh-gold-with-world-record-throw.html",
+    "summary": "<img alt=\"Goodness Nwachukwu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003731258-e1785355112189.jpg?fit=960%2C600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"960\" /><p>The latest feat adds another golden chapter to Team Nigeria's impressive campaign, which has already produced several record-breaking performances across para powerlifting, weightlifting and athletics</p>\n<p>T",
+    "published": "Wed, 29 Jul 2026 19:58:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-29T20:41:34.706511+00:00",
+    "used": false
+  },
+  {
+    "id": "f22256c30b45ed5a",
+    "source": "Premium Times",
+    "title": "New book on sickle cell disease urges Nigerians to prioritise genotype testing, public awareness",
+    "link": "https://www.premiumtimesng.com/health/health-news/899234-new-book-on-sickle-cell-disease-urges-nigerians-to-prioritise-genotype-testing-public-awareness.html",
+    "summary": "<img alt=\"Experts and stakeholders at the launch of ‘Sickle Cell Anemia: The Audacity of Hope’ in Abuja on Wednesday.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1440\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/image0-1-2-scaled.jpeg?fit=2560%2C1440&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The call was made on Wednesday in Abuja at the launch of ‘Sickle Cell Anaemia: The Audacity of Hope’, a new book by Funmila",
+    "published": "Wed, 29 Jul 2026 18:19:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-29T20:41:34.706639+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -23878,6 +24153,17 @@
     "published": "Wed, 29 Jul 2026 06:27:52 +0000",
     "priority": "low",
     "fetched_at": "2026-07-29T09:35:30.345598+00:00",
+    "used": false
+  },
+  {
+    "id": "63e0354ef1eec0af",
+    "source": "Premium Times",
+    "title": "Language Saga: Peter Psquare apologises, calls out twin brother, Rudeboy",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/899270-899270language-saga-peter-psquare-apologises-calls-out-twin-brother-rudeboy.html",
+    "summary": "<img alt=\"Peter Okoye aka Mr P\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1156\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/Peter-Okoye-aka-Mr-P-scaled-e1776713134698.jpg?fit=1709%2C1156&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1709\" /><p>Mr P came under fire on social media after he posted on his X page on Monday that he was considering buying a house in Paris, because his children spoke French fluently.</p>\n<p>The post ",
+    "published": "Wed, 29 Jul 2026 20:37:05 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-29T20:41:34.706340+00:00",
     "used": false
   }
 ]
