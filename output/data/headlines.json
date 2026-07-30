@@ -602,7 +602,7 @@
     "published": "Wed, 15 Jul 2026 03:42:30 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T07:53:13.012475+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "2fcf7f75c51ced82",
@@ -10084,6 +10084,248 @@
     "published": "Thu, 30 Jul 2026 05:00:17 +0000",
     "priority": "high",
     "fetched_at": "2026-07-30T09:28:03.544297+00:00",
+    "used": false
+  },
+  {
+    "id": "098782917ac05876",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: INEC warns troublemakers, vows to tackle vote buying",
+    "link": "https://punchng.com/osun-poll-inec-warns-troublemakers-vows-to-tackle-vote-buying/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "INEC Chairman warns against disrupting the Osun election and vote buying, promising legal action. Learn about security measures and PVC collection.\n\nRead More: https://punchng.com/osun-poll-inec-warns-troublemakers-vows-to-tackle-vote-buying/",
+    "published": "Thu, 30 Jul 2026 19:14:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:18.658606+00:00",
+    "used": false
+  },
+  {
+    "id": "e2b2e3278b9725e5",
+    "source": "Punch Nigeria",
+    "title": "Nasarawa APC gov candidate meets Tinubu, unveils agenda",
+    "link": "https://punchng.com/nasarawa-apc-gov-candidate-meets-tinubu-unveils-agenda/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nasarawa APC governorship candidate, Senator Ahmed Wadada, met President Tinubu and unveiled his five-point HEART development agenda for the state.\n\nRead More: https://punchng.com/nasarawa-apc-gov-candidate-meets-tinubu-unveils-agenda/",
+    "published": "Thu, 30 Jul 2026 18:59:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:18.658631+00:00",
+    "used": false
+  },
+  {
+    "id": "1fdb22d5b31ab801",
+    "source": "Punch Nigeria",
+    "title": "Stop building unnecessary flyovers, Tinubu tells govs",
+    "link": "https://punchng.com/stop-building-unnecessary-flyovers-tinubu-tells-govs/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu urges state governors to stop building unnecessary flyovers and invest enhanced federal allocations in road networks and security access.\n\nRead More: https://punchng.com/stop-building-unnecessary-flyovers-tinubu-tells-govs/",
+    "published": "Thu, 30 Jul 2026 18:58:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:18.658639+00:00",
+    "used": false
+  },
+  {
+    "id": "53865c732a8bd1e7",
+    "source": "Punch Nigeria",
+    "title": "Abia gov pays veteran actress Ngozi Nwosu N25m hospital bill",
+    "link": "https://punchng.com/abia-gov-pays-veteran-actress-ngozi-nwosu-n25m-hospital-bill/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Abia State Governor Alex Otti has paid N25 million for veteran Nollywood actress Ngozi Nwosu&#8217;s hospital bill, fulfilling his promise to support her medical\n\nRead More: https://punchng.com/abia-gov-pays-veteran-actress-ngozi-nwosu-n25m-hospital-bill/",
+    "published": "Thu, 30 Jul 2026 18:44:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:18.658674+00:00",
+    "used": false
+  },
+  {
+    "id": "739f5e920dcf2b9f",
+    "source": "Punch Nigeria",
+    "title": "ADC demands probe of INEC, Lagos CP over pro-Tinubu activities",
+    "link": "https://punchng.com/adc-demands-probe-of-inec-lagos-cp-over-pro-tinubu-activities/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The African Democratic Congress (ADC) demands a probe into INEC and the Lagos CP, alleging pro-Tinubu activities that erode INEC neutrality ahead of 2027 e\n\nRead More: https://punchng.com/adc-demands-probe-of-inec-lagos-cp-over-pro-tinubu-activities/",
+    "published": "Thu, 30 Jul 2026 18:33:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:18.658739+00:00",
+    "used": false
+  },
+  {
+    "id": "a7753b84ea141d83",
+    "source": "Punch Nigeria",
+    "title": "Xenophobia: ‘Hold govt accountable,’ law firm backs Tyla’s Nigeria tour",
+    "link": "https://punchng.com/xenophobia-hold-govt-accountable-law-firm-backs-tylas-nigeria-tour/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A law firm backs Tyla&#8217;s planned Lagos concert, urging Nigerians not to boycott over xenophobia. Hold governments accountable, not artists, for attacks.\n\nRead More: https://punchng.com/xenophobia-hold-govt-accountable-law-firm-backs-tylas-nigeria-tour/",
+    "published": "Thu, 30 Jul 2026 17:48:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:18.658814+00:00",
+    "used": false
+  },
+  {
+    "id": "80a0bf6f0aad8c3e",
+    "source": "Punch Nigeria",
+    "title": "We won’t pay ransom to terrorists — Tinubu",
+    "link": "https://punchng.com/we-wont-pay-ransom-to-terrorists-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu declares his administration will not pay ransom to terrorists, outlining new strategies including state police and army expansion to comba\n\nRead More: https://punchng.com/we-wont-pay-ransom-to-terrorists-tinubu/",
+    "published": "Thu, 30 Jul 2026 17:40:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:18.658842+00:00",
+    "used": false
+  },
+  {
+    "id": "174a6e1c9153c614",
+    "source": "Punch Nigeria",
+    "title": "Hit-and-run driver kills pedestrian in Anambra",
+    "link": "https://punchng.com/hit-and-run-driver-kills-pedestrian-in-anambra/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A hit-and-run tipper driver fatally struck a pedestrian in Anambra. The vehicle was intercepted, and the case is with the police.\n\nRead More: https://punchng.com/hit-and-run-driver-kills-pedestrian-in-anambra/",
+    "published": "Thu, 30 Jul 2026 17:38:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:18.658849+00:00",
+    "used": false
+  },
+  {
+    "id": "507486be7d01d112",
+    "source": "Premium Times",
+    "title": "Enugu inaugurates three-man panel to investigate community crisis",
+    "link": "https://www.premiumtimesng.com/news/more-news/899540-enugu-inaugurates-three-man-panel-to-investigate-community-crisis.html",
+    "summary": "<img alt=\"Governor Peter Mbah of Enugu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"650\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/f2b377ee-cc53-4952-a114-152c4ebcdfce-e1784566808559.jpeg?fit=1040%2C650&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1040\" /><p>The state government on Tuesday suspended the traditional ruler of the community, Christopher Nyia, over his alleged involvement in the lingering crisis.</p>\n<p>The post ",
+    "published": "Thu, 30 Jul 2026 18:20:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063242+00:00",
+    "used": false
+  },
+  {
+    "id": "a305704f0aef61f2",
+    "source": "Premium Times",
+    "title": "Civil War: Ohanaeze commemorates 60th anniversary of Aguiyi-Ironsi, Fajuyi’s deaths",
+    "link": "https://www.premiumtimesng.com/news/top-news/899534-civil-war-ohanaeze-commemorates-60th-anniversary-of-aguiyi-ironsi-fajuyis-deaths.html",
+    "summary": "<img alt=\"Aguiyi-Ironsi\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"371\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Aguiyi-Ironsi-1.jpg?fit=677%2C371&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"677\" /><p>The organisation, led by its President-General, Azuta Mbata, said the sacrifices made by the two military officers on 29 July 1966 remained one of the most compelling examples of patriotism and selfless leadership in Nigeria",
+    "published": "Thu, 30 Jul 2026 18:17:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063273+00:00",
+    "used": false
+  },
+  {
+    "id": "0e5a1e0c860c27de",
+    "source": "Premium Times",
+    "title": "Despite Cross River budgeting billions of naira for erosion control, deadly landslides expose prevention gaps",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/899527-despite-cross-river-budgeting-billions-of-naira-for-erosion-control-deadly-landslides-expose-prevention-gaps.html",
+    "summary": "<img alt=\"Gov Otu visits failed sections of the Calabar-Odukpani Road caused by heavy rainfall\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1364\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Gov-Otu-visits-failed-sections-of-the-Calabar-Odukpani-Road-caused-by-heavy-rainfall.jpg?fit=2048%2C1364&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Despite allocating N1.68 billion for erosion and flood control in 2026, Cross Ri",
+    "published": "Thu, 30 Jul 2026 18:04:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063284+00:00",
+    "used": false
+  },
+  {
+    "id": "e303b7caaececcfc",
+    "source": "Premium Times",
+    "title": "Police release Osun SSG after controversial arrest",
+    "link": "https://www.premiumtimesng.com/news/top-news/899505-police-release-osun-ssg-after-controversial-arrest.html",
+    "summary": "<img alt=\"The Osun State Secretary to the State Government (SSG), Teslim Igbalaye\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"558\" src=\"https://media.premiumtimesng.com/wp-content/files/2026/07/Teslim-Igbalaye-2026-07-29-254.avif\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"720\" /><p>The release comes less than 24 hours after police raided the SSG's residence and announced the recovery of cash, voter registers and other materials linked to unbustantiated vote-buyin",
+    "published": "Thu, 30 Jul 2026 16:54:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063515+00:00",
+    "used": false
+  },
+  {
+    "id": "32f48cfb1d2b14fa",
+    "source": "Premium Times",
+    "title": "Court sentences woman to death for killing her husband",
+    "link": "https://www.premiumtimesng.com/news/more-news/899502-court-sentences-woman-to-death-for-killing-her-husband.html",
+    "summary": "<img alt=\"Symbol to illustrate Court or Justice\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1174\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/10/Symbol-of-law-and-justice-1.jpg?fit=1760%2C1174&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1760\" /><p>The woman killed her husband nine days after their marriage, the court found.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/899502-court-sentences-woman-to-dea",
+    "published": "Thu, 30 Jul 2026 16:50:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063536+00:00",
+    "used": false
+  },
+  {
+    "id": "d8b68f386afc91d4",
+    "source": "Premium Times",
+    "title": "Nigeria congratulates Colombia’s president-elect",
+    "link": "https://www.premiumtimesng.com/news/more-news/899496-nigeria-congratulates-colombias-president-elect.html",
+    "summary": "<img alt=\"Colombia’s President-elect, Abelardo Espriella\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1152\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/6f3f835cb53b4152ba9a83ea82dd5c59.png?fit=2048%2C1152&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>He said Nigeria and Colombia shared a common commitment to democracy, peace and sustainable development.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more",
+    "published": "Thu, 30 Jul 2026 16:27:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063548+00:00",
+    "used": false
+  },
+  {
+    "id": "3bfcd116c94456ef",
+    "source": "Premium Times",
+    "title": "Why we may not complete Abuja’s Millennium Tower project – Wike",
+    "link": "https://www.premiumtimesng.com/regional/north-central/899494-why-we-may-not-complete-abujas-millennium-tower-project-wike.html",
+    "summary": "<img alt=\"Millennium tower Abuja [PHOTO: Incide Engineering]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"907\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/08/10-2.png?fit=1200%2C907&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>He described the project, awarded during the administration of former President Olusegun Obasanjo, as a national monument with immense tourism potential.</p>\n<p>The post <a href=\"https://www.premi",
+    "published": "Thu, 30 Jul 2026 16:10:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063601+00:00",
+    "used": false
+  },
+  {
+    "id": "aec4034767f288aa",
+    "source": "Premium Times",
+    "title": "How Nigeria spent savings from forex, petrol subsidy removal – Oyedele",
+    "link": "https://www.premiumtimesng.com/news/top-news/899489-how-nigeria-spent-savings-from-forex-petrol-subsidy-removal-oyedele.html",
+    "summary": "<img alt=\"Minister of Finance and Coordinating Minister of the Economy, Taiwo Oyedele\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"338\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/admin-ajax-3-2.jpg?fit=600%2C338&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>The minister explained that although the reforms generated fiscal savings, the government immediately faced higher financial obligations arising from the reforms t",
+    "published": "Thu, 30 Jul 2026 15:52:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063622+00:00",
+    "used": false
+  },
+  {
+    "id": "1441523b5850dca0",
+    "source": "Premium Times",
+    "title": "Tinubu dissolves presidential committee established by Obasanjo",
+    "link": "https://www.premiumtimesng.com/news/top-news/899485-tinubu-dissolves-presidential-committee-established-by-obasanjo.html",
+    "summary": "<img alt=\"President Bola Tinubu (PHOTO CREDIT: X @aonanuga1956)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"800\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/HIbArE9X0AEAIUq-e1778917333313.jpg?fit=1278%2C800&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1278\" /><p>The PIC was established in 2000 during the administration of former President Olusegun Obasanjo.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/",
+    "published": "Thu, 30 Jul 2026 15:42:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:20.063629+00:00",
+    "used": false
+  },
+  {
+    "id": "c154540fbc49ae37",
+    "source": "Leadership Newspaper",
+    "title": "Osun 2026: Gov Adeleke Seeks National Peace Committee’s Intervention Over Violence In State",
+    "link": "https://leadership.ng/osun-2026-gov-adeleke-seeks-national-peace-committees-intervention-over-violence-in-state/",
+    "summary": "Osun State Governor Ademola Adeleke has appealed to the Gen Abdulsalami Abubakar-led National Peace Committee to save Osun State from the pre-governorship election violence in the state. The governorship election in the state is scheduled for August 15 this year. However, addressing the peace forum, chaired by former Chief of Army Staff, Martins Agwai in [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:36:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:24.984913+00:00",
+    "used": false
+  },
+  {
+    "id": "440cf15cd3334f03",
+    "source": "Leadership Newspaper",
+    "title": "Glasgow Gold Rush: Abdul Hails Nigeria’s Weightlifting Heroes After Record Commonwealth Games Feat",
+    "link": "https://leadership.ng/glasgow-gold-rush-abdul-hails-nigerias-weightlifting-heroes-after-record-commonwealth-games-feat/",
+    "summary": "Nigeria Weightlifting Federation (NWF) President, Dr Ibrahim Abdul, has praised Team Nigeria’s weightlifters for delivering a record-breaking performance at the 2026 Commonwealth Games in Glasgow, describing their success as a product of hard work, proper preparation and renewed commitment to athlete development. Nigeria ended the weightlifting competition with three gold medals and one silver medal, [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:28:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:24.984926+00:00",
+    "used": false
+  },
+  {
+    "id": "d875e9199de92d78",
+    "source": "Leadership Newspaper",
+    "title": "We’re Dying Of Hunger, Naridom Community Cries Out After Bandits Raze Food Shops",
+    "link": "https://leadership.ng/were-dying-of-hunger-naridom-community-cries-out-after-bandits-raze-food-shops/",
+    "summary": "Three days after bandits attacked Naridom community in Chawai Chiefdom of Kauru Local Government Area of Kaduna State, survivors are battling hunger after the attackers razed all food shops in the village. Speaking with LEADERSHIP, the Village Head of Naridom, Garba Bawa, said the destruction of the community&#8217;s food stores has left many families without [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:22:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:24.984959+00:00",
+    "used": false
+  },
+  {
+    "id": "5765a66ed2d0c17e",
+    "source": "Leadership Newspaper",
+    "title": "Judge Escapes Through Window As Bandits Attack Court In Katsina",
+    "link": "https://leadership.ng/judge-escapes-through-window-as-bandits-attack-court-in-katsina/",
+    "summary": "The presiding judge of a Sharia Court in Gwarjo community, Matazu Local Government Area of Katsina State, narrowly escaped abduction on Thursday after suspected bandits attacked the court during proceedings. The judge, Mohammed Mukhtar, reportedly fled through a back window moments before the armed men stormed the court premises, averting what residents believe was an [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:11:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:24.984992+00:00",
+    "used": false
+  },
+  {
+    "id": "f9909f827d5fe790",
+    "source": "Leadership Newspaper",
+    "title": "Nigerian Navy Commissions 80,000-Litre Solar-Powered Borehole In Katsina",
+    "link": "https://leadership.ng/nigerian-navy-commissions-80000-litre-solar-powered-borehole-in-katsina/",
+    "summary": "The Nigerian Navy has commissioned 80,000 litre of solar powered borehole in Kerau community of Katsina State. The project, executed in honour of Rear Admiral Mohammed Yakubu Dahiru under the Chief of the Naval Staff&#8217;s Special Intervention Quick Impact Project initiative, aimed at improving access to clean water, education and security while strengthening civil-military relations. [&#8230;]",
+    "published": "Thu, 30 Jul 2026 16:56:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-30T18:23:24.985043+00:00",
     "used": false
   },
   {
@@ -23078,6 +23320,160 @@
     "used": false
   },
   {
+    "id": "1d664bb09624f67b",
+    "source": "Punch Nigeria",
+    "title": "Ayra Starr undergoes major surgery, assures fans of return",
+    "link": "https://punchng.com/ayra-starr-undergoes-major-surgery-assures-fans-of-return/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Afrobeats star Ayra Starr reveals she underwent major surgery, apologizes for her absence, and assures fans of her return soon. Get updates on her recovery\n\nRead More: https://punchng.com/ayra-starr-undergoes-major-surgery-assures-fans-of-return/",
+    "published": "Thu, 30 Jul 2026 18:50:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:18.658663+00:00",
+    "used": false
+  },
+  {
+    "id": "83d7e1b092afddcc",
+    "source": "Punch Nigeria",
+    "title": "Contract fraud most prevalent corruption in public sector – EFCC boss",
+    "link": "https://punchng.com/contract-fraud-most-prevalent-corruption-in-public-sector-efcc-boss/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "EFCC boss Ola Olukoyede identifies contract fraud as the most prevalent corruption in Nigeria&#8217;s public sector. Learn about the forms and warnings for publi\n\nRead More: https://punchng.com/contract-fraud-most-prevalent-corruption-in-public-sector-efcc-boss/",
+    "published": "Thu, 30 Jul 2026 18:39:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:18.658727+00:00",
+    "used": false
+  },
+  {
+    "id": "6881649bf1947fd7",
+    "source": "Punch Nigeria",
+    "title": "Rashford not leaving Man United  – Fabrizio Romano",
+    "link": "https://punchng.com/rashford-not-leaving-man-united-fabrizio-romano/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Fabrizio Romano confirms Marcus Rashford is not leaving Man United for Al-Nassr. He&#8217;ll only consider a top European club move.\n\nRead More: https://punchng.com/rashford-not-leaving-man-united-fabrizio-romano/",
+    "published": "Thu, 30 Jul 2026 18:30:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:18.658760+00:00",
+    "used": false
+  },
+  {
+    "id": "d1a368c5c45e30bf",
+    "source": "Punch Nigeria",
+    "title": "Court remands four over $5.29m fraud in Lagos",
+    "link": "https://punchng.com/court-remands-four-over-5-29m-fraud-in-lagos/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Four individuals have been remanded by a Lagos Federal High Court for alleged involvement in a $5.29m fraud and money laundering scheme. Learn more about t\n\nRead More: https://punchng.com/court-remands-four-over-5-29m-fraud-in-lagos/",
+    "published": "Thu, 30 Jul 2026 18:09:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:18.658775+00:00",
+    "used": false
+  },
+  {
+    "id": "ad08bab9fd9da0a7",
+    "source": "Punch Nigeria",
+    "title": "EPL: Why I joined Tottenham Hotspur – Tonali",
+    "link": "https://punchng.com/epl-why-i-joined-tottenham-hotspur-tonali/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Sandro Tonali explains his record-breaking move to Tottenham Hotspur, citing manager Roberto de Zerbi and their shared Brescia connection as key factors.\n\nRead More: https://punchng.com/epl-why-i-joined-tottenham-hotspur-tonali/",
+    "published": "Thu, 30 Jul 2026 17:50:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:18.658797+00:00",
+    "used": false
+  },
+  {
+    "id": "f8a516b91dfa4c17",
+    "source": "Punch Nigeria",
+    "title": "Nigerian professor emerges Rwanda’s top business, management researcher",
+    "link": "https://punchng.com/nigerian-professor-emerges-rwandas-top-business-management-researcher/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Professor Ogechi Adeola, a Nigerian academic, has been named Rwanda&#8217;s leading Business and Management researcher in the 2026 AD Scientific Index.\n\nRead More: https://punchng.com/nigerian-professor-emerges-rwandas-top-business-management-researcher/",
+    "published": "Thu, 30 Jul 2026 17:41:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:18.658833+00:00",
+    "used": false
+  },
+  {
+    "id": "6e03d05ea6daa7f3",
+    "source": "Premium Times",
+    "title": "Nigeria recorded 245 civic space violations in 2025 – WSCIJ report",
+    "link": "https://www.premiumtimesng.com/news/top-news/899524-nigeria-recorded-245-civic-space-violations-in-2025-wscij-report.html",
+    "summary": "<img alt=\"Nigeria recorded 245 civic space violations in 2025\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"703\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG_5615.jpeg?fit=1037%2C703&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1037\" /><p>The report said the findings showed that Nigeria's civic space remained under significant pressure despite the country's democratic system and constitutional guarantees of fundamental rights",
+    "published": "Thu, 30 Jul 2026 17:53:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:20.063333+00:00",
+    "used": false
+  },
+  {
+    "id": "073a8b19ada1a812",
+    "source": "Premium Times",
+    "title": "State electricity markets risk losing investors without harmonised regulations – FCCPC",
+    "link": "https://www.premiumtimesng.com/business/business-news/899511-state-electricity-markets-risk-losing-investors-without-harmonised-regulations-fccpc.html",
+    "summary": "<img alt=\"FCCPC Logo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"640\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/FCCPC-e1765608578182.gif?fit=1024%2C640&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>The consumer protection commission says inconsistent regulations across Nigeria’s emerging state electricity markets could weaken investor confidence and undermine consumer protection.</p>\n<p>The post <a href=\"https://ww",
+    "published": "Thu, 30 Jul 2026 17:26:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:20.063466+00:00",
+    "used": false
+  },
+  {
+    "id": "c47c0183cf8eb704",
+    "source": "Premium Times",
+    "title": "LPDC suspends senior lawyer Gadzama from legal practice for three years",
+    "link": "https://www.premiumtimesng.com/news/top-news/899508-lpdc-suspends-senior-lawyer-gadzama-from-legal-practice-for-three-years.html",
+    "summary": "<img alt=\"Senior Advocate of Nigeria (SAN), Joe-Kyari Gadzama\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"639\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG-20260730-WA0005-2026-07-30-566-1045x639-1.jpg?fit=1045%2C639&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1045\" /><p>The LPDC found that Mr Gadzama, who has practised law for 40 years, violated various provisions of the Rules of Professional Conduct for Legal Practitione",
+    "published": "Thu, 30 Jul 2026 17:20:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:20.063504+00:00",
+    "used": false
+  },
+  {
+    "id": "d48982284e2f40fa",
+    "source": "Premium Times",
+    "title": "The missing link in Nigeria’s cocoa value chain, By Ibim Banigo and Raphaël de Perlinghi",
+    "link": "https://www.premiumtimesng.com/opinion/899486-the-missing-link-in-nigerias-cocoa-value-chain-by-ibim-banigo-and-raphael-de-perlinghi.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"431\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Ibim-Banigo-and-Raphael-de-Perlinghi.jpg?fit=762%2C431&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"762\" /><p>The remaining work is demanding. Farms must be renewed; credit must reach viable producers and businesses; processors must secure reliable supplies; compliance must be proved; and markets must be established before c",
+    "published": "Thu, 30 Jul 2026 16:14:37 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:20.063588+00:00",
+    "used": false
+  },
+  {
+    "id": "cabfd9f3523aa4d8",
+    "source": "Leadership Newspaper",
+    "title": "NPA Eyes Double-digit Cargo Growth As BUA Invests $85m In Port Harcourt",
+    "link": "https://leadership.ng/npa-eyes-double-digit-cargo-growth-as-bua-invests-85m-in-port-harcourt/",
+    "summary": "The Nigerian Ports Authority (NPA) has projected double-digit growth in cargo throughput and revenue following BUA Group&#8217;s $85 million investment in the expansion of its Port Harcourt terminal, a project expected to significantly increase import capacity and strengthen Nigeria&#8217;s eastern port corridor. The managing director of the NPA, Dr Abubakar Dantsoho, made the projection during [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:53:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:24.984886+00:00",
+    "used": false
+  },
+  {
+    "id": "670c6b84fa329050",
+    "source": "Leadership Newspaper",
+    "title": "Court Sentences Bride To Death For Killing Husband 9 Days After Wedding In Kano",
+    "link": "https://leadership.ng/court-sentences-bride-to-death-for-killing-husband-9-days-after-wedding-in-kano/",
+    "summary": "A Kano State High Court has sentenced a newlywed, Saudat Jibril to death by hanging for the murder of her husband, Salisu Idris, barely nine days after their wedding. The judgment was delivered by Justice Maryam Sabo on Thursday after the court found the defendant guilty of culpable homicide. LEADERSHIP reports the incident whixh drew [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:26:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:24.984945+00:00",
+    "used": false
+  },
+  {
+    "id": "8f54d90a6d802480",
+    "source": "Leadership Newspaper",
+    "title": "NDLEA Raises Alarm Over Rising Involvement Of Women In Drug Trafficking In Edo",
+    "link": "https://leadership.ng/ndlea-raises-alarm-over-rising-involvement-of-women-in-drug-trafficking-in-edo/",
+    "summary": "The National Drug Law Enforcement Agency (NDLEA) has expressed concern over the growing involvement of women in drug trafficking in Edo State, describing the trend as a reflection of increasing socio-economic vulnerability and weakening family values. Speaking in Benin City during the decoration ceremony of 73 newly promoted officers, the Edo State Commander of the [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:18:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:24.984982+00:00",
+    "used": false
+  },
+  {
+    "id": "01801cb70bf598d0",
+    "source": "Leadership Newspaper",
+    "title": "Kogi Moves To Curb Human Trafficking, Warns Against Online Recruitment Scams",
+    "link": "https://leadership.ng/kogi-moves-to-curb-human-trafficking-warns-against-online-recruitment-scams/",
+    "summary": "The Kogi State Government has reaffirmed its commitment to strengthening measures aimed at preventing human trafficking, as stakeholders called for greater collaboration to combat emerging forms of exploitation driven by online scams and deceptive recruitment. The commitment was made on Thursday during a state-level dialogue to commemorate the 2026 World Day Against Trafficking in Persons, [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:00:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-30T18:23:24.985034+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -24494,6 +24890,50 @@
     "published": "Thu, 30 Jul 2026 07:24:32 +0000",
     "priority": "low",
     "fetched_at": "2026-07-30T09:28:03.544150+00:00",
+    "used": false
+  },
+  {
+    "id": "c0cac948805c0d9f",
+    "source": "Punch Nigeria",
+    "title": "I was on the run when I released ‘Dami Duro’ — Davido",
+    "link": "https://punchng.com/i-was-on-the-run-when-i-released-dami-duro-davido/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Afrobeats star Davido reveals he was on the run from his family when he released his hit song &#8216;Dami Duro&#8217;, as they opposed his music career.\n\nRead More: https://punchng.com/i-was-on-the-run-when-i-released-dami-duro-davido/",
+    "published": "Thu, 30 Jul 2026 18:43:40 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-30T18:23:18.658700+00:00",
+    "used": false
+  },
+  {
+    "id": "c46a7f4eb97f56f0",
+    "source": "Premium Times",
+    "title": "Nigeria begins search for 2027 Oscars entry after 2026 setback",
+    "link": "https://www.premiumtimesng.com/entertainment/movies/899519-nigeria-begins-search-for-2027-oscars-entry-after-2026-setback.html",
+    "summary": "<img alt=\"NOSC chairman, Stephanie Linus\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"350\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Stephanie-Linus.jpg?fit=650%2C350&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"650\" /><p>The move comes months after Nigeria declined to submit a film for the 98th Academy Awards, saying none of the entries met the required standard.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entert",
+    "published": "Thu, 30 Jul 2026 17:43:14 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-30T18:23:20.063366+00:00",
+    "used": false
+  },
+  {
+    "id": "b637545bdae1ced8",
+    "source": "Premium Times",
+    "title": "‘Toyin Abraham didn’t destroy my marriage’ — Femi Adebayo’s ex-wife clarifies",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/899513-toyin-abraham-didnt-destroy-my-marriage-femi-adebayos-ex-wife-clarifies.html",
+    "summary": "<img alt=\"A picture collage of Femi Adebayo, Omotayo Sanusi and Toyin Abraham\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"865\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/A-picture-collage-of-Femi-Adebayo-Omotayo-Sanusi-and-Toyin-Abraham--e1785432940525.png?fit=1536%2C865&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>Her remarks follow renewed online discussions about the actor’s failed marriage.</p>\n<p>The post <a h",
+    "published": "Thu, 30 Jul 2026 17:36:20 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-30T18:23:20.063410+00:00",
+    "used": false
+  },
+  {
+    "id": "a9c252e37681c088",
+    "source": "Leadership Newspaper",
+    "title": "Messi Returns To Miami Training After World Cup Break",
+    "link": "https://leadership.ng/messi-returns-to-miami-training-after-world-cup-break/",
+    "summary": "Lionel Messi returned to training with his US club side Inter Miami on Wednesday, 10 days after losing the World Cup final with Argentina. Supersport reports that the superstar forward was shown stepping onto the training field alongside his Miami teammate Luis Suarez in a video posted to social media by the Major League Soccer [&#8230;]",
+    "published": "Thu, 30 Jul 2026 17:02:20 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-30T18:23:24.985011+00:00",
     "used": false
   }
 ]
