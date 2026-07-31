@@ -635,7 +635,7 @@
     "published": "Tue, 14 Jul 2026 22:01:09 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T07:53:13.012539+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "dd23a37e000418d4",
@@ -10711,6 +10711,226 @@
     "published": "Fri, 31 Jul 2026 09:14:20 +0000",
     "priority": "high",
     "fetched_at": "2026-07-31T09:40:42.920657+00:00",
+    "used": false
+  },
+  {
+    "id": "a0330e5652880e30",
+    "source": "Punch Nigeria",
+    "title": "IG deploys new CP in Osun ahead of poll",
+    "link": "https://punchng.com/ig-deploys-new-cp-in-osun-ahead-of-poll/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Inspector-General of Police has deployed CP Erale Samuel Etaifo to Osun State to oversee election security for the upcoming gubernatorial poll, ensurin\n\nRead More: https://punchng.com/ig-deploys-new-cp-in-osun-ahead-of-poll/",
+    "published": "Fri, 31 Jul 2026 19:18:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:06.472290+00:00",
+    "used": false
+  },
+  {
+    "id": "6133278854cd4d32",
+    "source": "Punch Nigeria",
+    "title": "Police rescue kidnap victim, arrest 10 suspects in Kano",
+    "link": "https://punchng.com/police-rescue-kidnap-victim-arrest-10-suspects-in-kano/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kano State Police Command rescues a nine-year-old kidnap victim and arrests 10 suspects involved in the abduction, demonstrating commitment to fighting cri\n\nRead More: https://punchng.com/police-rescue-kidnap-victim-arrest-10-suspects-in-kano/",
+    "published": "Fri, 31 Jul 2026 18:58:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:06.472340+00:00",
+    "used": false
+  },
+  {
+    "id": "5dbf88c62c7e68ff",
+    "source": "Punch Nigeria",
+    "title": "NSCDC hunts vandals, recovers ₦1.8m streetlight cables in Jigawa",
+    "link": "https://punchng.com/nscdc-hunts-vandals-recovers-%e2%82%a61-8m-streetlight-cables-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NSCDC has launched a manhunt for vandals and recovered ₦1.8 million worth of stolen streetlight cables in Jigawa, demonstrating commitment to protectin\n\nRead More: https://punchng.com/nscdc-hunts-vandals-recovers-%e2%82%a61-8m-streetlight-cables-in-jigawa/",
+    "published": "Fri, 31 Jul 2026 18:40:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:06.472431+00:00",
+    "used": false
+  },
+  {
+    "id": "98cc7a86b46b2d3f",
+    "source": "Punch Nigeria",
+    "title": "UNIOSUN VC warns students against cultism, cybercrime",
+    "link": "https://punchng.com/uniosun-vc-warns-students-against-cultism-cybercrime/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "UNIOSUN Vice Chancellor, Prof. Clement Adebooye, warns new students against cultism, cybercrime, and other misconducts, emphasizing strict enforcement of u\n\nRead More: https://punchng.com/uniosun-vc-warns-students-against-cultism-cybercrime/",
+    "published": "Fri, 31 Jul 2026 18:16:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:06.472476+00:00",
+    "used": false
+  },
+  {
+    "id": "42103598c4929d81",
+    "source": "Punch Nigeria",
+    "title": "NAPTIP arrests 120 suspected human traffickers in Ondo",
+    "link": "https://punchng.com/naptip-arrests-120-suspected-human-traffickers-in-ondo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NAPTIP&#8217;s Ondo State Command has arrested 120 suspected human traffickers and rescued over 300 victims in the last three years, combating human trafficking\n\nRead More: https://punchng.com/naptip-arrests-120-suspected-human-traffickers-in-ondo/",
+    "published": "Fri, 31 Jul 2026 17:52:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:06.472487+00:00",
+    "used": false
+  },
+  {
+    "id": "4a03c6e0a0378259",
+    "source": "Punch Nigeria",
+    "title": "Turaki-Led PDP accuses INEC of bias over Jonathan, others’ candidacy",
+    "link": "https://punchng.com/turaki-led-pdp-accuses-inec-of-bias-over-jonathan-others-candidacy/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A PDP faction led by Tanimu Turaki accuses INEC of bias, claiming valid submission of Goodluck Jonathan as its 2027 presidential candidate amid leadership\n\nRead More: https://punchng.com/turaki-led-pdp-accuses-inec-of-bias-over-jonathan-others-candidacy/",
+    "published": "Fri, 31 Jul 2026 17:28:54 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:06.472536+00:00",
+    "used": false
+  },
+  {
+    "id": "59a493e7b2e2e38c",
+    "source": "Premium Times",
+    "title": "Oyo School Abduction: UN probe call not to diminish security efforts – Makinde",
+    "link": "https://www.premiumtimesng.com/news/top-news/899793-oyo-school-abduction-un-probe-call-not-to-diminish-security-efforts-makinde.html",
+    "summary": "<img alt=\"Oyo State Governor, Seyi Makinde [PHOTO CREDIT: Seyi Makinde on Facebook]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"667\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/01/599949389_1403320681149117_4444244999938189184_n.jpg?fit=1000%2C667&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>Mr Makinde set off divided opinions when he called on the UN to launch a probe in the 15 May abduction.</p>\n<p>The post <a href=\"",
+    "published": "Fri, 31 Jul 2026 17:46:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100205+00:00",
+    "used": false
+  },
+  {
+    "id": "27c83b5570691106",
+    "source": "Premium Times",
+    "title": "Makinde inaugurates judicial panel to investigate Oyo school abduction",
+    "link": "https://www.premiumtimesng.com/news/top-news/899781-makinde-inaugurates-judicial-panel-to-investigate-oyo-school-abduction.html",
+    "summary": "<img alt=\"Oyo State governor, Seyi Makinde (PHOTO CREDIT: x.com @seyiamakinde | via https://x.com/seyiamakinde/status/1806000100004475033/photo/1)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/06/GRAzcYpXoAIuebi-scaled.jpg?fit=2560%2C1707&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The inauguration comes three weeks after the victims of the abducted schoolchildren and te",
+    "published": "Fri, 31 Jul 2026 17:05:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100247+00:00",
+    "used": false
+  },
+  {
+    "id": "9bed9a49531b0f1c",
+    "source": "Premium Times",
+    "title": "NITDA’s new framework and the future of Nigeria’s digital ecosystem, By Shuaib S. Agaka",
+    "link": "https://www.premiumtimesng.com/opinion/899768-nitdas-new-framework-and-the-future-of-nigerias-digital-ecosystem-by-shuaib-s-agaka.html",
+    "summary": "<img alt=\"Shuaib Agaka writes about how the implosion of Okra.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/03/Shuaib-Agaka.jpg?fit=543%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"543\" /><p>As the country seeks to expand digital public infrastructure, strengthen cybersecurity and position local technology companies for international competitiveness, software quality cannot re",
+    "published": "Fri, 31 Jul 2026 16:08:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100362+00:00",
+    "used": false
+  },
+  {
+    "id": "1e904e3d30393dfc",
+    "source": "Premium Times",
+    "title": "Hausa singer Rarara’s new song on Pantami attracts backlash",
+    "link": "https://www.premiumtimesng.com/news/top-news/899754-hausa-singer-rararas-new-song-on-pantami-attracts-backlash.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"464\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-31-at-15.29.14.jpeg?fit=786%2C464&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"786\" /><p>The song, which accuses Mr Pantami of drug use, praises Gombe State All Progressives Congress (APC) governorship candidate Jamilu Gwamna. Mr Pantami is the governorship candidate of the opposition Wike-backed Peopl",
+    "published": "Fri, 31 Jul 2026 14:35:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100416+00:00",
+    "used": false
+  },
+  {
+    "id": "59315932742061fc",
+    "source": "Premium Times",
+    "title": "South-south yet to domesticate key constitutional amendments on LG autonomy, electricity, police",
+    "link": "https://www.premiumtimesng.com/news/top-news/899724-south-south-yet-to-domesticate-key-constitutional-amendments-on-lg-autonomy-electricity-police.html",
+    "summary": "<img alt=\"South-south governors (PHOTO CREDIT: Pen pushers)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"673\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG-20260619-WA0049.jpg?fit=1080%2C673&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>In Akwa Ibom State, for instance, the governor controls the funds meant for the local councils, the state chairman of the NLC told NAN.</p>\n<p>The post <a href=\"https://www.premiumti",
+    "published": "Fri, 31 Jul 2026 13:25:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100428+00:00",
+    "used": false
+  },
+  {
+    "id": "334886a7a1807c28",
+    "source": "Premium Times",
+    "title": "EXCLUSIVE: How former governor Sylva allegedly became coup sponsor",
+    "link": "https://www.premiumtimesng.com/news/headlines/899731-exclusive-how-former-governor-sylva-allegedly-became-coup-sponsor.html",
+    "summary": "<img alt=\"Maaji and Timipre\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Maaji-and-Timipre.png?fit=1536%2C1024&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>This part of the PREMIUM TIMES series of exclusive stories on unreported facts about the 2025 failed coup captures the account of the suspected leader of the plot chronicling how former Bayelsa Governor Sylva, alle",
+    "published": "Fri, 31 Jul 2026 13:24:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100446+00:00",
+    "used": false
+  },
+  {
+    "id": "e744ddfb0e9e435c",
+    "source": "Premium Times",
+    "title": "Sam Larry makes first appearance after fatal car accident (VIDEO)",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/899723-sam-larry-makes-first-appearance-after-fatal-car-accident-video.html",
+    "summary": "<img alt=\"Sam Larry\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"628\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/11/Sam-Larry-e1700777323104.webp?fit=1003%2C628&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1003\" /><p>The public appearance comes weeks after the promoter survived a road crash that claimed his bouncer’s life and fuelled false reports of his death online.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entert",
+    "published": "Fri, 31 Jul 2026 12:59:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100465+00:00",
+    "used": false
+  },
+  {
+    "id": "2b71de80ac3bca08",
+    "source": "Premium Times",
+    "title": "Nigerian police deploy new CP to oversee Osun governorship poll",
+    "link": "https://www.premiumtimesng.com/news/top-news/899720-nigerian-police-deploy-new-cp-to-oversee-osun-governorship-poll.html",
+    "summary": "<img alt=\"Osun_State_map\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"599\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2013/06/Osun_State_map.png?fit=777%2C599&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /><p>The deployment comes after months of controversies sourrounding the conduct of the Osun State Police command led by former CP Ibrahim Gotan and calls for his redeployment by the state government.</p>\n<p>The post <a href=\"htt",
+    "published": "Fri, 31 Jul 2026 12:48:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100476+00:00",
+    "used": false
+  },
+  {
+    "id": "8399a6f952a55d1e",
+    "source": "Premium Times",
+    "title": "Police probe missing corps member’s death",
+    "link": "https://www.premiumtimesng.com/news/more-news/899712-police-probe-missing-corps-members-death.html",
+    "summary": "<img alt=\"Police operatives\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/06/Police-response-to-insecurity-in-Abuja.jpeg?fit=2560%2C1707&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The police are investigating the death of a 27-year-old NYSC member, Stanley Okebaram, whose body was recovered in Nembe days after he went missing.</p>\n<p>The post <a href=\"https://www.premiu",
+    "published": "Fri, 31 Jul 2026 12:17:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:07.100491+00:00",
+    "used": false
+  },
+  {
+    "id": "df44e279a221f64a",
+    "source": "Leadership Newspaper",
+    "title": "Police Rescue 9-Year-Old Kidnap Victim, Arrest 10 Suspects in Kano",
+    "link": "https://leadership.ng/police-rescue-9-year-old-kidnap-victim-arrest-10-suspects-in-kano/",
+    "summary": "The Kano State Police Command has rescued a nine-year-old boy, Ubaiyu Muhammad Sammani, who was kidnapped earlier this month, and arrested 10 suspects in connection with the incident. The victim, a resident of Rimin Kebbe Quarters in Kano, was rescued unharmed after what police described as sustained intelligence-led operations and community support. According to a [&#8230;]",
+    "published": "Fri, 31 Jul 2026 18:02:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:10.202209+00:00",
+    "used": false
+  },
+  {
+    "id": "d32840a07a005102",
+    "source": "Leadership Newspaper",
+    "title": "NFF Election Race Begins As Sale Of Nomination Forms Opens On Saturday",
+    "link": "https://leadership.ng/nff-election-race-begins-as-sale-of-nomination-forms-opens-on-saturday/",
+    "summary": "The Nigeria Football Federation (NFF) Electoral Committee has released the timetable for the 2026 Executive Committee elections, with the sale of nomination forms set to begin on Saturday, 1 August. The elections will be held on 27 September in Lafia, Nasarawa State, where members of the football body will elect a new Executive Committee to [&#8230;]",
+    "published": "Fri, 31 Jul 2026 17:39:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:10.202245+00:00",
+    "used": false
+  },
+  {
+    "id": "12baebf72096eb51",
+    "source": "Leadership Newspaper",
+    "title": "CAF Delegation Begins Inspection Of Nigeria’s Facilities For 2026 Congress, Awards",
+    "link": "https://leadership.ng/caf-delegation-begins-inspection-of-nigerias-facilities-for-2026-congress-awards/",
+    "summary": "A five-member delegation from the Confederation of African Football (CAF) has begun inspecting facilities in Nigeria as part of the country’s bid to host the 48th CAF Ordinary General Assembly and the CAF Awards. The delegation arrived in Abuja on Thursday to assess venues and supporting infrastructure for the two flagship events, following approval by [&#8230;]",
+    "published": "Fri, 31 Jul 2026 17:33:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:10.202260+00:00",
+    "used": false
+  },
+  {
+    "id": "80a9b28f3c225759",
+    "source": "Leadership Newspaper",
+    "title": "Factional Accord Chairman Warns Adeleke Against Linking Criminal Suspects To Party",
+    "link": "https://leadership.ng/factional-accord-chairman-warns-adeleke-against-linking-criminal-suspects-to-party/",
+    "summary": "&#160; &#160; The factional National Chairman of the Accord Party, Professor Chris Imumolen, has cautioned Osun State Governor Ademola Adeleke against describing criminal suspects as members of the Accord Party, insisting that the political platform will not allow its image to be tarnished by individuals facing serious criminal allegations. Imumolen gave the warning while reacting [&#8230;]",
+    "published": "Fri, 31 Jul 2026 17:32:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:10.202273+00:00",
+    "used": false
+  },
+  {
+    "id": "17cbbf23efdfd798",
+    "source": "Leadership Newspaper",
+    "title": "Former Kebbi Deputy Governor Ibrahim Khalid Aliyu Dies",
+    "link": "https://leadership.ng/former-kebbi-deputy-governor-ibrahim-khalid-aliyu-dies/",
+    "summary": "Former Kebbi State Deputy Governor, Alhaji Ibrahim Khalid Aliyu, has died. Aliyu, who served as deputy governor under former Governor Saidu Usman Dakingari between 2007 and 2015, reportedly died in Sokoto after a prolonged illness related to diabetes. His death was confirmed on Friday by an indigene of Yauri Emirate, Alhaji Shehu Mohammed Yauri. Reacting [&#8230;]",
+    "published": "Fri, 31 Jul 2026 17:31:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-07-31T18:25:10.202284+00:00",
     "used": false
   },
   {
@@ -24200,6 +24420,193 @@
     "used": false
   },
   {
+    "id": "b468a032bfbeb11e",
+    "source": "Punch Nigeria",
+    "title": "FG urges students to embrace AI, coding as NELFUND disburses N282bn",
+    "link": "https://punchng.com/fg-urges-students-to-embrace-ai-coding-as-nelfund-disburses-n282bn/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government encourages Nigerian students to embrace AI, coding, and digital skills to thrive in the global knowledge economy. NELFUND disburses\n\nRead More: https://punchng.com/fg-urges-students-to-embrace-ai-coding-as-nelfund-disburses-n282bn/",
+    "published": "Fri, 31 Jul 2026 19:06:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472328+00:00",
+    "used": false
+  },
+  {
+    "id": "9580d6c48f310d81",
+    "source": "Punch Nigeria",
+    "title": "US Mission hails Nigerian doctor over kidney care innovation",
+    "link": "https://punchng.com/us-mission-hails-nigerian-doctor-over-kidney-care-innovation/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The US Mission in Nigeria commends Dr. Ikenna Okezie, a Nigerian-American physician, for transforming kidney care and expanding healthcare access in the US\n\nRead More: https://punchng.com/us-mission-hails-nigerian-doctor-over-kidney-care-innovation/",
+    "published": "Fri, 31 Jul 2026 18:58:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472359+00:00",
+    "used": false
+  },
+  {
+    "id": "cf5f9fa422cc1f4c",
+    "source": "Punch Nigeria",
+    "title": "Canada introduces tougher financial scrutiny for international students",
+    "link": "https://punchng.com/canada-introduces-tougher-financial-scrutiny-for-international-students/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Canada introduces tougher financial scrutiny for international student visa applicants. Learn about the new requirements for proof of funds and financial t\n\nRead More: https://punchng.com/canada-introduces-tougher-financial-scrutiny-for-international-students/",
+    "published": "Fri, 31 Jul 2026 18:50:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472382+00:00",
+    "used": false
+  },
+  {
+    "id": "95abea8ae9a4fe42",
+    "source": "Punch Nigeria",
+    "title": "INEC registers 131,165 new voters in Edo",
+    "link": "https://punchng.com/inec-registers-131165-new-voters-in-edo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "INEC announces 131,165 new voters registered in Edo State during the Continuous Voter Registration exercise, with details on transfers and corrections.\n\nRead More: https://punchng.com/inec-registers-131165-new-voters-in-edo/",
+    "published": "Fri, 31 Jul 2026 18:43:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472401+00:00",
+    "used": false
+  },
+  {
+    "id": "06e9e887455a7d1f",
+    "source": "Punch Nigeria",
+    "title": "BBNaija fans debate over ‘boring’ housemates in S11 first week",
+    "link": "https://punchng.com/bbnaija-fans-debate-over-boring-housemates-in-s11-first-week/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "BBNaija Season 11 sparks debate as fans call early housemates &#8216;boring&#8217; and demand new contestants to spice up the show. Is the criticism premature?\n\nRead More: https://punchng.com/bbnaija-fans-debate-over-boring-housemates-in-s11-first-week/",
+    "published": "Fri, 31 Jul 2026 18:34:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472461+00:00",
+    "used": false
+  },
+  {
+    "id": "e2563e40737f5a2f",
+    "source": "Punch Nigeria",
+    "title": "Canada clarifies citizenship rules for people born abroad",
+    "link": "https://punchng.com/canada-clarifies-citizenship-rules-for-people-born-abroad/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Canada has clarified its citizenship rules for people born abroad, emphasizing direct descent from a Canadian parent. Understand the updated Canadian citiz\n\nRead More: https://punchng.com/canada-clarifies-citizenship-rules-for-people-born-abroad/",
+    "published": "Fri, 31 Jul 2026 17:31:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472506+00:00",
+    "used": false
+  },
+  {
+    "id": "79f78e2f55d684d4",
+    "source": "Punch Nigeria",
+    "title": "Bayelsa unveils committees for 30th anniversary",
+    "link": "https://punchng.com/bayelsa-unveils-committees-for-30th-anniversary/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Bayelsa State Government inaugurates committees to plan a historic 30th-anniversary celebration, highlighting three decades of progress and development.\n\nRead More: https://punchng.com/bayelsa-unveils-committees-for-30th-anniversary/",
+    "published": "Fri, 31 Jul 2026 17:29:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472526+00:00",
+    "used": false
+  },
+  {
+    "id": "600eddf7a2f5d20e",
+    "source": "Punch Nigeria",
+    "title": "Union rejects Kwara’s ‘no work, no pay’ threat, backs striking lawyers",
+    "link": "https://punchng.com/union-rejects-kwaras-no-work-no-pay-threat-backs-striking-lawyers/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A union rejects Kwara State&#8217;s &#8216;no work, no pay&#8217; threat against striking law officers, warning of nationwide action if the Kwara strike dispute isn&#8217;t resolv\n\nRead More: https://punchng.com/union-rejects-kwaras-no-work-no-pay-threat-backs-striking-lawyers/",
+    "published": "Fri, 31 Jul 2026 17:23:19 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472560+00:00",
+    "used": false
+  },
+  {
+    "id": "34ae5eda6e032895",
+    "source": "Punch Nigeria",
+    "title": "50 NCDMB trainees graduate in crane operations in Rivers",
+    "link": "https://punchng.com/50-ncdmb-trainees-graduate-in-crane-operations-in-rivers/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Fifty trainees sponsored by the NCDMB have graduated in crane operations in Rivers, boosting indigenous workforce participation in the oil and gas industry\n\nRead More: https://punchng.com/50-ncdmb-trainees-graduate-in-crane-operations-in-rivers/",
+    "published": "Fri, 31 Jul 2026 17:09:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:06.472579+00:00",
+    "used": false
+  },
+  {
+    "id": "acb84a166048311a",
+    "source": "Premium Times",
+    "title": "Nigeria destroys 2,809 illicit arms in crackdown on illegal weapons",
+    "link": "https://www.premiumtimesng.com/news/more-news/899807-nigeria-destroys-2809-illicit-arms-in-crackdown-on-illegal-weapons.html",
+    "summary": "<img alt=\"Weapons intercepted by Customs at Onne\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/07/Weapons-intercepted-by-Customs-at-Onne.jpg?fit=1080%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The destruction exercise was held on Thursday at the Muhammadu Buhari Cantonment in Giri, Abuja.The destruction exercise was held on Thursday at the Muhammadu Buhari Cantonme",
+    "published": "Fri, 31 Jul 2026 18:20:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:07.100126+00:00",
+    "used": false
+  },
+  {
+    "id": "fd60e22da46399ca",
+    "source": "Premium Times",
+    "title": "60,000 migrants from Morocco enter Spanish territory after overrunning border.",
+    "link": "https://www.premiumtimesng.com/news/top-news/899802-60000-migrants-from-morocco-enter-spanish-territory-after-overrunning-border.html",
+    "summary": "<img alt=\"Ceuta border Ceuta border \" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"359\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Screenshot-2026-07-31-191330.jpg?fit=542%2C359&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"542\" /><p>The Ceuta government put the number of immigrants that have entered the city from Morocco in the past 24 hours at 60,000. </p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/89980",
+    "published": "Fri, 31 Jul 2026 18:15:18 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:07.100183+00:00",
+    "used": false
+  },
+  {
+    "id": "82a0cb801d1c45dc",
+    "source": "Premium Times",
+    "title": "Court jails two Chinese nationals five years each in Lagos for illegal mining",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/897954-court-jails-two-chinese-nationals-five-years-each-in-lagos-for-illegal-mining.html",
+    "summary": "<img alt=\"Illegal mining: Chinese nationals in Lagos\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1200\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1001318991.jpg?fit=1600%2C1200&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1600\" /><p>The judge gave the Chinese nationals the option of paying a N50 million fine covering all five counts.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/regional/ssouth-west/897954-court-jai",
+    "published": "Fri, 31 Jul 2026 17:27:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:07.100234+00:00",
+    "used": false
+  },
+  {
+    "id": "d8d2e1418321e7df",
+    "source": "Premium Times",
+    "title": "The Dislocated Dream: South Africa’s xenophobic problem and future of African unity, By Aitanu Elegbenosa Emmanuel",
+    "link": "https://www.premiumtimesng.com/promoted/899764-the-dislocated-dream-south-africas-xenophobic-problem-and-future-of-african-unity-by-aitanu-elegbenosa-emmanuel.html",
+    "summary": "<img alt=\"The Dislocated Dream: South Africa&#039;s xenophobic problem and future of African unity, By Aitanu Elegbenosa Emmanuel\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"536\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-31-at-17.10.33-1.jpeg?fit=750%2C536&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"750\" /><p>The government must consider how to solve the problems and make long-term plans that address ",
+    "published": "Fri, 31 Jul 2026 16:20:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:07.100338+00:00",
+    "used": false
+  },
+  {
+    "id": "fd075437ec4ca78b",
+    "source": "Premium Times",
+    "title": "FG says no plan to increase electricity tariffs",
+    "link": "https://www.premiumtimesng.com/business/business-news/899753-fg-says-no-plan-to-increase-electricity-tariffs.html",
+    "summary": "<img alt=\"FG says no plan to increase electricity tariffs\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-31-at-15.51.36-1.jpeg?fit=1080%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Mr Tegbe added that the government would strengthen critical transmission infrastructure, improve grid stability and address long-standing liquidity challenges in ",
+    "published": "Fri, 31 Jul 2026 14:42:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:07.100391+00:00",
+    "used": false
+  },
+  {
+    "id": "b9ebfd0bed884e71",
+    "source": "Leadership Newspaper",
+    "title": "Reps Decry Delay In Addressing Bille Gas Leak, Summon Key Agencies, Rivers Govt",
+    "link": "https://leadership.ng/reps-decry-delay-in-addressing-bille-gas-leak-summon-key-agencies-rivers-govt/",
+    "summary": "The House of Representatives Committee on the South-South Development Commission (SSDC), has expressed deep concern over what it described as the slow pace of efforts to address the persistent gas leak in Bille Community, Degema Local Government Area of Rivers State, warning that the prolonged environmental disaster poses a serious threat to the survival of [&#8230;]",
+    "published": "Fri, 31 Jul 2026 18:22:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:10.202107+00:00",
+    "used": false
+  },
+  {
+    "id": "692dadec330096ec",
+    "source": "Leadership Newspaper",
+    "title": "Ashimolowo Urges Leaders To Embrace Sacrificial Leadership",
+    "link": "https://leadership.ng/ashimolowo-urges-leaders-to-embrace-sacrificial-leadership/",
+    "summary": "Senior Pastor of Kingsway International Christian Centre (KICC), Pastor Matthew Ashimolowo, has urged political, business and religious leaders to embrace sacrificial leadership, saying genuine leadership requires prioritising service and long-term impact over personal comfort. Ashimolowo made the call during a visit to the newly dedicated Dreamland complex at Master&#8217;s City, Warri, Delta State, where he [&#8230;]",
+    "published": "Fri, 31 Jul 2026 18:13:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:10.202139+00:00",
+    "used": false
+  },
+  {
+    "id": "17f08aa26c7354b6",
+    "source": "Leadership Newspaper",
+    "title": "Mudryk’s Doping Ban Overturned On Time-Served Basis, CAS Rules",
+    "link": "https://leadership.ng/mudryks-doping-ban-overturned-on-time-served-basis-cas-rules/",
+    "summary": "MuChelsea winger Mykhailo Mudryk is cleared to resume playing immediately after the Court of Arbitration for Sport (CAS) partially upheld his appeal, converting a four-year ban into a suspension equal to the time he has already served. The 25-year-old Ukraine international has been sidelined since November 2024, when he was provisionally suspended by the Football [&#8230;]",
+    "published": "Fri, 31 Jul 2026 18:02:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-07-31T18:25:10.202199+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -25737,6 +26144,39 @@
     "published": "Fri, 31 Jul 2026 09:32:52 +0000",
     "priority": "low",
     "fetched_at": "2026-07-31T09:40:42.920581+00:00",
+    "used": false
+  },
+  {
+    "id": "5a9190db3e47f42c",
+    "source": "Premium Times",
+    "title": "Cricket: Nigeria unveil squad for ICC U-19 World Cup qualifier",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/899759-cricket-nigeria-unveil-squad-for-icc-u-19-world-cup-qualifier.html",
+    "summary": "<img alt=\"The Junior Yellow Greens in training (PHOTO CREDIT: Nigeria Cricket Federation on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003743170.jpg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>According to the NCF, the final squad emerged after a rigorous three-phase screening process held in Abuja and Lagos</p>\n<p>The post <a href=\"https://www.",
+    "published": "Fri, 31 Jul 2026 16:31:42 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-31T18:25:07.100279+00:00",
+    "used": false
+  },
+  {
+    "id": "51989f12b56e8d8d",
+    "source": "Leadership Newspaper",
+    "title": "Chelsea Hit with £10m Fine, Suspended 2-window Transfer Ban",
+    "link": "https://leadership.ng/chelsea-hit-with-10m-fine-suspended-2-window-transfer-ban/",
+    "summary": "Chelsea have been fined £10 million and handed a suspended two-window transfer ban after self-reporting 74 breaches of Football Association regulations committed before the club’s current ownership took charge. The Football Association announced the sanctions on Friday following an investigation into violations of FA Rule E1.2, which covers football agent regulations, intermediary rules and third-party [&#8230;]",
+    "published": "Fri, 31 Jul 2026 18:06:56 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-31T18:25:10.202173+00:00",
+    "used": false
+  },
+  {
+    "id": "a2c2c25aff03f983",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria Remains Africa’s Top-Performing Nation At Glasgow 2026 Commonwealth Games",
+    "link": "https://leadership.ng/nigeria-remains-africas-top-performing-nation-at-glasgow-2026-commonwealth-games/",
+    "summary": "Team Nigeria has retained its status as Africa’s highest-performing country at the Glasgow 2026 Commonwealth Games after an impressive medal haul in the first seven days of competition. According to the National Sports Commission, Nigeria has won 16 medals comprising eight gold, five silver and three bronze medals, placing the country fifth on the overall [&#8230;]",
+    "published": "Fri, 31 Jul 2026 17:57:30 +0000",
+    "priority": "low",
+    "fetched_at": "2026-07-31T18:25:10.202236+00:00",
     "used": false
   }
 ]
