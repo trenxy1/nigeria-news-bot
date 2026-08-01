@@ -668,7 +668,7 @@
     "published": "Wed, 15 Jul 2026 07:40:35 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T07:53:17.527215+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "9466adcc4e9ad58f",
@@ -11305,6 +11305,193 @@
     "published": "Sat, 01 Aug 2026 08:04:30 +0000",
     "priority": "high",
     "fetched_at": "2026-08-01T09:04:05.049569+00:00",
+    "used": false
+  },
+  {
+    "id": "0db6362b7060ddc6",
+    "source": "Punch Nigeria",
+    "title": "Police arrest two suspected kidnappers in Anambra",
+    "link": "https://punchng.com/police-arrest-two-suspected-kidnappers-in-anambra-3/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Anambra State Police Command arrests two suspected kidnappers linked to multiple abductions, including a N15m ransom case. Learn more about the Anambra kid\n\nRead More: https://punchng.com/police-arrest-two-suspected-kidnappers-in-anambra-3/",
+    "published": "Sat, 01 Aug 2026 18:51:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:34.959909+00:00",
+    "used": false
+  },
+  {
+    "id": "af8d8777f66a0ccf",
+    "source": "Punch Nigeria",
+    "title": "Police arraign suspected vehicle battery thief in Enugu",
+    "link": "https://punchng.com/police-arraign-suspected-vehicle-battery-thief-in-enugu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A suspected vehicle battery thief, Oshim Daniel, has been arraigned in Enugu after being rescued from a mob. Learn more about the vehicle battery theft cas\n\nRead More: https://punchng.com/police-arraign-suspected-vehicle-battery-thief-in-enugu/",
+    "published": "Sat, 01 Aug 2026 18:20:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:34.959961+00:00",
+    "used": false
+  },
+  {
+    "id": "3a23df1076e7dd9f",
+    "source": "Punch Nigeria",
+    "title": "Jonah Jang is my role model, says Mutfwang",
+    "link": "https://punchng.com/jonah-jang-is-my-role-model-says-mutfwang/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Plateau State Governor Caleb Mutfwang describes former governor Jonah Jang as his role model, praising his leadership and commitment at Jang&#8217;s 80th birthda\n\nRead More: https://punchng.com/jonah-jang-is-my-role-model-says-mutfwang/",
+    "published": "Sat, 01 Aug 2026 18:08:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:34.960010+00:00",
+    "used": false
+  },
+  {
+    "id": "60e9453151468db5",
+    "source": "Punch Nigeria",
+    "title": "Adeleke unveils 10.4km Osun road",
+    "link": "https://punchng.com/adeleke-unveils-10-4km-osun-road/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Governor Ademola Adeleke commissions the 10.4km Edunabon-Tonkere Osun road, ending decades of neglect. He also addresses residents ahead of the August 15 g\n\nRead More: https://punchng.com/adeleke-unveils-10-4km-osun-road/",
+    "published": "Sat, 01 Aug 2026 17:12:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:34.960052+00:00",
+    "used": false
+  },
+  {
+    "id": "d4775a8e7cb60697",
+    "source": "Punch Nigeria",
+    "title": "Jang laments breakdown of Fulani-Berom relations in Plateau",
+    "link": "https://punchng.com/jang-laments-breakdown-of-fulani-berom-relations-in-plateau/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Plateau Governor Jonah Jang expresses sadness over the breakdown of Fulani-Berom relations, urging reconciliation amidst ongoing Plateau crisis.\n\nRead More: https://punchng.com/jang-laments-breakdown-of-fulani-berom-relations-in-plateau/",
+    "published": "Sat, 01 Aug 2026 16:51:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:34.960106+00:00",
+    "used": false
+  },
+  {
+    "id": "153b93b14a2f84c2",
+    "source": "Punch Nigeria",
+    "title": "US condemns Kaduna attack, urges FG to tackle Middle Belt violence",
+    "link": "https://punchng.com/us-condemns-kaduna-attack-urges-fg-to-tackle-middle-belt-violence/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The US condemns the recent Kaduna attack, killing 30, and urges the Nigerian government to address rampant violence in the Middle Belt. Read more.\n\nRead More: https://punchng.com/us-condemns-kaduna-attack-urges-fg-to-tackle-middle-belt-violence/",
+    "published": "Sat, 01 Aug 2026 16:46:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:34.960156+00:00",
+    "used": false
+  },
+  {
+    "id": "b46e1a5da55f1ed8",
+    "source": "Punch Nigeria",
+    "title": "2027: Labour Party chair urges politicians to shun divisive politics",
+    "link": "https://punchng.com/2027-labour-party-chair-urges-politicians-to-shun-divisive-politics/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Labour Party chair urges Nigerian politicians to embrace issue-based campaigns and shun divisive politics ahead of the 2027 general elections.\n\nRead More: https://punchng.com/2027-labour-party-chair-urges-politicians-to-shun-divisive-politics/",
+    "published": "Sat, 01 Aug 2026 16:46:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:34.960164+00:00",
+    "used": false
+  },
+  {
+    "id": "7775ce1744b1760e",
+    "source": "Premium Times",
+    "title": "Malaria: Preventable killer we must no longer ignore, By Nosimot Soneye",
+    "link": "https://www.premiumtimesng.com/promoted/900077-malaria-preventable-killer-we-must-no-longer-ignore-by-nosimot-soneye.html",
+    "summary": "<img alt=\"Governor Dapo Abiodun of Ogun State\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"540\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/c1618e9d-92a1-4b80-bdfa-e5bcdbd0f0e1-e1785605742997.jpeg?fit=864%2C540&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"864\" /><p>In Ogun State, the administration of Governor Dapo Abiodun has sustained various healthcare interventions aimed at reducing malaria prevalence and expanding access t",
+    "published": "Sat, 01 Aug 2026 17:39:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:35.778466+00:00",
+    "used": false
+  },
+  {
+    "id": "c0feb99ffc4a0961",
+    "source": "Premium Times",
+    "title": "Niger State ex-official shares harrowing 225-day captivity experience",
+    "link": "https://www.premiumtimesng.com/regional/north-central/900060-niger-state-ex-official-shares-harrowing-225-day-captivity-experience.html",
+    "summary": "<img alt=\"Bandits\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"400\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/output-11-e1772014388303.jpg?fit=640%2C400&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>\"I saw vehicles parked by the roadside, not knowing they were heavily armed Fulani bandits dressed in police uniforms,\" he said.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/regional/north-central/900060-niger-",
+    "published": "Sat, 01 Aug 2026 15:26:33 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:35.778633+00:00",
+    "used": false
+  },
+  {
+    "id": "7dc0f9b912956cca",
+    "source": "Premium Times",
+    "title": "Why Nigeria’s births should not worry Elon Musk, By Chinedu Moghalu",
+    "link": "https://www.premiumtimesng.com/opinion/900044-why-nigerias-births-should-not-worry-elon-musk-by-chinedu-moghalu.html",
+    "summary": "<img alt=\"Chinedu Moghalu writes about books and the reading culture in Nigeria.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/10/Chinedu-Moghalu.jpeg?fit=480%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"480\" /><p>Musk’s comparison does not settle a contest of fertility. Europe is wealthier, more productive and better equipped to turn individual ability into economic value. Nig",
+    "published": "Sat, 01 Aug 2026 13:45:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:35.778705+00:00",
+    "used": false
+  },
+  {
+    "id": "3518667a94d0085d",
+    "source": "Premium Times",
+    "title": "The Rise of Mobile Casinos: Why more players are choosing to bet on their phones",
+    "link": "https://www.premiumtimesng.com/promoted/900030-the-rise-of-mobile-casinos-why-more-players-are-choosing-to-bet-on-their-phones.html",
+    "summary": "<img alt=\"The Rise of Mobile Casinos: Why more players are choosing to bet on their phones\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"800\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/unnamed-3.jpg?fit=1200%2C800&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>Discover why mobile casinos are becoming the preferred choice for many players. Learn about mobile-first design, performance improvements, security features, and",
+    "published": "Sat, 01 Aug 2026 13:30:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:35.778716+00:00",
+    "used": false
+  },
+  {
+    "id": "3eb0e2de5f75d379",
+    "source": "Premium Times",
+    "title": "Osun 2026: INEC’s mock accreditation exercise records BVAS device glitches across designated polling units",
+    "link": "https://www.premiumtimesng.com/news/top-news/900034-osun-2026-inecs-mock-accreditation-exercise-records-bvas-device-glitches-across-designated-polling-units.html",
+    "summary": "<img alt=\"Osun 2026: INEC&#039;s mock accreditation exercise records BVAS device glitches across designated polling units\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"960\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/a64e853d-8aaa-4dec-8cf8-fed75bda47f0.jpeg?fit=1280%2C960&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Saturday's technical hitch is likely to increase scrutiny of INEC's preparations as political parties ",
+    "published": "Sat, 01 Aug 2026 13:20:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:35.778734+00:00",
+    "used": false
+  },
+  {
+    "id": "85227f3a24a36cc5",
+    "source": "Premium Times",
+    "title": "Court awards journalist N12 million in damages against police for illegal arrest, detention",
+    "link": "https://www.premiumtimesng.com/news/top-news/900002-court-awards-journalist-n12-million-in-damages-against-police-for-illegal-arrest-detention.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"615\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2021/04/Press-Freedom.png?fit=1024%2C615&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Police officers assaulted the journalist, seized her phone and camera, and detained her at the Anti-Violence Crime Unit in Guzape alongside dozens of traders.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/900002-c",
+    "published": "Sat, 01 Aug 2026 12:25:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:35.778895+00:00",
+    "used": false
+  },
+  {
+    "id": "0fba8996bfa1095d",
+    "source": "Leadership Newspaper",
+    "title": "Gwamna Petitions IGP, Seeks INTERPOL Probe Over Alleged Coordinated Fake News Campaign",
+    "link": "https://leadership.ng/gwamna-petitions-igp-seeks-interpol-probe-over-alleged-coordinated-fake-news-campaign/",
+    "summary": "The All Progressives Congress (APC) governorship candidate in Gombe State, Dr. Jamilu Isyaku Gwamna, has petitioned the Inspector-General of Police (IGP), requesting an investigation by the Nigeria Police National Cybercrime Centre (NPF-NCCC), with the involvement of INTERPOL, over an alleged coordinated campaign of cyberbullying, criminal defamation and fake news targeting him ahead of the 2027 [&#8230;]",
+    "published": "Sat, 01 Aug 2026 18:03:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:39.317441+00:00",
+    "used": false
+  },
+  {
+    "id": "aa7e8bafa9dc7907",
+    "source": "Leadership Newspaper",
+    "title": "NANS Urges UNILAG To Reopen Registration Portal Ahead Of Exams",
+    "link": "https://leadership.ng/nans-urges-unilag-to-reopen-registration-portal-ahead-of-exams/",
+    "summary": "The National Association of Nigerian Students (NANS) has appealed to the management of the University of Lagos (UNILAG) to reopen its school fees payment and course registration portal for 48 hours to enable affected students complete their registration before examinations begin. A statement issued on Saturday, NANS President, Akinteye Afeez, said the closure of the [&#8230;]",
+    "published": "Sat, 01 Aug 2026 17:22:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:39.317505+00:00",
+    "used": false
+  },
+  {
+    "id": "823d08c12883fa66",
+    "source": "Leadership Newspaper",
+    "title": "Adeleke Commissions 10.4km Ife North Road",
+    "link": "https://leadership.ng/adeleke-commissions-10-4km-ife-north-road/",
+    "summary": "Osun State governor, Ademola Adeleke, has commissioned the 10.4-kilometre Edunabon–Tonkere Road in Ife North Local Government Area, describing the project as part of his administration’s commitment to improving infrastructure and boosting economic activities across the state. A statement issued on Saturday by the governor’s spokesperson, Olawale Rasheed, said the road project ended more than four [&#8230;]",
+    "published": "Sat, 01 Aug 2026 16:59:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:39.317629+00:00",
+    "used": false
+  },
+  {
+    "id": "874cd31d2a563eca",
+    "source": "Leadership Newspaper",
+    "title": "Jigawa Raises Kila Gully Erosion Project Budget To ₦3.2bn",
+    "link": "https://leadership.ng/jigawa-raises-kila-gully-erosion-project-budget-to-%e2%82%a63-2bn/",
+    "summary": "The Jigawa State Government has increased the budget for the Kila Gully Erosion Control Project in Gwaram Local Government Area to ₦3.2 billion to accommodate additional works aimed at ensuring the project&#8217;s durability and effectiveness. Governor Umar Namadi disclosed this during an inspection of the project, where he assessed the quality and pace of work [&#8230;]",
+    "published": "Sat, 01 Aug 2026 16:45:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-01T18:04:39.317644+00:00",
     "used": false
   },
   {
@@ -25355,6 +25542,226 @@
     "used": false
   },
   {
+    "id": "98dfb0921db57281",
+    "source": "Punch Nigeria",
+    "title": "Chelsea complete signing of Danny Welbeck from Brighton",
+    "link": "https://punchng.com/chelsea-complete-signing-of-danny-welbeck-from-brighton/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Chelsea completes the signing of experienced striker Danny Welbeck from Brighton. Welbeck expresses pride and readiness to win trophies with the Blues.\n\nRead More: https://punchng.com/chelsea-complete-signing-of-danny-welbeck-from-brighton/",
+    "published": "Sat, 01 Aug 2026 18:46:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:34.959950+00:00",
+    "used": false
+  },
+  {
+    "id": "1f886bd77027a13c",
+    "source": "Punch Nigeria",
+    "title": "Olubadan mourns Ibadan chief Lekan Alabi",
+    "link": "https://punchng.com/olubadan-mourns-ibadan-chief-lekan-alabi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Olubadan of Ibadanland, Oba Rashidi Ladoja, expresses devastation over the passing of Chief Lekan Alabi, a veteran journalist and Ibadan promoter.\n\nRead More: https://punchng.com/olubadan-mourns-ibadan-chief-lekan-alabi/",
+    "published": "Sat, 01 Aug 2026 18:11:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:34.959979+00:00",
+    "used": false
+  },
+  {
+    "id": "7e8e20a1779f9ac1",
+    "source": "Punch Nigeria",
+    "title": "Vote for competence, not bags of rice, Atiku tells Nigerians",
+    "link": "https://punchng.com/vote-for-competence-not-bags-of-rice-atiku-tells-nigerians/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Atiku Abubakar urges Nigerians, especially youth, to vote for competence and reject vote-buying in the 2027 presidency, emphasising accountability and oppo\n\nRead More: https://punchng.com/vote-for-competence-not-bags-of-rice-atiku-tells-nigerians/",
+    "published": "Sat, 01 Aug 2026 18:10:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:34.959999+00:00",
+    "used": false
+  },
+  {
+    "id": "d5c700a88ef86860",
+    "source": "Punch Nigeria",
+    "title": "Man City lose to Inter on penalties in Maresca’s debut",
+    "link": "https://punchng.com/man-city-lose-to-inter-on-penalties-in-marescas-debut/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Enzo Maresca&#8217;s first game as Man City manager ends in a penalty shootout loss to Inter Milan in a pre-season friendly. Discover more about Maresca&#8217;s debut.\n\nRead More: https://punchng.com/man-city-lose-to-inter-on-penalties-in-marescas-debut/",
+    "published": "Sat, 01 Aug 2026 17:39:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:34.960038+00:00",
+    "used": false
+  },
+  {
+    "id": "0cb0cd770f79bb35",
+    "source": "Punch Nigeria",
+    "title": "MAN decries high electricity costs in South-East",
+    "link": "https://punchng.com/man-decries-high-electricity-costs-in-south-east/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Manufacturers in the South-East are operating below 30% capacity due to high electricity costs. MAN appeals for urgent intervention to save the region&#8217;s in\n\nRead More: https://punchng.com/man-decries-high-electricity-costs-in-south-east/",
+    "published": "Sat, 01 Aug 2026 17:11:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:34.960071+00:00",
+    "used": false
+  },
+  {
+    "id": "8aa039ab0151c789",
+    "source": "Punch Nigeria",
+    "title": "WAFCON: Defending champions Super Falcons fight for survival against Zambia",
+    "link": "https://punchng.com/wafcon-defending-champions-super-falcons-fight-for-survival-against-zambia/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Defending champions Super Falcons face Zambia in a crucial WAFCON match. Can Nigeria bounce back from their opening defeat and keep their title hopes alive\n\nRead More: https://punchng.com/wafcon-defending-champions-super-falcons-fight-for-survival-against-zambia/",
+    "published": "Sat, 01 Aug 2026 17:02:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:34.960090+00:00",
+    "used": false
+  },
+  {
+    "id": "e582f5ca173a17ad",
+    "source": "Punch Nigeria",
+    "title": "Stakeholders demand more funding for parenting programmes in Akwa Ibom",
+    "link": "https://punchng.com/stakeholders-demand-more-funding-for-parenting-programmes-in-akwa-ibom/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Stakeholders in Akwa Ibom are calling for increased funding for evidence-based parenting programmes to strengthen families and protect children in the stat\n\nRead More: https://punchng.com/stakeholders-demand-more-funding-for-parenting-programmes-in-akwa-ibom/",
+    "published": "Sat, 01 Aug 2026 16:48:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:34.960126+00:00",
+    "used": false
+  },
+  {
+    "id": "430666e121ae1b45",
+    "source": "Punch Nigeria",
+    "title": "Nigerian woman seeks public help to find siblings taken to Cameroon 30 years ago",
+    "link": "https://punchng.com/nigerian-woman-seeks-public-help-to-find-siblings-taken-to-cameroon-30-years-ago/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Nigerian woman is appealing for public help to find her three siblings, allegedly taken to Cameroon by their father 30 years ago. Help reunite this famil\n\nRead More: https://punchng.com/nigerian-woman-seeks-public-help-to-find-siblings-taken-to-cameroon-30-years-ago/",
+    "published": "Sat, 01 Aug 2026 16:47:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:34.960143+00:00",
+    "used": false
+  },
+  {
+    "id": "30068d4f7f541670",
+    "source": "Premium Times",
+    "title": "VFD Group posts twofold jump in half-year profit amid higher investment income",
+    "link": "https://www.premiumtimesng.com/business/business-news/900073-vfd-group-posts-twofold-jump-in-half-year-profit-amid-higher-investment-income.html",
+    "summary": "<img alt=\"VFD Group Plc (PHOTO CREDIT: Thisday Newspaper)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"453\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/10/VFD-Group-Plc.jpeg?fit=800%2C453&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>Revenue advanced to N53.7 billion from N41.2 billion a year ago, deriving strength largely from investment income, which was up by 102.8 per cent.</p>\n<p>The post <a href=\"https://www.premium",
+    "published": "Sat, 01 Aug 2026 17:17:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:35.778532+00:00",
+    "used": false
+  },
+  {
+    "id": "d225a41888fe60cf",
+    "source": "Premium Times",
+    "title": "Full reasons why LPDC suspended senior advocate Gadzama, fellow lawyer from legal practice (DOWNLOAD)",
+    "link": "https://www.premiumtimesng.com/news/headlines/900065-full-reasons-why-lpdc-suspended-senior-advocate-gadzama-fellow-lawyer-from-legal-practice-download.html",
+    "summary": "<img alt=\"Senior Advocate of Nigeria (SAN), Joe-Kyari Gadzama\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"639\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/IMG-20260730-WA0005-2026-07-30-566-1045x639-1.jpg?fit=1045%2C639&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1045\" /><p>In its 70-page direction dated 29 July, the LPDC found that Mr Gadzama poached and hijacked clients already represented by another lawyer, acted for some ",
+    "published": "Sat, 01 Aug 2026 17:02:30 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:35.778578+00:00",
+    "used": false
+  },
+  {
+    "id": "bb0de14855c7d860",
+    "source": "Premium Times",
+    "title": "WHO raises alarm as DR Congo’s Ebola outbreak surpasses 3,600 cases",
+    "link": "https://www.premiumtimesng.com/health/health-news/900063-who-raises-alarm-as-dr-congos-ebola-outbreak-surpasses-3600-cases.html",
+    "summary": "<img alt=\"World Health Organisation\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/05/World-Health-Organisation.jpg?fit=1200%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>The virus has now spread across five provinces, including Ituri, North Kivu, South Kivu, Haut-Uélé, and Tshopo, affecting 49 health zones.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/healt",
+    "published": "Sat, 01 Aug 2026 16:09:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:35.778621+00:00",
+    "used": false
+  },
+  {
+    "id": "d350b51802d0c19d",
+    "source": "Premium Times",
+    "title": "Choosing Atiku as running mate was my biggest political mistake – Obasanjo",
+    "link": "https://www.premiumtimesng.com/news/headlines/900037-choosing-atiku-as-running-mate-was-my-biggest-political-mistake-obasanjo.html",
+    "summary": "<img alt=\"Obasanjo and Atiku\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"490\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2014/11/Atiku-and-Obasanjo-2.jpg?fit=800%2C490&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>“Of course, what I know about him later… I would not have picked him. Thank God that God did not allow his actions and reactions to overwhelm me, divert my focus from Nigeria or harm Nigeria.”</p>\n<p>The post <a hr",
+    "published": "Sat, 01 Aug 2026 13:13:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:35.778777+00:00",
+    "used": false
+  },
+  {
+    "id": "9370547626b0fb04",
+    "source": "Premium Times",
+    "title": "Glasgow 2026: Reporter’s Diary – Day 6: My First Meeting with an Iraqi",
+    "link": "https://www.premiumtimesng.com/news/900027-glasgow-2026-reporters-diary-day-6-my-first-meeting-with-an-iraqi.html",
+    "summary": "<img alt=\"Saeed drives off after a pleasant ride (PHOTO CREDIT: Tunde Eludini)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1300\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003751699-scaled-e1785588938311.jpg?fit=2560%2C1300&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>My first conversation with an Iraqi turned into a lesson on why we should never judge people based on what we see in history books or on television.",
+    "published": "Sat, 01 Aug 2026 12:58:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:35.778818+00:00",
+    "used": false
+  },
+  {
+    "id": "9e0fa9ceed6c83ec",
+    "source": "Premium Times",
+    "title": "Ogazi wins 10th gold medal for Nigeria at Glasgow 2026",
+    "link": "https://www.premiumtimesng.com/news/headlines/900013-ogazi-wins-10th-gold-medal-for-nigeria-at-glasgow-2026.html",
+    "summary": "<img alt=\"Samuel Ogazi (PHOTO CREDIT: Making of Champions)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003751986.jpg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The national record holder lived up to his billing as one of the favourites, pulling away from the field in the closing stages to cap a remarkable championship for the 20-year-old quarter-mi",
+    "published": "Sat, 01 Aug 2026 12:53:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:35.778849+00:00",
+    "used": false
+  },
+  {
+    "id": "1269d0f1da6c3122",
+    "source": "Leadership Newspaper",
+    "title": "10-Man Spurs Defeat Chelsea 2-1 In Pre-Season Clash",
+    "link": "https://leadership.ng/10-man-spurs-defeat-chelsea-2-1-in-pre-season-clash/",
+    "summary": "Tottenham Hotspur defied a late red card to snatch a 2-1 victory over Chelsea, with forward Richarlison scoring the decisive goal in the dying seconds of the match. The contest burst into life in the 22nd minute when Tottenham new signing Sandro Tonali announced his arrival in style. The Italian midfielder, reacted quickest to a [&#8230;]",
+    "published": "Sat, 01 Aug 2026 17:48:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:39.317478+00:00",
+    "used": false
+  },
+  {
+    "id": "9e9acd8a15215a34",
+    "source": "Leadership Newspaper",
+    "title": "Kano Sharia Commission Bans ‘Attachment’ Between Keke Riders, Female Passengers",
+    "link": "https://leadership.ng/kano-sharia-commission-bans-attachment-between-keke-riders-female-passengers/",
+    "summary": "The Kano State Sharia Commission has banned the practice known as &#8220;attachment,&#8221; in which commercial tricycle (keke) riders carry female passengers on the sides of their vehicles, saying it violates Islamic teachings. The commission announced the directive during a meeting with leaders of the Tricycle Owners and Riders Association (BOTORA), where both parties discussed ways [&#8230;]",
+    "published": "Sat, 01 Aug 2026 17:18:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:39.317540+00:00",
+    "used": false
+  },
+  {
+    "id": "b89f798d8a67e9c4",
+    "source": "Leadership Newspaper",
+    "title": "2027: Nenadi Usman Tasks Politicians On Patriotism, Tolerance",
+    "link": "https://leadership.ng/2027-nenadi-usman-tasks-politicians-on-patriotism-tolerance/",
+    "summary": "2027: Nenadi Usman Tasks Politicians On Patriotism, Tolerance &#160; The National Chairman of the Labour Party, Senator Nenadi Usman, has called on political leaders across the country to embrace patriotism, tolerance and issue-based politics as Nigeria prepares for the next electoral cycle. Usman made the call in Jos during the 80th birthday celebration of former [&#8230;]",
+    "published": "Sat, 01 Aug 2026 17:17:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:39.317564+00:00",
+    "used": false
+  },
+  {
+    "id": "15ea9381b8b0c419",
+    "source": "Leadership Newspaper",
+    "title": "FG Launches Nationwide LPG Programme, Targets 5m Households By 2030",
+    "link": "https://leadership.ng/fg-launches-nationwide-lpg-programme-targets-5m-households-by-2030/",
+    "summary": "The federal government has launched the nationwide rollout of the National Grassroots Liquefied Petroleum Gas (LPG) Penetration Programme, targeting five million Nigerian households with clean cooking energy by 2030. The programme, flagged off in Bayelsa State under the Decade of Gas Initiative, aims to reach one million households annually to expand access to clean cooking [&#8230;]",
+    "published": "Sat, 01 Aug 2026 17:13:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:39.317587+00:00",
+    "used": false
+  },
+  {
+    "id": "f3cec3dce8c4b80d",
+    "source": "Leadership Newspaper",
+    "title": "The Moment Aunty Ramota Steals The Spotlight At Peller And Jarvis’ Wedding",
+    "link": "https://leadership.ng/the-moment-aunty-ramota-steals-the-spotlight-at-peller-and-jarvis-wedding/",
+    "summary": "‎Nollywood actress Aunty Ramota is making headlines with her appearance at TikTok power couple Peller and Jarvis’ wedding. ‎In a video captured on Twitter, now known as X, Aunty Ramota made an entrance at the wedding venue with the groom’s mom and her friends. ‎Aunty Ramota was seen dancing with the mother of the groom [&#8230;]",
+    "published": "Sat, 01 Aug 2026 17:06:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:39.317613+00:00",
+    "used": false
+  },
+  {
+    "id": "3b710e3f15d2ed76",
+    "source": "Leadership Newspaper",
+    "title": "NTI Matriculates Fresh NCE, Bachelor Degree Students, Charges Them On Excellence, Integrity",
+    "link": "https://leadership.ng/nti-matriculates-fresh-nce-bachelor-degree-students-charges-them-on-excellence-integrity/",
+    "summary": "The National Teachers&#8217; Institute (NTI), Kubwa Study Centre, Abuja, on Saturday formally admitted a new batch of students into its Nigeria Certificate in Education (NCE) and Bachelor Degree Programme (BDP), urging them to embrace academic excellence, integrity and professionalism as they begin their journey towards becoming teachers. The colourful 2026 matriculation ceremony, held at Government [&#8230;]",
+    "published": "Sat, 01 Aug 2026 16:35:15 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-01T18:04:39.317669+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -26991,6 +27398,39 @@
     "published": "Sat, 01 Aug 2026 08:33:28 +0000",
     "priority": "low",
     "fetched_at": "2026-08-01T09:04:05.049451+00:00",
+    "used": false
+  },
+  {
+    "id": "cde4d489a3e3b066",
+    "source": "Premium Times",
+    "title": "‘I’m married, can no longer have 100 people in my house’ – Davido",
+    "link": "https://www.premiumtimesng.com/entertainment/music/900053-im-married-can-no-longer-have-100-people-in-my-house-davido.html",
+    "summary": "<img alt=\"Davido\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Davido--e1785324773549.jpg?fit=1638%2C1024&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1638\" /><p>Davido reflected on marriage, fame, and his 15-year music journey, stating that his inner circle now comprises people who add value to his career.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/mus",
+    "published": "Sat, 01 Aug 2026 14:45:57 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-01T18:04:35.778673+00:00",
+    "used": false
+  },
+  {
+    "id": "56d6ce45c4d3b4f2",
+    "source": "Premium Times",
+    "title": "FLASHBACK: From Burna Boy to Tyla, three times Nigeria-South Africa tensions spilt into music",
+    "link": "https://www.premiumtimesng.com/entertainment/music/900011-flashback-from-burna-boy-to-tyla-three-times-nigeria-south-africa-tensions-spilt-into-music.html",
+    "summary": "<img alt=\"Burna Boy and Tyla\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"350\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/image0-1.png?fit=650%2C350&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"650\" /><p>The controversy has once again placed the entertainment industries of both countries at the centre of a diplomatic and social conversation.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/music/900011-fla",
+    "published": "Sat, 01 Aug 2026 12:49:53 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-01T18:04:35.778884+00:00",
+    "used": false
+  },
+  {
+    "id": "a41038a6f22284b4",
+    "source": "Premium Times",
+    "title": "‘Charles Okocha didn’t beat me, he bit me’ — Portable on why he walked out of boxing rematch",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/900001-charles-okocha-didnt-beat-me-he-bit-me-portable-on-why-he-walked-out-of-boxing-rematch.html",
+    "summary": "<img alt=\"Portable and Charles Okocha\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"452\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/image4.jpeg?fit=678%2C452&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"678\" /><p>“I am a star. I was bitten. As I blew him, Okocha put his hand on my back and bit me…”</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/naija-fashion/900001-charles-okocha-didnt-beat-me-he-bit-me-p",
+    "published": "Sat, 01 Aug 2026 12:17:30 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-01T18:04:35.778934+00:00",
     "used": false
   }
 ]
