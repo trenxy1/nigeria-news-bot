@@ -712,7 +712,7 @@
     "published": "Wed, 15 Jul 2026 06:58:14 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T07:53:17.527346+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "69a0544a482a6881",
@@ -11987,6 +11987,116 @@
     "published": "Sun, 02 Aug 2026 16:38:30 +0000",
     "priority": "high",
     "fetched_at": "2026-08-02T18:05:04.554337+00:00",
+    "used": false
+  },
+  {
+    "id": "bf5916d9c282eb65",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Adeleke’s camp warns against political violence",
+    "link": "https://punchng.com/osun-poll-adelekes-camp-warns-against-political-violence/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adeleke&#8217;s campaign council warns against political violence and intimidation ahead of the Osun governorship election, urging security agencies to ensure a\n\nRead More: https://punchng.com/osun-poll-adelekes-camp-warns-against-political-violence/",
+    "published": "Sun, 02 Aug 2026 21:01:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:17.835973+00:00",
+    "used": false
+  },
+  {
+    "id": "efa345524b851b40",
+    "source": "Punch Nigeria",
+    "title": "Shettima, Okonjo-Iweala, Lumumba in Asaba for Delta economic summit",
+    "link": "https://punchng.com/shettima-okonjo-iweala-lumumba-in-asaba-for-delta-economic-summit/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Vice President Shettima, WTO DG Okonjo-Iweala, and Prof. Lumumba are in Asaba for the Delta Economic Summit, aiming to attract investment and foster partne\n\nRead More: https://punchng.com/shettima-okonjo-iweala-lumumba-in-asaba-for-delta-economic-summit/",
+    "published": "Sun, 02 Aug 2026 19:47:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:17.836097+00:00",
+    "used": false
+  },
+  {
+    "id": "1579232214de3e52",
+    "source": "Punch Nigeria",
+    "title": "PHOTOS: Kwankwaso receives Kano APC defectors into NDC",
+    "link": "https://punchng.com/photos-kwankwaso-receives-kano-apc-defectors-into-ndc/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Senator Rabiu Kwankwaso receives APC defectors in Kano, strengthening the NDC ahead of the 2027 elections. See photos of the event.\n\nRead More: https://punchng.com/photos-kwankwaso-receives-kano-apc-defectors-into-ndc/",
+    "published": "Sun, 02 Aug 2026 19:34:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:17.836105+00:00",
+    "used": false
+  },
+  {
+    "id": "d16bb1eb81ebe6d1",
+    "source": "Premium Times",
+    "title": "Beyond liquid fuels: How the Dangote Refinery could become the catalytic industrial base for Nigeria, By Dan D. Kunle",
+    "link": "https://www.premiumtimesng.com/opinion/900286-beyond-liquid-fuels-how-the-dangote-refinery-could-become-the-catalytic-industrial-base-for-nigeria-by-dan-d-kunle.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"640\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Dan-Kunle.png?fit=564%2C640&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"564\" /><p>For decades, Nigeria has been known as one of the world’s largest crude oil producers, yet it captured only a fraction of the wealth its natural resources created. The country exported crude, imported refined products, and watched other econom",
+    "published": "Sun, 02 Aug 2026 20:27:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:18.443528+00:00",
+    "used": false
+  },
+  {
+    "id": "8f6876f45ed64d45",
+    "source": "Premium Times",
+    "title": "Police rescue Nigerian woman trafficked to Côte d’Ivoire",
+    "link": "https://www.premiumtimesng.com/news/more-news/900279-police-rescue-nigerian-woman-trafficked-to-cote-divoire.html",
+    "summary": "<img alt=\"Police operatives\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/06/Police-response-to-insecurity-in-Abuja.jpeg?fit=2560%2C1707&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The police said the woman was lured by the suspected recruiter to Côte d’Ivoire with a fake apprenticeship promise before being forced into prostitution.</p>\n<p>The post <a href=\"https://www.p",
+    "published": "Sun, 02 Aug 2026 19:47:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:18.443593+00:00",
+    "used": false
+  },
+  {
+    "id": "ade48fe7739c6812",
+    "source": "Leadership Newspaper",
+    "title": "‎”There’s A High Chance I’ll Be Arrested”-VDM Gives Reason For Missing Peller, Jarvis Wedding",
+    "link": "https://leadership.ng/theres-a-high-chance-ill-be-arrested-vdm-gives-reason-for-missing-peller-jarvis-wedding/",
+    "summary": "‎Influencer and content creator Martins Vincent Otse, popularly known as VeryDarkMan (VDM), has given his reason for not honouring the glamorous wedding between TikTokers and online streamer Peller and Jarvis. ‎The wedding was held yesterday and attended by many celebrities and friends of the sensational content creators. ‎VDM, in a message on his social media [&#8230;]",
+    "published": "Sun, 02 Aug 2026 20:29:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:21.549608+00:00",
+    "used": false
+  },
+  {
+    "id": "bf5b4a1e89d86884",
+    "source": "Leadership Newspaper",
+    "title": "Pictorial: Kwankwaso Welcomes Fresh APC Defectors To NDC In Kano",
+    "link": "https://leadership.ng/pictorial-kwankwaso-welcomes-fresh-apc-defectors-to-ndc-in-kano/",
+    "summary": "The vice-presidential candidate of the Nigeria Democratic Congress (NDC), Senator Rabiu Musa Kwankwaso, has welcomed a fresh wave of defectors from the All Progressives Congress (APC) in Madobi Local Government Area of Kano State into the party. Kwankwaso announced the development in a statement posted on his official X account on Sunday, describing the defections [&#8230;]",
+    "published": "Sun, 02 Aug 2026 20:05:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:21.549616+00:00",
+    "used": false
+  },
+  {
+    "id": "e9bcd9b73076b8cc",
+    "source": "Leadership Newspaper",
+    "title": "Sharia Council To Tinubu: Don’t Rush To Create State Police",
+    "link": "https://leadership.ng/sharia-council-to-tinubu-dont-rush-to-create-state-police/",
+    "summary": "The Supreme Council for Shariah in Nigeria (SCSN) has urged President Bola Ahmed Tinubu, the leadership of the National Assembly, state governments and other relevant stakeholders to conclude comprehensive nationwide consultations and adequately address the concerns of Nigerians before proceeding with any constitutional amendment on state police. The Council warned against what it described as [&#8230;]",
+    "published": "Sun, 02 Aug 2026 19:37:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:21.549673+00:00",
+    "used": false
+  },
+  {
+    "id": "b8bb2eca6d819e2a",
+    "source": "Leadership Newspaper",
+    "title": "My Both Parents Are From Abeokuta, Obasanjo Debunks Igbo Ancestry Speculation",
+    "link": "https://leadership.ng/my-both-parents-are-from-abeokuta-obasanjo-debunks-igbo-ancestry-speculation/",
+    "summary": "Former President Olusegun Obasanjo has dismissed lingering speculations about his ethnic origin, stating that both his father and mother were from Abeokuta, Ogun State. Obasanjo made the clarification in Lagos during the public presentation of Charly Boy’s memoir held at Alliance Française, Adenuga House. The event attracted prominent figures from the media, arts and literary [&#8230;]",
+    "published": "Sun, 02 Aug 2026 19:33:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:21.549709+00:00",
+    "used": false
+  },
+  {
+    "id": "bfd38c3d162154b7",
+    "source": "Leadership Newspaper",
+    "title": "Task Force Intercepts 4 Buses, Arrests 14 Suspected Illegal Miners In Taraba",
+    "link": "https://leadership.ng/task-force-intercepts-4-buses-arrests-14-suspected-illegal-miners-in-taraba/",
+    "summary": "The Taraba State Task Force on Anti-Illegal Mining has intercepted four Toyota Hummer buses conveying suspected illegal miners from Zamfara State and separately arrested 14 others from Bauchi and Gombe States over alleged unauthorised mining activities. The chairman of the task force, SP Emmanuel Jamu, disclosed this in a statement made available to newsmen in [&#8230;]",
+    "published": "Sun, 02 Aug 2026 19:30:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T20:41:21.549722+00:00",
     "used": false
   },
   {
@@ -26851,6 +26961,171 @@
     "used": false
   },
   {
+    "id": "b72bc826561a6665",
+    "source": "Punch Nigeria",
+    "title": "Irish boxer hospitalised following 10th-round knockout",
+    "link": "https://punchng.com/irish-boxer-hospitalised-following-10th-round-knockout/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Irish boxer Lee Reeves is in critical but stable condition after being hospitalised following a 10th-round knockout. Read more on his recovery.\n\nRead More: https://punchng.com/irish-boxer-hospitalised-following-10th-round-knockout/",
+    "published": "Sun, 02 Aug 2026 21:31:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.835925+00:00",
+    "used": false
+  },
+  {
+    "id": "41e127244c892344",
+    "source": "Punch Nigeria",
+    "title": "FG begins 2026 national laureate programme",
+    "link": "https://punchng.com/fg-begins-2026-national-laureate-programme/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government has launched the 2026 National Laureate Programme to reward outstanding academic research and innovation in Nigerian tertiary instit\n\nRead More: https://punchng.com/fg-begins-2026-national-laureate-programme/",
+    "published": "Sun, 02 Aug 2026 20:59:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.835995+00:00",
+    "used": false
+  },
+  {
+    "id": "e56ced6745d27405",
+    "source": "Punch Nigeria",
+    "title": "NESG appoints NLNG boss to board",
+    "link": "https://punchng.com/nesg-appoints-nlng-boss-to-board/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigerian Economic Summit Group (NESG) has appointed Adeleye Falade, MD/CEO of NLNG, to its Board of Directors, strengthening its policy advocacy and ec\n\nRead More: https://punchng.com/nesg-appoints-nlng-boss-to-board/",
+    "published": "Sun, 02 Aug 2026 20:48:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.836010+00:00",
+    "used": false
+  },
+  {
+    "id": "a3dea45f680628c6",
+    "source": "Punch Nigeria",
+    "title": "Barco joins Chelsea rebuild from Strasbourg",
+    "link": "https://punchng.com/barco-joins-chelsea-rebuild-from-strasbourg/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Valentin Barco is Chelsea&#8217;s seventh signing this transfer window, joining from Strasbourg. Discover how Barco fits into Chelsea&#8217;s new era under Xabi Alonso\n\nRead More: https://punchng.com/barco-joins-chelsea-rebuild-from-strasbourg/",
+    "published": "Sun, 02 Aug 2026 20:35:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.836028+00:00",
+    "used": false
+  },
+  {
+    "id": "9b5164fc971ad402",
+    "source": "Punch Nigeria",
+    "title": "BBNaija unveils Aikou, Flora as ‘the gambit,’ rules them out of N160m prize",
+    "link": "https://punchng.com/bbnaija-unveils-aikou-flora-as-the-gambit-rules-them-out-of-n160m-prize/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "BBNaija Season 11 introduces &#8216;The Gambit&#8217; twist, with Aikou and Flora guaranteed finale spots but out of the N160m grand prize race.\n\nRead More: https://punchng.com/bbnaija-unveils-aikou-flora-as-the-gambit-rules-them-out-of-n160m-prize/",
+    "published": "Sun, 02 Aug 2026 20:23:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.836051+00:00",
+    "used": false
+  },
+  {
+    "id": "652f984887b0b0a8",
+    "source": "Punch Nigeria",
+    "title": "Canada tightens work permit rules for foreign workers",
+    "link": "https://punchng.com/canada-tightens-work-permit-rules-for-foreign-workers/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Canada has updated its C20 work permit rules, requiring foreign nationals to be currently employed by an overseas company to qualify. Learn how these chang\n\nRead More: https://punchng.com/canada-tightens-work-permit-rules-for-foreign-workers/",
+    "published": "Sun, 02 Aug 2026 20:22:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.836069+00:00",
+    "used": false
+  },
+  {
+    "id": "d4f0364371ab2a4f",
+    "source": "Punch Nigeria",
+    "title": "My mother sold Akamu, defence minister defends dignity of petty trading",
+    "link": "https://punchng.com/my-mother-sold-akamu-defence-minister-defends-dignity-of-petty-trading/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Defence Minister Christopher Musa defends the dignity of petty trading, sharing how his mother&#8217;s akamu business supported his upbringing. Learn more about\n\nRead More: https://punchng.com/my-mother-sold-akamu-defence-minister-defends-dignity-of-petty-trading/",
+    "published": "Sun, 02 Aug 2026 20:10:19 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.836089+00:00",
+    "used": false
+  },
+  {
+    "id": "089fbf088d7c8f30",
+    "source": "Punch Nigeria",
+    "title": "Group demands cost breakdown before WAEC, NECO fee hike",
+    "link": "https://punchng.com/group-demands-cost-breakdown-before-waec-neco-fee-hike/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A think tank urges the Federal Ministry of Education to publish cost evidence for the proposed WAEC and NECO fee hike, citing transparency concerns.\n\nRead More: https://punchng.com/group-demands-cost-breakdown-before-waec-neco-fee-hike/",
+    "published": "Sun, 02 Aug 2026 19:09:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.836122+00:00",
+    "used": false
+  },
+  {
+    "id": "4f65f250ea2c5332",
+    "source": "Punch Nigeria",
+    "title": "Govt begins cleanup in Ogun community after lead contamination",
+    "link": "https://punchng.com/govt-begins-cleanup-in-ogun-community-after-lead-contamination/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ogun State Government commences remediation in Ogijo after lead contamination from battery recycling. Learn about efforts to protect public health and envi\n\nRead More: https://punchng.com/govt-begins-cleanup-in-ogun-community-after-lead-contamination/",
+    "published": "Sun, 02 Aug 2026 19:01:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:17.836140+00:00",
+    "used": false
+  },
+  {
+    "id": "71228344c42fefb9",
+    "source": "Premium Times",
+    "title": "Apostolic Church dismisses rumours of fire outbreak",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/900269-apostolic-church-dismisses-rumours-of-fire-outbreak.html",
+    "summary": "<img alt=\"The Apostolic Church logo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"499\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-02-at-19.19.49.jpeg?fit=779%2C499&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"779\" /><p>In a public notice issued by the Presbytery of the church, the leadership said the clarification became necessary following widespread reports alleging that the church had been engulfed by ",
+    "published": "Sun, 02 Aug 2026 18:31:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:18.443627+00:00",
+    "used": false
+  },
+  {
+    "id": "f8d2a6f4dc339aa0",
+    "source": "Leadership Newspaper",
+    "title": "American Entrepreneurs Praise Nigerian Weddings After Attending Peller, Jarvis’ Ceremony",
+    "link": "https://leadership.ng/american-entrepreneurs-praise-nigerian-weddings-after-attending-peller-jarvis-ceremony/",
+    "summary": "American entrepreneurs and supporters of TikTok stars Peller and Jarvis, Gregory and Chris T, have showered praise on Nigerian weddings after attending the couple’s traditional marriage ceremony, describing the experience as far more vibrant than weddings in the United States. Speaking after the event, the duo said they were impressed by the atmosphere, hospitality and [&#8230;]",
+    "published": "Sun, 02 Aug 2026 20:34:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:21.549554+00:00",
+    "used": false
+  },
+  {
+    "id": "f6c1bcc250f80c98",
+    "source": "Leadership Newspaper",
+    "title": "‎BBNaija S11: Aikou, Flora Emerge As Gambit Housemates",
+    "link": "https://leadership.ng/bbnaija-s11-aikou-flora-emerge-as-gambit-housemates/",
+    "summary": "‎‎The Big Brother Naija reality show ‎has revealed its Gambit housemates. ‎Housemates Aikou and Flora have been voted as the Gambit housemates at the first Sunday eviction night. ‎Recall that a new twist was made in this new 11th season as Gambit housemates were introduced. ‎The two housemates will earn a guaranteed place in the [&#8230;]",
+    "published": "Sun, 02 Aug 2026 20:31:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:21.549589+00:00",
+    "used": false
+  },
+  {
+    "id": "af505f8a6a7348c8",
+    "source": "Leadership Newspaper",
+    "title": "Expert Lauds NUPRC Over Transparent 2025 Oil, Gas Licensing Round",
+    "link": "https://leadership.ng/expert-lauds-nuprc-over-transparent-2025-oil-gas-licensing-round/",
+    "summary": "A communication expert, Tajudeen Suleiman, has commended the Nigerian National Upstream Petroleum Regulatory Commission (NUPRC) for conducting what he described as a transparent and credible 2025 Oil and Gas Licensing Round, saying the exercise successfully passed a critical transparency test. In a statement, Sunday, reviewing the licencing round, Suleiman said the Commission&#8217;s adherence to established [&#8230;]",
+    "published": "Sun, 02 Aug 2026 19:53:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:21.549643+00:00",
+    "used": false
+  },
+  {
+    "id": "37f3a8c4b52ea1bf",
+    "source": "Leadership Newspaper",
+    "title": "Finucane Dominates Track With Historic 4th Gold In Glasgow",
+    "link": "https://leadership.ng/finucane-dominates-track-with-historic-4th-gold-in-glasgow/",
+    "summary": "Welsh cyclist Emma Finucane made Commonwealth Games history on Sunday by becoming the first sprint rider to win four track golds at a single edition, capturing the keirin to complete a clean sweep of her events. The 23-year-old added the keirin title to earlier victories in the team sprint, individual sprint, and 1,000m time trial, [&#8230;]",
+    "published": "Sun, 02 Aug 2026 19:40:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:21.549664+00:00",
+    "used": false
+  },
+  {
+    "id": "44db9bb7cc7648c3",
+    "source": "Leadership Newspaper",
+    "title": "Gvardiol Hails Maresca As Guardiola’s Ideal Successor At Manchester City",
+    "link": "https://leadership.ng/gvardiol-hails-maresca-as-guardiolas-ideal-successor-at-manchester-city/",
+    "summary": "Manchester City defender Joško Gvardiol has thrown his support behind new manager Enzo Maresca, describing the Italian as the ideal successor to Pep Guardiola following the Spaniard’s departure after a decade in charge of the Premier League champions. Maresca officially began his reign during City’s pre-season tour and suffered a narrow start, with his side [&#8230;]",
+    "published": "Sun, 02 Aug 2026 19:36:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T20:41:21.549700+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -28608,6 +28883,28 @@
     "published": "Sun, 02 Aug 2026 17:14:55 +0000",
     "priority": "low",
     "fetched_at": "2026-08-02T18:05:04.554239+00:00",
+    "used": false
+  },
+  {
+    "id": "6370e6c26977cb46",
+    "source": "Premium Times",
+    "title": "Three months after twin princes, Ooni welcomes daughter with Olori Oluwatosin",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/900284-three-months-after-twin-princes-ooni-welcomes-daughter-with-olori-oluwatosin.html",
+    "summary": "<img alt=\"Ooni of Ife, Adeyeye Ogunwusi and Olori Oluwatosin (PHOTO CREDIT: Instagram@Ooniadimulaife)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"574\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-02-at-21.20.52.jpeg?fit=773%2C574&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"773\" /><p>Olori Oluwatosin had largely remained outside public attention before the birth announcement.</p>\n<p>The post <a href=\"http",
+    "published": "Sun, 02 Aug 2026 20:25:03 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-02T20:41:18.443574+00:00",
+    "used": false
+  },
+  {
+    "id": "07c59539af93b9f7",
+    "source": "Premium Times",
+    "title": "ALBUM REVIEW: Davido’s Oriadé is cohesive and heartfelt, but plays it safe (7/10)",
+    "link": "https://www.premiumtimesng.com/entertainment/music/900270-album-review-davidos-oriade-is-cohesive-and-heartfelt-but-plays-it-safe-7-10.html",
+    "summary": "<img alt=\"Oriadé\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"520\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-02-at-19.23.40.jpeg?fit=784%2C520&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"784\" /><p>In ‘Oriade’, Davido blends introspection, romance and gratitude into one of his most cohesive projects, even if it rarely ventures beyond familiar territory.</p>\n<p>The post <a href=\"https://www.premiumtimesn",
+    "published": "Sun, 02 Aug 2026 18:29:18 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-02T20:41:18.443671+00:00",
     "used": false
   }
 ]
