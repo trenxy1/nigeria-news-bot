@@ -701,7 +701,7 @@
     "published": "Wed, 15 Jul 2026 07:10:23 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T07:53:17.527258+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "a7b1734951e2f54e",
@@ -11800,6 +11800,193 @@
     "published": "Sun, 02 Aug 2026 08:36:40 +0000",
     "priority": "high",
     "fetched_at": "2026-08-02T09:07:22.372266+00:00",
+    "used": false
+  },
+  {
+    "id": "ddb1f802f3bad2e3",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Adeleke’s camp alleges planned clampdown, police dismiss claim",
+    "link": "https://punchng.com/osun-poll-adelekes-camp-alleges-planned-clampdown-police-dismiss-claim/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adeleke&#8217;s campaign council alleges a planned clampdown and arrests of 46 individuals ahead of the Osun election, a claim the police dismiss.\n\nRead More: https://punchng.com/osun-poll-adelekes-camp-alleges-planned-clampdown-police-dismiss-claim/",
+    "published": "Sun, 02 Aug 2026 18:36:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:04:59.288458+00:00",
+    "used": false
+  },
+  {
+    "id": "5e0d3f12547e47fe",
+    "source": "Punch Nigeria",
+    "title": "State police: Sharia council demands broader engagement before rollout",
+    "link": "https://punchng.com/state-police-sharia-council-demands-broader-engagement-before-rollout/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Supreme Council for Sharia in Nigeria demands broader engagement before the rollout of state police, citing concerns about national unity and potential\n\nRead More: https://punchng.com/state-police-sharia-council-demands-broader-engagement-before-rollout/",
+    "published": "Sun, 02 Aug 2026 18:32:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:04:59.288504+00:00",
+    "used": false
+  },
+  {
+    "id": "f9a8f43ca4f464b5",
+    "source": "Punch Nigeria",
+    "title": "Ogun PDP dep gov candidate urges Muslim women to unite against social vices",
+    "link": "https://punchng.com/ogun-pdp-dep-gov-candidate-urges-muslim-women-to-unite-against-social-vices/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ogun PDP deputy governorship candidate, Lateefah Sowunmi-Kolapo, calls on Muslim women to unite against social vices, strengthen families, and promote comm\n\nRead More: https://punchng.com/ogun-pdp-dep-gov-candidate-urges-muslim-women-to-unite-against-social-vices/",
+    "published": "Sun, 02 Aug 2026 17:46:53 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:04:59.288534+00:00",
+    "used": false
+  },
+  {
+    "id": "44a839bf840f0f2e",
+    "source": "Punch Nigeria",
+    "title": "Northern Christian group backs Catholic bishops, rebukes Bwala",
+    "link": "https://punchng.com/northern-christian-group-backs-catholic-bishops-rebukes-bwala/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Northern Christian Association supports Catholic bishops&#8217; meeting with Tinubu, rebuking Daniel Bwala for attempting to divide the Christian community.\n\nRead More: https://punchng.com/northern-christian-group-backs-catholic-bishops-rebukes-bwala/",
+    "published": "Sun, 02 Aug 2026 17:39:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:04:59.288558+00:00",
+    "used": false
+  },
+  {
+    "id": "45823f6a18128462",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Deal with troublemakers, ex-lawmaker tells police",
+    "link": "https://punchng.com/osun-poll-deal-with-troublemakers-ex-lawmaker-tells-police/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A former Osun lawmaker calls on police to remain neutral and deal decisively with troublemakers during the forthcoming Osun election to ensure a violence-f\n\nRead More: https://punchng.com/osun-poll-deal-with-troublemakers-ex-lawmaker-tells-police/",
+    "published": "Sun, 02 Aug 2026 17:36:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:04:59.288570+00:00",
+    "used": false
+  },
+  {
+    "id": "ea1e567b87414d57",
+    "source": "Punch Nigeria",
+    "title": "Edo dep gov urges youths to shun vices, embrace right values",
+    "link": "https://punchng.com/edo-dep-gov-urges-youths-to-shun-vices-embrace-right-values/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Edo State Deputy Governor, Dennis Idahosa, calls on Edo youths to reject social vices like cultism and drug abuse, urging them to embrace education and pos\n\nRead More: https://punchng.com/edo-dep-gov-urges-youths-to-shun-vices-embrace-right-values/",
+    "published": "Sun, 02 Aug 2026 17:15:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:04:59.288599+00:00",
+    "used": false
+  },
+  {
+    "id": "3ed907188de4c0c2",
+    "source": "Premium Times",
+    "title": "Our partnership with Kaduna crucial in tackling insecurity – NSA",
+    "link": "https://www.premiumtimesng.com/promoted/900255-our-partnership-with-kaduna-crucial-in-tackling-insecurity-nsa.html",
+    "summary": "<img alt=\"Governor Uba Sani presenting certificate to an officer\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"960\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0585.jpeg?fit=1440%2C960&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1440\" /><p>Mr Nuhu who disclosed this at the graduation of the pioneer batch of Armed Forest Guards, was represented by Mr Sani Sani, the Director of Internal Security at the Office of the National ",
+    "published": "Sun, 02 Aug 2026 17:49:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530291+00:00",
+    "used": false
+  },
+  {
+    "id": "d6d1f533de869e57",
+    "source": "Premium Times",
+    "title": "The reset button, By Wole Olaoye",
+    "link": "https://www.premiumtimesng.com/opinion/900251-the-reset-button-by-wole-olaoye.html",
+    "summary": "<img alt=\"Wole Olaoye writes about e-jackasses who are on the prowl.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/07/Wole-Olaoye-NEW.jpg?fit=499%2C518&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"499\" /><p>&#8220;The man who removes a mountain begins by carrying away small stones.&#8221; — Lao Tzu “You are under arrest for urinating in public,&#8221; barked the police officer. “What",
+    "published": "Sun, 02 Aug 2026 17:41:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530319+00:00",
+    "used": false
+  },
+  {
+    "id": "75e21c1dd7e419a3",
+    "source": "Premium Times",
+    "title": "Gunmen invade Catholic church, abduct three",
+    "link": "https://www.premiumtimesng.com/news/top-news/900248-gunmen-invade-catholic-church-abduct-three.html",
+    "summary": "<img alt=\"Inside St. Francis Catholic Church, Owo, Ondo State\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"426\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/09/WhatsApp-Image-2022-09-09-at-19.53.23-2-e1662758750159.jpeg?fit=1039%2C426&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1039\" /><p>Witnesses told PREMIUM TIMES that the incident occurred on Sunday morning at St. Joseph Catholic Church, Inoyi, in Affa, Udi Local Government Ar",
+    "published": "Sun, 02 Aug 2026 17:33:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530340+00:00",
+    "used": false
+  },
+  {
+    "id": "bc16a5c4268acfd7",
+    "source": "Premium Times",
+    "title": "The president’s Silk cigarettes and all that, By Festus Adedayo",
+    "link": "https://www.premiumtimesng.com/opinion/900239-the-presidents-silk-cigarettes-and-all-that-by-festus-adedayo.html",
+    "summary": "<img alt=\"Festus Adedayo writes about Obasa, Aláàfin Ṣàngó and the capture of Lagos.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2019/06/festus-adedayo.jpg?fit=700%2C600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"700\" /><p>The truth is, whether a president smokes Silk Cut or drinks herbal tea, is secondary. What tugs at the skin of Nigerians is whether Tinubu’s administration is deliv",
+    "published": "Sun, 02 Aug 2026 17:33:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530355+00:00",
+    "used": false
+  },
+  {
+    "id": "8daafdddcc39c970",
+    "source": "Premium Times",
+    "title": "Ogun approves major infrastructure projects, upgrades rulers",
+    "link": "https://www.premiumtimesng.com/promoted/900242-ogun-approves-major-infrastructure-projects-upgrades-rulers.html",
+    "summary": "<img alt=\"Governor Dapo Abiodun\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"540\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/963e97cf-9bfc-4815-bdb6-006e71f25339-1-e1785691442126.jpeg?fit=864%2C540&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"864\" /><p>The State Executive Council approved construction of a new Assembly quarters, 450 housing units, strategic roads and Governor’s Lodge reconstruction among others</p>\n<p>The post",
+    "published": "Sun, 02 Aug 2026 17:26:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530378+00:00",
+    "used": false
+  },
+  {
+    "id": "986b5f09db71dcc2",
+    "source": "Premium Times",
+    "title": "Invite EU, other observer missions for 2027 polls, groups urge INEC",
+    "link": "https://www.premiumtimesng.com/news/more-news/900213-invite-eu-other-observer-missions-for-2027-polls-groups-urge-inec.html",
+    "summary": "<img alt=\"INEC Chairman, Prof Joash Amupitan\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"577\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/Prof-Joash-Amupitan.jpg?fit=1024%2C577&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>The organisations further expressed confidence that under INEC's leadership, the 2027 General Elections would consolidate Nigeria's democratic gains and reinforce the country's reputation for condu",
+    "published": "Sun, 02 Aug 2026 15:15:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530547+00:00",
+    "used": false
+  },
+  {
+    "id": "6df87551a275598f",
+    "source": "Premium Times",
+    "title": "Troops rescue 34 kidnap victims, arrest ISWAP informant, recover arms",
+    "link": "https://www.premiumtimesng.com/news/top-news/900206-troops-rescue-34-kidnap-victims-arrest-iswap-informant-recover-arms.html",
+    "summary": "<img alt=\"Nigerian soldiers walks past military tanks prepared for deployment during a tour of the Theatre Command Operation Lafiya Dole by Nigeria&#039;s Chief of Army Staff at Maimalari Cantonment in Maiduguri, Borno State, Nigeria, November 7, 2025. REUTERS/Ahmed Kingimi\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1920\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/ISS-Today-pic-1-scaled.jpg?fit=2560%2C1920&amp;ssl=1\" style=\"display: block; margin: auto; m",
+    "published": "Sun, 02 Aug 2026 14:48:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530646+00:00",
+    "used": false
+  },
+  {
+    "id": "7b2d545217752549",
+    "source": "Premium Times",
+    "title": "NDLEA intercepts China, Italy-bound cocaine in Lagos, nabs bandits’ supplier in Zamfara",
+    "link": "https://www.premiumtimesng.com/news/more-news/900201-ndlea-intercepts-china-italy-bound-cocaine-in-lagos-nabs-bandits-supplier-in-zamfara.html",
+    "summary": "<img alt=\"NDLEA\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"585\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/04/NDLEA.jpg?fit=1024%2C585&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Mr Babafemi said the suspect was nabbed with various quantities of cannabis, cocaine, methamphetamine, swinol, tramadol and codeine syrup at the time of his arrest on 26 July.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/mor",
+    "published": "Sun, 02 Aug 2026 14:11:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530666+00:00",
+    "used": false
+  },
+  {
+    "id": "74e5bcd29a7e2e62",
+    "source": "Premium Times",
+    "title": "First Lady tasks NBA President with paving way for aspiring women",
+    "link": "https://www.premiumtimesng.com/news/more-news/900200-first-lady-tasks-nba-president-with-paving-way-for-aspiring-women.html",
+    "summary": "<img alt=\"Oluremi Tinubu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"748\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/Oluremi-Tinubu.jpeg?fit=1024%2C748&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>‎She acknowledged that the NBA members were proud of what the First Lady was doing to alleviate poverty in society through the ”Renewed Hope” Initiative (RH).</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/m",
+    "published": "Sun, 02 Aug 2026 13:50:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:00.530677+00:00",
+    "used": false
+  },
+  {
+    "id": "f36a67c2304f360b",
+    "source": "Leadership Newspaper",
+    "title": "Spain-Morocco Border Crisis: Death Toll Rises to 67 as Ceuta Tightens Security",
+    "link": "https://leadership.ng/spain-morocco-border-crisis-death-toll-rises-to-67-as-ceuta-tightens-security/",
+    "summary": "The death toll from the latest migrant crisis on Spain’s border with Morocco has climbed to 67 after tens of thousands of people crossed into the Spanish enclave of Ceuta in North Africa. The chaotic mass crossing reportedly left several people dead, with some drowning while others were killed in a stampede as crowds surged [&#8230;]",
+    "published": "Sun, 02 Aug 2026 17:12:33 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:04.554274+00:00",
+    "used": false
+  },
+  {
+    "id": "ba96116e1e671463",
+    "source": "Leadership Newspaper",
+    "title": "Yagba Stakeholders Endorse Tinubu, Karimi At Constituency Town Hall",
+    "link": "https://leadership.ng/yagba-stakeholders-endorse-tinubu-karimi-at-constituency-town-hall/",
+    "summary": "Political leaders, traditional rulers, women, youths and other stakeholders from Yagba Federal Constituency on Sunday endorsed President Bola Ahmed Tinubu and the senator representing Kogi West, Sunday Steve Karimi, for another term in office, citing the lawmaker&#8217;s performance and the need for continuity in governance. The endorsement was made during the Yagba Federal Constituency Town [&#8230;]",
+    "published": "Sun, 02 Aug 2026 16:38:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-02T18:05:04.554337+00:00",
     "used": false
   },
   {
@@ -26444,6 +26631,226 @@
     "used": false
   },
   {
+    "id": "172db8a6365c55d1",
+    "source": "Punch Nigeria",
+    "title": "Juventus seal moves for Alajbegovic, Kolo Muani",
+    "link": "https://punchng.com/juventus-seal-moves-for-alajbegovic-kolo-muani/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Juventus strengthens squad with Bosnian teenager Kerim Alajbegovic and French striker Randal Kolo Muani. Get the details on these key Juventus transfers.\n\nRead More: https://punchng.com/juventus-seal-moves-for-alajbegovic-kolo-muani/",
+    "published": "Sun, 02 Aug 2026 18:33:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:04:59.288492+00:00",
+    "used": false
+  },
+  {
+    "id": "08227b93bce6eadb",
+    "source": "Punch Nigeria",
+    "title": "U20 AFCON qualifiers: Flying Eagles lose 2-0 to Burkina Faso",
+    "link": "https://punchng.com/u20-afcon-qualifiers-flying-eagles-lose-2-0-to-burkina-faso/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Despite a 2-0 loss to Burkina Faso, Nigeria&#8217;s Flying Eagles advance to the WAFU B U-20 Championship semi-finals, keeping their U20 AFCON hopes alive.\n\nRead More: https://punchng.com/u20-afcon-qualifiers-flying-eagles-lose-2-0-to-burkina-faso/",
+    "published": "Sun, 02 Aug 2026 18:18:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:04:59.288523+00:00",
+    "used": false
+  },
+  {
+    "id": "ba84519e96153f14",
+    "source": "Punch Nigeria",
+    "title": "WAFCON: Two Super Falcons players suspended for Egypt clash",
+    "link": "https://punchng.com/wafcon-two-super-falcons-players-suspended-for-egypt-clash/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Two Super Falcons players, Demehin and Echegini, are suspended for the crucial WAFCON match against Egypt, impacting Nigeria&#8217;s quarter-final hopes.\n\nRead More: https://punchng.com/wafcon-two-super-falcons-players-suspended-for-egypt-clash/",
+    "published": "Sun, 02 Aug 2026 17:44:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:04:59.288552+00:00",
+    "used": false
+  },
+  {
+    "id": "1cc5122ae4a9e997",
+    "source": "Punch Nigeria",
+    "title": "World Book of Records honours Pastor Kumuyi for global impact",
+    "link": "https://punchng.com/world-book-of-records-honours-pastor-kumuyi-for-global-impact/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Pastor William Kumuyi of Deeper Christian Life Ministry has been recognised by the World Book of Records, London, for his global impact.\n\nRead More: https://punchng.com/world-book-of-records-honours-pastor-kumuyi-for-global-impact/",
+    "published": "Sun, 02 Aug 2026 17:20:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:04:59.288588+00:00",
+    "used": false
+  },
+  {
+    "id": "efc05613ba960100",
+    "source": "Punch Nigeria",
+    "title": "I started coughing blood, Doku opens up on World cup health scare",
+    "link": "https://punchng.com/i-started-coughing-blood-doku-opens-up-on-world-cup-health-scare/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Manchester City star Jeremy Doku reveals he coughed blood and battled severe chest pain during the 2026 World Cup, calling it one of his toughest career mo\n\nRead More: https://punchng.com/i-started-coughing-blood-doku-opens-up-on-world-cup-health-scare/",
+    "published": "Sun, 02 Aug 2026 17:03:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:04:59.288615+00:00",
+    "used": false
+  },
+  {
+    "id": "eb93f2b5c0ad0782",
+    "source": "Punch Nigeria",
+    "title": "NACCIMA offers firms $150m low-interest expansion loan",
+    "link": "https://punchng.com/naccima-offers-firms-150m-low-interest-expansion-loan/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian businesses can now apply for NACCIMA&#8217;s $150m low-interest offshore expansion loan facility, in partnership with ODDO BHF SE, to boost growth and m\n\nRead More: https://punchng.com/naccima-offers-firms-150m-low-interest-expansion-loan/",
+    "published": "Sun, 02 Aug 2026 16:51:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:04:59.288630+00:00",
+    "used": false
+  },
+  {
+    "id": "b77e3f852dd2d5fa",
+    "source": "Punch Nigeria",
+    "title": "Ooni welcomes baby girl months after birth of twin princes",
+    "link": "https://punchng.com/ooni-welcomes-baby-girl-months-after-birth-of-twin-princes/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Ooni of Ife, Oba Adeyeye Ogunwusi, and Olori Oluwatosin welcome a baby princess, months after the birth of twin princes. Read more about the Ooni of If\n\nRead More: https://punchng.com/ooni-welcomes-baby-girl-months-after-birth-of-twin-princes/",
+    "published": "Sun, 02 Aug 2026 16:46:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:04:59.288646+00:00",
+    "used": false
+  },
+  {
+    "id": "97f9d027e37b8f6e",
+    "source": "Punch Nigeria",
+    "title": "Female driver dies in Lagos road crash",
+    "link": "https://punchng.com/female-driver-dies-in-lagos-road-crash/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A female driver died in a tragic Lagos road crash at Mongoro, Ile-Zik. LASTMA attributes the fatal accident to excessive speed and reckless driving.\n\nRead More: https://punchng.com/female-driver-dies-in-lagos-road-crash/",
+    "published": "Sun, 02 Aug 2026 16:40:53 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:04:59.288663+00:00",
+    "used": false
+  },
+  {
+    "id": "c6f8b3d742756860",
+    "source": "Premium Times",
+    "title": "Woman dies as car crashes into building in Lagos",
+    "link": "https://www.premiumtimesng.com/news/top-news/900228-woman-dies-as-car-crashes-into-building-in-lagos.html",
+    "summary": "<img alt=\"car crash\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"500\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1001323734-e1785685467765.webp?fit=799%2C500&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"799\" /><p>LASTMA General Manager, Olalekan Bakare-Oki, described the crash as a sad reminder of the danger posed by excessive speed and reckless driving.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/900",
+    "published": "Sun, 02 Aug 2026 15:44:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:00.530445+00:00",
+    "used": false
+  },
+  {
+    "id": "7d5f54953390556f",
+    "source": "Premium Times",
+    "title": "The Sundiata Post Model (5): Seven pillars of the Realm of the Long Term, By Max Amuchie",
+    "link": "https://www.premiumtimesng.com/opinion/900221-the-sundiata-post-model-5-seven-pillars-of-the-realm-of-the-long-term-by-max-amuchie.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"516\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Max-Amuchie.jpg?fit=464%2C516&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"464\" /><p>Within the Sundiata Post Model (SPM), the Realm of the Long Term rests upon seven mutually reinforcing pillars. Collectively, they determine whether an institution merely succeeds in the present or continues creating public value over the lo",
+    "published": "Sun, 02 Aug 2026 15:40:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:00.530493+00:00",
+    "used": false
+  },
+  {
+    "id": "7273cf304e0e7636",
+    "source": "Premium Times",
+    "title": "TRENDING: Kano TikTok star tackles Adam Zango following divorce of sixth wife",
+    "link": "https://www.premiumtimesng.com/news/more-news/900219-trending-kano-tiktok-star-tackles-adam-zango-following-divorce-of-sixth-wife.html",
+    "summary": "<img alt=\"Mr Zango and his former wives\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"750\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Untitled-design-20.jpg?fit=1080%2C750&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Mr Al-Amin stated that Mr Zango’s claim of a genotype mismatch shouldn’t have been aired on social media, adding that the excuse lacks credibility.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com",
+    "published": "Sun, 02 Aug 2026 15:33:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:00.530537+00:00",
+    "used": false
+  },
+  {
+    "id": "1ff55883b6c0ec76",
+    "source": "Premium Times",
+    "title": "Article of Faith: The good shepherd (2), By Femi Aribisala",
+    "link": "https://www.premiumtimesng.com/opinion/900205-article-of-faith-the-good-shepherd-2-by-femi-aribisala.html",
+    "summary": "<img alt=\"Femi Aribisala writes that the Biblical Israel is not the state of Israel.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"318\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2021/02/femi-aribisala.jpg?fit=425%2C318&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"425\" /><p>Jesus is the Bread of Life. The boy had five loaves and two fish. Five plus two equals seven. Seven is the number of perfection. In God’s hand, small becomes big. G",
+    "published": "Sun, 02 Aug 2026 15:12:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:00.530596+00:00",
+    "used": false
+  },
+  {
+    "id": "8ab5b2560cf85f2d",
+    "source": "Premium Times",
+    "title": "FAAN says smoke, not fire, caused emergency at Lagos airport",
+    "link": "https://www.premiumtimesng.com/business/business-news/900208-faan-says-smoke-not-fire-caused-emergency-at-lagos-airport.html",
+    "summary": "<img alt=\"Terminal 2 of the Murtala Muhammed International Airport\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"810\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-02-at-3.07.36-PM.jpeg?fit=1080%2C810&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The clarification came hours after FAAN initially reported a fire at the Lagos airport terminal, before preliminary findings showed the terminal’s fire su",
+    "published": "Sun, 02 Aug 2026 15:03:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:00.530632+00:00",
+    "used": false
+  },
+  {
+    "id": "6c073484fbe0b64e",
+    "source": "Leadership Newspaper",
+    "title": "Nearly One Phone Every Second: The Economics Of Phone Theft",
+    "link": "https://leadership.ng/nearly-one-phone-every-second-the-economics-of-phone-theft/",
+    "summary": "Between May 2023 and April 2024, Nigerians experienced an estimated 25.35 million incidents of phone theft. Broken down, that is roughly 2.1 million a month, about 69,000 a day and nearly 2,900 an hour. Close to one phone every second. At that rate, in the time it takes to read this paragraph, around ten more [&#8230;]",
+    "published": "Sun, 02 Aug 2026 17:45:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:04.554177+00:00",
+    "used": false
+  },
+  {
+    "id": "ca3b1aed0601eee5",
+    "source": "Leadership Newspaper",
+    "title": "‎Ooni Of Ife Is Joyous, Welcomes Baby Girl With Wife, Olori Oluwatosin",
+    "link": "https://leadership.ng/ooni-of-ife-is-joyous-welcomes-baby-girl-with-wife-olori-oluwatosin/",
+    "summary": "‎‎Ooni of Ife, Oba Adeyeye Ogunwusi, has welcomed a baby girl with his wife, Olori Oluwatosin. ‎‎The monarch announced the birth of the princess in a post shared on his official Instagram page on Sunday, August 2, 2026. ‎‎Ooni expressed gratitude to God for the safe delivery, adding that both mother and child are in [&#8230;]",
+    "published": "Sun, 02 Aug 2026 17:17:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:04.554215+00:00",
+    "used": false
+  },
+  {
+    "id": "8ca0a4304aec890e",
+    "source": "Leadership Newspaper",
+    "title": "NVBF Sends 12 Coaches To Ghana For FIVB Certification Programme",
+    "link": "https://leadership.ng/nvbf-sends-12-coaches-to-ghana-for-fivb-certification-programme/",
+    "summary": "The Nigeria Volleyball Federation (NVBF) has selected 12 coaches to represent the country at the FIVB Level I Coaching Certification Course scheduled to take place in Accra, Ghana, from 3 to 8 August. According to a statement signed by the Chairman of the NVBF Media and Publicity Committee, Godspower Odedede, the Nigerian delegation comprises national [&#8230;]",
+    "published": "Sun, 02 Aug 2026 17:13:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:04.554263+00:00",
+    "used": false
+  },
+  {
+    "id": "22b2677e0441f318",
+    "source": "Leadership Newspaper",
+    "title": "No Fire at Lagos Airport Terminal 2, Smoke Caused by Fire Suppression System — FAAN",
+    "link": "https://leadership.ng/no-fire-at-lagos-airport-terminal-2-smoke-caused-by-fire-suppression-system-faan/",
+    "summary": "The Federal Airports Authority of Nigeria (FAAN) has clarified that there was no fire at the Murtala Muhammed International Airport’s Terminal 2, explaining that the smoke seen inside the facility was caused by the discharge of its FM-200 fire suppression system. In an updated statement issued on Sunday, the authority said preliminary investigations ruled out [&#8230;]",
+    "published": "Sun, 02 Aug 2026 17:10:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:04.554305+00:00",
+    "used": false
+  },
+  {
+    "id": "138b3102c5e54f38",
+    "source": "Leadership Newspaper",
+    "title": "Farooq Oreagba Reflects On Losing Millions, Says Health Is Life’s Greatest Wealth",
+    "link": "https://leadership.ng/farooq-oreagba-reflects-on-losing-millions-says-health-is-lifes-greatest-wealth/",
+    "summary": "Businessman and cancer survivor Farooq Oreagba, popularly known as “Mr. Steeze,” has opened up about one of the lowest points in his life, revealing that although he became a dollar millionaire at the age of 30, he was working as a labourer in England just five years later. &#160; Speaking on The Black Table with [&#8230;]",
+    "published": "Sun, 02 Aug 2026 17:08:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:04.554330+00:00",
+    "used": false
+  },
+  {
+    "id": "e09a659da59de4e5",
+    "source": "Leadership Newspaper",
+    "title": "Journalist Gives Qatar Airways 14-Day Ultimatum Over Missing Luggage, Demands N11.8m",
+    "link": "https://leadership.ng/journalist-gives-qatar-airways-14-day-ultimatum-over-missing-luggage-demands-n11-8m/",
+    "summary": "A Lagos-based journalist, Peter Fowoyo, has given Qatar Airways 14 days to recover and return a passenger&#8217;s allegedly missing luggage or pay N11.812 million in compensation. The demand was contained in a letter dated July 25, 2026, written on his behalf by lawyers from Brown &#38; Cooper Solicitors addressed to the airline on behalf of [&#8230;]",
+    "published": "Sun, 02 Aug 2026 16:09:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:04.554359+00:00",
+    "used": false
+  },
+  {
+    "id": "6d8e7198e6bfe747",
+    "source": "Leadership Newspaper",
+    "title": "FULafia Approves N50m Research Grant To Boost Innovation, Attract External Funding",
+    "link": "https://leadership.ng/fulafia-approves-n50m-research-grant-to-boost-innovation-attract-external-funding/",
+    "summary": "The Vice-Chancellor of the Federal University of Lafia (FULafia), Prof. Mohammed Isa Kida, has approved a N50 million research grant to strengthen the institution&#8217;s research capacity and enhance its competitiveness in attracting national and international funding. The fund, released to the university&#8217;s Research and Conference Development Committee, is designed to support high-impact research projects, promote [&#8230;]",
+    "published": "Sun, 02 Aug 2026 15:14:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-02T18:05:04.554385+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -28168,6 +28575,39 @@
     "published": "Sun, 02 Aug 2026 08:47:14 +0000",
     "priority": "low",
     "fetched_at": "2026-08-02T09:07:22.372144+00:00",
+    "used": false
+  },
+  {
+    "id": "1b1bcf92e0a9b57b",
+    "source": "Punch Nigeria",
+    "title": "Real Madrid welcome scrapping of FIFA’s World Cup investor plan",
+    "link": "https://punchng.com/real-madrid-welcome-scrapping-of-fifas-world-cup-investor-plan/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Real Madrid welcomes FIFA&#8217;s decision to scrap the controversial World Cup investor plan after strong opposition from UEFA. Read more on this football devel\n\nRead More: https://punchng.com/real-madrid-welcome-scrapping-of-fifas-world-cup-investor-plan/",
+    "published": "Sun, 02 Aug 2026 16:19:35 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-02T18:04:59.288688+00:00",
+    "used": false
+  },
+  {
+    "id": "15b6bf36f56661e3",
+    "source": "Premium Times",
+    "title": "Nigeria finishes seventh at Glasgow 2026 Commonwealth Games",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/900235-nigeria-finishes-seventh-at-glasgow-2026-commonwealth-games.html",
+    "summary": "<img alt=\"Team Nigeria athletes during the Glasgow 2026 Commonwealth Games. (CREDIT: MakingofChampions)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003759474.jpg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Team Nigeria ended the Glasgow 2026 Commonwealth Games in seventh place after winning 24 medals and producing several historic performances acros",
+    "published": "Sun, 02 Aug 2026 17:22:34 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-02T18:05:00.530414+00:00",
+    "used": false
+  },
+  {
+    "id": "82de32d0b7ad8afc",
+    "source": "Leadership Newspaper",
+    "title": "Tanzanian Singers Diamond Platnumz, Zuchu Welcome First Child Together",
+    "link": "https://leadership.ng/tanzanian-singers-diamond-platnumz-zuchu-welcome-first-child-together/",
+    "summary": "&#160; &#160; Tanzanian music stars Diamond Platnumz and Zuchu have welcomed their first child together, a baby girl. &#160; The singers announced the arrival of their daughter on Sunday, August 2, 2026, by sharing a hospital photo on social media showing them alongside their newborn. &#160; In a joint statement accompanying the post, the couple [&#8230;]",
+    "published": "Sun, 02 Aug 2026 17:14:55 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-02T18:05:04.554239+00:00",
     "used": false
   }
 ]
