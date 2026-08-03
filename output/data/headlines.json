@@ -734,7 +734,7 @@
     "published": "Wed, 15 Jul 2026 12:59:38 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:03.648073+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "037455a87c46600d",
@@ -12262,6 +12262,237 @@
     "published": "Mon, 03 Aug 2026 09:44:29 +0000",
     "priority": "high",
     "fetched_at": "2026-08-03T10:39:12.287860+00:00",
+    "used": false
+  },
+  {
+    "id": "04aa93d411934e20",
+    "source": "Punch Nigeria",
+    "title": "Zelensky sacks envoy to US as Ukraine seeks more military aid",
+    "link": "https://punchng.com/zelensky-sacks-envoy-to-us-as-ukraine-seeks-more-military-aid/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ukrainian President Zelensky dismisses US Ambassador Olga Stefanishyna as Kyiv lobbies Washington for more Patriot missiles. Learn why Zelensky sacks US en\n\nRead More: https://punchng.com/zelensky-sacks-envoy-to-us-as-ukraine-seeks-more-military-aid/",
+    "published": "Mon, 03 Aug 2026 19:47:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.050453+00:00",
+    "used": false
+  },
+  {
+    "id": "ae270cf9fc5903ea",
+    "source": "Punch Nigeria",
+    "title": "Makinde knocks Tinubu’s economic reforms, rallies support for APM ahead 2027",
+    "link": "https://punchng.com/makinde-knocks-tinubus-economic-reforms-rallies-support-for-apm-ahead-2027/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Oyo State Governor Seyi Makinde criticises Tinubu&#8217;s economic reforms, including fuel subsidy removal and naira float, rallying support for APM ahead of 202\n\nRead More: https://punchng.com/makinde-knocks-tinubus-economic-reforms-rallies-support-for-apm-ahead-2027/",
+    "published": "Mon, 03 Aug 2026 19:25:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.050477+00:00",
+    "used": false
+  },
+  {
+    "id": "60ce7d302448eb4a",
+    "source": "Punch Nigeria",
+    "title": "Lawyer urges police, EFCC, Army to adopt DSS compensation model",
+    "link": "https://punchng.com/lawyer-urges-police-efcc-army-to-adopt-dss-compensation-model/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A lawyer advocates for Nigerian security agencies like the Police, EFCC, and Army to adopt the DSS compensation model for victims of wrongful arrests and o\n\nRead More: https://punchng.com/lawyer-urges-police-efcc-army-to-adopt-dss-compensation-model/",
+    "published": "Mon, 03 Aug 2026 19:12:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.050559+00:00",
+    "used": false
+  },
+  {
+    "id": "ca0e20400b2fdc28",
+    "source": "Punch Nigeria",
+    "title": "Audit queries: Senate issues fresh 72-hour deadline to NNPCL, CBN, others",
+    "link": "https://punchng.com/audit-queries-senate-issues-fresh-72-hour-deadline-to-nnpcl-cbn-others/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Senate Committee on Public Accounts gives NNPCL, CBN, and other agencies a 72-hour ultimatum to respond to unresolved audit queries. Learn more about t\n\nRead More: https://punchng.com/audit-queries-senate-issues-fresh-72-hour-deadline-to-nnpcl-cbn-others/",
+    "published": "Mon, 03 Aug 2026 19:05:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.050567+00:00",
+    "used": false
+  },
+  {
+    "id": "bbbbe0548e384edf",
+    "source": "Punch Nigeria",
+    "title": "FIFA crisis deepens as three federations withdraw support for Infantino",
+    "link": "https://punchng.com/fifa-crisis-deepens-as-three-federations-withdraw-support-for-infantino/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The FIFA crisis intensifies as Serbia, Sweden, and Wales withdraw support for President Gianni Infantino&#8217;s re-election bid amid governance concerns and a f\n\nRead More: https://punchng.com/fifa-crisis-deepens-as-three-federations-withdraw-support-for-infantino/",
+    "published": "Mon, 03 Aug 2026 18:50:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.050643+00:00",
+    "used": false
+  },
+  {
+    "id": "a01228c5500d1638",
+    "source": "Punch Nigeria",
+    "title": "Navy rescues three passengers from pirates in Akwa Ibom",
+    "link": "https://punchng.com/navy-rescues-three-passengers-from-pirates-in-akwa-ibom/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigerian Navy successfully rescued three passengers from a pirate attack in Akwa Ibom, demonstrating its commitment to maritime security.\n\nRead More: https://punchng.com/navy-rescues-three-passengers-from-pirates-in-akwa-ibom/",
+    "published": "Mon, 03 Aug 2026 18:38:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.050671+00:00",
+    "used": false
+  },
+  {
+    "id": "d73806899ca884ea",
+    "source": "Punch Nigeria",
+    "title": "Soludo urges collaboration to attract investment, create jobs",
+    "link": "https://punchng.com/soludo-urges-collaboration-to-attract-investment-create-jobs/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Anambra Governor Charles Soludo calls for collaboration among states to attract investment and create jobs, citing Nigeria&#8217;s improved macroeconomic stabili\n\nRead More: https://punchng.com/soludo-urges-collaboration-to-attract-investment-create-jobs/",
+    "published": "Mon, 03 Aug 2026 18:37:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.050681+00:00",
+    "used": false
+  },
+  {
+    "id": "f2d2ded6e66c8896",
+    "source": "Premium Times",
+    "title": "CPPE urges CBN to rethink development finance, says real sector faces N50tn funding gap",
+    "link": "https://www.premiumtimesng.com/business/business-news/900449-cppe-urges-cbn-to-rethink-development-finance-says-real-sector-faces-n50tn-funding-gap.html",
+    "summary": "<img alt=\"Centre for the Promotion of Private Enterprise (CPPE) Logo. (PHOTO CREDIT: CPPE)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"766\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/12/468939862_570688608903404_8583644854384931658_n.jpg?fit=960%2C766&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"960\" /><p>The organisation CPPE said the financing constraints stem from structural market failures rather than a shortage of liquidity",
+    "published": "Mon, 03 Aug 2026 18:26:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.602761+00:00",
+    "used": false
+  },
+  {
+    "id": "a90ca47983862a17",
+    "source": "Premium Times",
+    "title": "Military pressure forces IPOB fighters to surrender arms – Report",
+    "link": "https://www.premiumtimesng.com/news/top-news/900447-military-pressure-forces-ipob-fighters-to-surrender-arms-report.html",
+    "summary": "<img alt=\"Nigerian troops\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"435\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/01/Nigerian-troops.jpg?fit=700%2C435&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"700\" /><p>The report said a militant leader identified as “Comedy” voluntarily disclosed to the Imo State Amnesty Committee the location where his weapons had been buried following sustained operational pressure mounted by troops of",
+    "published": "Mon, 03 Aug 2026 18:15:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.602827+00:00",
+    "used": false
+  },
+  {
+    "id": "6b6a7fbb51dcd9be",
+    "source": "Premium Times",
+    "title": "Police warn officers in Ebonyi against extortion, unlawful phone searches",
+    "link": "https://www.premiumtimesng.com/news/top-news/900431-police-warn-officers-in-ebonyi-against-extortion-unlawful-phone-searches.html",
+    "summary": "<img alt=\"Nigerian Police in abuja\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/07/Police-Force-1.jpg?fit=1280%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>The Commissioner of Police in the state, Urunwa Okafor, gave the warning during a strategic meeting with senior officers of the command in Abakaliki on Saturday.</p>\n<p>The post <a href=\"https://www.premiumtimesn",
+    "published": "Mon, 03 Aug 2026 17:23:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.602839+00:00",
+    "used": false
+  },
+  {
+    "id": "765dbe23d51df759",
+    "source": "Premium Times",
+    "title": "Gunmen kill former Plateau councillor in Riyom",
+    "link": "https://www.premiumtimesng.com/regional/north-central/900435-gunmen-kill-former-plateau-councillor-in-riyom.html",
+    "summary": "<img alt=\"Gunmen/Bandits used to illustrate the story\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"364\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/11/1a39add2521ea5f97975e544515e6cd0.jpg?fit=731%2C364&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"731\" /><p>\"We heard heavy gunshots late in the night. Everyone ran for safety. By the time people came out, Hon. Daniel had been shot,\" a resident said after gunmen killed a former counci",
+    "published": "Mon, 03 Aug 2026 17:02:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.602918+00:00",
+    "used": false
+  },
+  {
+    "id": "dbfa8816e42fb3ef",
+    "source": "Premium Times",
+    "title": "Kano lone NDC senator resigns from party, may join APC",
+    "link": "https://www.premiumtimesng.com/news/top-news/900428-kano-lone-ndc-senator-resigns-from-party-may-join-apc.html",
+    "summary": "<img alt=\"A photo of Mr Hanga and President Bola Tinubu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"492\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1002459108-1-e1785775876574.jpg?fit=874%2C492&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"874\" /><p>The senator representing Kano Central Senatorial District, Rufa’i Hanga, resigned from the Nigeria Democratic Congress (NDC).</p>\n<p>The post <a href=\"https://www.premiumtimesng.co",
+    "published": "Mon, 03 Aug 2026 16:54:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.602930+00:00",
+    "used": false
+  },
+  {
+    "id": "a8f59594febce427",
+    "source": "Premium Times",
+    "title": "Kano Assembly passes bill regulating private school fees",
+    "link": "https://www.premiumtimesng.com/news/top-news/900424-kano-assembly-passes-bill-regulating-private-school-fees.html",
+    "summary": "<img alt=\"A photo of the Speaker, Jibrin Falgore\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"634\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1002501998-e1785775436682.jpg?fit=1125%2C634&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1125\" /><p>The legislation, titled the Kano State Private and Voluntary Institutions Board (Amendment) Bill, 2026, introduces measures designed to strengthen regulatory oversight of private schools ",
+    "published": "Mon, 03 Aug 2026 16:46:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.602945+00:00",
+    "used": false
+  },
+  {
+    "id": "ac1702348debcdb1",
+    "source": "Premium Times",
+    "title": "Oyo panel opens investigation into Oriire LGA school abduction, invites public memoranda",
+    "link": "https://www.premiumtimesng.com/news/top-news/900410-900410oyo-panel-opens-investigation-into-oriire-lga-school-abduction-invites-public-memoranda.html",
+    "summary": "<img alt=\"Governor Seyi Makinde with the judicial panel commission’s members and other stakeholders\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"563\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_5161-e1785772882495.jpeg?fit=1000%2C563&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>The commission investigating the abduction of schoolchildren and teachers in Oriire Local Government asked members of the public to submi",
+    "published": "Mon, 03 Aug 2026 16:05:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.603085+00:00",
+    "used": false
+  },
+  {
+    "id": "cbce4c2f8791cffe",
+    "source": "Premium Times",
+    "title": "New Face of Ijebu-Ode: How Abiodun is rewriting road infrastructure story, By Kayode Akinmade",
+    "link": "https://www.premiumtimesng.com/promoted/900407-new-face-of-ijebu-ode-how-abiodun-is-rewriting-road-infrastructure-story-by-kayode-akinmade.html",
+    "summary": "<img alt=\"Governor Dapo Abiodun\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"540\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/c1618e9d-92a1-4b80-bdfa-e5bcdbd0f0e1-1-e1785772250443.jpeg?fit=864%2C540&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"864\" /><p>Across Ijebu-Ode, roads that had suffered decades of neglect have been reconstructed, rehabilitated or expanded, making movement easier for residents, businesses and visitors al",
+    "published": "Mon, 03 Aug 2026 15:53:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:47.603100+00:00",
+    "used": false
+  },
+  {
+    "id": "6cde813c911e49d0",
+    "source": "Leadership Newspaper",
+    "title": "Wales Withdraws Backing For Infantino’s FIFA Re-Election Bid",
+    "link": "https://leadership.ng/wales-withdraws-backing-for-infantinos-fifa-re-election-bid/",
+    "summary": "Wales has become the first country to publicly withdraw its support for FIFA president Gianni Infantino’s bid for another term, following the collapse of his controversial proposal to sell stakes in the World Cup. Infantino had sought the backing of FIFA’s 211 member associations by proposing payments of $40 million to each federation in exchange [&#8230;]",
+    "published": "Mon, 03 Aug 2026 18:43:53 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:51.432600+00:00",
+    "used": false
+  },
+  {
+    "id": "363a43bdc9c28960",
+    "source": "Leadership Newspaper",
+    "title": "Troops Foil Suspected Attack, Destroy IED Bomb In Borno",
+    "link": "https://leadership.ng/troops-foil-suspected-attack-destroy-ied-bomb-in-borno/",
+    "summary": "Troops of the 26 Task Force Brigade Garrison have recovered and destroyed two Improvised Explosive Devices (IEDs) planted along the Gwoza-Wala Road in Borno State. The explosives were detected at about 8:50 a.m. on August 2 during a routine patrol between the Golf Bravo and Papa 2 locations along the route. According to security sources [&#8230;]",
+    "published": "Mon, 03 Aug 2026 18:41:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:51.432617+00:00",
+    "used": false
+  },
+  {
+    "id": "d9c57ec20e102c98",
+    "source": "Leadership Newspaper",
+    "title": "Calls Grow To Ban Meta AI Glasses Over Privacy Concerns",
+    "link": "https://leadership.ng/calls-grow-to-ban-meta-ai-glasses-over-privacy-concerns/",
+    "summary": "&#160; Privacy advocates and regulators in Germany have intensified calls for a ban on Meta’s AI-powered smart glasses, warning that the devices pose serious risks to consumers by enabling covert recording and fueling digital abuse. The renewed concerns come after German digital rights organisation HateAid revealed that police in the city of Potsdam had received [&#8230;]",
+    "published": "Mon, 03 Aug 2026 18:37:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:51.432655+00:00",
+    "used": false
+  },
+  {
+    "id": "5ac651bbe62bed17",
+    "source": "Leadership Newspaper",
+    "title": "Executive Bill On State Police To Be Ready For Tinubu’s Review Sept 3 — Presidency",
+    "link": "https://leadership.ng/executive-bill-on-state-police-to-be-ready-for-tinubus-review-sept-3-presidency/",
+    "summary": "The Presidency on Monday unveiled a seven-week implementation roadmap for Nigeria’s proposed state police system, declaring that no state will be allowed to establish a police service until it meets nationally prescribed standards designed to guarantee professionalism, accountability and the protection of citizens’ rights. Speaking to State House correspondents after convening the inaugural meeting of [&#8230;]",
+    "published": "Mon, 03 Aug 2026 18:18:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:51.432667+00:00",
+    "used": false
+  },
+  {
+    "id": "db2fb7481fba4030",
+    "source": "Leadership Newspaper",
+    "title": "Shettima Urges Governors To Drive Business-Friendly Reforms, Lauds Oborevwori",
+    "link": "https://leadership.ng/shettima-urges-governors-to-drive-business-friendly-reforms-lauds-oborevwori/",
+    "summary": "By Bayo Amodu and Felix Igbekoyi, Asaba Vice President Kashim Shettima has charged state governments across Nigeria to implement business-friendly reforms to attract investment, create jobs, and accelerate economic growth, saying the success of federal economic policies largely depends on actions taken at the sub-national level. Speaking at the ongoing Delta State Economic and Investment [&#8230;]",
+    "published": "Mon, 03 Aug 2026 17:34:33 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:51.432726+00:00",
+    "used": false
+  },
+  {
+    "id": "35c3be00224d01b5",
+    "source": "Leadership Newspaper",
+    "title": "Osun Guber: Adeleke Campaign Storms NHRC, Decries Intimidation, Demands Police Fairness",
+    "link": "https://leadership.ng/osun-guber-adeleke-campaign-storms-nhrc-decries-intimidation-demands-police-fairness/",
+    "summary": "&#160; Ahead of the August 15 Osun state governorship election, the Imole Campaign Council of Governor Ademola Adeleke on Monday stormed the national headquarters of the National Human Rights Commission (NHRC), Abuja where they submitted a petition, alleging intimidation, human rights violations and politically motivated arrests. &#160; The Adeleke&#8217;s campaign council called on the Inspector-General [&#8230;]",
+    "published": "Mon, 03 Aug 2026 17:32:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T18:53:51.432734+00:00",
     "used": false
   },
   {
@@ -27522,6 +27753,182 @@
     "used": false
   },
   {
+    "id": "4784e68f90c551a7",
+    "source": "Punch Nigeria",
+    "title": "Rivers warns against building without government approval",
+    "link": "https://punchng.com/rivers-warns-against-building-without-government-approval/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Rivers State Government warns individuals and organisations against physical development without obtaining necessary approvals from the Ministry of Physica\n\nRead More: https://punchng.com/rivers-warns-against-building-without-government-approval/",
+    "published": "Mon, 03 Aug 2026 19:20:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.050502+00:00",
+    "used": false
+  },
+  {
+    "id": "2bbeb3dd033a805e",
+    "source": "Punch Nigeria",
+    "title": "Thugs snatched my guests’ phones during wedding – Peller",
+    "link": "https://punchng.com/thugs-snatched-my-guests-phones-during-wedding-peller/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Popular TikTok creator Peller alleges thugs stole phones from guests at his Lagos wedding, forcing him to refund victims. He blames &#8216;agberos&#8217; for the incid\n\nRead More: https://punchng.com/thugs-snatched-my-guests-phones-during-wedding-peller/",
+    "published": "Mon, 03 Aug 2026 19:17:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.050526+00:00",
+    "used": false
+  },
+  {
+    "id": "bf7e542600a890f0",
+    "source": "Punch Nigeria",
+    "title": "Invest in Nigeria before opportunity becomes expensive – Shettima",
+    "link": "https://punchng.com/invest-in-nigeria-before-opportunity-becomes-expensive-shettima/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "VP Shettima urges local and foreign investors to invest in Nigeria now, citing improved economic outlook and reforms. Don&#8217;t miss out before opportunities b\n\nRead More: https://punchng.com/invest-in-nigeria-before-opportunity-becomes-expensive-shettima/",
+    "published": "Mon, 03 Aug 2026 19:12:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.050551+00:00",
+    "used": false
+  },
+  {
+    "id": "f6a07432340777b2",
+    "source": "Punch Nigeria",
+    "title": "Evening Recap: NYSC introduces new mobilisation requirement, UK opens Chevening applications, other top stories",
+    "link": "https://punchng.com/evening-recap-nysc-introduces-new-mobilisation-requirement-uk-opens-chevening-applications-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Stay updated with Punch&#8217;s evening recap: NYSC introduces mandatory NERD clearance, UK opens Chevening Scholarship applications, and other top stories.\n\nRead More: https://punchng.com/evening-recap-nysc-introduces-new-mobilisation-requirement-uk-opens-chevening-applications-other-top-stories/",
+    "published": "Mon, 03 Aug 2026 19:03:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.050593+00:00",
+    "used": false
+  },
+  {
+    "id": "dfc07c5e6abb0163",
+    "source": "Punch Nigeria",
+    "title": "Army appoints new GOC of 2 Division in Oyo",
+    "link": "https://punchng.com/army-appoints-new-goc-of-2-division-in-oyo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Major General Auwalu Mahmuda assumes duty as the new GOC of the Nigerian Army&#8217;s 2 Division in Ibadan, Oyo State. Learn about the new Army GOC Oyo and his p\n\nRead More: https://punchng.com/army-appoints-new-goc-of-2-division-in-oyo/",
+    "published": "Mon, 03 Aug 2026 19:00:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.050610+00:00",
+    "used": false
+  },
+  {
+    "id": "e3fee145a09a06c5",
+    "source": "Punch Nigeria",
+    "title": "Why TikToker who filmed Oloolu festival was spiritually cleansed — Family secretary",
+    "link": "https://punchng.com/why-tiktoker-who-filmed-oloolu-festival-was-spiritually-cleansed-family-secretary/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The family secretary of the Oloolu compound explains why TikToker Wasilat Olalere underwent spiritual cleansing after filming the sacred Oloolu festival.\n\nRead More: https://punchng.com/why-tiktoker-who-filmed-oloolu-festival-was-spiritually-cleansed-family-secretary/",
+    "published": "Mon, 03 Aug 2026 18:52:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.050636+00:00",
+    "used": false
+  },
+  {
+    "id": "ca7ba39fee22be31",
+    "source": "Punch Nigeria",
+    "title": "Nigerian wins UK’s Women in Telecoms Champion award",
+    "link": "https://punchng.com/nigerian-wins-uks-women-in-telecoms-champion-award/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Obiageli Okafor, a Nigerian product leader, makes history as the first African to win the UK&#8217;s Women in Telecoms Champion award for her industry contributi\n\nRead More: https://punchng.com/nigerian-wins-uks-women-in-telecoms-champion-award/",
+    "published": "Mon, 03 Aug 2026 18:49:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.050664+00:00",
+    "used": false
+  },
+  {
+    "id": "3848cb305d2d8ca0",
+    "source": "Punch Nigeria",
+    "title": "IPAC gets nine-member exco in Osun",
+    "link": "https://punchng.com/ipac-gets-nine-member-exco-in-osun/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Fourteen political parties in Osun State elect a new nine-member executive for the Inter-Party Advisory Council (IPAC) amidst leadership vacuum concerns.\n\nRead More: https://punchng.com/ipac-gets-nine-member-exco-in-osun/",
+    "published": "Mon, 03 Aug 2026 18:37:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.050697+00:00",
+    "used": false
+  },
+  {
+    "id": "1b204098e9586ca7",
+    "source": "Premium Times",
+    "title": "Navy dismantles militants’ hideout in Cross River’s coastal settlement",
+    "link": "https://www.premiumtimesng.com/news/top-news/900453-navy-dismantles-militants-hideout-in-cross-rivers-coastal-settlement.html",
+    "summary": "<img alt=\"Navy dismantles militants’ hideout\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"447\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG-20260803-WA0009-e1785782374331.webp?fit=768%2C447&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>“NNS VICTORY patrol gunboats stormed the settlement, cordoned the area and conducted a thorough search of identified huts where intelligence indicated the militants were residing.”</p",
+    "published": "Mon, 03 Aug 2026 18:44:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.602737+00:00",
+    "used": false
+  },
+  {
+    "id": "141ba132ebcdfe66",
+    "source": "Premium Times",
+    "title": "Breastfeeding most effective investment in child survival – UNICEF",
+    "link": "https://www.premiumtimesng.com/news/top-news/900430-breastfeeding-most-effective-investment-in-child-survival-unicef.html",
+    "summary": "<img alt=\"A mother breastfeeding (PHOTO CREDIT: mommybites.com)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"467\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/07/A-mother-breastfeeding.jpg?fit=700%2C467&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"700\" /><p>The Chief of UNICEF Field office, Enugu, Juliet Chiluwe, said that although more than 90 per cent of Nigerian mothers breastfeed, optimal breastfeeding practices remained below ",
+    "published": "Mon, 03 Aug 2026 18:19:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.602808+00:00",
+    "used": false
+  },
+  {
+    "id": "823a25ccf349353c",
+    "source": "Premium Times",
+    "title": "Glasgow 2026: Australian High Commission congratulates Team Nigeria on historic campaign",
+    "link": "https://www.premiumtimesng.com/foreign/900441-glasgow-2026-australian-high-commission-congratulates-team-nigeria-on-historic-campaign.html",
+    "summary": "<img alt=\"Team Australia finished top at Glasgow 2026 (Credit: Australian High Commission Facebook Page)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"352\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003769199.jpg?fit=624%2C352&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"624\" /><p>The Australian High Commission in Nigeria has congratulated Team Nigeria for emerging as Africa's highest-ranked nation at the Glasgow 2026 Commonwe",
+    "published": "Mon, 03 Aug 2026 17:19:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.602878+00:00",
+    "used": false
+  },
+  {
+    "id": "ea80b89cbd3b4477",
+    "source": "Premium Times",
+    "title": "BOOK REVIEW: Charly Boy: The art of living against the grain",
+    "link": "https://www.premiumtimesng.com/news/900437-book-review-charly-boy-the-art-of-living-against-the-grain.html",
+    "summary": "<img alt=\"999-The-Memoir-of-Charly-Boy\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/999-The-Memoir-of-Charly-Boy.webp?fit=1077%2C600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1077\" /><p>A review of 999: The Memoir of Charly Boy</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/900437-book-review-charly-boy-the-art-of-living-against-the-grain.html\">BOOK REVIEW: Charl",
+    "published": "Mon, 03 Aug 2026 17:10:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.602906+00:00",
+    "used": false
+  },
+  {
+    "id": "afbea83d362f53b7",
+    "source": "Premium Times",
+    "title": "Fidson, Nigeria’s largest pharmaceutical company, delivers N3.6 billion dividend to shareholders",
+    "link": "https://www.premiumtimesng.com/health/health-news/900416-fidson-nigerias-largest-pharmaceutical-company-delivers-n3-6-billion-dividend-to-shareholders.html",
+    "summary": "<img alt=\"L-R Mr. Oshoke Ayebae, Business Development and Marketing Director, Fidson; Mr. Abiola Adebayo, Managing Director/CEO; Dr. Fidelis Ayebae, Chairman; Mr. Imokha Ayebae; Finance Director and Mr. Ola Ijimakin; Commercial Director at the 27th Annual General Meeting of Fidson Healthcare Plc which held virtually on July 30, 2026.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_2947.JPG-scaled.jpeg?fit=25",
+    "published": "Mon, 03 Aug 2026 16:29:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:47.603017+00:00",
+    "used": false
+  },
+  {
+    "id": "2000d6e1c9a55bbb",
+    "source": "Leadership Newspaper",
+    "title": "NYSC Makes NERD Clearance Mandatory For Prospetive Corps Members",
+    "link": "https://leadership.ng/nysc-makes-nerd-clearance-mandatory-for-prospetive-corps-members/",
+    "summary": "The National Youth Service Corps (NYSC) has announced that prospective corps members will no longer be mobilised for national service without obtaining clearance from the National Electronic Registration Database (NERD), as it tightens its verification process ahead of the 2026 Batch &#8216;B&#8217; mobilisation exercise. The scheme disclosed the new requirement in a public notice posted [&#8230;]",
+    "published": "Mon, 03 Aug 2026 18:39:30 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:51.432642+00:00",
+    "used": false
+  },
+  {
+    "id": "d714aef8dfbd7538",
+    "source": "Leadership Newspaper",
+    "title": "Actor Harry B Solicits Support For Colleague Maureen Okpoko Who Lost Her Sight",
+    "link": "https://leadership.ng/actor-harry-b-solicits-support-for-colleague-maureen-okpoko-who-lost-her-sight/",
+    "summary": "‎Veteran actor  Harry B Anya is soliciting support for his blind colleague, Maureen Okpoko. ‎The actor was seen with Maureen in an online video as he made a passionate appeal to their industry colleagues. ‎‎He called on his fellow actors and actresses to support Maureen, who lost her sight years ago. He said that with [&#8230;]",
+    "published": "Mon, 03 Aug 2026 17:54:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:51.432693+00:00",
+    "used": false
+  },
+  {
+    "id": "674f0b44599159eb",
+    "source": "Leadership Newspaper",
+    "title": "Uchenna Nnanna Opens Up On Near-Death Experience, Family Losses And Journey Of Survival",
+    "link": "https://leadership.ng/uchenna-nnanna-opens-up-on-near-death-experience-family-losses-and-journey-of-survival/",
+    "summary": "Award-winning Nollywood actress and filmmaker Uchenna Nnanna Maduka has shared one of the most emotional accounts of her life, opening up about surviving a horrific accident, losing close family members and finding strength through faith. &#160; Speaking during an interview with Chude Jideonwo, the actress recounted the devastating accident that nearly claimed her life, revealing [&#8230;]",
+    "published": "Mon, 03 Aug 2026 17:21:56 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T18:53:51.432756+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -29345,6 +29752,39 @@
     "published": "Mon, 03 Aug 2026 10:22:51 +0000",
     "priority": "low",
     "fetched_at": "2026-08-03T10:39:12.287794+00:00",
+    "used": false
+  },
+  {
+    "id": "0cc589df127cbab0",
+    "source": "Premium Times",
+    "title": "Old vs New Honda City: Design, features, and technology compared",
+    "link": "https://www.premiumtimesng.com/promoted/900421-900421old-vs-new-honda-city-design-features-and-technology-compared.html",
+    "summary": "<img alt=\"New Honda City\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"322\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_9895.jpg?fit=718%2C322&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"718\" /><p>The new model adopts a sportier look with a redesigned front fascia, Blade-Eye Signature LED lighting system, connected front light bar, Matrix-Mesh bumper garnish, new Aero-Blade diamond-cut alloy wheels</p>\n<p>The post <a href=\"",
+    "published": "Mon, 03 Aug 2026 16:40:00 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-03T18:53:47.602975+00:00",
+    "used": false
+  },
+  {
+    "id": "75a51ce4a76004b5",
+    "source": "Premium Times",
+    "title": "“My daughter is here, let’s do DNA test” — Kwam 1’s alleged baby mama",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/900413-my-daughter-is-here-lets-do-dna-test-kwam-1s-alleged-baby-mama.html",
+    "summary": "<img alt=\"Kwam 1, Ogechi Eleana and her daughter, Azizat (PHOTO CREDIT_ YouTube@Feel Right News TV)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"760\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Kwam-1-Ogechi-Eleana-and-her-daughter-Azizat-PHOTO-CREDIT_-YouTube%40Feel-Right-News-TV.png?fit=1140%2C760&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1140\" /><p>She denied reports that she sued the Fuji star over their alleged daughter",
+    "published": "Mon, 03 Aug 2026 16:14:59 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-03T18:53:47.603061+00:00",
+    "used": false
+  },
+  {
+    "id": "8e0a97355b3dbebe",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria Customs Appoint Jaiyeola Alternate Captain Ahead Of CGC Volleyball League Finale",
+    "link": "https://leadership.ng/nigeria-customs-appoint-jaiyeola-alternate-captain-ahead-of-cgc-volleyball-league-finale/",
+    "summary": "The Nigeria Customs Service (NCS) has appointed Abdulquadri Jaiyeola as the alternate captain of its men’s volleyball team ahead of the second phase of the 2026 Comptroller General of Customs (CGC) Volleyball Premier League. The appointment was announced in a statement issued on Monday by the Head of Sports, Samuel Onikeku, who described Jaiyeola as [&#8230;]",
+    "published": "Mon, 03 Aug 2026 17:37:06 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-03T18:53:51.432719+00:00",
     "used": false
   }
 ]
