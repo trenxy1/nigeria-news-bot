@@ -745,7 +745,7 @@
     "published": "Wed, 15 Jul 2026 12:36:15 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:03.648094+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "27607dbaedea5eec",
@@ -12493,6 +12493,105 @@
     "published": "Mon, 03 Aug 2026 17:32:00 +0000",
     "priority": "high",
     "fetched_at": "2026-08-03T18:53:51.432734+00:00",
+    "used": false
+  },
+  {
+    "id": "983a81c39b489407",
+    "source": "Punch Nigeria",
+    "title": "Police arrest six suspects, recover stolen items in Sokoto",
+    "link": "https://punchng.com/police-arrest-six-suspects-recover-stolen-items-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Sokoto State Police Command arrests six suspects for housebreaking and theft, recovering motorcycles, phones, and a sewing machine. Read more about the Sok\n\nRead More: https://punchng.com/police-arrest-six-suspects-recover-stolen-items-in-sokoto/",
+    "published": "Mon, 03 Aug 2026 20:17:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:49.077117+00:00",
+    "used": false
+  },
+  {
+    "id": "336049a29a9f31f6",
+    "source": "Punch Nigeria",
+    "title": "Jigawa gov swears in six new aides, urges teamwork",
+    "link": "https://punchng.com/jigawa-gov-swears-in-six-new-aides-urges-teamwork/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Jigawa State Governor, Umar Namadi, has sworn in six new aides, urging them to work as a team for the state&#8217;s development. Learn more about the Jigawa appo\n\nRead More: https://punchng.com/jigawa-gov-swears-in-six-new-aides-urges-teamwork/",
+    "published": "Mon, 03 Aug 2026 20:04:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:49.077130+00:00",
+    "used": false
+  },
+  {
+    "id": "af3fc8302f97279f",
+    "source": "Premium Times",
+    "title": "Army commander behind Oyo school abduction victims’ rescue redeployed, gets successor",
+    "link": "https://www.premiumtimesng.com/news/top-news/900429-army-commander-behind-oyo-school-abduction-victims-rescue-redeployed-gets-successor.html",
+    "summary": "<img alt=\"Right–left: Outgoing GOC, Chinedu Nnebeife, new GOC, Auwalu Mahmuda during the handing over on Monday (PHOTO CREDIT: Punch)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"588\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_5170.webp?fit=768%2C588&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>The new GOC described the appointment as a privilege and pledged to consolidate on the operational gains recorded by his",
+    "published": "Mon, 03 Aug 2026 19:47:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:49.780771+00:00",
+    "used": false
+  },
+  {
+    "id": "0fdb123429c1d2f2",
+    "source": "Premium Times",
+    "title": "Ex-Reps chief whip disputes Obasanjo’s account of Na’Abba’s leadership, recalls impeachment crisis",
+    "link": "https://www.premiumtimesng.com/news/more-news/900459-ex-reps-chief-whip-disputes-obasanjos-account-of-naabbas-leadership-recalls-impeachment-crisis.html",
+    "summary": "<img alt=\"former President Olusegun Obasanjo and late former Speaker, Ghali Na’Abba\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"443\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-03-at-20.34.02.jpeg?fit=776%2C443&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"776\" /><p>Mr Bwari rejected former President Obasanjo’s allegation that Atiku offered Mr Na’Abba N5 million to initiate impeachment proceedings against",
+    "published": "Mon, 03 Aug 2026 19:42:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:49.780786+00:00",
+    "used": false
+  },
+  {
+    "id": "f28674646692db93",
+    "source": "Premium Times",
+    "title": "House of chiefs should be next, By Eric Teniola",
+    "link": "https://www.premiumtimesng.com/opinion/900446-house-of-chiefs-should-be-next-by-eric-teniola.html",
+    "summary": "<img alt=\"Eric Teniola writes about military intrigues.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"531\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/01/Eric-Teniola.jpeg?fit=413%2C531&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"413\" /><p>Now that we are about to establish State Police in the Constitution, the next step should be the establishment of House of Chiefs in the Constitution too. It is a wish. I am afraid the wish may ",
+    "published": "Mon, 03 Aug 2026 19:11:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:49.780831+00:00",
+    "used": false
+  },
+  {
+    "id": "e6448800d1d525e6",
+    "source": "Leadership Newspaper",
+    "title": "Okonjo-Iweala: Nigeria’s Problem Isn’t Budget, But Poor Execution, Maintenance Culture",
+    "link": "https://leadership.ng/okonjo-iweala-nigerias-problem-isnt-budget-but-poor-execution-maintenance-culture/",
+    "summary": "Director-General of the World Trade Organisation (WTO), Dr. Ngozi Okonjo-Iweala, has said Nigeria&#8217;s economic transformation will not be driven by natural resource endowments or increased budgetary allocations alone, insisting that effective execution, maintenance and infrastructure development remain the country&#8217;s biggest challenges. Speaking as the keynote speaker at the Delta State Economic and Investment Summit 2026, [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:39:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:53.532601+00:00",
+    "used": false
+  },
+  {
+    "id": "f213b88b45851c3c",
+    "source": "Leadership Newspaper",
+    "title": "Arewa Group Alleges Marginalisation Of Northern Youths",
+    "link": "https://leadership.ng/arewa-group-alleges-marginalisation-of-northern-youths/",
+    "summary": "The Arewa Democratic Youth Stakeholders Forum has alleged the marginalisation of northern youths in political participation and decision-making within the ruling All Progressives Congress (APC), warning that the development could affect support for the party ahead of the 2027 general elections. The allegation followed a meeting between the forum and the North-West APC Youth Stakeholders [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:39:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:53.532610+00:00",
+    "used": false
+  },
+  {
+    "id": "4b28121a161e9320",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria Can’t End Unemployment Without Patronising Local Products — Soludo",
+    "link": "https://leadership.ng/nigeria-cant-end-unemployment-without-patronising-local-products-soludo/",
+    "summary": "Anambra State governor, Prof. Chukwuma Charles Soludo, has urged Nigerians to embrace locally made products, arguing that the country&#8217;s unemployment challenge cannot be solved while citizens continue to favour foreign or imported goods over indigenous alternatives. Speaking on Monday at the opening ceremony of the Delta State Economic and Investment Summit 2026, Soludo said a [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:22:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:53.532673+00:00",
+    "used": false
+  },
+  {
+    "id": "e0a4146efa6cc7f2",
+    "source": "Leadership Newspaper",
+    "title": "Edo Resident Doctors Commend Okpebholo Over Revised CONMESS, Timely Promotions, MRTF Support",
+    "link": "https://leadership.ng/edo-resident-doctors-commend-okpebholo-over-revised-conmess-timely-promotions-mrtf-support/",
+    "summary": "The Association of Resident Doctors under Edo State Government Employment (ARD EDGE) has commended Edo State Governor, Monday Okpebholo, for implementing the revised Consolidated Medical Salary Structure (CONMESS) in line with the remuneration obtainable in federal hospitals. The association also lauded the governor for supporting the Medical Residency Training Fund (MRTF) and ensuring timely promotion [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:18:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-03T20:52:53.532686+00:00",
     "used": false
   },
   {
@@ -27929,6 +28028,204 @@
     "used": false
   },
   {
+    "id": "a00d86204e80f6c2",
+    "source": "Punch Nigeria",
+    "title": "NEC approves $4.5bn refinancing of $3.3bn oil-backed loan",
+    "link": "https://punchng.com/nec-approves-4-5bn-refinancing-of-3-3bn-oil-backed-loan/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The National Economic Council has approved the $4.5bn Project Gazelle 2 to refinance Nigeria&#8217;s oil-backed loan, unlocking $3bn liquidity and strengthening\n\nRead More: https://punchng.com/nec-approves-4-5bn-refinancing-of-3-3bn-oil-backed-loan/",
+    "published": "Mon, 03 Aug 2026 21:35:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.077002+00:00",
+    "used": false
+  },
+  {
+    "id": "00a9c33e5533fec6",
+    "source": "Punch Nigeria",
+    "title": "English FA to withdraw support for Infantino",
+    "link": "https://punchng.com/english-fa-to-withdraw-support-for-infantino/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The English FA is set to withdraw its backing for Gianni Infantino&#8217;s FIFA presidency bid after his controversial World Cup privatisation plan collapsed. Le\n\nRead More: https://punchng.com/english-fa-to-withdraw-support-for-infantino/",
+    "published": "Mon, 03 Aug 2026 21:07:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.077038+00:00",
+    "used": false
+  },
+  {
+    "id": "abdc2ed4916cf2ab",
+    "source": "Punch Nigeria",
+    "title": "FG fine on sponsor forced ‘Who Wants To Be A Millionaire’ off air — Frank Edoho",
+    "link": "https://punchng.com/fg-fine-on-sponsor-forced-who-wants-to-be-a-millionaire-off-air-frank-edoho/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Frank Edoho reveals the real reason &#8216;Who Wants To Be A Millionaire&#8217; went off air, explaining a Federal Government fine on the sponsor led to their withdraw\n\nRead More: https://punchng.com/fg-fine-on-sponsor-forced-who-wants-to-be-a-millionaire-off-air-frank-edoho/",
+    "published": "Mon, 03 Aug 2026 21:06:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.077069+00:00",
+    "used": false
+  },
+  {
+    "id": "b49f4627c5ca5e62",
+    "source": "Punch Nigeria",
+    "title": "US bank says it closed 300 Trump-linked accounts over anti-money laundering review",
+    "link": "https://punchng.com/us-bank-says-it-closed-300-trump-linked-accounts-over-anti-money-laundering-review/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Capital One closed over 300 Trump-linked accounts in 2021 following an anti-money laundering review, denying political motivation. Learn more about the Tru\n\nRead More: https://punchng.com/us-bank-says-it-closed-300-trump-linked-accounts-over-anti-money-laundering-review/",
+    "published": "Mon, 03 Aug 2026 20:45:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.077091+00:00",
+    "used": false
+  },
+  {
+    "id": "3c1ec78fe471711f",
+    "source": "Punch Nigeria",
+    "title": "BBNaija S11: Sheba emerges head of house for week 2",
+    "link": "https://punchng.com/bbnaija-s11-sheba-emerges-head-of-house-for-week-2/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Sheba, a broadcaster from Plateau State, has emerged as the BBNaija Season 11 Head of House for Week 2. Learn about her victory and privileges.\n\nRead More: https://punchng.com/bbnaija-s11-sheba-emerges-head-of-house-for-week-2/",
+    "published": "Mon, 03 Aug 2026 20:38:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.077108+00:00",
+    "used": false
+  },
+  {
+    "id": "25aa3b08763fd383",
+    "source": "Punch Nigeria",
+    "title": "Hisbah halts planned colour festival in Yobe",
+    "link": "https://punchng.com/hisbah-halts-planned-colour-festival-in-yobe/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Yobe Hisbah Board stops a planned &#8220;Colour Festival&#8221; in Damaturu, warning against events contrary to Islamic teachings. Learn more about the Hisbah Yobe act\n\nRead More: https://punchng.com/hisbah-halts-planned-colour-festival-in-yobe/",
+    "published": "Mon, 03 Aug 2026 19:57:30 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.077152+00:00",
+    "used": false
+  },
+  {
+    "id": "311c0dc980b9f1a3",
+    "source": "Punch Nigeria",
+    "title": "Kefee’s widower, Teddy Don-Momoh, loses wife weeks after birth of first child",
+    "link": "https://punchng.com/kefees-widower-teddy-don-momoh-loses-wife-weeks-after-birth-of-first-child/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lara Kudayisi Don-Momoh, wife of Teddy Don-Momoh (Kefee&#8217;s widower), has passed away just weeks after giving birth to their first child. Read more here.\n\nRead More: https://punchng.com/kefees-widower-teddy-don-momoh-loses-wife-weeks-after-birth-of-first-child/",
+    "published": "Mon, 03 Aug 2026 19:55:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.077176+00:00",
+    "used": false
+  },
+  {
+    "id": "fad521befac5e0e5",
+    "source": "Punch Nigeria",
+    "title": "Oil firms making too much from Iran war  – Trump",
+    "link": "https://punchng.com/oil-firms-making-too-much-from-iran-war-trump/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Donald Trump criticizes major oil companies for making &#8220;too much money&#8221; from high prices due to the Iran war, urging them to cut consumer prices.\n\nRead More: https://punchng.com/oil-firms-making-too-much-from-iran-war-trump/",
+    "published": "Mon, 03 Aug 2026 19:18:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.077233+00:00",
+    "used": false
+  },
+  {
+    "id": "da69b2375e4acd89",
+    "source": "Premium Times",
+    "title": "Former deputy bureau chief of The Guardian, Anietie Akpan, dies",
+    "link": "https://www.premiumtimesng.com/news/top-news/900480-former-deputy-bureau-chief-of-the-guardian-anietie-akpan-dies.html",
+    "summary": "<img alt=\"Late Anietie Akpan\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"556\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Late-Anietie-Akpan-e1785788752764.jpg?fit=808%2C556&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"808\" /><p>A career defined by resilience and public service ends as veteran journalist Anietie Akpan dies, drawing tributes from colleagues who remember his unwavering commitment to the profession even in illnes",
+    "published": "Mon, 03 Aug 2026 20:26:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.780643+00:00",
+    "used": false
+  },
+  {
+    "id": "f2b0f5ed4681de86",
+    "source": "Premium Times",
+    "title": "Africa and the imperatives of leadership, By Toyin Falola",
+    "link": "https://www.premiumtimesng.com/opinion/900482-africa-and-the-imperatives-of-leadership-by-toyin-falola.html",
+    "summary": "<img alt=\"Professor Toyin Falola writes about contemporary African migration.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"427\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/09/Professor-Toyin-Falola.jpg?fit=640%2C427&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>Africa has had good leaders throughout its history who have been empire builders, thinkers, traders, kings, diplomats, and freedom fighters, who have established c",
+    "published": "Mon, 03 Aug 2026 20:11:53 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.780696+00:00",
+    "used": false
+  },
+  {
+    "id": "4130a5a284f763ea",
+    "source": "Premium Times",
+    "title": "Strike: Ondo varsity lecturers yet to receive payments despite N1.1bn approval by gov",
+    "link": "https://www.premiumtimesng.com/news/more-news/900477-strike-ondo-varsity-lecturers-yet-to-receive-payments-despite-n1-1bn-approval-by-gov.html",
+    "summary": "<img alt=\"Frontage of Adekunle Ajasin University, Akungba Akoko (AAUA) (1)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"360\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/07/Frontage-of-Adekunle-Ajasin-University-Akungba-Akoko-AAUA-1.jpg?fit=640%2C360&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>“As we speak now, the latest information is that the government has released the money to the university, but the university is s",
+    "published": "Mon, 03 Aug 2026 19:57:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.780742+00:00",
+    "used": false
+  },
+  {
+    "id": "95e5b1ab8409ba8f",
+    "source": "Premium Times",
+    "title": "NBC seeks approval to refile appeal against ruling barring it from fining broadcasters",
+    "link": "https://www.premiumtimesng.com/news/more-news/900457-nbc-seeks-approval-to-refile-appeal-against-ruling-barring-it-from-fining-broadcasters.html",
+    "summary": "<img alt=\"National Broadcasting Commission (NBC)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"655\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2021/11/National-Broadcasting-Commission-NBC.jpg?fit=1024%2C655&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>The NBC filed a motion asking the appellate court to extend the time within which it can challenge the lower court's judgement after its earlier appeal was struck out for being",
+    "published": "Mon, 03 Aug 2026 19:02:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:49.780859+00:00",
+    "used": false
+  },
+  {
+    "id": "b5dce4747cf00a5c",
+    "source": "Leadership Newspaper",
+    "title": "Local Airlines Already Under Pressure, Strike Threat Will Worsen Industry Challenges -Operators",
+    "link": "https://leadership.ng/local-airlines-already-under-pressure-strike-threat-will-worsen-industry-challenges-operators/",
+    "summary": "The Airline Operators of Nigeria (AON) has warned that any planned disruption of flight operations by aviation unions over alleged unremitted Ticket Service Charges (TSC) to the Nigeria Civil Aviation Authority (NCAA) would further worsen the challenges confronting Nigeria&#8217;s airline industry. Reacting to the unions&#8217; threat of a warning strike, AON&#8217;s spokesman, Prof. Obiora Okonkwo, [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:49:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:53.532488+00:00",
+    "used": false
+  },
+  {
+    "id": "a1457f6850f099d0",
+    "source": "Leadership Newspaper",
+    "title": "Kano High Court Convicts, Sentences 31-Year-Old To Death For Murder",
+    "link": "https://leadership.ng/kano-high-court-convicts-sentences-31-year-old-to-death-for-murder/",
+    "summary": "A Kano State High Court has sentenced a 31-year-old man, Tahir Tanimu, to death by hanging after finding him guilty of criminal conspiracy and culpable homicide in connection with the killing of Shamsu Yakubu. The judgment was delivered on Monday by Justice A’isha Mahmud of High Court No. 5 in Kano. During the proceedings, the [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:48:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:53.532523+00:00",
+    "used": false
+  },
+  {
+    "id": "a82e42401b9eddbd",
+    "source": "Leadership Newspaper",
+    "title": "Smartphone Producers Turn to Hardware Innovation as Competition Intensifies",
+    "link": "https://leadership.ng/smartphone-producers-turn-to-hardware-innovation-as-competition-intensifies/",
+    "summary": "Smartphone producers Samsung, Apple and TECNO are intensifying competition in the global smartphone market with a new wave of hardware innovations, as manufacturers increasingly look beyond artificial intelligence (AI) features and camera enhancements to differentiate their devices and attract consumers. The renewed focus on foldable devices, immersive displays and improved durability comes as smartphone vendors [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:46:15 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:53.532552+00:00",
+    "used": false
+  },
+  {
+    "id": "8113511a01081a5c",
+    "source": "Leadership Newspaper",
+    "title": "NDPC Judgment Will Reshape Corporate Data Governance – Expert",
+    "link": "https://leadership.ng/ndpc-judgment-will-reshape-corporate-data-governance-expert/",
+    "summary": "Technology expert and CEO of Computics Limited, Moses Braimah, has said the recent Federal High Court judgment affirming the regulatory powers of the Nigeria Data Protection Commission (NDPC) under the Nigeria Data Protection Act (NDPA) 2023 will redefine corporate data governance, strengthen investor confidence and deepen digital trust in Nigeria. Speaking in Lagos, Braimah, who [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:44:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:53.532578+00:00",
+    "used": false
+  },
+  {
+    "id": "a4fa6f172d602f30",
+    "source": "Leadership Newspaper",
+    "title": "Lokoja Ultra-Modern Market Will Transform Commerce Nationwide, Kogi Govt Says",
+    "link": "https://leadership.ng/lokoja-ultra-modern-market-will-transform-commerce-nationwide-kogi-govt-says/",
+    "summary": "The Kogi State Government has said the Lokoja Ultra-Modern Market under construction will transform commerce in the state and across Nigeria by leveraging Kogi&#8217;s strategic location as the nation&#8217;s gateway. Commissioner for Information and Communications, Kingsley Femi Fanwo, stated this on Monday while inspecting the project in Lokoja. He said the 25-hectare market, one of [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:36:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:53.532633+00:00",
+    "used": false
+  },
+  {
+    "id": "f65ea57b34c40056",
+    "source": "Leadership Newspaper",
+    "title": "NRS Issues New Tax Guidelines For Cryptocurrency, Virtual Assets",
+    "link": "https://leadership.ng/nrs-issues-new-tax-guidelines-for-cryptocurrency-virtual-assets/",
+    "summary": "The Nigeria Revenue Service (NRS) has unveiled new guidelines outlining how virtual assets, including cryptocurrencies, will be taxed under the Nigeria Tax Act, 2025, and the Nigeria Tax Administration Act, 2025. The framework is targeted at taxpayers, Virtual Asset Service Providers (VASPs), Peer-to-Peer (P2P) marketplace operators, tax professionals and individuals involved in virtual asset transactions, [&#8230;]",
+    "published": "Mon, 03 Aug 2026 20:28:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-03T20:52:53.532657+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -29785,6 +30082,17 @@
     "published": "Mon, 03 Aug 2026 17:37:06 +0000",
     "priority": "low",
     "fetched_at": "2026-08-03T18:53:51.432719+00:00",
+    "used": false
+  },
+  {
+    "id": "d2e2685405637a6c",
+    "source": "Premium Times",
+    "title": "Glasgow 2026: Nigeria surpass Australia, England in World Records race",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/900451-glasgow-2026-nigeria-surpass-australia-england-in-world-records-race.html",
+    "summary": "<img alt=\"Team Nigeria was exceptional in Glasgow (PHOTO CREDIT: Commonwealth Games Facebook Page)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"434\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-03-at-20.34.02-1.jpeg?fit=749%2C434&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"749\" /><p>Nigeria's para-athletes delivered one of the country's biggest achievements at the Glasgow 2026 Commonwealth Games, setting ",
+    "published": "Mon, 03 Aug 2026 19:42:20 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-03T20:52:49.780820+00:00",
     "used": false
   }
 ]
