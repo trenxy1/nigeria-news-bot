@@ -778,7 +778,7 @@
     "published": "Wed, 15 Jul 2026 10:29:38 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:03.648238+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "bbec0b9f77fdbf91",
@@ -13846,6 +13846,226 @@
     "published": "Wed, 05 Aug 2026 20:24:43 +0000",
     "priority": "high",
     "fetched_at": "2026-08-05T20:54:11.757405+00:00",
+    "used": false
+  },
+  {
+    "id": "5c156ae19c4672fd",
+    "source": "Punch Nigeria",
+    "title": "Mob attacks Kano traffic officials following highway crash",
+    "link": "https://punchng.com/mob-attacks-kano-traffic-officials-following-highway-crash/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Angry youths attacked Kano traffic officials (KAROTA) after a highway crash, hospitalizing three. Learn more about the incident and public concerns.\n\nRead More: https://punchng.com/mob-attacks-kano-traffic-officials-following-highway-crash/",
+    "published": "Thu, 06 Aug 2026 10:34:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:12.767045+00:00",
+    "used": false
+  },
+  {
+    "id": "3ffed7368b094f45",
+    "source": "Punch Nigeria",
+    "title": "AfCFTA signs $3.1bn customs modernisation deal to boost intra-African trade",
+    "link": "https://punchng.com/afcfta-signs-3-1bn-customs-modernisation-deal-to-boost-intra-african-trade/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The AfCFTA Secretariat has signed a $3.1bn customs modernisation deal with Bergmans Security Consultants to boost intra-African trade and revenue.\n\nRead More: https://punchng.com/afcfta-signs-3-1bn-customs-modernisation-deal-to-boost-intra-african-trade/",
+    "published": "Thu, 06 Aug 2026 10:14:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:12.767086+00:00",
+    "used": false
+  },
+  {
+    "id": "1db8e8db98418015",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Adeleke’s camp seeks honours for victims of electoral violence",
+    "link": "https://punchng.com/osun-poll-adelekes-camp-seeks-honours-for-victims-of-electoral-violence/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adeleke&#8217;s campaign council seeks state honours for victims of Osun electoral violence, citing alleged attacks on supporters. Learn more about the proposed\n\nRead More: https://punchng.com/osun-poll-adelekes-camp-seeks-honours-for-victims-of-electoral-violence/",
+    "published": "Thu, 06 Aug 2026 09:28:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:12.767187+00:00",
+    "used": false
+  },
+  {
+    "id": "c486a7e7ae450c77",
+    "source": "Punch Nigeria",
+    "title": "2027: We will not bow to intimidation, Adeleke vows",
+    "link": "https://punchng.com/2027-we-will-not-bow-to-intimidation-adeleke-vows/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun State Governor Ademola Adeleke vows to resist intimidation and protect his mandate ahead of the August 15 governorship election.\n\nRead More: https://punchng.com/2027-we-will-not-bow-to-intimidation-adeleke-vows/",
+    "published": "Thu, 06 Aug 2026 09:22:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:12.767196+00:00",
+    "used": false
+  },
+  {
+    "id": "e168d84d47b847b7",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: NBA faults EFCC over Osun account freeze, Adeyemi rejects Reps quiz, other top stories",
+    "link": "https://punchng.com/morning-recap-nba-faults-efcc-over-osun-account-freeze-adeyemi-rejects-reps-quiz-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NBA faults EFCC over Osun account freeze, calling it unconstitutional. Also, Adeyemi rejects Reps quiz, and the Army declares ISWAP leaders wanted.\n\nRead More: https://punchng.com/morning-recap-nba-faults-efcc-over-osun-account-freeze-adeyemi-rejects-reps-quiz-other-top-stories/",
+    "published": "Thu, 06 Aug 2026 08:48:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:12.767212+00:00",
+    "used": false
+  },
+  {
+    "id": "c8679cd5291bc1ab",
+    "source": "Punch Nigeria",
+    "title": "No ₦11bn was looted in Osun, commissioner replies EFCC",
+    "link": "https://punchng.com/no-%e2%82%a611bn-was-looted-in-osun-commissioner-replies-efcc/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun State government denies EFCC&#8217;s N11bn looting claims, accusing the anti-graft agency of political motivation and acting on ex-governor Oyetola&#8217;s direct\n\nRead More: https://punchng.com/no-%e2%82%a611bn-was-looted-in-osun-commissioner-replies-efcc/",
+    "published": "Thu, 06 Aug 2026 08:27:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:12.767230+00:00",
+    "used": false
+  },
+  {
+    "id": "4dd35c967a5f4746",
+    "source": "Punch Nigeria",
+    "title": "Osun must not return to era of half salaries, says Adeleke",
+    "link": "https://punchng.com/osun-must-not-return-to-era-of-half-salaries-says-adeleke/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun Governor Ademola Adeleke urges voters to reject APC in the August 15 Osun election, promising no return to the era of half salaries for civil servants\n\nRead More: https://punchng.com/osun-must-not-return-to-era-of-half-salaries-says-adeleke/",
+    "published": "Thu, 06 Aug 2026 07:51:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:12.767260+00:00",
+    "used": false
+  },
+  {
+    "id": "f931afb1538fea71",
+    "source": "Punch Nigeria",
+    "title": "Kano APC chieftain hails Tinubu over rescue of 176 Kwara abductees",
+    "link": "https://punchng.com/kano-apc-chieftain-hails-tinubu-over-rescue-of-176-kwara-abductees/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Kano APC chieftain commends President Tinubu&#8217;s government for the successful rescue of 176 Kwara abductees, highlighting efforts to combat insecurity.\n\nRead More: https://punchng.com/kano-apc-chieftain-hails-tinubu-over-rescue-of-176-kwara-abductees/",
+    "published": "Thu, 06 Aug 2026 07:46:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:12.767266+00:00",
+    "used": false
+  },
+  {
+    "id": "2887887a016024d1",
+    "source": "Premium Times",
+    "title": "Kaduna clerics praise Uba Sani’s compassion, laud fulfilment of promises to bereaved families",
+    "link": "https://www.premiumtimesng.com/promoted/901028-kaduna-clerics-praise-uba-sanis-compassion-laud-fulfilment-of-promises-to-bereaved-families.html",
+    "summary": "<img alt=\"Governor Uba Sani presenting certificate of occupancy to bereaved families\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1143\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0601.jpeg?fit=1600%2C1143&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1600\" /><p>Speaking at the event, Archbishop Yahaya said the governor had demonstrated that true leadership is measured by keeping one's word</p>\n<p>The post <a href=\"https://w",
+    "published": "Thu, 06 Aug 2026 09:08:54 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:13.570127+00:00",
+    "used": false
+  },
+  {
+    "id": "1df9112a2a05428b",
+    "source": "Premium Times",
+    "title": "Osun rejects EFCC’s N11bn fraud claim, alleges political motivation",
+    "link": "https://www.premiumtimesng.com/news/headlines/901027-osun-rejects-efccs-n11bn-fraud-claim-alleges-political-motivation.html",
+    "summary": "<img alt=\"Governor of Osun State, Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"527\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/698798699_122100431792586387_50735012365731896_n-e1779049868535.jpg?fit=770%2C527&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"770\" /><p>The Osun government has dismissed the EFCC's allegation of an ₦11 billion fraud, describing the freezing of its account as unlawful and politically mo",
+    "published": "Thu, 06 Aug 2026 09:00:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:13.570152+00:00",
+    "used": false
+  },
+  {
+    "id": "f0a54b30deb5bfdc",
+    "source": "Premium Times",
+    "title": "Police probe killing of cocoa farm worker in Cross River",
+    "link": "https://www.premiumtimesng.com/news/901020-police-probe-killing-of-cocoa-farm-worker-in-cross-river.html",
+    "summary": "<img alt=\"Nigerian Police\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"406\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/04/police-1.jpg?fit=736%2C406&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"736\" /><p>The latest killing comes barely a month after the police commenced an investigation into the fatal shooting of a farmer and the wounding of another during an attack on farmland in the state.</p>\n<p>The post <a href=\"https://www.p",
+    "published": "Thu, 06 Aug 2026 08:54:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:13.570164+00:00",
+    "used": false
+  },
+  {
+    "id": "82e6d3dd27d376b3",
+    "source": "Premium Times",
+    "title": "Police arrest 13 suspected armed robbers, cultists, recover pump-action gun",
+    "link": "https://www.premiumtimesng.com/news/top-news/901024-police-arrest-13-suspected-armed-robbers-cultists-recover-pump-action-gun.html",
+    "summary": "<img alt=\"Nigerian Police officers on duty\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"391\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/08/admin-ajax-81-1.jpg?fit=600%2C391&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>The latest operations come amid intensified efforts by security agencies to curb violent crimes in Aba and other parts of Abia.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/901024-",
+    "published": "Thu, 06 Aug 2026 08:54:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:13.570175+00:00",
+    "used": false
+  },
+  {
+    "id": "498bd21f17fb1848",
+    "source": "Premium Times",
+    "title": "Police deploy 15,000 operatives for Osun election – CP",
+    "link": "https://www.premiumtimesng.com/news/top-news/901019-police-deploy-15000-operatives-for-osun-election-cp.html",
+    "summary": "<img alt=\"Police operatives\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/06/Police-response-to-insecurity-in-Abuja.jpeg?fit=2560%2C1707&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>“We are to clear and prepare the ground for a peaceful, tension-free and successful election,\" the CP said.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/901019-police-",
+    "published": "Thu, 06 Aug 2026 08:41:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:13.570189+00:00",
+    "used": false
+  },
+  {
+    "id": "0bc02889dc80d936",
+    "source": "Premium Times",
+    "title": "Oriire and the 9/11 standard: Why the Oyo commission deserves an open mind, By Oludare Ogunlana",
+    "link": "https://www.premiumtimesng.com/opinion/901012-oriire-and-the-9-11-standard-why-the-oyo-commission-deserves-an-open-mind-by-oludare-ogunlana.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"640\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/12/Oludare-Ogunlana.jpg?fit=614%2C640&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"614\" /><p>This is why the commission matters, and why it deserves better than cynicism. First, it is our instrument of truth. Like the 9/11 Commission, its assignment is to establish what truly happened: how the attackers gathered, moved, and str",
+    "published": "Thu, 06 Aug 2026 08:16:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:13.570302+00:00",
+    "used": false
+  },
+  {
+    "id": "edb24d0b144a2a2e",
+    "source": "Premium Times",
+    "title": "Osun Election:  “Prepare to employ your uncle” — Uzodimma replies Davido",
+    "link": "https://www.premiumtimesng.com/news/top-news/901004-osun-election-prepare-to-employ-your-uncle-uzodimma-replies-davido.html",
+    "summary": "<img alt=\"Imo State Governor Hope Uzodimma and Afrobeats star David “Davido” Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"941\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/david.png?fit=1672%2C941&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1672\" /><p>Mr Uzodinma, who chairs the APC National Campaign Council for the Osun governorship election, responded after Davido appealed to an unnamed politician from Imo State to al",
+    "published": "Thu, 06 Aug 2026 07:22:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:13.570353+00:00",
+    "used": false
+  },
+  {
+    "id": "9e1a9eb233b2af56",
+    "source": "Premium Times",
+    "title": "Military declares top ISWAP commanders wanted following intelligence from recovered devices",
+    "link": "https://www.premiumtimesng.com/news/top-news/900984-military-declares-top-iswap-commanders-wanted-following-intelligence-from-recovered-devices.html",
+    "summary": "<img alt=\"Nigerian soldiers walks past military tanks prepared for deployment during a tour of the Theatre Command Operation Lafiya Dole by Nigeria&#039;s Chief of Army Staff at Maimalari Cantonment in Maiduguri, Borno State, Nigeria, November 7, 2025. REUTERS/Ahmed Kingimi\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1920\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/ISS-Today-pic-1-scaled.jpg?fit=2560%2C1920&amp;ssl=1\" style=\"display: block; margin: auto; m",
+    "published": "Thu, 06 Aug 2026 04:53:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:13.570460+00:00",
+    "used": false
+  },
+  {
+    "id": "2d6b82295420d709",
+    "source": "Leadership Newspaper",
+    "title": "AfCFTA, Bergmans Sign $3.1bn Concession Deal to Digitise Customs Across Africa",
+    "link": "https://leadership.ng/afcfta-bergmans-sign-3-1bn-concession-deal-to-digitise-customs-across-africa/",
+    "summary": "The African Continental Free Trade Area (AfCFTA) Secretariat has executed a 20-year concession agreement with Bergmans Security Consultant and Supplies Limited to digitise customs operations across Africa, in a deal expected to boost intra-African trade and cut revenue leakages on the continent. The agreement, executed between AfCFTA Holdings Limited, the AfCFTA Secretariat, and AfriTrade CMP [&#8230;]",
+    "published": "Thu, 06 Aug 2026 09:21:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:17.883662+00:00",
+    "used": false
+  },
+  {
+    "id": "bbfc5fefd52947be",
+    "source": "Leadership Newspaper",
+    "title": "Police Arrest Fifth Suspect Over Mob Killing Of Jos Model",
+    "link": "https://leadership.ng/police-arrest-fifth-suspect-over-mob-killing-of-jos-model/",
+    "summary": "The Plateau State Police Command has recorded a major breakthrough in the ongoing investigation into the murder of 25-year-old model Ibrahim Mbaya, with the arrest of a fifth suspect in Jos, the state capital. &#160; The latest suspect was identified as 24-year-old Yusuf Christopher Beskeni, a University of Jos student and presidential aspirant for the Faculty [&#8230;]",
+    "published": "Thu, 06 Aug 2026 09:00:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:17.883719+00:00",
+    "used": false
+  },
+  {
+    "id": "6c5036f4e16425f5",
+    "source": "Leadership Newspaper",
+    "title": "Attah, Others Rally $250m FDI For A/Ibom World Trade Centre Project",
+    "link": "https://leadership.ng/__trashed-2278/",
+    "summary": "Determined to realize his age &#8211; long vision to reposition the state as the major technology hub in Nigeria and Africa, former Governor of Akwa Ibom State, Obong Victor Attah, and other partners have rallied local and international investors &#8211; to revive the multi &#8211; billion Naira Ibom Science Park Park project. Under the new [&#8230;]",
+    "published": "Thu, 06 Aug 2026 08:39:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:17.883796+00:00",
+    "used": false
+  },
+  {
+    "id": "f67b04daf3048f95",
+    "source": "Leadership Newspaper",
+    "title": "Poor Stadium Maintenance Threatens Nigerian Football, Warns Ebi Egbe",
+    "link": "https://leadership.ng/poor-stadium-maintenance-threatens-nigerian-football-warns-ebi-egbe/",
+    "summary": "Chief Executive Officer of Monimichelle Sports Facilities Construction Limited, Ebi Egbe, has warned that Nigeria’s poor stadium maintenance culture is putting the future of the country’s football infrastructure at risk, with many facilities rapidly falling below FIFA and Confederation of African Football (CAF) standards. Egbe said the persistent neglect of football pitches and sports facilities [&#8230;]",
+    "published": "Thu, 06 Aug 2026 08:35:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-06T09:39:17.883842+00:00",
     "used": false
   },
   {
@@ -30536,6 +30756,215 @@
     "used": false
   },
   {
+    "id": "1e254d2450053c22",
+    "source": "Punch Nigeria",
+    "title": "From Ozil to James: World Cup stars Who earned blockbuster transfers",
+    "link": "https://punchng.com/2208757-2/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Discover how players like Ozil, James, and Vozinha earned blockbuster transfers after their standout performances at the FIFA World Cup.\n\nRead More: https://punchng.com/2208757-2/",
+    "published": "Thu, 06 Aug 2026 10:27:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:12.767076+00:00",
+    "used": false
+  },
+  {
+    "id": "850dec4c187eee60",
+    "source": "Punch Nigeria",
+    "title": "Osun: We can freeze accounts for 72 hours without court order — EFCC",
+    "link": "https://punchng.com/osun-we-can-freeze-accounts-for-72-hours-without-court-order-efcc/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The EFCC defends its power to freeze an Osun State Government account for 72 hours without a court order, citing suspicious activities and legal provisions\n\nRead More: https://punchng.com/osun-we-can-freeze-accounts-for-72-hours-without-court-order-efcc/",
+    "published": "Thu, 06 Aug 2026 09:54:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:12.767110+00:00",
+    "used": false
+  },
+  {
+    "id": "046bf0b96ec80b4e",
+    "source": "Punch Nigeria",
+    "title": "EPL sets record with nine new managers for opening weekend",
+    "link": "https://punchng.com/epl-sets-record-with-nine-new-managers-for-opening-weekend/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Premier League kicks off with a record nine new managers for the 2026/27 season. Discover the new faces leading EPL clubs, including Matthias Jaissle a\n\nRead More: https://punchng.com/epl-sets-record-with-nine-new-managers-for-opening-weekend/",
+    "published": "Thu, 06 Aug 2026 09:50:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:12.767128+00:00",
+    "used": false
+  },
+  {
+    "id": "c0cf9fc379138ade",
+    "source": "Punch Nigeria",
+    "title": "Isaac Fayose faults EFCC over Osun account freeze",
+    "link": "https://punchng.com/isaac-fayose-faults-efcc-over-osun-account-freeze/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Isaac Fayose criticizes EFCC&#8217;s decision to freeze Osun State&#8217;s account, calling it selective and politically motivated. Learn more about the controversy.\n\nRead More: https://punchng.com/isaac-fayose-faults-efcc-over-osun-account-freeze/",
+    "published": "Thu, 06 Aug 2026 09:48:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:12.767146+00:00",
+    "used": false
+  },
+  {
+    "id": "784efb4c7b33335c",
+    "source": "Punch Nigeria",
+    "title": "FG inaugurates NBTE board after five-year gap",
+    "link": "https://punchng.com/fg-inaugurates-nbte-board-after-five-year-gap/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government has inaugurated the NBTE board after a five-year gap, aiming to reposition technical education and drive industrialisation and job c\n\nRead More: https://punchng.com/fg-inaugurates-nbte-board-after-five-year-gap/",
+    "published": "Thu, 06 Aug 2026 09:40:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:12.767163+00:00",
+    "used": false
+  },
+  {
+    "id": "3a5bef92eae099f6",
+    "source": "Punch Nigeria",
+    "title": "EPL: Chelsea list 11 players for summer exit – Reports",
+    "link": "https://punchng.com/epl-chelsea-list-11-players-for-summer-exit-reports/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Chelsea reportedly lists 11 players for summer exit as the club continues its squad overhaul. Find out which stars could leave Stamford Bridge.\n\nRead More: https://punchng.com/epl-chelsea-list-11-players-for-summer-exit-reports/",
+    "published": "Thu, 06 Aug 2026 08:09:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:12.767253+00:00",
+    "used": false
+  },
+  {
+    "id": "dc0fad1ab8c7e4d4",
+    "source": "Punch Nigeria",
+    "title": "UK expands Global Talent visa to over 100 firms",
+    "link": "https://punchng.com/uk-expands-global-talent-visa-to-over-100-firms/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The UK Global Talent visa scheme now includes over 100 research-intensive businesses, making it easier for top scientists and engineers to work in the UK.\n\nRead More: https://punchng.com/uk-expands-global-talent-visa-to-over-100-firms/",
+    "published": "Thu, 06 Aug 2026 07:44:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:12.767279+00:00",
+    "used": false
+  },
+  {
+    "id": "0e521e23239808b7",
+    "source": "Premium Times",
+    "title": "UNFPA partners Lagos, GoMed to expand reproductive health services for Nigerian students",
+    "link": "https://www.premiumtimesng.com/news/more-news/901013-unfpa-partners-lagos-gomed-to-expand-reproductive-health-services-for-nigerian-students.html",
+    "summary": "<img alt=\"University of Lagos (UNILAG).\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"598\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/01/University-of-Lagos-UNILAG-1.jpg?fit=1074%2C598&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1074\" /><p>Through the platform, students will have access to discounted health products and discreet delivery to campuses and student hostels.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news",
+    "published": "Thu, 06 Aug 2026 08:27:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:13.570221+00:00",
+    "used": false
+  },
+  {
+    "id": "c2fe945d01a8fa09",
+    "source": "Premium Times",
+    "title": "Nairobi reflections (1): Reclaiming Africa’s leadership philosophy, By Olumide Frederick Adetiba",
+    "link": "https://www.premiumtimesng.com/opinion/901016-nairobi-reflections-1-reclaiming-africas-leadership-philosophy-by-olumide-frederick-adetiba.html",
+    "summary": "<img alt=\"Olumide Fred&#039; Adetiba\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"533\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/11/Olumide-Fred-Adetiba.jpg?fit=800%2C533&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>As someone whose work sits at the intersection of faith, leadership, governance, and development, I have become increasingly convinced that Africa&#8217;s greatest challenge is not merely a shortage of reso",
+    "published": "Thu, 06 Aug 2026 08:22:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:13.570276+00:00",
+    "used": false
+  },
+  {
+    "id": "737a0a1f08911738",
+    "source": "Premium Times",
+    "title": "A bond that must never be broken (4), By Femi Fani-Kayode",
+    "link": "https://www.premiumtimesng.com/opinion/900973-a-bond-that-must-never-be-broken-4-by-femi-fani-kayode.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"498\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/Femi-Fani-Kayode.jpeg?fit=604%2C498&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"604\" /><p>Who are these dangerous, violent and subversive elements that thrive on targeting and terrorising the weakest and most vulnerable Africans in their country and that make the old Ku Klux Klan of America, the old National Front of the UK",
+    "published": "Thu, 06 Aug 2026 07:41:18 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:13.570337+00:00",
+    "used": false
+  },
+  {
+    "id": "9e93511b2f3d62da",
+    "source": "Premium Times",
+    "title": "Abuja Earth Tremor: Alake calls for calm, directs agency to report updates",
+    "link": "https://www.premiumtimesng.com/news/top-news/901001-abuja-earth-tremor-alake-calls-for-calm-directs-agency-to-report-updates.html",
+    "summary": "<img alt=\"minister of solid minerals development, Dele Alake.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"984\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/GrgfPWoXgAA1ir5-e1761570050685.jpeg?fit=1573%2C984&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1573\" /><p>Mr Alake urged residents of the FCT to go about their normal routine without anxiety.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/901001-abuja",
+    "published": "Thu, 06 Aug 2026 06:48:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:13.570379+00:00",
+    "used": false
+  },
+  {
+    "id": "f830e9621655f18f",
+    "source": "Premium Times",
+    "title": "WAFCON 2026: Six key takeaways as Super Falcons crush Egypt to reach quarter-finals",
+    "link": "https://www.premiumtimesng.com/news/headlines/900997-wafcon-2026-six-key-takeaways-as-super-falcons-crush-egypt-to-reach-quarter-finals.html",
+    "summary": "<img alt=\"Super Falcons make it to the Quarters Credit: CAF Women on X\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"469\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003790999-e1785998396266.jpg?fit=675%2C469&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"675\" /><p>Beyond the convincing scoreline, the contest produced several narratives that could shape Nigeria's title bid as the tournament heads into the knockout rounds</p>\n<p>T",
+    "published": "Thu, 06 Aug 2026 06:43:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:13.570412+00:00",
+    "used": false
+  },
+  {
+    "id": "9324315961253e72",
+    "source": "Premium Times",
+    "title": "EXCLUSIVE: Auto dealer reveals details of vehicle purchases by coup suspect",
+    "link": "https://www.premiumtimesng.com/news/top-news/900986-exclusive-auto-dealer-reveals-details-of-vehicle-purchases-by-coup-suspect.html",
+    "summary": "<img alt=\"Auto dealer details N65 million vehicle purchases by alleged coup leader\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Another-image.png?fit=1536%2C1024&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>PREMIUM TIMES is reporting for the first time details of some vehicle purchases allegedly carried out by the suspected mastermind of the 2025 failed coup in the th",
+    "published": "Thu, 06 Aug 2026 06:00:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:13.570447+00:00",
+    "used": false
+  },
+  {
+    "id": "abcc14f231774cfc",
+    "source": "Leadership Newspaper",
+    "title": "‎Peter Okoye Confirms Jude’s Lawsuit To Stop Him From Performing P-Square Songs",
+    "link": "https://leadership.ng/peter-okoye-confirms-judes-lawsuit-to-stop-him-from-performing-p-square-songs/",
+    "summary": "‎Singer Peter Okoye has confirmed that his elder brother and former manager, Jude Okoye, has initiated another legal battle aimed at stopping him from performing songs released under the P-Square brand. ‎Peter made the allegation in a video shared on his official social media page, responding to earlier claims by Jude regarding P-Square&#8217;s ownership and [&#8230;]",
+    "published": "Thu, 06 Aug 2026 09:29:30 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:17.883640+00:00",
+    "used": false
+  },
+  {
+    "id": "672953cc08d62788",
+    "source": "Leadership Newspaper",
+    "title": "India Demands Apology From Mark Zuckerberg Over Removal Of Modi Video",
+    "link": "https://leadership.ng/india-demands-apology-from-mark-zuckerberg-over-removal-of-modi-video/",
+    "summary": "&#160; &#160; The Indian government has called on Meta Chief Executive Officer Mark Zuckerberg to apologise after a video featuring Prime Minister Narendra Modi was removed from the social media platform. &#160; The video, which showed Modi addressing students during youth-led protests on July 23, was briefly taken down from Meta platforms Facebook and Instagram [&#8230;]",
+    "published": "Thu, 06 Aug 2026 09:06:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:17.883682+00:00",
+    "used": false
+  },
+  {
+    "id": "92bd06e87d2f7b74",
+    "source": "Leadership Newspaper",
+    "title": "‎Ondo Tackles Hospital Power Crisis With 240kW Solar Intervention",
+    "link": "https://leadership.ng/ondo-tackles-hospital-power-crisis-with-240kw-solar-intervention/",
+    "summary": "‎The Ondo State Government has approved the installation of a 240kW solar power system at the University of Medical Sciences Teaching Hospital (UNIMEDTH), Ondo, in a move aimed at addressing electricity challenges and improving healthcare delivery in the state. ‎The project, according to the government, is designed to provide a reliable alternative energy source for [&#8230;]",
+    "published": "Thu, 06 Aug 2026 09:05:19 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:17.883709+00:00",
+    "used": false
+  },
+  {
+    "id": "6a94638c5c7aee45",
+    "source": "Leadership Newspaper",
+    "title": "AI Should Enhance Trust, Not Replace Human Engagements, Says Communication Expert",
+    "link": "https://leadership.ng/ai-should-enhance-trust-not-replace-human-engagements-says-communication-expert/",
+    "summary": "A marketing communications and public relations professional, Taiye Tunkarimu, has urged organisations to shift their focus from transactional engagements to trust-based relationships, insisting that sustainable business growth depends on credibility, transparency and meaningful stakeholder engagement rather than short-term exchanges. Tunkarimu made the call in a thought leadership piece titled: “Beyond Transactions: Building Relationships That Last,” [&#8230;]",
+    "published": "Thu, 06 Aug 2026 08:59:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:17.883745+00:00",
+    "used": false
+  },
+  {
+    "id": "cf9070a5626d39bb",
+    "source": "Leadership Newspaper",
+    "title": "Angelina Jolie Rejects Brad Pitt’s Demand For Past Financial Records In Ongoing Court Dispute",
+    "link": "https://leadership.ng/angelina-jolie-rejects-brad-pitts-demand-for-past-financial-records-in-ongoing-court-dispute/",
+    "summary": "Actress Angelina Jolie has asked a court to deny ex-husband Brad Pitt’s request for her historical financial records, arguing that his demands misrepresent her claims and invade her privacy. In a recent court filing, Jolie’s legal team pushed back against Pitt’s attempt to compel financial documents dating back to 2017. Pitt’s team had claimed that [&#8230;]",
+    "published": "Thu, 06 Aug 2026 08:58:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:17.883786+00:00",
+    "used": false
+  },
+  {
+    "id": "f138b00faa30da59",
+    "source": "Leadership Newspaper",
+    "title": "Nwankwo Reaches World U-20 100m Semi-finals As Team Nigeria Make Mixed Start In Eugene",
+    "link": "https://leadership.ng/nwankwo-reaches-world-u-20-100m-semi-finals-as-team-nigeria-make-mixed-start-in-eugene/",
+    "summary": "Team Nigeria made a mixed start to the 2026 World Athletics U-20 Championships in Eugene, Oregon, on Wednesday, with Rosemary Nwankwo progressing to the women’s 100 metres semi-finals, while the country’s mixed 4&#215;400 metres relay team failed to reach the final. Nigeria’s relay quartet of Dominion Udoh, Jecinta Lawrence, Perfect Faye and Faith Ezechukwu opened [&#8230;]",
+    "published": "Thu, 06 Aug 2026 08:36:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-06T09:39:17.883823+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -32568,6 +32997,17 @@
     "published": "Wed, 05 Aug 2026 18:40:23 +0000",
     "priority": "low",
     "fetched_at": "2026-08-05T20:54:08.846921+00:00",
+    "used": false
+  },
+  {
+    "id": "1474ecd1a3880ba4",
+    "source": "Premium Times",
+    "title": "Moses Itauma to fight for vacant IBF Heavyweight title after Usyk vacates belt",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/901037-moses-itauma-to-fight-for-vacant-ibf-heavyweight-title-after-usyk-vacates-belt.html",
+    "summary": "<img alt=\"Moses Itauma vs Filip Hrgović Credit: DAZN boxing on X\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"655\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003791678-e1786007634676.jpg?fit=1078%2C655&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1078\" /><p>The unbeaten 21-year-old heads into the biggest fight of his career, boasting a flawless record of 14 victories, including 12 knockouts, and victory would see him write hi",
+    "published": "Thu, 06 Aug 2026 09:15:49 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-06T09:39:13.570089+00:00",
     "used": false
   }
 ]
