@@ -811,7 +811,7 @@
     "published": "Wed, 15 Jul 2026 09:12:59 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:04.677377+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "5045b95fcd79c322",
@@ -14429,6 +14429,270 @@
     "published": "Fri, 07 Aug 2026 07:15:51 +0000",
     "priority": "high",
     "fetched_at": "2026-08-07T08:10:57.118049+00:00",
+    "used": false
+  },
+  {
+    "id": "2cb3ac55edcdf044",
+    "source": "Punch Nigeria",
+    "title": "Herder, 11 cows killed in Rivers road crash",
+    "link": "https://punchng.com/herder-11-cows-killed-in-rivers-road-crash/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A herder and 11 cows died in a tragic Rivers road crash on the East-West Road. Police confirm the incident and ongoing investigation.\n\nRead More: https://punchng.com/herder-11-cows-killed-in-rivers-road-crash/",
+    "published": "Fri, 07 Aug 2026 18:53:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547328+00:00",
+    "used": false
+  },
+  {
+    "id": "b21b89dcd090e3df",
+    "source": "Punch Nigeria",
+    "title": "Police rescue four kidnapped victims in Edo",
+    "link": "https://punchng.com/police-rescue-four-kidnapped-victims-in-edo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Edo State Police Command successfully rescued four kidnapped victims after a coordinated operation. Learn how police rescued victims from armed abductors.\n\nRead More: https://punchng.com/police-rescue-four-kidnapped-victims-in-edo/",
+    "published": "Fri, 07 Aug 2026 18:38:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547371+00:00",
+    "used": false
+  },
+  {
+    "id": "3bded3ad6854e8ce",
+    "source": "Punch Nigeria",
+    "title": "Makinde inaugurates 177 shops, motor park, other projects in Oyo",
+    "link": "https://punchng.com/makinde-inaugurates-177-shops-motor-park-other-projects-in-oyo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Governor Seyi Makinde inaugurates 177 shops, a motor park, and other projects in Oyo State, aiming to redefine governance and support local traders.\n\nRead More: https://punchng.com/makinde-inaugurates-177-shops-motor-park-other-projects-in-oyo/",
+    "published": "Fri, 07 Aug 2026 18:26:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547411+00:00",
+    "used": false
+  },
+  {
+    "id": "267d200948c80c71",
+    "source": "Punch Nigeria",
+    "title": "Osun-Osogbo Festival symbolises Yoruba culture, says Adeleke",
+    "link": "https://punchng.com/osun-osogbo-festival-symbolises-yoruba-culture-says-adeleke/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Governor Adeleke describes the annual Osun-Osogbo Festival as a symbol of Yoruba culture and a priceless heritage, attracting global visitors.\n\nRead More: https://punchng.com/osun-osogbo-festival-symbolises-yoruba-culture-says-adeleke/",
+    "published": "Fri, 07 Aug 2026 18:21:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547422+00:00",
+    "used": false
+  },
+  {
+    "id": "8eaac0c791cbe793",
+    "source": "Punch Nigeria",
+    "title": "We’ve reconstructed 42 roads in Ogun Central, says Abiodun",
+    "link": "https://punchng.com/weve-reconstructed-42-roads-in-ogun-central-says-abiodun/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Governor Dapo Abiodun announces the reconstruction of over 42 roads in Ogun Central, improving infrastructure and economic development across Ogun State.\n\nRead More: https://punchng.com/weve-reconstructed-42-roads-in-ogun-central-says-abiodun/",
+    "published": "Fri, 07 Aug 2026 18:16:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547438+00:00",
+    "used": false
+  },
+  {
+    "id": "5e09649adff537e0",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Gani Adams urges politicians to shun violence",
+    "link": "https://punchng.com/osun-poll-gani-adams-urges-politicians-to-shun-violence/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Gani Adams, Aare Ona Kakanfo, appeals to Osun politicians to prevent violence ahead of the August 15 governorship election. Avoid bloodshed and ensure a pe\n\nRead More: https://punchng.com/osun-poll-gani-adams-urges-politicians-to-shun-violence/",
+    "published": "Fri, 07 Aug 2026 17:56:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547469+00:00",
+    "used": false
+  },
+  {
+    "id": "9b1334afa76fc1a2",
+    "source": "Punch Nigeria",
+    "title": "Group begins Ondo voter mobilisation for Tinubu’s 2027 re-election",
+    "link": "https://punchng.com/group-begins-ondo-voter-mobilisation-for-tinubus-2027-te-election/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Asiwaju Mandate Group begins voter mobilisation in Ondo State for President Bola Tinubu&#8217;s 2027 re-election bid, addressing voter apathy.\n\nRead More: https://punchng.com/group-begins-ondo-voter-mobilisation-for-tinubus-2027-te-election/",
+    "published": "Fri, 07 Aug 2026 17:54:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547479+00:00",
+    "used": false
+  },
+  {
+    "id": "13785dce814b4cb0",
+    "source": "Punch Nigeria",
+    "title": "Let us reject violence, intimidation, Davido urges Osun voters",
+    "link": "https://punchng.com/let-us-reject-violence-intimidation-davido-urges-osun-voters/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Afrobeats star Davido calls on Osun voters and political actors to reject violence and intimidation, ensuring a peaceful and fair Osun election. Your vote\n\nRead More: https://punchng.com/let-us-reject-violence-intimidation-davido-urges-osun-voters/",
+    "published": "Fri, 07 Aug 2026 17:40:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547527+00:00",
+    "used": false
+  },
+  {
+    "id": "3e9af571d37c5b77",
+    "source": "Punch Nigeria",
+    "title": "Why Tinubu will win in 2027— Accord presidential candidate",
+    "link": "https://punchng.com/why-tinubu-will-win-in-2027-accord-presidential-candidate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Accord Party&#8217;s presidential candidate, Prof. Christopher Imumolen, explains why President Bola Tinubu is set to win the 2027 presidential election.\n\nRead More: https://punchng.com/why-tinubu-will-win-in-2027-accord-presidential-candidate/",
+    "published": "Fri, 07 Aug 2026 17:40:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547536+00:00",
+    "used": false
+  },
+  {
+    "id": "f24e9b155d0c3a16",
+    "source": "Punch Nigeria",
+    "title": "Fayose inaugurated as chairman of Rural Electrification Agency",
+    "link": "https://punchng.com/fayose-inaugurated-as-chairman-of-rural-electrification-agency/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Ekiti Governor, Ayodele Fayose, has been inaugurated as Chairman of the Rural Electrification Agency (REA) board, promising to expand electricity ac\n\nRead More: https://punchng.com/fayose-inaugurated-as-chairman-of-rural-electrification-agency/",
+    "published": "Fri, 07 Aug 2026 17:27:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:57.547546+00:00",
+    "used": false
+  },
+  {
+    "id": "126261b15f9591d4",
+    "source": "Premium Times",
+    "title": "IGP explains appointment of CP for Osun governorship election",
+    "link": "https://www.premiumtimesng.com/news/top-news/901350-igp-explains-appointment-of-cp-for-osun-governorship-election.html",
+    "summary": "<img alt=\"The Inspector-General of Police, Tunji Disu,\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1920\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_4370-scaled.jpeg?fit=2560%2C1920&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The Inspector-General of Police, Tunji Disu, said the appointment of election CP was to restore confidence in the Osun State Command of the police ahead of the August 15 governorship elect",
+    "published": "Fri, 07 Aug 2026 17:39:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:58.437892+00:00",
+    "used": false
+  },
+  {
+    "id": "dc827205418059fe",
+    "source": "Premium Times",
+    "title": "Osun Election: IGP assures voters of adequate security as Yiaga identifies 13 high-risk LGAs",
+    "link": "https://www.premiumtimesng.com/news/top-news/901343-osun-election-igp-assures-voters-of-adequate-security-as-yiaga-identifies-13-high-risk-lgas.html",
+    "summary": "<img alt=\"The Inspector-General of Police (IGP), Olatunji Disu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1920\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_4371-scaled.jpeg?fit=2560%2C1920&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The IGP attributed much of the violence in the state to pre-existing cult-related rivalries that had become intertwined with political competition.</p>\n<p>The post <a href=\"https:/",
+    "published": "Fri, 07 Aug 2026 17:33:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:58.437914+00:00",
+    "used": false
+  },
+  {
+    "id": "0c6a071f70380895",
+    "source": "Premium Times",
+    "title": "Lawmakers seek emergency parliamentary session over insecurity, budget implementation",
+    "link": "https://www.premiumtimesng.com/news/top-news/901344-lawmakers-seek-emergency-parliamentary-session-over-insecurity-budget-implementation.html",
+    "summary": "<img alt=\"House of Reps (Lawmakers) (PHOTO CREDIT: @HouseNGR)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1364\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/06/441933646_1017996359689358_8886543464785375474_n.jpg?fit=2048%2C1364&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The lawmakers say Nigeria’s democracy is in serious decline, citing alleged constitutional violations, persistent budget underperformance, opaque pub",
+    "published": "Fri, 07 Aug 2026 17:31:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:58.437936+00:00",
+    "used": false
+  },
+  {
+    "id": "e0eb581a116c67d5",
+    "source": "Premium Times",
+    "title": "Atiku raises alarm over suspicious credit alert in bank account",
+    "link": "https://www.premiumtimesng.com/news/headlines/901340-atiku-raises-alarm-over-suspicious-credit-alert-in-bank-account.html",
+    "summary": "<img alt=\"Former Vice President Atiku Abubakar [PHOTO CREDIT: ]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"624\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/597442938_1557789859036086_1432183470684074258_n.jpg?fit=1080%2C624&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>“Neither His Excellency nor his campaign solicited, authorised or has any knowledge of the individual or entity behind the unauthorised payment,” the",
+    "published": "Fri, 07 Aug 2026 17:22:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:58.437950+00:00",
+    "used": false
+  },
+  {
+    "id": "3409b2dec6430cd1",
+    "source": "Premium Times",
+    "title": "ACAMB holds Golf and Networking Experience to mark 30th anniversary",
+    "link": "https://www.premiumtimesng.com/promoted/901324-acamb-holds-golf-and-networking-experience-to-mark-30th-anniversary.html",
+    "summary": "<img alt=\"Captain, Ikoyi Club 1938, Afolabi Balogun; Head, Partnership and Hospitality, Golf Section, Ikoyi Club 1938; Rerhe Idonije; Deputy Vice Chairman, Ikoyi Club 1938; Bolaji Martins; President, Association of Corporate Communication and Marketing Professionals in Banks (ACAMB), Jide Sipe and Publicity Secretary, ACAMB, Abiodun Coker, during the Golf and Networking Experience hosted by ACAMB to commemorate its 30th anniversary celebration in Ikoyi, Lagos, recently\" class=\"webfeedsFeaturedVi",
+    "published": "Fri, 07 Aug 2026 17:16:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:58.437966+00:00",
+    "used": false
+  },
+  {
+    "id": "02a37347b7b2707c",
+    "source": "Premium Times",
+    "title": "Restricting civic space and battering democracy, By Jibrin Ibrahim",
+    "link": "https://www.premiumtimesng.com/opinion/901305-restricting-civic-space-and-battering-democracy-by-jibrin-ibrahim.html",
+    "summary": "<img alt=\"Professor Jibrin Ibrahim asks who is afraid of the ADC coalition.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"687\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/11/Jibrin-Ibrahim_headshot_LANSCAPE.jpg?fit=1024%2C687&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>The administration should immediately withdraw the Foreign Aids (Regulation, Transparency and Disclosure) Bill, 2026 (SB.1034), the Bill requiring social",
+    "published": "Fri, 07 Aug 2026 14:25:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:58.438081+00:00",
+    "used": false
+  },
+  {
+    "id": "389d7829d8e7f3bb",
+    "source": "Premium Times",
+    "title": "Davido, ex-presidential aide trade barbs amid Osun account freeze fallout",
+    "link": "https://www.premiumtimesng.com/news/top-news/901283-davido-ex-presidential-aide-trade-barbs-amid-osun-account-freeze-fallout.html",
+    "summary": "<img alt=\"Davido and former presidential aide Bashir Ahmad\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1440\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/MixCollage-07-Aug-2026-12-11-PM-592.jpg?fit=2560%2C1440&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Davido and Mr Ahmad exchanged words on X in a fallout of EFCC's controversial freezing of an Osun State Government's bank account.</p>\n<p>The post <a href=\"https://w",
+    "published": "Fri, 07 Aug 2026 11:16:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:53:58.438303+00:00",
+    "used": false
+  },
+  {
+    "id": "892b40205ab9e3a2",
+    "source": "Leadership Newspaper",
+    "title": "Norway Calls For Infantino’s Resignation As FIFA Faces Growing Opposition",
+    "link": "https://leadership.ng/norway-calls-for-infantinos-resignation-as-fifa-faces-growing-opposition/",
+    "summary": "Norway’s Football Federation has called on FIFA President Gianni Infantino to resign, intensifying growing opposition to his leadership following the collapse of a controversial proposal to privatise stakes in World Cup-related commercial interests. Norwegian Football Federation president Lise Klaveness made the call on Friday, citing what she described as a serious loss of institutional trust [&#8230;]",
+    "published": "Fri, 07 Aug 2026 17:37:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:54:01.689216+00:00",
+    "used": false
+  },
+  {
+    "id": "7aafefa30453b0c3",
+    "source": "Leadership Newspaper",
+    "title": "‎Osun-Osogbo Festival  Honours 600- Year Old Yoruba Cultural Heritage",
+    "link": "https://leadership.ng/osun-osogbo-festival-honours-600-year-old-yoruba-cultural-heritage/",
+    "summary": "‎The Osogbo Festival is set to reach its historic Grand Finale today, Friday, August 7, 2026, attracting over 500,000 local and international devotees. The festival, themed ‘Preserving Heritage, Inspiring the Future ’, has transformed the UNESCO-protected Osun Sacred Grove into an epicentre of Yoruba spirituality, art, and high-energy culture. ‎Today’s grand finale event will bring [&#8230;]",
+    "published": "Fri, 07 Aug 2026 16:59:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:54:01.689281+00:00",
+    "used": false
+  },
+  {
+    "id": "996d6cd24f78ef8a",
+    "source": "Leadership Newspaper",
+    "title": "Kogi Assembly Commends Energy Commission DG, Confirms SUBEB Member",
+    "link": "https://leadership.ng/kogi-assembly-commends-energy-commission-dg-confirms-subeb-member/",
+    "summary": "The Kogi State House of Assembly has resolved to commend the director-general and chief executive officer of the Energy Commission of Nigeria (ECN), Dr Mustapha Abdullahi, for his contributions to the development of the state and the country. The commendation followed a motion moved by Hon Suleiman Abdulrazak, who specifically cited Abdullahi’s role in facilitating [&#8230;]",
+    "published": "Fri, 07 Aug 2026 16:57:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:54:01.689298+00:00",
+    "used": false
+  },
+  {
+    "id": "f8a8e96761af09d2",
+    "source": "Leadership Newspaper",
+    "title": "Shippers’ Council Boss Akutah Denies Secret Talks Over Benue PDP Governorship Ticket",
+    "link": "https://leadership.ng/shippers-council-boss-akutah-denies-secret-talks-over-benue-pdp-governorship-ticket/",
+    "summary": "The Executive Secretary of the Nigerian Shippers’ Council, Dr. Pius Ukeyima Akutah, has denied reports linking him to alleged secret talks concerning the governorship ticket of the Peoples Democratic Party (PDP) in Benue State. In a statement issued by his Principal Private Adviser, Comrade Atir Solomon Faeren, Akutah described the report, attributed to an anonymous [&#8230;]",
+    "published": "Fri, 07 Aug 2026 16:55:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:54:01.689315+00:00",
+    "used": false
+  },
+  {
+    "id": "d76604901d45cdcc",
+    "source": "Leadership Newspaper",
+    "title": "Man Whose Wife, 6 Children Were Killed Remarries In Kano",
+    "link": "https://leadership.ng/man-whose-wife-6-children-were-killed-remarries-in-kano/",
+    "summary": "A man whose wife and six children were brutally murdered earlier this year, Haruna Bashir, has remarried during the Kano State Government&#8217;s mass wedding programme for 1,500 couples. Bashir&#8217;s wedding was held on Friday at the central Juma&#8217;at Mosque of the Emir&#8217;s Palace in Kano. He is now married to Nabila Kabiru Yunusa with a [&#8230;]",
+    "published": "Fri, 07 Aug 2026 16:46:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:54:01.689330+00:00",
+    "used": false
+  },
+  {
+    "id": "40bf5d2e2b4f1754",
+    "source": "Leadership Newspaper",
+    "title": "Osun Poll: Tinubu’s Directive To EFCC Shows Government At War With Itself – Reps Minority Caucus",
+    "link": "https://leadership.ng/osun-poll-tinubus-directive-to-efcc-shows-government-at-war-with-itself-reps-minority-caucus/",
+    "summary": "&#160; The House of Representatives Minority Caucus has accused President Bola Tinubu of issuing what it described as a “panicky, belated afterthought” directive to the Economic and Financial Crimes Commission (EFCC), arguing that the move exposed deep contradictions within the Federal Government and an alleged plot to intimidate the Osun State Government ahead of next [&#8230;]",
+    "published": "Fri, 07 Aug 2026 16:36:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:54:01.689340+00:00",
+    "used": false
+  },
+  {
+    "id": "70bbfb6f6708891e",
+    "source": "Leadership Newspaper",
+    "title": "Bandits Kill Mother, Son During Fresh Attack On Katsina Community",
+    "link": "https://leadership.ng/bandits-kill-mother-son-during-fresh-attack-on-katsina-community/",
+    "summary": "Armed bandits have allegedly killed a young phone charging shop operator and his mother during an attack on Unguwar Bako village in Kankara Local Government Area of Katsina State. According to a social media post shared by X (formerly Twitter) user @iambabangida, the attackers stormed a phone charging shop and ordered the operator to hand [&#8230;]",
+    "published": "Fri, 07 Aug 2026 16:28:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T17:54:01.689374+00:00",
     "used": false
   },
   {
@@ -31680,6 +31944,160 @@
     "used": false
   },
   {
+    "id": "133e537ab822dd89",
+    "source": "Punch Nigeria",
+    "title": "Minister hails NSCDC mining boss for restoring sanity to sector",
+    "link": "https://punchng.com/minister-hails-nscdc-mining-boss-for-restoring-sanity-to-sector/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Minister of Women Affairs commends NSCDC Mining Marshals Commander, Onoja Attah, for his leadership in combating illegal mining and protecting Nigeria&#8217;s mi\n\nRead More: https://punchng.com/minister-hails-nscdc-mining-boss-for-restoring-sanity-to-sector/",
+    "published": "Fri, 07 Aug 2026 18:44:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:57.547360+00:00",
+    "used": false
+  },
+  {
+    "id": "343bac92f826913a",
+    "source": "Punch Nigeria",
+    "title": "Family isn’t all you got, comedian Craze Clown reacts to PSquare feud",
+    "link": "https://punchng.com/family-isnt-all-you-got-comedian-craze-clown-reacts-to-psquare-feud/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Comedian Craze Clown weighs in on the ongoing PSquare feud, praising Peter Okoye&#8217;s resilience. Learn more about the latest family drama.\n\nRead More: https://punchng.com/family-isnt-all-you-got-comedian-craze-clown-reacts-to-psquare-feud/",
+    "published": "Fri, 07 Aug 2026 18:36:12 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:57.547400+00:00",
+    "used": false
+  },
+  {
+    "id": "163b57d12f906bc5",
+    "source": "Punch Nigeria",
+    "title": "Anambra court jails final year student for raping 10-year-old during skit making",
+    "link": "https://punchng.com/anambra-court-jails-final-year-student-for-raping-10-year-old-during-skit-making/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A final-year student in Anambra State has been sentenced to 25 years in prison for raping a 10-year-old girl during a skit-making session. Read more on thi\n\nRead More: https://punchng.com/anambra-court-jails-final-year-student-for-raping-10-year-old-during-skit-making/",
+    "published": "Fri, 07 Aug 2026 18:13:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:57.547459+00:00",
+    "used": false
+  },
+  {
+    "id": "17c3bb4aaf8b2fe9",
+    "source": "Punch Nigeria",
+    "title": "UNILAG releases 2026/2027 post-UTME results",
+    "link": "https://punchng.com/unilag-releases-2026-2027-post-utme-results/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The University of Lagos has released its 2026/2027 Post-UTME results. Check your UNILAG Post-UTME result now on the official portal.\n\nRead More: https://punchng.com/unilag-releases-2026-2027-post-utme-results/",
+    "published": "Fri, 07 Aug 2026 17:52:37 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:57.547496+00:00",
+    "used": false
+  },
+  {
+    "id": "509aa06d155d6622",
+    "source": "Punch Nigeria",
+    "title": "Maradona’s ‘Hand of God’ ball expected to fetch $10m at US auction",
+    "link": "https://punchng.com/maradonas-hand-of-god-ball-expected-to-fetch-10m-at-us-auction/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The iconic &#8216;Hand of God&#8217; ball used by Diego Maradona in the 1986 World Cup is set to be auctioned in the US, with bids expected to reach $10 million. Learn\n\nRead More: https://punchng.com/maradonas-hand-of-god-ball-expected-to-fetch-10m-at-us-auction/",
+    "published": "Fri, 07 Aug 2026 17:48:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:57.547520+00:00",
+    "used": false
+  },
+  {
+    "id": "5415424843bd81b7",
+    "source": "Premium Times",
+    "title": "NAFDAC warns of suspected counterfeit asthma medication found in Nigerian market",
+    "link": "https://www.premiumtimesng.com/health/health-news/901325-nafdac-warns-of-suspected-counterfeit-asthma-medication-found-in-nigerian-market.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"499\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/image0-5-e1786120041785.jpeg?fit=955%2C499&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"955\" /><p>It was reportedly found in Eastern Nigeria and traced to a distributor’s address at 15 Chizzon, Awada, Obosi North, Anambra State</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/health/health-news/901325-nafdac-warns-of-",
+    "published": "Fri, 07 Aug 2026 16:43:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:58.438008+00:00",
+    "used": false
+  },
+  {
+    "id": "d24fe6a23386a48e",
+    "source": "Premium Times",
+    "title": "Friday Sermon: Beware, the flesh of Islamic scholars (Ulama’) is poisonous!, By Murtadha Gusau",
+    "link": "https://www.premiumtimesng.com/opinion/901329-friday-sermon-beware-the-flesh-of-islamic-scholars-ulama-is-poisonous-by-murtadha-gusau.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"609\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/11/Imam-Murtadha-Gusau.jpeg?fit=640%2C609&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>In the name of Allah, Most Merciful, the Bestower of Mercy All praise is due to Allah, the Lord of the worlds and Lord of all creation — may the salutations of Allah, His peace and blessings be upon the noblest of all of the Prophet",
+    "published": "Fri, 07 Aug 2026 16:18:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:58.438060+00:00",
+    "used": false
+  },
+  {
+    "id": "a75083b4e02897c3",
+    "source": "Premium Times",
+    "title": "Sanwo-Olu, Fashola advocate non-interest finance to drive Nigeria’s economic growth",
+    "link": "https://www.premiumtimesng.com/news/top-news/901302-sanwo-olu-fashola-advocate-non-interest-finance-to-drive-nigerias-economic-growth.html",
+    "summary": "<img alt=\"Photo: L-R: Abayomi Oluyomi, Lagos State Commissioner for Finance; Korede Demola-Adeniyi, Executive Director, The Alternative Bank (AltBank), and Abubakar Suleiman, Non-Executive Director, Sterling Financial Holdings Company PLC, at AltBank&#039;s &#039;Beyond Interest&#039; event in Lagos... recently.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1495\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0818-scaled.jpeg?fit=2560%2C1495&amp;ssl=1\" style",
+    "published": "Fri, 07 Aug 2026 14:05:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:58.438128+00:00",
+    "used": false
+  },
+  {
+    "id": "70ada150dcde0c34",
+    "source": "Premium Times",
+    "title": "Otedola acquires additional 138 million First HoldCo shares worth ₦18.1 billion",
+    "link": "https://www.premiumtimesng.com/business/business-news/901301-otedola-acquires-additional-138-million-first-holdco-shares-worth-%e2%82%a618-1-billion.html",
+    "summary": "<img alt=\"Femi Otedola, Chairman, FirstHoldCo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"375\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/admin-ajax-1-1.jpg?fit=600%2C375&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>Mr Otedola now holds approximately 11.9 billion shares in the financial institution, valued at about ₦1.74 trillion based on the company's share price of ₦146.20 as of 12:35 p.m. (WAT) on 7 August.</p>\n<",
+    "published": "Fri, 07 Aug 2026 13:43:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:58.438165+00:00",
+    "used": false
+  },
+  {
+    "id": "33f472f242019997",
+    "source": "Premium Times",
+    "title": "JRS launches project to strengthen oil spill resilience in Akwa Ibom community",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/901295-jrs-launches-project-to-strengthen-oil-spill-resilience-in-akwa-ibom-community.html",
+    "summary": "<img alt=\"Stakeholders in a group photo after the inception meeting on the project to strengthen oil spill resilience in Akwa Ibom\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Stakeholders-in-a-group-photo-after-the-inception-meeting-on-the-project-to-strengthen-oil-spill-resilience-in-Akwa-Ibom-scaled-e1786107378295.jpg?fit=2560%2C1600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" widt",
+    "published": "Fri, 07 Aug 2026 12:56:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:58.438209+00:00",
+    "used": false
+  },
+  {
+    "id": "848c0d5b3641da2e",
+    "source": "Premium Times",
+    "title": "WAFCON 2026: Nigeria-Cameroon, Morocco-South Africa headline blockbuster quarter-finals",
+    "link": "https://www.premiumtimesng.com/news/901275-wafcon-2026-nigeria-cameroon-morocco-south-africa-headline-blockbuster-quarter-finals.html",
+    "summary": "<img alt=\"(CREDIT: CAF Women on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"750\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Untitled-design-23.jpg?fit=1080%2C750&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>For Cameroon, the quarter-final represents another significant test of their credentials.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/901275-wafcon-2026-nigeria-cameroon-morocco-south-africa-",
+    "published": "Fri, 07 Aug 2026 10:30:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:53:58.438338+00:00",
+    "used": false
+  },
+  {
+    "id": "439fe5c7a1114171",
+    "source": "Leadership Newspaper",
+    "title": "Man City Reject Barcelona’s £38.5m Rodri Bid, Demand £60m",
+    "link": "https://leadership.ng/man-city-reject-barcelonas-38-5m-rodri-biddemand-60m/",
+    "summary": "Manchester City have turned down Barcelona’s opening £38.5 million offer for midfielder Rodri, with the Premier League champions holding out for more than £60 million for the 30-year-old Ballon d’Or winner. The Spaniard, entering the final year of his contract at the Etihad, has yet to sign an extension. While Real Madrid appeared his likely [&#8230;]",
+    "published": "Fri, 07 Aug 2026 17:32:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:54:01.689259+00:00",
+    "used": false
+  },
+  {
+    "id": "b941bf5d685f07b0",
+    "source": "Leadership Newspaper",
+    "title": "Nigerian Navy Recovers 105,000 Litres Of Stolen Crude In Delta",
+    "link": "https://leadership.ng/nigerian-navy-recovers-105000-litres-of-stolen-crude-in-delta/",
+    "summary": "The Nigerian Navy has recovered approximately 105,000 litres of products suspected to be stolen crude oil during a series of anti-crude oil theft operations in Delta State. A statement by the Naval Spokesman,Navy Captain Abiodun Folorunsho said the operations, conducted within the Nigerian Navy Ship (NNS) DELTA Area of Operation, led to the discovery of [&#8230;]",
+    "published": "Fri, 07 Aug 2026 16:34:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:54:01.689364+00:00",
+    "used": false
+  },
+  {
+    "id": "c2ae86fa0fad5add",
+    "source": "Leadership Newspaper",
+    "title": "Zamfara APC Primaries: Court Fixes August 31 For Judgment",
+    "link": "https://leadership.ng/zamfara-apc-primaries-court-fixes-august-31-for-judgment/",
+    "summary": "&#160; The Federal High Court sitting in Gusau, Zamfara State capital, has fixed August 31, 2026, for judgment in a suit filed by the All Progressives Congress, APC, senatorial candidate, Sani Abdullahi Shinkafi, against Senator Sahabi Ya’u Kaura, the APC and the Independent National Electoral Commission, INEC. The presiding judge, Justice Hussaini Dikko, fixed the [&#8230;]",
+    "published": "Fri, 07 Aug 2026 16:25:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T17:54:01.689396+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -33811,6 +34229,28 @@
     "published": "Fri, 07 Aug 2026 07:24:59 +0000",
     "priority": "low",
     "fetched_at": "2026-08-07T08:10:57.117963+00:00",
+    "used": false
+  },
+  {
+    "id": "f2f2dc926068551c",
+    "source": "Premium Times",
+    "title": "Omidiran pledges support for ABU’s 2028 NUGA, sports excellence drive",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/901291-omidiran-pledges-support-for-abus-2028-nuga-sports-excellence-drive.html",
+    "summary": "<img alt=\"Ayo Omidiran with the ABU delegation (Credit: FCC Media)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"854\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003804074.jpg?fit=1280%2C854&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>An alumna of the institution, Ms Omidiran said Ahmadu Bello University (ABU), Zaria, played a defining role in shaping her leadership journey</p>\n<p>The post <a href=\"https://www.premi",
+    "published": "Fri, 07 Aug 2026 12:50:53 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-07T17:53:58.438249+00:00",
+    "used": false
+  },
+  {
+    "id": "57b74610e4aab705",
+    "source": "Premium Times",
+    "title": "“Our mum asked Paul and Jude to apologise before she died, but they never did” — Mr P",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/901288-our-mum-asked-paul-and-jude-to-apologise-before-she-died-but-they-never-did-mr-p.html",
+    "summary": "<img alt=\"Peter, Jude and Paul Okoye\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"452\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Peter-Jude-and-Paul-Okoye.png?fit=750%2C452&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"750\" /><p>The singer made fresh allegations about his family’s opposition to his relationship with Lola Omotayo and accused Jude Okoye of insulting his wife, their son and skipping his wedding.</p>\n<p>The post <",
+    "published": "Fri, 07 Aug 2026 12:45:36 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-07T17:53:58.438296+00:00",
     "used": false
   }
 ]
