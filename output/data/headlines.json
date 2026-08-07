@@ -822,7 +822,7 @@
     "published": "Wed, 15 Jul 2026 08:43:03 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:04.677392+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "3a3c2637b6d7d1af",
@@ -14693,6 +14693,138 @@
     "published": "Fri, 07 Aug 2026 16:28:30 +0000",
     "priority": "high",
     "fetched_at": "2026-08-07T17:54:01.689374+00:00",
+    "used": false
+  },
+  {
+    "id": "fd4d2940cb9bde44",
+    "source": "Punch Nigeria",
+    "title": "Gombe merges education ministries as Yahaya restructures sector",
+    "link": "https://punchng.com/gombe-merges-education-ministries-as-yahaya-restructures-sector/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Gombe State Governor, Muhammadu Yahaya, merges education ministries as part of a major restructuring to revitalise the sector. Learn about the Gombe educat\n\nRead More: https://punchng.com/gombe-merges-education-ministries-as-yahaya-restructures-sector/",
+    "published": "Fri, 07 Aug 2026 21:17:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:32.575494+00:00",
+    "used": false
+  },
+  {
+    "id": "9d16ef398942f546",
+    "source": "Punch Nigeria",
+    "title": "Tijaniyya supreme council visits Tinubu following passing of Sheikh Bauchi",
+    "link": "https://punchng.com/tijaniyya-supreme-council-visits-tinubu-following-passing-of-sheikh-bauchi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Tijaniyya Supreme Council visited President Tinubu to condole him on the passing of Sheikh Dahiru Bauchi. Read about the delegation&#8217;s visit and Tinubu&#8217;\n\nRead More: https://punchng.com/tijaniyya-supreme-council-visits-tinubu-following-passing-of-sheikh-bauchi/",
+    "published": "Fri, 07 Aug 2026 19:47:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:32.575677+00:00",
+    "used": false
+  },
+  {
+    "id": "eca03f34344215cb",
+    "source": "Punch Nigeria",
+    "title": "Police arrest 30-year-old man for killing father in Adamawa",
+    "link": "https://punchng.com/police-arrest-30-year-old-man-for-killing-father-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adamawa police arrest Peter Sinamai, 30, for allegedly killing his father and dumping the body in a well. Thorough investigation underway.\n\nRead More: https://punchng.com/police-arrest-30-year-old-man-for-killing-father-in-adamawa/",
+    "published": "Fri, 07 Aug 2026 19:36:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:32.575686+00:00",
+    "used": false
+  },
+  {
+    "id": "b49ef4a3c3476c69",
+    "source": "Punch Nigeria",
+    "title": "Ex-IG Okiro visits CityBoy Movement office in Abia, lauds Seyi Tinubu",
+    "link": "https://punchng.com/ex-ig-okiro-visits-cityboy-movement-office-in-abia-lauds-seyi-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former IGP Mike Okiro visited the CityBoy Movement office in Abia, commending Seyi Tinubu for the initiative and urging support for President Bola Tinubu&#8217;s\n\nRead More: https://punchng.com/ex-ig-okiro-visits-cityboy-movement-office-in-abia-lauds-seyi-tinubu/",
+    "published": "Fri, 07 Aug 2026 19:07:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:32.575744+00:00",
+    "used": false
+  },
+  {
+    "id": "c71307bba87e2804",
+    "source": "Punch Nigeria",
+    "title": "Delta APC begins reconciliation drive ahead of 2027 elections",
+    "link": "https://punchng.com/delta-apc-begins-reconciliation-drive-ahead-of-2027-elections/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Delta APC starts reconciliation efforts and grassroots strengthening for 2027 elections. Learn how the party plans to unite members and prepare for polls.\n\nRead More: https://punchng.com/delta-apc-begins-reconciliation-drive-ahead-of-2027-elections/",
+    "published": "Fri, 07 Aug 2026 18:58:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:32.575751+00:00",
+    "used": false
+  },
+  {
+    "id": "10392ccb9c94c91b",
+    "source": "Premium Times",
+    "title": "EFCC’s over-sabi and 2027 question: Is Tinubu being misled by his inner circle?, By Yushau A. Shuaib",
+    "link": "https://www.premiumtimesng.com/opinion/901382-efccs-over-sabi-and-2027-question-is-tinubu-being-misled-by-his-inner-circle-by-yushau-a-shuaib.html",
+    "summary": "<img alt=\"Yushau Shuaib\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"458\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/09/admin-ajax-2025-09-21T190258.931.jpg?fit=600%2C458&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>After the bishops’ recent closed‑door meeting with President Bola Ahmed Tinubu, Cardinal John Onaiyekan made a striking claim: that presidential aides are shielding the President from the true suffering in t",
+    "published": "Fri, 07 Aug 2026 20:10:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:33.568763+00:00",
+    "used": false
+  },
+  {
+    "id": "212493990e632293",
+    "source": "Premium Times",
+    "title": "Lagos govt arrests 27 over alleged vandalism of newly built Festac-Alakija bridge",
+    "link": "https://www.premiumtimesng.com/news/top-news/901361-lagos-govt-arrests-27-over-alleged-vandalism-of-newly-built-festac-alakija-bridge.html",
+    "summary": "<img alt=\"Lagos State Commissioner for the Environment and Water Resources, Tokunbo Wahab,\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/Tokunbo-Wahab--e1782478729644.jpg?fit=767%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"767\" /><p>The state government the suspects were arrested during a joint overnight operation involving operatives of the Rapid Response Squad (RRS) and t",
+    "published": "Fri, 07 Aug 2026 17:57:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:33.568868+00:00",
+    "used": false
+  },
+  {
+    "id": "3db4cf98d8c9943f",
+    "source": "Leadership Newspaper",
+    "title": "How I Got N2.5bn Loans From BoA, BoI For Farming – Gov Buni",
+    "link": "https://leadership.ng/how-i-got-n2-5bn-loans-from-boa-boi-for-farming-gov-buni/",
+    "summary": "Yobe State governor, Mai Mala Buni, has revealed how he secured loans worth N2.5 billion from the Bank of Agriculture (BoA) and the Bank of Industry (BoI) shortly after assuming office in 2019 to invest in farming and boost economic activities in the state. The governor disclosed that he obtained N2 billion from the Bank [&#8230;]",
+    "published": "Fri, 07 Aug 2026 20:04:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:36.834186+00:00",
+    "used": false
+  },
+  {
+    "id": "3bab2adc968d1dc9",
+    "source": "Leadership Newspaper",
+    "title": "NHRC, Police Promote Human Rights To Rebuild Public Trust",
+    "link": "https://leadership.ng/nhrc-police-promote-human-rights-to-rebuild-public-trust/",
+    "summary": "Nigeria&#8217;s drive to reform its policing system gathered fresh momentum on Friday as the National Human Rights Commission (NHRC), the Nigeria Police Force (NPF) and other key stakeholders launched a renewed campaign to stamp out torture, arbitrary arrests and other human rights abuses by embedding rights-based policing into everyday law enforcement operations. The renewed push [&#8230;]",
+    "published": "Fri, 07 Aug 2026 19:56:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:36.834197+00:00",
+    "used": false
+  },
+  {
+    "id": "213eb4e397a8c8ec",
+    "source": "Leadership Newspaper",
+    "title": "Makinde Condemns Alleged Use Of Federal Institutions Against Opposition States",
+    "link": "https://leadership.ng/makinde-condemns-alleged-use-of-federal-institutions-against-opposition-states/",
+    "summary": "Oyo State governor, Seyi Makinde, has condemned what he described as the increasing use of federal institutions to undermine governance in opposition-controlled states, insisting that the rule of law must take precedence over political interests. Makinde made the remarks in a statement shared on his official Facebook page, where he criticised the alleged freezing of [&#8230;]",
+    "published": "Fri, 07 Aug 2026 19:48:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:36.834211+00:00",
+    "used": false
+  },
+  {
+    "id": "4fd618b339ded3c9",
+    "source": "Leadership Newspaper",
+    "title": "You Remain My Son, But I’m Not An Osun Voter, Uzodinma Tells Davido",
+    "link": "https://leadership.ng/you-remain-my-son-but-im-not-an-osun-voter-uzodinma-tells-davido/",
+    "summary": "Imo State governor, Hope Uzodimma, has distanced himself from comments made by his aide, Ambrose Nwogwugwu, regarding Nigerian music star David Adeleke, popularly known as Davido, insisting that the remarks did not reflect his position ahead of the August 15 Osun State governorship election. Uzodimma, who chairs the Progressive Governors Forum (PGF) and the All [&#8230;]",
+    "published": "Fri, 07 Aug 2026 19:37:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:36.834279+00:00",
+    "used": false
+  },
+  {
+    "id": "304b0e669ec3e236",
+    "source": "Leadership Newspaper",
+    "title": "Senegal Court Jails 3 TikTok Influencers For Insulting President",
+    "link": "https://leadership.ng/senegal-court-jails-3-tiktok-influencers-for-insulting-president/",
+    "summary": "A court in Senegal has sentenced three TikTok influencers to prison and imposed fines on two of them for allegedly insulting President Bassirou Diomaye Faye, a decision that has sparked criticism from free speech advocates. According to Reuters, the three men are affiliated with Feenal Digital, an online communications platform that produces content some observers [&#8230;]",
+    "published": "Fri, 07 Aug 2026 19:34:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-07T20:26:36.834285+00:00",
     "used": false
   },
   {
@@ -32098,6 +32230,193 @@
     "used": false
   },
   {
+    "id": "851000c5bacf78af",
+    "source": "Punch Nigeria",
+    "title": "NELFUND boss urges N-Central students to Key Into loan scheme",
+    "link": "https://punchng.com/nelfund-boss-urges-n-central-students-to-key-into-loan-scheme/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NELFUND MD, Dr. Akintunde Sawyerr, encourages North Central students to apply for the N303 billion NELFUND loan scheme, emphasizing easy online access.\n\nRead More: https://punchng.com/nelfund-boss-urges-n-central-students-to-key-into-loan-scheme/",
+    "published": "Fri, 07 Aug 2026 21:12:56 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575535+00:00",
+    "used": false
+  },
+  {
+    "id": "eade6873093d4a91",
+    "source": "Punch Nigeria",
+    "title": "Osun account freeze: EFCC acted within the law –  Femi Falana",
+    "link": "https://punchng.com/osun-account-freeze-efcc-acted-within-the-law-femi-falana/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Femi Falana, SAN, confirms EFCC acted within the law by freezing Osun State&#8217;s account, citing court precedents on EFCC powers to investigate state funds.\n\nRead More: https://punchng.com/osun-account-freeze-efcc-acted-within-the-law-femi-falana/",
+    "published": "Fri, 07 Aug 2026 20:51:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575562+00:00",
+    "used": false
+  },
+  {
+    "id": "84703a8ad43d5af6",
+    "source": "Punch Nigeria",
+    "title": "Jigawa approves N53,853 refund for each 2026 Hajj pilgrim",
+    "link": "https://punchng.com/jigawa-approves-n53853-refund-for-each-2026-hajj-pilgrim/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Jigawa State Government approves a N53,853 refund for each 2026 Hajj pilgrim after remitting N44.9m in excess funds. Learn more about the successful Hajj o\n\nRead More: https://punchng.com/jigawa-approves-n53853-refund-for-each-2026-hajj-pilgrim/",
+    "published": "Fri, 07 Aug 2026 20:45:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575581+00:00",
+    "used": false
+  },
+  {
+    "id": "361205ed32000788",
+    "source": "Punch Nigeria",
+    "title": "I’m coming back stronger, Broda Shaggi breaks silence",
+    "link": "https://punchng.com/im-coming-back-stronger-broda-shaggi-breaks-silence/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Broda Shaggi thanks loyal fans for support during his absence and promises a stronger return. Read his emotional message and hints about his comeback.\n\nRead More: https://punchng.com/im-coming-back-stronger-broda-shaggi-breaks-silence/",
+    "published": "Fri, 07 Aug 2026 20:25:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575606+00:00",
+    "used": false
+  },
+  {
+    "id": "d44ed40acab418b6",
+    "source": "Punch Nigeria",
+    "title": "Abia pledges improved welfare for corps members",
+    "link": "https://punchng.com/abia-pledges-improved-welfare-for-corps-members/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Abia State Government unveils comprehensive welfare, infrastructure, and entrepreneurship initiatives for Batch B Stream II corps members, prioritizing the\n\nRead More: https://punchng.com/abia-pledges-improved-welfare-for-corps-members/",
+    "published": "Fri, 07 Aug 2026 20:21:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575631+00:00",
+    "used": false
+  },
+  {
+    "id": "b966dd8b4ae2735f",
+    "source": "Punch Nigeria",
+    "title": "How to become next Miss Nigeria",
+    "link": "https://punchng.com/how-to-become-next-miss-nigeria/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Aspiring beauty queens, learn how to apply for the 46th Miss Nigeria pageant. Discover eligibility, required documents, and application steps to become the\n\nRead More: https://punchng.com/how-to-become-next-miss-nigeria/",
+    "published": "Fri, 07 Aug 2026 20:08:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575649+00:00",
+    "used": false
+  },
+  {
+    "id": "777a32c90987aded",
+    "source": "Punch Nigeria",
+    "title": "Canada adds 75,000 jobs in July as unemployment falls to two-year low",
+    "link": "https://punchng.com/canada-adds-75000-jobs-in-july-as-unemployment-falls-to-two-year-low/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Canada&#8217;s economy added 75,000 jobs in July, pushing the unemployment rate to a two-year low of 6.4%. Discover how Canada jobs are thriving despite US tarif\n\nRead More: https://punchng.com/canada-adds-75000-jobs-in-july-as-unemployment-falls-to-two-year-low/",
+    "published": "Fri, 07 Aug 2026 19:53:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575669+00:00",
+    "used": false
+  },
+  {
+    "id": "169292917b8ea678",
+    "source": "Punch Nigeria",
+    "title": "EFCC arraigns three over N652m theft, money laundering",
+    "link": "https://punchng.com/efcc-arraigns-three-over-n652m-theft-money-laundering/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The EFCC has arraigned three individuals and two companies for allegedly stealing and laundering N652.18 million from Petrocam Trading Nigeria Limited.\n\nRead More: https://punchng.com/efcc-arraigns-three-over-n652m-theft-money-laundering/",
+    "published": "Fri, 07 Aug 2026 19:29:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575704+00:00",
+    "used": false
+  },
+  {
+    "id": "036dd34fbe07cfaf",
+    "source": "Punch Nigeria",
+    "title": "Nigeria’s public debt hit N159.35tn in March — DMO",
+    "link": "https://punchng.com/nigerias-public-debt-hit-n159-35tn-in-march-dmo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria&#8217;s total public debt stock surged to N159.35tn by March 2026, according to the DMO. Discover the latest figures and implications for the economy.\n\nRead More: https://punchng.com/nigerias-public-debt-hit-n159-35tn-in-march-dmo/",
+    "published": "Fri, 07 Aug 2026 19:25:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:32.575722+00:00",
+    "used": false
+  },
+  {
+    "id": "7626e1ccbef954e6",
+    "source": "Premium Times",
+    "title": "EFCC returns recovered N125 million to Lagos land fraud victim",
+    "link": "https://www.premiumtimesng.com/news/top-news/901384-efcc-returns-recovered-n125-million-to-lagos-land-fraud-victim.html",
+    "summary": "<img alt=\"EFCC handed over N125 million recovered from an alleged land fraud suspect to Lagos businessman, Akinsewa Akiode.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"853\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1000965228.jpg?fit=1280%2C853&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>After concluding its investigation, the EFCC said it recovered the full N125 million from the suspect and returned the money to",
+    "published": "Fri, 07 Aug 2026 20:18:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:33.568734+00:00",
+    "used": false
+  },
+  {
+    "id": "590c85fe42aeb1d2",
+    "source": "Premium Times",
+    "title": "Court orders Dana Air to pay passenger N5.5 million over 11-hour flight delay",
+    "link": "https://www.premiumtimesng.com/news/top-news/901368-court-orders-dana-air-to-pay-passenger-n5-5-million-over-11-hour-flight-delay.html",
+    "summary": "<img alt=\"Dana Air [PHOTO CREDIT: Dana Air]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"457\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2020/07/about-us3.jpg?fit=1000%2C457&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>The judge noted that once an airline accepts a passenger's ticket, it assumes a contractual obligation to transport the passenger as agreed.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-ne",
+    "published": "Fri, 07 Aug 2026 18:16:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:33.568823+00:00",
+    "used": false
+  },
+  {
+    "id": "1058bf27c34176f2",
+    "source": "Premium Times",
+    "title": "Court jails four over $5.2 million money laundering scheme in Lagos",
+    "link": "https://www.premiumtimesng.com/news/top-news/901351-court-jails-four-over-5-2-million-money-laundering-scheme-in-lagos.html",
+    "summary": "<img alt=\"The four persons convicted and sentenced to prison for their roles in a money laundering scheme involving more than $5.2 million.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"941\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/ChatGPT-Image-Aug-7-2026-07_05_52-PM.png?fit=1672%2C941&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1672\" /><p>The four convicts were said to have sold their personal information to one Afeez Anim",
+    "published": "Fri, 07 Aug 2026 18:07:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:33.568851+00:00",
+    "used": false
+  },
+  {
+    "id": "d764bd5362b03144",
+    "source": "Leadership Newspaper",
+    "title": "CSO Demands Accountability For ₦60bn Oil Community Development Fund",
+    "link": "https://leadership.ng/cso-demands-accountability-for-%e2%82%a660bn-oil-community-development-fund/",
+    "summary": "The Centre for Human Rights and Accountability Network (CHRAN), a Civil Society Organisation (CSO) committed to good governance, poverty alleviation and human rights protection has expressed concern over widespread allegations of fraud and misappropriation of the N60billion budget allocated to the Host Community Development Trust (HCDT) for the development of oil and gas host communities [&#8230;]",
+    "published": "Fri, 07 Aug 2026 20:10:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:36.834161+00:00",
+    "used": false
+  },
+  {
+    "id": "5ffef102002ae18c",
+    "source": "Leadership Newspaper",
+    "title": "AI, Poor Governance Aid Transnational Scams —UN Agency",
+    "link": "https://leadership.ng/ai-poor-governance-aid-transnational-scams-un-agency/",
+    "summary": "Nigeria has emerged as one of the new destinations for transnational cybercrime syndicates relocating from Southeast Asia following intensified crackdowns by regional governments, a new United Nations report has revealed. The report, published by the United Nations Office on Drugs and Crime (UNODC), warned that criminal organisations behind large-scale online fraud operations are increasingly moving [&#8230;]",
+    "published": "Fri, 07 Aug 2026 19:45:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:36.834240+00:00",
+    "used": false
+  },
+  {
+    "id": "4c87a76c8ab63daf",
+    "source": "Leadership Newspaper",
+    "title": "BOOK REVIEW: Under The Bridge of the Nation: On A Portrait Of Paradise",
+    "link": "https://leadership.ng/book-review-under-the-bridge-of-the-nation-on-a-portrait-of-paradise/",
+    "summary": "Reviewer: Professor Olu Obafemi Professor Iyorwuese Hagher’s A Portrait of Paradise arrives like a furious wind from the postcolonial tropics — prophetic, theatrical, grotesque, and morally wounded. It is the kind of African political novel that rejects the polite discipline of realism. Instead, it opts for excess, allegory, satire, lamentation, and visionary rage. In its [&#8230;]",
+    "published": "Fri, 07 Aug 2026 19:40:56 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:36.834268+00:00",
+    "used": false
+  },
+  {
+    "id": "4ce5397d2c950a13",
+    "source": "Leadership Newspaper",
+    "title": "EFCC Arraigns 3, 2 Firms Over Alleged N652m Petrocam Fraud",
+    "link": "https://leadership.ng/efcc-arraigns-3-2-firms-over-alleged-n652m-petrocam-fraud/",
+    "summary": "The Lagos Zonal Directorate 2 of the Economic and Financial Crimes Commission (EFCC), has arraigned three individuals and two companies before the Special Offences Court in Ikeja, Lagos, over the alleged theft and laundering of N652.18 million belonging to Petrocam Trading Nigeria Limited. The defendants — Jacob Acheneje Okolo, Yakubu Wisdom Onu Solomon, Issa Aloba [&#8230;]",
+    "published": "Fri, 07 Aug 2026 19:32:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:36.834307+00:00",
+    "used": false
+  },
+  {
+    "id": "b0a3adfba42c30a3",
+    "source": "Leadership Newspaper",
+    "title": "Canada Adds 75,000 Jobs As Unemployment Falls To 2-Year Low",
+    "link": "https://leadership.ng/canada-adds-75000-jobs-as-unemployment-falls-to-2-year-low/",
+    "summary": "Canada&#8217;s economy added 75,000 jobs in July, pushing the unemployment rate down to 6.4 per cent, its lowest level in two years, as the labour market continued to show resilience despite ongoing trade tensions with the United States. Statistics Canada, in data released on Friday, said employment growth was evenly split between full-time and part-time [&#8230;]",
+    "published": "Fri, 07 Aug 2026 19:29:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-07T20:26:36.834324+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -34251,6 +34570,28 @@
     "published": "Fri, 07 Aug 2026 12:45:36 +0000",
     "priority": "low",
     "fetched_at": "2026-08-07T17:53:58.438296+00:00",
+    "used": false
+  },
+  {
+    "id": "8f5b66a637db8b67",
+    "source": "Punch Nigeria",
+    "title": "Alaafin hails autonomy for Oyo passport office",
+    "link": "https://punchng.com/alaafin-hails-autonomy-for-oyo-passport-office/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Alaafin of Oyo praises the new autonomy of the Oyo Passport Office, highlighting its benefits for decentralised services and local development.\n\nRead More: https://punchng.com/alaafin-hails-autonomy-for-oyo-passport-office/",
+    "published": "Fri, 07 Aug 2026 19:20:46 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-07T20:26:32.575738+00:00",
+    "used": false
+  },
+  {
+    "id": "dafd081754ebe648",
+    "source": "Premium Times",
+    "title": "NPFL: Shooting Stars, Inter Lagos to kick off season with South-West derby",
+    "link": "https://www.premiumtimesng.com/sports/football/901371-npfl-shooting-stars-inter-lagos-to-kick-off-season-with-south-west-derby.html",
+    "summary": "<img alt=\"NPFL match ball Credit: NPFL X Page\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"537\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003806890.jpg?fit=718%2C537&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"718\" /><p>The fixtures were released during the league's Annual General Meeting (AGM) in Ibadan</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/sports/football/901371-npfl-shooting-stars-inter-lagos-to-kick-of",
+    "published": "Fri, 07 Aug 2026 19:06:21 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-07T20:26:33.568795+00:00",
     "used": false
   }
 ]
