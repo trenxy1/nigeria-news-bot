@@ -833,7 +833,7 @@
     "published": "Wed, 15 Jul 2026 12:02:28 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:06.739823+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "a57f2dd59e1ecb5d",
@@ -14825,6 +14825,116 @@
     "published": "Fri, 07 Aug 2026 19:34:19 +0000",
     "priority": "high",
     "fetched_at": "2026-08-07T20:26:36.834285+00:00",
+    "used": false
+  },
+  {
+    "id": "b5e8ee2e1a339069",
+    "source": "Punch Nigeria",
+    "title": "Morning Recap: Planned police deployment for Osun poll, PFIPC scandal, Basketball age controversy, other top stories",
+    "link": "https://punchng.com/morning-recap-planned-police-deployment-for-osun-poll-pfipc-scandal-basketball-age-controversy-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ahead of the Osun State governorship election, the Nigeria Police Force plans to deploy four officers per polling unit to ensure a peaceful voting process.\n\nRead More: https://punchng.com/morning-recap-planned-police-deployment-for-osun-poll-pfipc-scandal-basketball-age-controversy-other-top-stories/",
+    "published": "Sat, 08 Aug 2026 08:09:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:30.100433+00:00",
+    "used": false
+  },
+  {
+    "id": "a595b463eac9435d",
+    "source": "Punch Nigeria",
+    "title": "I helped 10 pregnant women deliver babies bare-handed in captivity — Rescued Kwara nurse",
+    "link": "https://punchng.com/i-helped-10-pregnant-women-deliver-babies-bare-handed-in-captivity-rescued-kwara-nurse/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Rescued Kwara nurse recounts harrowing six months in captivity, delivering 10 babies bare-handed amidst harsh conditions and terrorist threats.\n\nRead More: https://punchng.com/i-helped-10-pregnant-women-deliver-babies-bare-handed-in-captivity-rescued-kwara-nurse/",
+    "published": "Sat, 08 Aug 2026 07:52:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:30.100456+00:00",
+    "used": false
+  },
+  {
+    "id": "050cd4f672293a14",
+    "source": "Punch Nigeria",
+    "title": "Why FCT is excluded from state police – Senate",
+    "link": "https://punchng.com/why-fct-is-excluded-from-state-police-senate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Senate clarifies why the FCT is excluded from the proposed state police arrangement, citing its unique administrative structure under the Federal Gover\n\nRead More: https://punchng.com/why-fct-is-excluded-from-state-police-senate/",
+    "published": "Sat, 08 Aug 2026 07:48:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:30.100490+00:00",
+    "used": false
+  },
+  {
+    "id": "dadf17c1dfc7f28e",
+    "source": "Punch Nigeria",
+    "title": "Atiku to Tinubu: Identify officials behind PFIPC scandal",
+    "link": "https://punchng.com/atiku-to-tinubu-identify-officials-behind-pfipc-scandal/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Atiku Abubakar demands President Tinubu identify government officials involved in the PFIPC scandal, citing ICPC report&#8217;s mention of negligence and conniva\n\nRead More: https://punchng.com/atiku-to-tinubu-identify-officials-behind-pfipc-scandal/",
+    "published": "Sat, 08 Aug 2026 07:47:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:30.100496+00:00",
+    "used": false
+  },
+  {
+    "id": "50c97a528591fd08",
+    "source": "Punch Nigeria",
+    "title": "US plans $1bn security aid package for Colombia",
+    "link": "https://punchng.com/us-plans-1bn-security-aid-package-for-colombia/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The US State Department announces a $1 billion security aid package for Colombia to support the new president&#8217;s administration. Learn more about US Colombi\n\nRead More: https://punchng.com/us-plans-1bn-security-aid-package-for-colombia/",
+    "published": "Sat, 08 Aug 2026 07:22:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:30.100501+00:00",
+    "used": false
+  },
+  {
+    "id": "e7d6a0f48b52018b",
+    "source": "Punch Nigeria",
+    "title": "US court orders halt to Trump ballroom construction",
+    "link": "https://punchng.com/us-court-orders-halt-to-trump-ballroom-construction/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A US appeals court has ordered a halt to Donald Trump&#8217;s White House ballroom construction, setting up a Supreme Court battle over presidential authority.\n\nRead More: https://punchng.com/us-court-orders-halt-to-trump-ballroom-construction/",
+    "published": "Sat, 08 Aug 2026 07:17:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:30.100511+00:00",
+    "used": false
+  },
+  {
+    "id": "0123c3bcbb6750b9",
+    "source": "Leadership Newspaper",
+    "title": "Katsina To Establish Drug Manufacturing Plant",
+    "link": "https://leadership.ng/katsina-to-establish-drug-manufacturing-plant/",
+    "summary": "Katsina State governor, Malam Dikko Umaru Radda, has announced plans to establish the state’s first pharmaceutical manufacturing plant to strengthen healthcare delivery and local production of essential medicines. The governor stated this during the commissioning of the General Hospital in Zango local government area, saying the proposed facility would produce drugs and medical consumables to [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:42:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:35.725366+00:00",
+    "used": false
+  },
+  {
+    "id": "c3d8ea74d8d08299",
+    "source": "Leadership Newspaper",
+    "title": "We’ve Uploaded Our Guber, Assembly Candidates To INEC Portal – APC Chairman",
+    "link": "https://leadership.ng/weve-uploaded-our-guber-assembly-candidates-to-inec-portal-apc-chairman/",
+    "summary": "The national chairman of the All Progressives Congress (APC), Prof Nentawe Yilwatda, said the party has successfully uploaded the names of all its governorship, deputy governorship and State Houses of Assembly candidates for the 2027 general elections on the Independent National Electoral Commission (INEC) portal. Yilwatda disclosed this in a statement posted on his X [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:38:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:35.725437+00:00",
+    "used": false
+  },
+  {
+    "id": "f664952c06b87b0a",
+    "source": "Leadership Newspaper",
+    "title": "Deputy Chairmen, Over 200 Councillors Trek, Take Okada To Work In Benue",
+    "link": "https://leadership.ng/deputy-chairmen-over-200-councillors-trek-take-okada-to-work-in-benue/",
+    "summary": "Nearly two years after winning local government elections, over 200 councillors and 19 local government deputy chairmen in Benue State trek or take okada to their offices as they have not been given official vehicles. Benue has 276 councillors representing 276 wards, 23 deputy chairmen and 23 local government chairmen. Investigations by our correspondent revealed [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:31:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:35.725468+00:00",
+    "used": false
+  },
+  {
+    "id": "807f047f16d58084",
+    "source": "Leadership Newspaper",
+    "title": "I Had No Reading Timetable, Just Clear Goals – Law School’s Best Graduating Student",
+    "link": "https://leadership.ng/i-had-no-reading-timetable-just-clear-goals-law-schools-best-graduating-student/",
+    "summary": "Offa, Kwara State-born Israel Adeniyi emerged as the Best Graduating Student of the Faculty of Law, University of Ilorin, in 2024. He replicated the remarkable feat at the Nigerian Law School in 2026. In this interview with ABDULLAHI OLESIN, Adeniyi shares the mindset behind his outstanding academic success, revealing that he never relied on a [&#8230;]",
+    "published": "Sat, 08 Aug 2026 06:36:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T07:45:35.725550+00:00",
     "used": false
   },
   {
@@ -32417,6 +32527,149 @@
     "used": false
   },
   {
+    "id": "23b4e04baa225661",
+    "source": "Punch Nigeria",
+    "title": "Osun account freeze: No court order was served, says state counsel",
+    "link": "https://punchng.com/osun-account-freeze-no-court-order-was-served-says-state-counsel/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun State counsel insists no court order was served for the Osun account freeze, challenging the EFCC&#8217;s action amid legal debate.\n\nRead More: https://punchng.com/osun-account-freeze-no-court-order-was-served-says-state-counsel/",
+    "published": "Sat, 08 Aug 2026 08:10:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:30.100412+00:00",
+    "used": false
+  },
+  {
+    "id": "294911fd61f27794",
+    "source": "Punch Nigeria",
+    "title": "Why Peter, Paul may never reconcile — Henry, P-Square’s eldest brother",
+    "link": "https://punchng.com/why-peter-paul-may-never-reconcile-henry-p-squares-eldest-brother/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "P-Square&#8217;s eldest brother, Henry Okoye, expresses doubts about Peter and Paul&#8217;s reconciliation, citing irreparable damage from their prolonged dispute.\n\nRead More: https://punchng.com/why-peter-paul-may-never-reconcile-henry-p-squares-eldest-brother/",
+    "published": "Sat, 08 Aug 2026 07:51:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:30.100479+00:00",
+    "used": false
+  },
+  {
+    "id": "16fd27d1917845a4",
+    "source": "Punch Nigeria",
+    "title": "Missing Law cut-off mark led me to my true calling – Babcock varsity first-class graduate",
+    "link": "https://punchng.com/missing-law-cut-off-mark-led-me-to-my-true-calling-babcock-varsity-first-class-graduate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Christabel Ikegwuonu, a Babcock first-class graduate, shares her journey from missing Law&#8217;s cut-off to excelling in International Law and Diplomacy.\n\nRead More: https://punchng.com/missing-law-cut-off-mark-led-me-to-my-true-calling-babcock-varsity-first-class-graduate/",
+    "published": "Sat, 08 Aug 2026 06:03:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:30.100536+00:00",
+    "used": false
+  },
+  {
+    "id": "e363e5b2033cdfff",
+    "source": "Punch Nigeria",
+    "title": "I want to win Miss Universe Nigeria like my mum — Dr Danielle Adewusi",
+    "link": "https://punchng.com/i-want-to-win-miss-universe-nigeria-like-my-mum-dr-danielle-adewusi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Dr Danielle Adewusi, a medical doctor, shares her journey to win Miss Universe Nigeria, following in her mother&#8217;s footsteps and advocating for women&#8217;s heal\n\nRead More: https://punchng.com/i-want-to-win-miss-universe-nigeria-like-my-mum-dr-danielle-adewusi/",
+    "published": "Sat, 08 Aug 2026 06:02:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:30.100557+00:00",
+    "used": false
+  },
+  {
+    "id": "dc69b2c015e9e95a",
+    "source": "Punch Nigeria",
+    "title": "X scraps revenue sharing, unveils new creator rewards programme",
+    "link": "https://punchng.com/x-scraps-revenue-sharing-unveils-new-creator-rewards-programme/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "X introduces a new Original Content Rewards programme, replacing revenue sharing. Learn how creators can earn from original content on the platform.\n\nRead More: https://punchng.com/x-scraps-revenue-sharing-unveils-new-creator-rewards-programme/",
+    "published": "Sat, 08 Aug 2026 05:57:18 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:30.100573+00:00",
+    "used": false
+  },
+  {
+    "id": "65fc4dec6cbb1179",
+    "source": "Punch Nigeria",
+    "title": "Toke Makinwa unveils daughter’s face, hides father’s identity",
+    "link": "https://punchng.com/toke-makinwa-unveils-daughters-face-hides-fathers-identity/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Toke Makinwa finally reveals her daughter Yakira Eliana&#8217;s face on her first birthday, but keeps the father&#8217;s identity private. Read more about the celebrit\n\nRead More: https://punchng.com/toke-makinwa-unveils-daughters-face-hides-fathers-identity/",
+    "published": "Sat, 08 Aug 2026 04:29:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:30.100628+00:00",
+    "used": false
+  },
+  {
+    "id": "6b5b3d43751faa97",
+    "source": "Punch Nigeria",
+    "title": "‘I was their first sponsor, bodyguard,’ P-Square’s brother Henry speaks on family feud",
+    "link": "https://punchng.com/i-was-their-first-sponsor-bodyguard-p-squares-brother-henry-speaks-on-family-feud/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Henry Okoye, P-Square&#8217;s elder brother, speaks out on the family feud, accusing Jude Okoye of being the mastermind behind the long-standing division.\n\nRead More: https://punchng.com/i-was-their-first-sponsor-bodyguard-p-squares-brother-henry-speaks-on-family-feud/",
+    "published": "Sat, 08 Aug 2026 04:29:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:30.100647+00:00",
+    "used": false
+  },
+  {
+    "id": "e8a830bab6a3affb",
+    "source": "Leadership Newspaper",
+    "title": "Over 200 Benue Councillors, Deputy Chairmen, Still Trek, Ride Okada To Work",
+    "link": "https://leadership.ng/over-200-benue-councillors-deputy-chairmen-still-trek-ride-okada-to-work/",
+    "summary": "Nearly two years after they were elected and sworn into office, over 200 councillors and 19 deputy chairmen across Benue State’s 23 local government areas are still without official vehicles or motorcycles, forcing about 95 per cent of the affected officials to trek or use commercial motorcycles, popularly known as Okada, to work. Benue State [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:42:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:35.725407+00:00",
+    "used": false
+  },
+  {
+    "id": "e90b1486876182b9",
+    "source": "Leadership Newspaper",
+    "title": "Cholera Claims 16 Lives In Bauchi As Govt Seeks Support",
+    "link": "https://leadership.ng/cholera-claims-16-lives-in-bauchi-as-govt-seeks-support/",
+    "summary": "The Bauchi State Ministry of Health and Social Welfare has disclosed that the State had recorded 398 suspected cholera cases across 13 local government areas (LGAs), with 16 deaths, representing a four per cent case fatality rate. According to the ministry, the six most affected LGAs are Toro with 231 cases, Alkaleri and Kirfi with [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:41:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:35.725426+00:00",
+    "used": false
+  },
+  {
+    "id": "3e6188deb77c3d7f",
+    "source": "Leadership Newspaper",
+    "title": "12 Nigerian Coaches Earn FIVB Level 1 Badges",
+    "link": "https://leadership.ng/12-nigerian-coaches-earn-fivb-level-1-badges/",
+    "summary": "Nigeria’s volleyball development has received a major boost after all 12 Nigerian coaches who participated in the FIVB Level 1 Coaching Course in Ghana successfully completed the programme. The achievement represents a significant step in strengthening the country’s coaching structure, with the newly qualified coaches expected to play an important role in improving player development [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:32:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:35.725461+00:00",
+    "used": false
+  },
+  {
+    "id": "dd5be2cc6f45b0aa",
+    "source": "Leadership Newspaper",
+    "title": "Oyo Reads Riot Act To Waste Management Consultants",
+    "link": "https://leadership.ng/oyo-reads-riot-act-to-waste-management-consultants/",
+    "summary": "Oyo State government has warned waste management consultants across the state to improve their performance or face sanctions, including the redistribution of their operational areas and possible disengagement. The state’s Commissioner for Environment and Natural Resources, Ademola Aderinto, gave the warning during a meeting with waste consultants at the NEWMAP Conference Hall of the Ministry [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:28:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:35.725493+00:00",
+    "used": false
+  },
+  {
+    "id": "d6876402c5695999",
+    "source": "Leadership Newspaper",
+    "title": "Manchester City Sign Marseille Goalkeeper Rulli For £1.7m",
+    "link": "https://leadership.ng/manchester-city-sign-marseille-goalkeeper-rulli-for-1-7m/",
+    "summary": "Manchester City have completed the signing of Argentina goalkeeper Geronimo Rulli from Ligue 1 side Marseille for a fee of £1.7 million, the Premier League champions confirmed. The 34-year-old returns to the Etihad Stadium more than nine years after his first spell at the club, during which he spent the 2016-17 season as a squad [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:28:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:35.725514+00:00",
+    "used": false
+  },
+  {
+    "id": "4a193c1e32429d63",
+    "source": "Leadership Newspaper",
+    "title": "UNICEF Challenges Women To Embrace Holistic Breast",
+    "link": "https://leadership.ng/unicef-challenges-women-to-embrace-holistic-breast/",
+    "summary": "UNICEF has challenged mothers across the country, particularly in Imo State, to embrace holistic breast feeding for children’s sustainable health and vitality. The international organisation made the call through the communication officer, Enugu Field Office, Dr Ijeoma Onuoha-Ogwe, as part of activities marking the 2026 World Breastfeeding Week. They urged urging women in the state [&#8230;]",
+    "published": "Sat, 08 Aug 2026 07:22:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T07:45:35.725534+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -34592,6 +34845,28 @@
     "published": "Fri, 07 Aug 2026 19:06:21 +0000",
     "priority": "low",
     "fetched_at": "2026-08-07T20:26:33.568795+00:00",
+    "used": false
+  },
+  {
+    "id": "6f865995da293234",
+    "source": "Punch Nigeria",
+    "title": "Dark week in entertainment as four stars die",
+    "link": "https://punchng.com/dark-week-in-entertainment-as-four-stars-die/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria&#8217;s entertainment industry is in mourning after the deaths of four prominent figures: Saint Janet, Temitope Osoba, Dimbo Atiya, and Coach Lara. Learn\n\nRead More: https://punchng.com/dark-week-in-entertainment-as-four-stars-die/",
+    "published": "Sat, 08 Aug 2026 05:03:34 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-08T07:45:30.100588+00:00",
+    "used": false
+  },
+  {
+    "id": "bdd07e02a64e61a6",
+    "source": "Punch Nigeria",
+    "title": "I’d rather make honest music than chase trends — Ladé",
+    "link": "https://punchng.com/id-rather-make-honest-music-than-chase-trends-lade/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian singer Ladé discusses her approach to music, prioritising authentic songs over viral trends and building a lasting career.\n\nRead More: https://punchng.com/id-rather-make-honest-music-than-chase-trends-lade/",
+    "published": "Sat, 08 Aug 2026 04:48:43 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-08T07:45:30.100607+00:00",
     "used": false
   }
 ]
