@@ -855,7 +855,7 @@
     "published": "Wed, 15 Jul 2026 10:20:16 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:06.739965+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "fa80f0e6469f4b94",
@@ -15122,6 +15122,160 @@
     "published": "Sat, 08 Aug 2026 15:33:10 +0000",
     "priority": "high",
     "fetched_at": "2026-08-08T17:37:50.840786+00:00",
+    "used": false
+  },
+  {
+    "id": "ec56796b3b041612",
+    "source": "Punch Nigeria",
+    "title": "Lagos ready to host maiden national intermediate sports festival – Sanwo-Olu",
+    "link": "https://punchng.com/lagos-ready-to-host-maiden-national-intermediate-sports-festival-sanwo-olu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos State is set to host the inaugural National Intermediate Sports Festival in October, Governor Sanwo-Olu assures. The event aims to boost grassroots s\n\nRead More: https://punchng.com/lagos-ready-to-host-maiden-national-intermediate-sports-festival-sanwo-olu/",
+    "published": "Sat, 08 Aug 2026 21:02:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592544+00:00",
+    "used": false
+  },
+  {
+    "id": "2fc7cdb651bc04f0",
+    "source": "Punch Nigeria",
+    "title": "16 rescued alive after building collapse in Kano",
+    "link": "https://punchng.com/16-rescued-alive-after-building-collapse-in-kano/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Sixteen people were rescued alive after a building collapsed in Kano&#8217;s Fagge LGA. The Kano State Fire Service confirmed the incident and ongoing investigat\n\nRead More: https://punchng.com/16-rescued-alive-after-building-collapse-in-kano/",
+    "published": "Sat, 08 Aug 2026 20:26:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592618+00:00",
+    "used": false
+  },
+  {
+    "id": "78ddedb075dc397f",
+    "source": "Punch Nigeria",
+    "title": "Suspected vandal killed by collapsed transmission tower in Delta",
+    "link": "https://punchng.com/suspected-vandal-killed-by-collapsed-transmission-tower-in-delta/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A suspected vandal died after a transmission tower collapsed in Delta State. TCN condemns the vandalism and urges public vigilance against power infrastruc\n\nRead More: https://punchng.com/suspected-vandal-killed-by-collapsed-transmission-tower-in-delta/",
+    "published": "Sat, 08 Aug 2026 20:14:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592632+00:00",
+    "used": false
+  },
+  {
+    "id": "b7a46eb2db3bd40d",
+    "source": "Punch Nigeria",
+    "title": "Police arrest Osun commissioner, Adeleke campaign council kicks",
+    "link": "https://punchng.com/police-arrest-osun-commissioner-adeleke-campaign-council-kicks/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun Commissioner for Environment, Mayowa Adejoorin, arrested over shooting at an APC rally in Ilesa. Adeleke&#8217;s campaign council alleges political targetin\n\nRead More: https://punchng.com/police-arrest-osun-commissioner-adeleke-campaign-council-kicks/",
+    "published": "Sat, 08 Aug 2026 20:14:14 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592640+00:00",
+    "used": false
+  },
+  {
+    "id": "4a5f996a76de7d82",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: APGA candidate steps down, backs Oyebamiji",
+    "link": "https://punchng.com/osun-poll-apga-candidate-steps-down-backs-oyebamiji/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "APGA candidate Adesina Adeyemi-Doro steps down and declares support for APC&#8217;s Bola Oyebamiji in the upcoming Osun election.\n\nRead More: https://punchng.com/osun-poll-apga-candidate-steps-down-backs-oyebamiji/",
+    "published": "Sat, 08 Aug 2026 19:50:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592670+00:00",
+    "used": false
+  },
+  {
+    "id": "3b3cdcb6c43cbeb4",
+    "source": "Punch Nigeria",
+    "title": "Delta gov felicitates APC national chairman, Yilwatda, at 58",
+    "link": "https://punchng.com/delta-gov-felicitates-apc-national-chairman-yilwatda-at-58/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Delta State Governor, Sheriff Oborevwori, felicitates APC National Chairman, Prof. Nentawe Yilwatda, on his 58th birthday, praising his service to Nigeria.\n\nRead More: https://punchng.com/delta-gov-felicitates-apc-national-chairman-yilwatda-at-58/",
+    "published": "Sat, 08 Aug 2026 19:38:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592699+00:00",
+    "used": false
+  },
+  {
+    "id": "0dabfe09af58461e",
+    "source": "Punch Nigeria",
+    "title": "Osun gov poll: Farmers, butchers back Adeleke, hunters endorse Oyebamiji",
+    "link": "https://punchng.com/osun-gov-poll-farmers-butchers-back-adeleke-hunters-endorse-oyebamiji/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ahead of the August 15 Osun governorship election, farmers and butchers endorse Governor Adeleke, while hunters declare support for APC&#8217;s Oyebamiji.\n\nRead More: https://punchng.com/osun-gov-poll-farmers-butchers-back-adeleke-hunters-endorse-oyebamiji/",
+    "published": "Sat, 08 Aug 2026 19:17:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592707+00:00",
+    "used": false
+  },
+  {
+    "id": "9a2c9141cdcbadaf",
+    "source": "Punch Nigeria",
+    "title": "‎NFF debunks social media reports demanding FIFA Infantino’s resignation",
+    "link": "https://punchng.com/nff-debunks-social-media-reports-demanding-fifa-infantinos-resignation/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigeria Football Federation (NFF) has dismissed social media reports claiming it demanded FIFA President Gianni Infantino&#8217;s resignation. NFF calls the\n\nRead More: https://punchng.com/nff-debunks-social-media-reports-demanding-fifa-infantinos-resignation/",
+    "published": "Sat, 08 Aug 2026 19:04:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592717+00:00",
+    "used": false
+  },
+  {
+    "id": "c724324653bb8f4a",
+    "source": "Punch Nigeria",
+    "title": "UEFA confirms departure payment to ex-staff linked to FIFA’s Infantino",
+    "link": "https://punchng.com/uefa-confirms-departure-payment-to-ex-staff-linked-to-fifas-infantino/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "UEFA confirms a &#8220;departure payment&#8221; was made to a former employee allegedly linked to FIFA President Gianni Infantino, sparking controversy.\n\nRead More: https://punchng.com/uefa-confirms-departure-payment-to-ex-staff-linked-to-fifas-infantino/",
+    "published": "Sat, 08 Aug 2026 18:48:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:14:54.592727+00:00",
+    "used": false
+  },
+  {
+    "id": "c117f75f92d7fa8b",
+    "source": "Leadership Newspaper",
+    "title": "Purported Meeting With Akume, Ortom To Work For Atiku False – Aondoakaa",
+    "link": "https://leadership.ng/purported-meeting-with-akume-ortom-to-work-for-atiku-false-aondoakaa/",
+    "summary": "The 2027 governorship candidate of the Peoples Democratic Party, (PDP) in Benue State, Michael Kaase Aondoakaa, SAN, has said there has been no meeting or arrangement involving him, former governor Samuel Ortom and Secretary to the Government of the Federation, George Akume to work for the presidential candidate of the African Democratic Congress (ADC) Atiku [&#8230;]",
+    "published": "Sat, 08 Aug 2026 20:06:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:15:05.127481+00:00",
+    "used": false
+  },
+  {
+    "id": "2ae928ada2596ebb",
+    "source": "Leadership Newspaper",
+    "title": "Adams Pleads With Southern Kaduna To Continue Supporting Tinubu, Uba Sani For Dividends",
+    "link": "https://leadership.ng/adams-pleads-with-southern-kaduna-to-continue-supporting-tinubu-uba-sani-for-dividends/",
+    "summary": "The All Progressives Congress (APC) Deputy Governorship candidate, Jerry Adams, has pleaded with the people of Southern Kaduna, the Christian community and residents of Kaduna State to continue supporting the administrations of President Bola Ahmed Tinubu and Governor Uba Sani in the 2027 general elections. Adams, former Executive chairman Kaduna State Internal Revenue Service (KADIRS) [&#8230;]",
+    "published": "Sat, 08 Aug 2026 19:19:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:15:05.127569+00:00",
+    "used": false
+  },
+  {
+    "id": "45a8b2346905ef38",
+    "source": "Leadership Newspaper",
+    "title": "2027: Taraba APC Will Deliver Tinubu ‘Top To Bottom’, Says Kefas",
+    "link": "https://leadership.ng/2027-taraba-apc-will-deliver-tinubu-top-to-bottom-says-kefas/",
+    "summary": "Taraba State Governor, Dr Agbu Kefas, has declared that the All Progressives Congress (APC) is poised for a  victory in the state in the 2027 general elections. He, specifically pledged to deliver votes for President Bola Ahmed Tinubu and other APC candidates from top to bottom. Governor Kefas made the declaration in Jalingo while playing [&#8230;]",
+    "published": "Sat, 08 Aug 2026 19:13:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:15:05.127579+00:00",
+    "used": false
+  },
+  {
+    "id": "48e80d2df6d0c968",
+    "source": "Leadership Newspaper",
+    "title": "UK Steps Up Monitoring Of Russian Military Activity In North Atlantic",
+    "link": "https://leadership.ng/uk-steps-up-monitoring-of-russian-military-activity-in-north-atlantic/",
+    "summary": "The United Kingdom has intensified its monitoring of Russian military activity in UK waters and the North Atlantic, with Royal Navy operations increasing by 25 per cent in the first seven months of 2026 compared with the same period last year. The UK Ministry of Defence said on Saturday that Royal Navy warships and aircraft [&#8230;]",
+    "published": "Sat, 08 Aug 2026 19:10:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:15:05.127588+00:00",
+    "used": false
+  },
+  {
+    "id": "47cb7478cea064b2",
+    "source": "Leadership Newspaper",
+    "title": "Messi Targeted For Assassination During 2026 World Cup – Police Report",
+    "link": "https://leadership.ng/messi-targeted-for-assassination-during-2026-world-cup-police-report/",
+    "summary": "A police report has uncovered an alleged plot to assassinate Argentine football star Lionel Messi during the 2026 FIFA World Cup hosted by the United States, Mexico and Canada. Spanish newspaper MARCA reported on Saturday that several suspects allegedly issued threats to attack stadiums where Messi was scheduled to play, including threats involving explosives. According [&#8230;]",
+    "published": "Sat, 08 Aug 2026 19:04:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T20:15:05.127599+00:00",
     "used": false
   },
   {
@@ -33088,6 +33242,94 @@
     "used": false
   },
   {
+    "id": "852d188c1478fefb",
+    "source": "Punch Nigeria",
+    "title": "Duke-Abiola accepts UN secretary-general nomination",
+    "link": "https://punchng.com/duke-abiola-accepts-un-secretary-general-nomination/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian law professor Akasoba Duke-Abiola accepts her nomination for UN Secretary-General, emphasizing service to vulnerable communities and global peace.\n\nRead More: https://punchng.com/duke-abiola-accepts-un-secretary-general-nomination/",
+    "published": "Sat, 08 Aug 2026 20:50:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T20:14:54.592579+00:00",
+    "used": false
+  },
+  {
+    "id": "78ebd4e0c4cf8cb3",
+    "source": "Punch Nigeria",
+    "title": "Fire guts house in Kwara, arson suspected",
+    "link": "https://punchng.com/fire-guts-house-in-kwara-arson-suspected/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Arson is suspected after a fire gutted a room in an Ilorin apartment. Kwara Fire Service contained the blaze, with investigations ongoing into the Kwara fi\n\nRead More: https://punchng.com/fire-guts-house-in-kwara-arson-suspected/",
+    "published": "Sat, 08 Aug 2026 20:33:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T20:14:54.592599+00:00",
+    "used": false
+  },
+  {
+    "id": "ab2f63da8843d81a",
+    "source": "Punch Nigeria",
+    "title": "Spain imposes border checks on Italy over migrant dispute",
+    "link": "https://punchng.com/spain-starts-border-checks-on-italy-amid-migrant-row/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Spain has started border checks on travelers from Italy, escalating a dispute over migrant flows. This move follows Italy&#8217;s similar measures after a migran\n\nRead More: https://punchng.com/spain-starts-border-checks-on-italy-amid-migrant-row/",
+    "published": "Sat, 08 Aug 2026 19:48:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T20:14:54.592688+00:00",
+    "used": false
+  },
+  {
+    "id": "bac314ae0b2c8b53",
+    "source": "Leadership Newspaper",
+    "title": "‎RHOA Star, Porsha Williams Scores Big In Divorce Battle With Nigerian-Born Ex-husband Simon Guobadia, Gets Multimillion-Dollar Home",
+    "link": "https://leadership.ng/rhoa-star-porsha-williams-scores-big-in-divorce-battle-with-nigerian-born-ex-husband-simon-guobadia-gets-multimillion-dollar-home/",
+    "summary": "‎Porsha Williams has reached a seven-figure divorce settlement with her ex-husband, Simon Guobadia, and will keep the Atlanta home they once shared, according to court documents. ‎Williams said in court filings that Guobadia transferred his interest in the property to her through a quitclaim deed. Under the settlement, Williams is also entitled to $1,568,181.63 in [&#8230;]",
+    "published": "Sat, 08 Aug 2026 20:11:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T20:15:05.127435+00:00",
+    "used": false
+  },
+  {
+    "id": "02d8a6212a20f06d",
+    "source": "Leadership Newspaper",
+    "title": "Zendaya Emerges As Highest-Grossing Actor Of 2026 With Two Billion-Dollar Hits",
+    "link": "https://leadership.ng/zendaya-emerges-as-highest-grossing-actor-of-2026-with-two-billion-dollar-hits/",
+    "summary": "American actress Zendaya is enjoying what is shaping up to be the biggest box-office year of her career, emerging as the highest-grossing actor of 2026 after appearing in two films that have crossed the $1 billion mark at the worldwide box office. The actress has achieved the feat through a combination of major blockbuster franchises [&#8230;]",
+    "published": "Sat, 08 Aug 2026 20:09:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T20:15:05.127469+00:00",
+    "used": false
+  },
+  {
+    "id": "0433f5e2254b07e7",
+    "source": "Leadership Newspaper",
+    "title": "LeBron James’ Wife Savannah Recalls Alleged Hermès Snub in Italy After Shopping Appointment",
+    "link": "https://leadership.ng/lebron-james-wife-savannah-recalls-alleged-hermes-snub-in-italy-after-shopping-appointment/",
+    "summary": "Savannah James, wife of NBA superstar LeBron James, has opened up about an alleged unpleasant experience at a Hermès store in Italy, where she says she was initially refused service despite having a shopping appointment. Savannah discussed the incident during Friday’s episode of Danielle Robay’s Question Everything podcast alongside her friend and podcast co-host, April [&#8230;]",
+    "published": "Sat, 08 Aug 2026 20:04:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T20:15:05.127511+00:00",
+    "used": false
+  },
+  {
+    "id": "a43d46ee8e2131f3",
+    "source": "Leadership Newspaper",
+    "title": "FG Advocates United Front Against Terrorism, Economic Challenges In Sahel",
+    "link": "https://leadership.ng/fg-advocates-united-front-against-terrorism-economic-challenges-in-sahel/",
+    "summary": "The federal government has called for stronger regional cooperation among Sahel countries to tackle terrorism, cross-border crime, violent extremism, economic and environmental challenges threatening peace and stability in the region. The Minister of State for Foreign Affairs, Mr Sola Enikanolaiye, made the call on Saturday at a two-day high-level retreat on Nigeria’s engagement with countries [&#8230;]",
+    "published": "Sat, 08 Aug 2026 20:03:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T20:15:05.127536+00:00",
+    "used": false
+  },
+  {
+    "id": "499a95ded029baa5",
+    "source": "Leadership Newspaper",
+    "title": "Reese Witherspoon Gives Update After Father Is Hospitalised Following Fall",
+    "link": "https://leadership.ng/reese-witherspoon-gives-update-after-father-is-hospitalised-following-fall/",
+    "summary": "Reese Witherspoon has reassured fans about her father, John Draper Witherspoon, after the 84-year-old was rushed to hospital following a fall. The actress shared an update on her Instagram Stories on Friday, saying her father was now doing well and receiving care from medical professionals. “Earlier today, several outlets reported that my dad was taken [&#8230;]",
+    "published": "Sat, 08 Aug 2026 20:01:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T20:15:05.127562+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -35307,6 +35549,17 @@
     "published": "Sat, 08 Aug 2026 11:13:08 +0000",
     "priority": "low",
     "fetched_at": "2026-08-08T17:37:43.166048+00:00",
+    "used": false
+  },
+  {
+    "id": "3a60b4534c0458dc",
+    "source": "Punch Nigeria",
+    "title": "Hajj: Kano pilgrims board sets August 25 deadline for passports submission",
+    "link": "https://punchng.com/hajj-kano-pilgrims-board-sets-august-25-deadline-for-passports-submission/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kano State Pilgrims Welfare Board sets August 25, 2026, as the deadline for passport submission for 2027 Hajj. Don&#8217;t miss the Kano Hajj deadline!\n\nRead More: https://punchng.com/hajj-kano-pilgrims-board-sets-august-25-deadline-for-passports-submission/",
+    "published": "Sat, 08 Aug 2026 19:51:37 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-08T20:14:54.592658+00:00",
     "used": false
   }
 ]
