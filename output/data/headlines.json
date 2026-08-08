@@ -844,7 +844,7 @@
     "published": "Wed, 15 Jul 2026 10:26:37 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:06.739957+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "6e1711e2b0427ea8",
@@ -14935,6 +14935,193 @@
     "published": "Sat, 08 Aug 2026 06:36:57 +0000",
     "priority": "high",
     "fetched_at": "2026-08-08T07:45:35.725550+00:00",
+    "used": false
+  },
+  {
+    "id": "0f80fce1637dd7df",
+    "source": "Punch Nigeria",
+    "title": "UK says Royal Navy steps up Russian monitoring in waters, North Atlantic",
+    "link": "https://punchng.com/uk-says-royal-navy-steps-up-russian-monitoring-in-waters-north-atlantic/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Royal Navy has increased its monitoring of Russian military activity in UK waters and the North Atlantic by 25% in 2026. Learn more about the operation\n\nRead More: https://punchng.com/uk-says-royal-navy-steps-up-russian-monitoring-in-waters-north-atlantic/",
+    "published": "Sat, 08 Aug 2026 18:01:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:42.590118+00:00",
+    "used": false
+  },
+  {
+    "id": "f5965126e9358c10",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Sanwo-Olu inspects vandalized Festac-Alakija bridge, assures Lagosians of safety",
+    "link": "https://punchng.com/video-sanwo-olu-inspects-vandalized-festac-alakija-bridge-assures-lagosians-of-safety/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Governor Sanwo-Olu inspects the vandalized Festac-Alakija Bridge, assuring Lagosians of its safety and vowing to prosecute those responsible for the damage\n\nRead More: https://punchng.com/video-sanwo-olu-inspects-vandalized-festac-alakija-bridge-assures-lagosians-of-safety/",
+    "published": "Sat, 08 Aug 2026 17:57:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:42.590148+00:00",
+    "used": false
+  },
+  {
+    "id": "72b9d71eb453e29e",
+    "source": "Punch Nigeria",
+    "title": "Troops foil terrorist logistics, recover N5.3m in Zamfara",
+    "link": "https://punchng.com/troops-foil-terrorist-logistics-recover-n5-3m-in-zamfara/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian troops successfully foil terrorist logistics operations in Zamfara, recovering N5.3m cash, weapons, and arresting collaborators. Read more on Punc\n\nRead More: https://punchng.com/troops-foil-terrorist-logistics-recover-n5-3m-in-zamfara/",
+    "published": "Sat, 08 Aug 2026 17:12:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:42.590226+00:00",
+    "used": false
+  },
+  {
+    "id": "a3243e10e708aeab",
+    "source": "Punch Nigeria",
+    "title": "Messi targeted in bomb threats during World Cup – Report",
+    "link": "https://punchng.com/messi-targeted-in-bomb-threats-during-world-cup-report/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A police report reveals multiple bomb threats against Lionel Messi during the 2026 FIFA World Cup. Learn about the foiled plots and security efforts.\n\nRead More: https://punchng.com/messi-targeted-in-bomb-threats-during-world-cup-report/",
+    "published": "Sat, 08 Aug 2026 16:56:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:42.590240+00:00",
+    "used": false
+  },
+  {
+    "id": "568444d2845e295e",
+    "source": "Punch Nigeria",
+    "title": "Tinubu, Sani praise Makarfi’s statesmanship as ex-Kaduna gov clocks 70",
+    "link": "https://punchng.com/tinubu-sani-praise-makarfis-statesmanship-as-ex-kaduna-gov-clock-70/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu and Governor Sani praise former Kaduna Governor Ahmed Makarfi on his 70th birthday, highlighting his statesmanship and contributions to Ni\n\nRead More: https://punchng.com/tinubu-sani-praise-makarfis-statesmanship-as-ex-kaduna-gov-clock-70/",
+    "published": "Sat, 08 Aug 2026 15:51:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:42.590350+00:00",
+    "used": false
+  },
+  {
+    "id": "3ab92de79d429a9c",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Accord, APC clash over election hacking allegations",
+    "link": "https://punchng.com/osun-poll-accord-apc-clash-over-election-hacking-allegations/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Accord Party accuses Osun APC of harbouring election hackers to compromise INEC&#8217;s digital system. APC dismisses claims as baseless. Read more on Osun elect\n\nRead More: https://punchng.com/osun-poll-accord-apc-clash-over-election-hacking-allegations/",
+    "published": "Sat, 08 Aug 2026 15:09:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:42.590418+00:00",
+    "used": false
+  },
+  {
+    "id": "3aa3c1b292a7a428",
+    "source": "Premium Times",
+    "title": "From Keke to Capacity: How Otti is empowering Abia youths differently, By Ferdinand Ekeoma",
+    "link": "https://www.premiumtimesng.com/promoted/901555-from-keke-to-capacity-how-otti-is-empowering-abia-youths-differently-by-ferdinand-ekeoma.html",
+    "summary": "<img alt=\"Governor Otti with enthusiastic participants at the Abia Leadership Academy\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1025\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Gov-Otti-with-enthusiastic-participants-at-the-Abia-State-Leadership-Academy.webp?fit=1536%2C1025&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>Through direct mentorship and exposure to public officials and industry experts, the Abia State ",
+    "published": "Sat, 08 Aug 2026 17:05:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:43.165538+00:00",
+    "used": false
+  },
+  {
+    "id": "7453dd1de7704824",
+    "source": "Premium Times",
+    "title": "Police arrest 10 suspected cultists, recover gun, cannabis seeds",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/901543-police-arrest-10-suspected-cultists-recover-gun-cannabis-seeds.html",
+    "summary": "<img alt=\"Nigerian Police Officers on patrol\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"721\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/nigeria-police-1.webp?fit=1280%2C721&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Preliminary investigation, according to the police, indicates that the suspects belong to the proscribed Supreme Vikings Confraternity, also known as De Norsemen.</p>\n<p>The post <a href=\"https://www",
+    "published": "Sat, 08 Aug 2026 16:23:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:43.165565+00:00",
+    "used": false
+  },
+  {
+    "id": "db2093bb6e2084af",
+    "source": "Premium Times",
+    "title": "Nigeria’s 2027 Election Will Be Fought in the Age of AI. Is the Country Ready?",
+    "link": "https://www.premiumtimesng.com/features-and-interviews/901533-nigerias-2027-election-will-be-fought-in-the-age-of-ai-is-the-country-ready.html",
+    "summary": "<img alt=\"A merged Image of Dr Jacob Udo-Udo Jacob and Dr Margee Ensign\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/A-merged-Image-of-Dr-Jacob-Udo-Udo-Jacob-and-Dr-Margee-Ensign.png?fit=1536%2C1024&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>Nigeria is approaching its first general election of the generative-AI era and should prepare accordingly.</p>\n<p>The post <a ",
+    "published": "Sat, 08 Aug 2026 16:16:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:43.165585+00:00",
+    "used": false
+  },
+  {
+    "id": "a688b6cfda4c775e",
+    "source": "Premium Times",
+    "title": "Nigerian military rescues 363 victims, arrests scores of terrorists – DHQ",
+    "link": "https://www.premiumtimesng.com/news/top-news/901488-nigerian-military-rescues-363-victims-arrests-scores-of-terrorists-dhq.html",
+    "summary": "<img alt=\"Soldiers used to illustrate the story\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"784\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/35233572-fbb3-4db9-9843-9d8ea6eadfce.jpg?fit=1168%2C784&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1168\" /><p>DHQ says the operations also resulted in the neutralisation of terrorists, recovery of arms and ammunition, disruption of logistics networks and dismantling of illegal oil refin",
+    "published": "Sat, 08 Aug 2026 14:04:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:43.165649+00:00",
+    "used": false
+  },
+  {
+    "id": "bef7c57f6087ee7a",
+    "source": "Premium Times",
+    "title": "AES criticises Tinubu’s comment on regional security",
+    "link": "https://www.premiumtimesng.com/news/top-news/901481-aes-criticises-tinubus-comment-on-regional-security.html",
+    "summary": "<img alt=\"Alliance of Sahel States logo, (PHOTO CREDIT: flagchronicle.com)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"386\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/AES-logo.jpg?fit=686%2C386&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"686\" /><p>The AES countries summoned the Nigerian Chargé d’Affaires for a meeting in Ouagadougou.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/901481-aes-criticises-",
+    "published": "Sat, 08 Aug 2026 11:38:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:43.165953+00:00",
+    "used": false
+  },
+  {
+    "id": "8ab3b2bafbeb5514",
+    "source": "Premium Times",
+    "title": "“Deeply embarrassed” President Tinubu puts EFCC on a leash, By Adeola Akinremi",
+    "link": "https://www.premiumtimesng.com/opinion/901468-deeply-embarrassed-president-tinubu-puts-efcc-on-a-leash-by-adeola-akinremi.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"620\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Adeola-Akinremi.jpeg?fit=640%2C620&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>President Tinubu may have been &#8220;deeply embarrassed&#8221; by the EFCC&#8217;s timing. The greater embarrassment would be allowing Nigeria&#8217;s institutions to remain so politically vulnerable that every controversial decision i",
+    "published": "Sat, 08 Aug 2026 10:07:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:43.166061+00:00",
+    "used": false
+  },
+  {
+    "id": "d177f70f6e7db9d7",
+    "source": "Leadership Newspaper",
+    "title": "Police Confirm Killing Of 11 Cows, I Herder In Rivers",
+    "link": "https://leadership.ng/police-confirm-killing-of-11-cows-i-herder-in-rivers/",
+    "summary": "The Rivers State Police Command has confirmed the killing of 11 cows and a herder during a crash involving a Mercedes Benz car and a herd of cattle at Evekwu in Rumuodogu, along the East-West Road in Emohua local government area of the state. The Police Public Relations Officer (PPRO) in the state, Blessing Agabe, [&#8230;]",
+    "published": "Sat, 08 Aug 2026 17:36:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:50.840601+00:00",
+    "used": false
+  },
+  {
+    "id": "b8554d534f40dcc2",
+    "source": "Leadership Newspaper",
+    "title": "Jigawa First Lady Urges Families, Communities To Promote Exclusive Breastfeeding",
+    "link": "https://leadership.ng/jigawa-first-lady-urges-families-communities-to-promote-exclusive-breastfeeding/",
+    "summary": "The wife of the Jigawa State Governor, Hajiya Hadiza Umar Namadi, has called on families, communities and other stakeholders to work together to promote exclusive breastfeeding and ensure the survival, healthy growth and development of children. She made the call while urging greater public awareness and support for exclusive breastfeeding practices across the state. The [&#8230;]",
+    "published": "Sat, 08 Aug 2026 17:32:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:50.840631+00:00",
+    "used": false
+  },
+  {
+    "id": "4d337de83e0befad",
+    "source": "Leadership Newspaper",
+    "title": "Nasarawa Monthly Allocation Jumps From N4.5bn To N16bn, Says Sule",
+    "link": "https://leadership.ng/nasarawa-monthly-allocation-jumps-from-n4-5bn-to-n16bn-says-sule/",
+    "summary": "Nasarawa State governor, Abdullahi Sule, has disclosed that the state&#8217;s monthly allocation from the Federation Account has risen to between N14 billion and N16 billion, up from an average of N3.8 billion to N4.5 billion before 2023. The governor attributed the over 300 per cent increase to the economic reforms introduced by President Bola Ahmed [&#8230;]",
+    "published": "Sat, 08 Aug 2026 17:13:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:50.840669+00:00",
+    "used": false
+  },
+  {
+    "id": "9283c8a66e92e4e4",
+    "source": "Leadership Newspaper",
+    "title": "PICTORIAL: Olu Of Warri Inspects Coronation Anniversary Preparations On Electric Scooter",
+    "link": "https://leadership.ng/pictorial-olu-of-warri-inspects-coronation-anniversary-preparations-on-electric-scooter/",
+    "summary": "The Olu of Warri, Ogiame Atuwatse III, has inspected preparations for his fifth coronation anniversary in Okere, Warri, Delta State, opting for an electric scooter instead of a traditional motorcade. The monarch carried out the on-the-spot assessment during his morning fitness routine, riding through the area accompanied by members of his security team. A video [&#8230;]",
+    "published": "Sat, 08 Aug 2026 17:07:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:50.840678+00:00",
+    "used": false
+  },
+  {
+    "id": "c9397acaf0b11d43",
+    "source": "Leadership Newspaper",
+    "title": "Akwa Ibom Police Arrest 10 Suspected Cultists, Recover Pistol, Weapons",
+    "link": "https://leadership.ng/akwa-ibom-police-arrest-10-suspected-cultists-recover-pistol-weapons/",
+    "summary": "Operatives of the Akwa Ibom State Police Command have arrested 10 suspected cultists during raids on criminal black spots as part of an ongoing crackdown on syndicates allegedly involved in kidnapping, armed robbery and other violent crimes. The Police Public Relations Officer, DSP Timfon John, disclosed this to journalists at the Command’s headquarters in Ikot [&#8230;]",
+    "published": "Sat, 08 Aug 2026 15:33:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-08T17:37:50.840786+00:00",
     "used": false
   },
   {
@@ -32670,6 +32857,237 @@
     "used": false
   },
   {
+    "id": "449849f93c242969",
+    "source": "Punch Nigeria",
+    "title": "Premier League clubs race against Sept 1 transfer window deadline",
+    "link": "https://punchng.com/premier-league-clubs-race-against-sept-1-transfer-window-deadline/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "With the September 1 deadline looming, Premier League clubs are in a frantic race to complete their summer transfers. Get the latest updates on major deals\n\nRead More: https://punchng.com/premier-league-clubs-race-against-sept-1-transfer-window-deadline/",
+    "published": "Sat, 08 Aug 2026 17:50:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590172+00:00",
+    "used": false
+  },
+  {
+    "id": "b95fce202e3c3d27",
+    "source": "Punch Nigeria",
+    "title": "Army hospital urges barracks community to boost hygiene, prevent diseases",
+    "link": "https://punchng.com/army-hospital-urges-barracks-community-to-boost-hygiene-prevent-diseases/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigerian Army hospital in Kaduna urges barracks communities to boost personal and environmental hygiene to prevent diseases like cholera and tuberculos\n\nRead More: https://punchng.com/army-hospital-urges-barracks-community-to-boost-hygiene-prevent-diseases/",
+    "published": "Sat, 08 Aug 2026 17:34:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590194+00:00",
+    "used": false
+  },
+  {
+    "id": "20614a3ae9c0d5d3",
+    "source": "Punch Nigeria",
+    "title": "Chelsea beat Milan 3-0 to win Indonesia Super Cup",
+    "link": "https://punchng.com/chelsea-beat-milan-3-0-to-win-indonesia-super-cup/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Chelsea defeated AC Milan 3-0 to win the 2026 Indonesia Super Cup. Joao Pedro scored twice, and Moises Caicedo added a spectacular third goal for Chelsea.\n\nRead More: https://punchng.com/chelsea-beat-milan-3-0-to-win-indonesia-super-cup/",
+    "published": "Sat, 08 Aug 2026 17:17:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590213+00:00",
+    "used": false
+  },
+  {
+    "id": "ad6f5415068d1c6b",
+    "source": "Punch Nigeria",
+    "title": "Peller, Jarvis set for white wedding today, livestream for fans",
+    "link": "https://punchng.com/peller-jarvis-set-for-white-wedding-today-livestream-for-fans/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "TikTok stars Peller and Jarvis are set for their white wedding today, August 8, 2026. Fans can watch the private ceremony via livestream. Get all the detai\n\nRead More: https://punchng.com/peller-jarvis-set-for-white-wedding-today-livestream-for-fans/",
+    "published": "Sat, 08 Aug 2026 16:54:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590265+00:00",
+    "used": false
+  },
+  {
+    "id": "5b39a6f74725082a",
+    "source": "Punch Nigeria",
+    "title": "Nigerians being priced out of decent living — Atiku",
+    "link": "https://punchng.com/nigerians-being-priced-out-of-decent-living-atiku/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Atiku Abubakar criticizes the current administration, stating Nigerians&#8217; purchasing power has worsened, making homes, cars, and basic assets unaffordable.\n\nRead More: https://punchng.com/nigerians-being-priced-out-of-decent-living-atiku/",
+    "published": "Sat, 08 Aug 2026 16:47:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590290+00:00",
+    "used": false
+  },
+  {
+    "id": "f57a0fa75d0ee0ca",
+    "source": "Punch Nigeria",
+    "title": "Lawyer questions legal transfer of Ochacho’s ₦400m mansion to Peller",
+    "link": "https://punchng.com/lawyer-questions-legal-transfer-of-ochachos-%e2%82%a6400m-mansion-to-peller/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A lawyer raises concerns about the legal transfer of Ochacho&#8217;s N400m Abuja mansion to TikTok star Peller, citing issues with Power of Attorney and allocati\n\nRead More: https://punchng.com/lawyer-questions-legal-transfer-of-ochachos-%e2%82%a6400m-mansion-to-peller/",
+    "published": "Sat, 08 Aug 2026 16:38:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590316+00:00",
+    "used": false
+  },
+  {
+    "id": "9ddee96bdd70b57f",
+    "source": "Punch Nigeria",
+    "title": "Commonwealth Games: British envoy hosts Team Nigeria after Glasgow triumph",
+    "link": "https://punchng.com/commonwealth-games-british-envoy-hosts-team-nigeria-after-glasgow-triumph/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The British High Commissioner hosted Team Nigeria to celebrate their outstanding performance at the Glasgow 2026 Commonwealth Games. Discover Nigeria&#8217;s med\n\nRead More: https://punchng.com/commonwealth-games-british-envoy-hosts-team-nigeria-after-glasgow-triumph/",
+    "published": "Sat, 08 Aug 2026 15:51:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590371+00:00",
+    "used": false
+  },
+  {
+    "id": "879f39b2dc6057d4",
+    "source": "Punch Nigeria",
+    "title": "Over 500 sit entrance exam for Delta technical colleges",
+    "link": "https://punchng.com/over-500-sit-entrance-exam-for-delta-technical-colleges/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Over 500 prospective students sat the entrance exam for Delta technical colleges, highlighting growing interest in vocational education and skills acquisit\n\nRead More: https://punchng.com/over-500-sit-entrance-exam-for-delta-technical-colleges/",
+    "published": "Sat, 08 Aug 2026 15:42:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590390+00:00",
+    "used": false
+  },
+  {
+    "id": "fe2f871009eaba4c",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Olu of Warri rides scooter to inspect 5th coronation anniversary preparations",
+    "link": "https://punchng.com/video-olu-of-warri-rides-scooter-to-inspect-5th-coronation-anniversary-preparations/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Watch the Olu of Warri, Ogiame Atuwatse III, inspect his 5th coronation anniversary preparations on a scooter, delighting residents with his accessibility.\n\nRead More: https://punchng.com/video-olu-of-warri-rides-scooter-to-inspect-5th-coronation-anniversary-preparations/",
+    "published": "Sat, 08 Aug 2026 15:34:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:42.590411+00:00",
+    "used": false
+  },
+  {
+    "id": "4464aed8c18ecda3",
+    "source": "Premium Times",
+    "title": "PT Health Watch: What new mothers should know about postpartum care before leaving hospital",
+    "link": "https://www.premiumtimesng.com/health/health-interviews/901522-pt-health-watch-what-new-mothers-should-know-about-postpartum-care-before-leaving-hospital.html",
+    "summary": "<img alt=\"An AI image of a mother and her infant\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1122\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/a08e4a62-d14f-4ad9-b6a8-575563029fc4.png?fit=1402%2C1122&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1402\" /><p>Speaking with PT Health Watch, a retired midwife, Mary Augustine, said the weeks following childbirth are as important as labour and delivery in preventing complications and ",
+    "published": "Sat, 08 Aug 2026 15:52:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:43.165624+00:00",
+    "used": false
+  },
+  {
+    "id": "6f04ff0313368cfe",
+    "source": "Premium Times",
+    "title": "EXCLUSIVE: Messaging apps alleged coup conspirators used for communication",
+    "link": "https://www.premiumtimesng.com/news/headlines/901512-exclusive-messaging-apps-alleged-coup-conspirators-used-for-communication.html",
+    "summary": "<img alt=\"Messaging APPS\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Messaging-APPS.png?fit=1536%2C1024&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>Suspected conspirators behind the alleged 2025 failed coup were believed to be conscious of keeping their communications secret. This part of the PREMIUM TIMES’ series of exclusive reports reveals the tech platforms some",
+    "published": "Sat, 08 Aug 2026 13:57:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:43.165699+00:00",
+    "used": false
+  },
+  {
+    "id": "1eb32850a1102258",
+    "source": "Premium Times",
+    "title": "Why journalism is dying in Nigeria!, By Olayinka Oyegbile",
+    "link": "https://www.premiumtimesng.com/opinion/901508-why-journalism-is-dying-in-nigeria-by-olayinka-oyegbile.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"500\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Olayinka-Oyegbile.jpg?fit=500%2C500&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"500\" /><p>Today, every unemployed or unemployable journalist wants to carry a ‘dignified’ title of being a publisher, hence the rash of poorly edited and managed online publications in the cyberspace. It has become a case of ‘read one and you’ve",
+    "published": "Sat, 08 Aug 2026 13:54:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:43.165746+00:00",
+    "used": false
+  },
+  {
+    "id": "e9fd7249f5172b6f",
+    "source": "Premium Times",
+    "title": "Children honour late Ogun politician with sanitation exercise at Lusada Market",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/901489-children-honour-late-ogun-politician-with-sanitation-exercise-at-lusada-market.html",
+    "summary": "<img alt=\"Some of the participants in the cleaning exercise (PHOTO CREDIT: DLAP)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1920\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003803779.jpg?fit=2560%2C1920&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The exercise brought together volunteers, youth leaders, traders and residents who cleaned parts of the market while raising awareness about environmental sanitation</p",
+    "published": "Sat, 08 Aug 2026 13:11:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:43.165787+00:00",
+    "used": false
+  },
+  {
+    "id": "9e9a098a1136955c",
+    "source": "Premium Times",
+    "title": "The federalism that promotes productivity (2), By Dipo Baruwa",
+    "link": "https://www.premiumtimesng.com/opinion/901500-the-federalism-that-promotes-productivity-2-by-dipo-baruwa.html",
+    "summary": "<img alt=\"Dipo Baruwa writes about incentivising private investments in the context of global competitiveness.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"792\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/05/Dipo-Baruwa.jpeg?fit=476%2C792&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"476\" /><p>Ultimately, federalism succeeds not merely because power is decentralised, but because authority, incentives and capability are deliberately",
+    "published": "Sat, 08 Aug 2026 13:02:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:43.165838+00:00",
+    "used": false
+  },
+  {
+    "id": "890df149336281fb",
+    "source": "Premium Times",
+    "title": "NYSC, khaki and the fight against drug abuse, By Fatih Lawal‑Garu",
+    "link": "https://www.premiumtimesng.com/opinion/901493-nysc-khaki-and-the-fight-against-drug-abuse-by-fatih-lawal-garu.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"629\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Fatih-Lawal%E2%80%91Garu-1.jpeg?fit=595%2C629&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"595\" /><p>Many young Nigerians see NYSC as a one‑year ritual — khaki, clearance, CDS, and monthly allowances. But my experience taught me something deeper. National service is not about the uniform. It is about the impact made while we",
+    "published": "Sat, 08 Aug 2026 12:02:37 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:43.165888+00:00",
+    "used": false
+  },
+  {
+    "id": "d7f9f342e5de1991",
+    "source": "Premium Times",
+    "title": "The memoir on NIPSS, NIPR and an AI study that outlived institutional setbacks, By Kabir Abdulsalam",
+    "link": "https://www.premiumtimesng.com/opinion/901474-the-memoir-on-nipss-nipr-and-an-ai-study-that-outlived-institutional-setbacks-by-kabir-abdulsalam.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"402\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Kabir-Abdulsalam-.jpeg?fit=433%2C402&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"433\" /><p>The enduring strength of MNI versus MNIPR in NIPSS lies not in its recounting of institutional disagreements but in its demonstration that resilience can transform disappointment into lasting contribution&#8230; The closing reflection",
+    "published": "Sat, 08 Aug 2026 11:25:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:43.166001+00:00",
+    "used": false
+  },
+  {
+    "id": "7f2492373bd2886c",
+    "source": "Leadership Newspaper",
+    "title": "Senegal Charges 71 Men With ‘Unnatural Acts’ In Homosexuality Crackdown",
+    "link": "https://leadership.ng/senegal-charges-71-men-with-unnatural-acts-in-homosexuality-crackdown/",
+    "summary": "Senegal has charged 71 men with “unnatural acts” as authorities intensify a crackdown on homosexuality in the West African country. The public prosecutor’s office announced the charges late Friday, saying the men had been brought before a court following a preliminary investigation. According to a statement by the prosecutor’s office, charges against 28 other defendants [&#8230;]",
+    "published": "Sat, 08 Aug 2026 17:19:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:50.840660+00:00",
+    "used": false
+  },
+  {
+    "id": "879c95032ca08a8b",
+    "source": "Leadership Newspaper",
+    "title": "Spanish Man Travels To Lagos In Search Of Mother’s Romance Scammer",
+    "link": "https://leadership.ng/spanish-man-travels-to-lagos-in-search-of-mothers-romance-scammer/",
+    "summary": "When Carlos Barragan encouraged his divorced mother to try online dating, he hoped she would find companionship. Instead, the experience led him on an unexpected journey to Lagos in search of the Nigerian scammers behind her online romance. &#160; Barragan’s mother soon met a man who introduced himself as Brian, a US soldier serving in [&#8230;]",
+    "published": "Sat, 08 Aug 2026 16:23:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:50.840705+00:00",
+    "used": false
+  },
+  {
+    "id": "2b67f861976d0173",
+    "source": "Leadership Newspaper",
+    "title": "Outrage As White House Uses Spider-Man Image For ICE Campaign",
+    "link": "https://leadership.ng/outrage-as-white-house-uses-spider-man-image-for-ice-campaign/",
+    "summary": "&#160; &#160; &#160; The White House has faced criticism after using an image of the Marvel superhero Spider-Man in a social media post promoting the work of U.S. Immigration and Customs Enforcement (ICE). &#160; The post, shared on official administration accounts, depicted the character using his webs to capture individuals described by officials as criminal [&#8230;]",
+    "published": "Sat, 08 Aug 2026 16:21:14 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:50.840728+00:00",
+    "used": false
+  },
+  {
+    "id": "a6dbcf92aa38734e",
+    "source": "Leadership Newspaper",
+    "title": "Olu Of Warri Rides Scooter Ahead Of 5th Coronation Anniversary",
+    "link": "https://leadership.ng/olu-of-warri-rides-scooter-ahead-of-5th-coronation-anniversary/",
+    "summary": "His Majesty Ogiame Atuwatse III, the Olu of Warri, has once again captured the attention of social media users after taking his morning fitness routine to another level, this time riding a scooter as he toured areas where preparations are ongoing for his forthcoming fifth coronation anniversary. The monarch was seen riding a scooter through [&#8230;]",
+    "published": "Sat, 08 Aug 2026 16:07:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:50.840750+00:00",
+    "used": false
+  },
+  {
+    "id": "41e5245f50111c13",
+    "source": "Leadership Newspaper",
+    "title": "Lionel Messi’s Father Jorge Des At 68",
+    "link": "https://leadership.ng/lionel-messis-father-jorge-des-at-68/",
+    "summary": "Jorge Messi, the father and long-time representative of Argentina captain Lionel Messi, has died at a sanatorium in Rosario, Argentina, following a prolonged illness. Argentine news outlet Infobae reported his death on Saturday, confirming he passed at approximately 10pm on Friday. Jorge played a pivotal role in his son&#8217;s rise from Newell&#8217;s Old Boys to [&#8230;]",
+    "published": "Sat, 08 Aug 2026 15:41:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-08T17:37:50.840775+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -34867,6 +35285,28 @@
     "published": "Sat, 08 Aug 2026 04:48:43 +0000",
     "priority": "low",
     "fetched_at": "2026-08-08T07:45:30.100607+00:00",
+    "used": false
+  },
+  {
+    "id": "8f60d2a44dbdbbbd",
+    "source": "Premium Times",
+    "title": "“Aren’t We All PR People?”: Setting a new benchmark for communicators, By Yushau A. Shuaib",
+    "link": "https://www.premiumtimesng.com/entertainment/901485-arent-we-all-pr-people-setting-a-new-benchmark-for-communicators-by-yushau-a-shuaib.html",
+    "summary": "<img alt=\"Yushau Shuaib\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"458\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/09/admin-ajax-2025-09-21T190258.931.jpg?fit=600%2C458&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>For emerging communicators, this book will serve as a mentor. For educators, it will be a teaching companion. For practitioners, it will be a reminder of the discipline’s core values. And for the profession ",
+    "published": "Sat, 08 Aug 2026 11:44:58 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-08T17:37:43.165940+00:00",
+    "used": false
+  },
+  {
+    "id": "7bd855fbad85aeab",
+    "source": "Premium Times",
+    "title": "‘Jude caused our family’s problems’ — P-Square’s elder brother Henry alleges",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/901478-jude-caused-our-familys-problems-p-squares-elder-brother-henry-alleges.html",
+    "summary": "<img alt=\"P-Square&#039;s elder brother, Henry Okoye. (PHOTO CREDIT: YouTube_Nollyserve)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"345\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/P-Squares-elder-brother-Henry-Okoye.-Photo_-YouTube_Nollyserve-e1786187694775.jpg?fit=532%2C345&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"532\" /><p>“Before they started all this, they promised me 20 per cent of each song's earnings. Nobody ever ",
+    "published": "Sat, 08 Aug 2026 11:13:08 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-08T17:37:43.166048+00:00",
     "used": false
   }
 ]
