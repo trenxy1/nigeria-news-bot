@@ -888,7 +888,7 @@
     "published": "Wed, 15 Jul 2026 11:33:50 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:09.709763+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "d53c0dd38b9d9a84",
@@ -15683,6 +15683,171 @@
     "published": "Sun, 09 Aug 2026 16:19:50 +0000",
     "priority": "high",
     "fetched_at": "2026-08-09T17:38:24.210283+00:00",
+    "used": false
+  },
+  {
+    "id": "db362c9203df3abb",
+    "source": "Punch Nigeria",
+    "title": "Senate moves to strengthen Nigeria’s financial system",
+    "link": "https://punchng.com/senate-moves-to-strengthen-nigerias-financial-system/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigerian Senate is working to strengthen Nigeria&#8217;s financial system through legislative reforms and collaboration with regulators for economic stabilit\n\nRead More: https://punchng.com/senate-moves-to-strengthen-nigerias-financial-system/",
+    "published": "Sun, 09 Aug 2026 20:55:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:44.624405+00:00",
+    "used": false
+  },
+  {
+    "id": "2ae137e66cb9c273",
+    "source": "Punch Nigeria",
+    "title": "Iran names new head of top national security body",
+    "link": "https://punchng.com/iran-names-new-head-of-top-national-security-body/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Mohsen Rezaei, former Revolutionary Guards commander, appointed as Iran&#8217;s new national security chief. Learn about his background and the council&#8217;s role.\n\nRead More: https://punchng.com/iran-names-new-head-of-top-national-security-body/",
+    "published": "Sun, 09 Aug 2026 20:32:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:44.624442+00:00",
+    "used": false
+  },
+  {
+    "id": "8a059886061f0070",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Oyo APC rallies support for Oyebamiji",
+    "link": "https://punchng.com/osun-poll-oyo-apc-rallies-support-for-oyebamiji/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Oyo APC urges Osun voters to support Bola Oyebamiji in the upcoming Osun election, citing the need for quality leadership and development.\n\nRead More: https://punchng.com/osun-poll-oyo-apc-rallies-support-for-oyebamiji/",
+    "published": "Sun, 09 Aug 2026 19:14:14 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:44.624535+00:00",
+    "used": false
+  },
+  {
+    "id": "a229a0a223167900",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Avoid bloodshed, APC chieftain urges voters",
+    "link": "https://punchng.com/osun-poll-avoid-bloodshed-apc-chieftain-urges-voters/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An APC chieftain appeals to Osun voters to ensure a peaceful August 15 governorship election, urging support for Bola Oyebamiji and cautioning against bloo\n\nRead More: https://punchng.com/osun-poll-avoid-bloodshed-apc-chieftain-urges-voters/",
+    "published": "Sun, 09 Aug 2026 19:12:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:44.624544+00:00",
+    "used": false
+  },
+  {
+    "id": "ab890bb399e2b72e",
+    "source": "Punch Nigeria",
+    "title": "Lagos Accord Party rejects Tinubu endorsement claim",
+    "link": "https://punchng.com/lagos-accord-party-rejects-tinubu-endorsement-claim/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos Accord Party chairman dismisses claims of endorsing President Tinubu&#8217;s re-election bid for 2027, stating the party will field its own candidates.\n\nRead More: https://punchng.com/lagos-accord-party-rejects-tinubu-endorsement-claim/",
+    "published": "Sun, 09 Aug 2026 18:59:49 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:44.624550+00:00",
+    "used": false
+  },
+  {
+    "id": "aef1564aef30f878",
+    "source": "Punch Nigeria",
+    "title": "Osun gov poll: Oyinlola-led PDP adopts Oyebamiji",
+    "link": "https://punchng.com/osun-gov-poll-oyinlola-led-pdp-adopts-oyebamiji/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A faction of Osun PDP, led by ex-governor Oyinlola, declares support for APC candidate Bola Oyebamiji in the upcoming governorship election, citing lack of\n\nRead More: https://punchng.com/osun-gov-poll-oyinlola-led-pdp-adopts-oyebamiji/",
+    "published": "Sun, 09 Aug 2026 18:56:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:44.624585+00:00",
+    "used": false
+  },
+  {
+    "id": "ed97191b371d8d19",
+    "source": "Punch Nigeria",
+    "title": "2027: Rep urges single-day poll, seeks amendment of Electoral Act",
+    "link": "https://punchng.com/2027-rep-urges-single-day-poll-seeks-amendment-of-electoral-act/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A House of Reps member advocates for a single-day 2027 election to save costs and improve security, also seeking to amend the Electoral Act to prevent frau\n\nRead More: https://punchng.com/2027-rep-urges-single-day-poll-seeks-amendment-of-electoral-act/",
+    "published": "Sun, 09 Aug 2026 18:51:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:44.624592+00:00",
+    "used": false
+  },
+  {
+    "id": "18071dbeb498d80e",
+    "source": "Punch Nigeria",
+    "title": "APM will shock APC in 2027, says Ondo senatorial candidate",
+    "link": "https://punchng.com/apm-will-shock-apc-in-2027-says-ondo-senatorial-candidate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Sunday Falae, APM&#8217;s Ondo Central Senatorial candidate, declares the party will defeat APC in the 2027 election, citing APC&#8217;s lack of impact.\n\nRead More: https://punchng.com/apm-will-shock-apc-in-2027-says-ondo-senatorial-candidate/",
+    "published": "Sun, 09 Aug 2026 18:49:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:44.624599+00:00",
+    "used": false
+  },
+  {
+    "id": "26b3d64c8ed68759",
+    "source": "Premium Times",
+    "title": "Abiodun seeks stronger government -church partnership as Egba Anglican Diocese clocks 50",
+    "link": "https://www.premiumtimesng.com/promoted/901740-abiodun-seeks-stronger-government-church-partnership-as-egba-anglican-diocese-clocks-50.html",
+    "summary": "<img alt=\"L-R: The Diocesan Bishop of the Egba Anglican Diocese, Rt Rev’d Oludaisi Adekunle; the Alake and Paramount Ruler of Egbaland, Oba Adedotun Aremu Gbadebo; Ogun State Governor, Dapo Abiodun; the Archbishop, Metropolitan and Primate of All Nigeria Anglican Communion, The Most Rev’d Henry Ndukuba; former Primate of the Church of Nigeria (Anglican Communion), Archbishop Peter Akinola; and the Bishop of the Remo Anglican Diocese and Archbishop of the Ecclesiastical Province of Lagos, Rt Rev’",
+    "published": "Sun, 09 Aug 2026 19:28:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:45.326142+00:00",
+    "used": false
+  },
+  {
+    "id": "db17d869a762c8e3",
+    "source": "Premium Times",
+    "title": "Dressing, addressing, and redressing Nigeria’s lawyers and judges, By Chidi Anselm Odinkalu",
+    "link": "https://www.premiumtimesng.com/opinion/901737-dressing-addressing-and-redressing-nigerias-lawyers-and-judges-by-chidi-anselm-odinkalu.html",
+    "summary": "<img alt=\"Chidi Anselm Odinkalu writes that democracy without voters is the origin of Nigeria’s insecurity crisis.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"441\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/01/chidi-odinkalu-632x441-1.jpg?fit=632%2C441&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"632\" /><p>How we dress and address legal and judicial vocations in Nigeria is important. But even more important is whether we care to",
+    "published": "Sun, 09 Aug 2026 19:20:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:45.326164+00:00",
+    "used": false
+  },
+  {
+    "id": "efd121f335143c59",
+    "source": "Premium Times",
+    "title": "Bajju UK, Europe association unveils education, development agenda for Kaduna",
+    "link": "https://www.premiumtimesng.com/news/more-news/901722-bajju-uk-europe-association-unveils-education-development-agenda-for-kaduna.html",
+    "summary": "<img alt=\"Dignitaries at the inauguration event in Manchester (CREDIT: Tunde Eludini)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1126\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003819477.jpg?fit=2000%2C1126&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2000\" /><p>Bajju UK and Europe Association says its educational trust will provide scholarships for less privileged children as it seeks to support development and preserve t",
+    "published": "Sun, 09 Aug 2026 18:24:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:45.326196+00:00",
+    "used": false
+  },
+  {
+    "id": "cdfecfd3553a565e",
+    "source": "Leadership Newspaper",
+    "title": "5,091 Killed In 3 Months: Atiku Says Tinubu’s Scorecard Is ‘Soaked In Blood’",
+    "link": "https://leadership.ng/5091-killed-in-3-months-atiku-says-tinubus-scorecard-is-soaked-in-blood/",
+    "summary": "Former vice president and presidential candidate of the African Democratic Congress (ADC), Atiku Abubakar, has described the reported killing of 5,091 Nigerians in violent incidents across the country within three months as a damning indictment of President Bola Tinubu’s administration. Atiku, in a statement issued by his Senior Special Assistant on Public Communication, Phrank Shaibu, [&#8230;]",
+    "published": "Sun, 09 Aug 2026 19:57:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:48.328466+00:00",
+    "used": false
+  },
+  {
+    "id": "5c93790400ce4b3c",
+    "source": "Leadership Newspaper",
+    "title": "NAF Airstrikes Kill ISWAP Commander Khalid Al Muhajir, 8 Others In Borno",
+    "link": "https://leadership.ng/naf-airstrikes-kill-iswap-commander-khalid-al-muhajir-8-others-in-borno/",
+    "summary": "The Nigerian Air Force (NAF) airstrike has eliminated Islamic State West Africa Province (ISWAP) Commander Abu Khalid Al Muhajir, and eight others following a precision air strike in Borno State Khalid Al Muhajir is described as a prominent ISWAP commander responsible for providing special security escorts for the movement of senior members of the terrorist [&#8230;]",
+    "published": "Sun, 09 Aug 2026 19:49:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:48.328489+00:00",
+    "used": false
+  },
+  {
+    "id": "c6c98446d57d3764",
+    "source": "Leadership Newspaper",
+    "title": "Panic As Kidnappers Kill 2, Abduct 1 In Nasarawa",
+    "link": "https://leadership.ng/panic-as-kidnappers-kill-2-abduct-1-in-nasarawa/",
+    "summary": "There is growing fear in Lafia, the Nasarawa State capital, following a fresh attack by suspected kidnappers that left two people dead and another person abducted. LEADERSHIP gathered that the gunmen invaded Gidan Kaji area, near Command Secondary School in Lafia West and attempted to abduct a resident, in the process killing two persons. It [&#8230;]",
+    "published": "Sun, 09 Aug 2026 19:45:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:48.328506+00:00",
+    "used": false
+  },
+  {
+    "id": "bbdbee3990c585ca",
+    "source": "Leadership Newspaper",
+    "title": "Border Security: Immigration Service Orders Airport Security Overhaul, Deploys High-Tech Anti-Corruption Tools",
+    "link": "https://leadership.ng/border-security-immigration-service-orders-airport-security-overhaul-deploys-high-tech-anti-corruption-tools/",
+    "summary": "In a decisive move to crush corruption and seal Nigeria’s air borders against emerging security threats, the Comptroller General of the Nigeria Immigration Service (NIS), Kemi Nandap, has ordered a sweeping, nationwide overhaul of all airport operations. According to an official statement released Sunday, August 9, 2026, by the Service Public Relations Officer, DCI Akinsola [&#8230;]",
+    "published": "Sun, 09 Aug 2026 19:39:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T20:17:48.328519+00:00",
     "used": false
   },
   {
@@ -34075,6 +34240,171 @@
     "published": "Sun, 09 Aug 2026 15:56:27 +0000",
     "priority": "medium",
     "fetched_at": "2026-08-09T17:38:24.210375+00:00",
+    "used": false
+  },
+  {
+    "id": "c3435c1b06861c02",
+    "source": "Punch Nigeria",
+    "title": "FULL LIST: Countries qualified for 2027 Women’s World Cup",
+    "link": "https://punchng.com/full-list-countries-qualified-for-2027-womens-world-cup/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "See the full list of countries that have qualified for the 2027 FIFA Women&#8217;s World Cup, including African nations like Cameroon, Algeria, and Morocco.\n\nRead More: https://punchng.com/full-list-countries-qualified-for-2027-womens-world-cup/",
+    "published": "Sun, 09 Aug 2026 21:11:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:44.624379+00:00",
+    "used": false
+  },
+  {
+    "id": "179d65a0f85ea135",
+    "source": "Punch Nigeria",
+    "title": "EPL: Guimaraes can take Arsenal to next level — Arteta",
+    "link": "https://punchng.com/epl-guimaraes-can-take-arsenal-to-next-level-arteta/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Mikel Arteta believes new signing Bruno Guimaraes will help Arsenal reach the next level, praising his versatility and goal threat. Read more here.\n\nRead More: https://punchng.com/epl-guimaraes-can-take-arsenal-to-next-level-arteta/",
+    "published": "Sun, 09 Aug 2026 20:32:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:44.624432+00:00",
+    "used": false
+  },
+  {
+    "id": "a0ec7c5bf6a9c07b",
+    "source": "Punch Nigeria",
+    "title": "Serie A: Como sign Chalobah from Chelsea for £30m",
+    "link": "https://punchng.com/serie-a-como-sign-chalobah-from-chelsea-for-30m/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Trevoh Chalobah completes £30m move from Chelsea to Serie A club Como, signing a five-year deal. Learn more about the defender&#8217;s transfer.\n\nRead More: https://punchng.com/serie-a-como-sign-chalobah-from-chelsea-for-30m/",
+    "published": "Sun, 09 Aug 2026 20:18:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:44.624463+00:00",
+    "used": false
+  },
+  {
+    "id": "1694ca379bca7b24",
+    "source": "Punch Nigeria",
+    "title": "FG unveils guards to protect Lagos-Calabar coastal highway",
+    "link": "https://punchng.com/fg-unveils-guards-to-protect-lagos-calabar-coastal-highway/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government has launched Coastal Highway Guards to protect the Lagos-Calabar Coastal Highway from vandalism and unauthorized activities. Learn m\n\nRead More: https://punchng.com/fg-unveils-guards-to-protect-lagos-calabar-coastal-highway/",
+    "published": "Sun, 09 Aug 2026 19:40:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:44.624483+00:00",
+    "used": false
+  },
+  {
+    "id": "daf57b4375e31cf0",
+    "source": "Punch Nigeria",
+    "title": "[BREAKING] BBNaija: Martins becomes first housemate evicted after two weeks",
+    "link": "https://punchng.com/breaking-bbnaija-martins-becomes-first-housemate-evicted-after-two-weeks/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Martins Iyeh has been evicted from Big Brother Naija Season 11, becoming the first housemate to leave. Get details on the BBNaija eviction and his journey.\n\nRead More: https://punchng.com/breaking-bbnaija-martins-becomes-first-housemate-evicted-after-two-weeks/",
+    "published": "Sun, 09 Aug 2026 19:38:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:44.624504+00:00",
+    "used": false
+  },
+  {
+    "id": "00fd24768778379f",
+    "source": "Punch Nigeria",
+    "title": "JUST IN: Cameroon beat Nigeria 1-0 in WAFCON quarter- final",
+    "link": "https://punchng.com/just-in-cameroon-beat-nigeria-1-0-in-wafcon-quarter-final/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Defending champions Nigeria are out of the 2026 WAFCON after a 1-0 quarter-final defeat to Cameroon, missing out on World Cup qualification.\n\nRead More: https://punchng.com/just-in-cameroon-beat-nigeria-1-0-in-wafcon-quarter-final/",
+    "published": "Sun, 09 Aug 2026 19:15:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:44.624527+00:00",
+    "used": false
+  },
+  {
+    "id": "97d15b2d7a8af323",
+    "source": "Punch Nigeria",
+    "title": "Iraola’s first Anfield match as Liverpool manager ends in Monaco defeat",
+    "link": "https://punchng.com/iraolas-first-anfield-match-as-liverpool-manager-ends-in-monaco-defeat/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Liverpool under new manager Andoni Iraola suffer a 3-2 friendly defeat to Monaco at Anfield, squandering a two-goal lead. Read about the Liverpool Monaco m\n\nRead More: https://punchng.com/iraolas-first-anfield-match-as-liverpool-manager-ends-in-monaco-defeat/",
+    "published": "Sun, 09 Aug 2026 18:57:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:44.624577+00:00",
+    "used": false
+  },
+  {
+    "id": "a5a8b5552515be96",
+    "source": "Premium Times",
+    "title": "When pulpit confronts power, By Wole Olaoye",
+    "link": "https://www.premiumtimesng.com/opinion/901746-when-pulpit-confronts-power-by-wole-olaoye.html",
+    "summary": "<img alt=\"Wole Olaoye writes about e-jackasses who are on the prowl.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/07/Wole-Olaoye-NEW.jpg?fit=499%2C518&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"499\" /><p>The overwhelming majority of social media commentators are in support of Cardinal Onaiyekan, which shows that he was, in fact, doing his country a good turn by speaking truth to p",
+    "published": "Sun, 09 Aug 2026 19:53:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:45.326092+00:00",
+    "used": false
+  },
+  {
+    "id": "7196c31591490684",
+    "source": "Premium Times",
+    "title": "Etymology as hope for Nigeria: How we can establish unity through anthropology of language, By ‘Tope Fasua",
+    "link": "https://www.premiumtimesng.com/opinion/901725-etymology-as-hope-for-nigeria-how-we-can-establish-unity-through-anthropology-of-language-by-tope-fasua.html",
+    "summary": "<img alt=\"Tope Fasua writes that corruption should never define us in Nigeria.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"395\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2018/12/Tope-Fasua-2-e1680420617122.jpg?fit=531%2C395&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"531\" /><p>Now let me put down the little that comes to my head for now, in evidence of Nigeria’s unity, of the fact that we are one, and that our ancestors had great i",
+    "published": "Sun, 09 Aug 2026 17:45:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:45.326251+00:00",
+    "used": false
+  },
+  {
+    "id": "e53830f394be72ea",
+    "source": "Leadership Newspaper",
+    "title": "BBNaija S11 :  Mercedes Becomes 2nd  Housemate To Be Evicted From Show Ya Self Edition",
+    "link": "https://leadership.ng/bbnaija-s11-mercedes-becomes-2nd-housemate-to-be-evicted-from-show-ya-self-edition/",
+    "summary": "Mercedes has emerged as the second housemate to be evicted from the Big Brother House. ‎The 26-year-old entrepreneur, massage therapist, and concierge CEO said she had fun and will be building on her brand and outfit. The Delta State indigene said that leaving the house would allow her to raise money to treat her dad&#8217;s [&#8230;]",
+    "published": "Sun, 09 Aug 2026 19:25:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:48.328551+00:00",
+    "used": false
+  },
+  {
+    "id": "363b3b074ea6f68c",
+    "source": "Leadership Newspaper",
+    "title": "‎BBNaija S11 :  I Will Suprise The World – Martins Speaks After Being Evicted",
+    "link": "https://leadership.ng/bbnaija-s11-i-will-suprise-the-world-martins-speaks-after-being-evicted/",
+    "summary": "‎Martins has become the first housemate to be evicted from the Show Ya Self Edition. ‎The housemate has held on for the two weeks in the ongoing edition of the show Ya Self, including celebrating his birthday. ‎Speaking to the show anchor, Ebuka Obi-Uchendu, with the audience after his eviction, the model and creative director [&#8230;]",
+    "published": "Sun, 09 Aug 2026 19:20:34 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:48.328580+00:00",
+    "used": false
+  },
+  {
+    "id": "d7c7f7cffc4eec69",
+    "source": "Leadership Newspaper",
+    "title": "BBNaija S11 : Chisom Chuka Becomes Most Influential Housemate In House",
+    "link": "https://leadership.ng/bbnaija-s11-chisom-chuka-becomes-most-influential-housemate-in-house/",
+    "summary": "‎Chisom Chuka has emerged as the most influential housemate in the ongoing Big Brother Naija. ‎The housemate was announced by Biggie in the ongoing eviction show. ‎Chisom, a pharmacist, was the first Head of House in the ongoing season. ‎The reward comes with immunity from eviction in the week 3 eviction show. ‎",
+    "published": "Sun, 09 Aug 2026 19:18:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:48.328606+00:00",
+    "used": false
+  },
+  {
+    "id": "0f69dfebdb4cbf8d",
+    "source": "Leadership Newspaper",
+    "title": "Super Falcons’ World Cup Dream Shattered As Cameroon End WAFCON Title Defence",
+    "link": "https://leadership.ng/super-falcons-world-cup-dream-shattered-as-cameroon-end-wafcon-title-defence/",
+    "summary": "Nigeria’s Super Falcons suffered a devastating 1-0 defeat to Cameroon’s Lionesses in the quarter-finals of the Women’s Africa Cup of Nations, ending their hopes of defending the continental title and qualifying for the 2027 FIFA Women’s World Cup. Cameroon scored in the 19th minute to secure a narrow victory and send the Super Falcons out [&#8230;]",
+    "published": "Sun, 09 Aug 2026 19:17:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:48.328634+00:00",
+    "used": false
+  },
+  {
+    "id": "567795d7235b1042",
+    "source": "Leadership Newspaper",
+    "title": "BBNaija S11 :  Martins Becomes 1st Housemate To Be Evicted",
+    "link": "https://leadership.ng/bbnaija-s11-martins-becomes-1st-housemate-to-be-evicted/",
+    "summary": "‎Martins has emerged as the first housemate to be evicted in the eleventh edition of the Big Brother Naija reality show. ‎The housemate has held on for the two weeks in the ongoing edition of the show Ya Self, including celebrating his birthday. ‎Twenty-three housemates now remain in the house. Martins Iyeh is a 30-year-old [&#8230;]",
+    "published": "Sun, 09 Aug 2026 19:16:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:48.328660+00:00",
+    "used": false
+  },
+  {
+    "id": "d996964e656f6d2c",
+    "source": "Leadership Newspaper",
+    "title": "Foundation Donates House To Kogi Widow",
+    "link": "https://leadership.ng/foundation-donates-house-to-kogi-widow/",
+    "summary": "A non- governmental organization, NGO,   My People First Foundation, has donated a room-and-parlour self-contained house to a widow, Mama Mariyamo Audu Azuo, in Inata Community, Obeiba, Okehi Local Government Area of Kogi State. The house, which was commissioned and handed over to the beneficiary at the weekend, is the second home provided by the foundation [&#8230;]",
+    "published": "Sun, 09 Aug 2026 18:00:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T20:17:48.328686+00:00",
     "used": false
   },
   {
