@@ -877,7 +877,7 @@
     "published": "Wed, 15 Jul 2026 12:04:21 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:09.709728+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "99af63118502191d",
@@ -15485,6 +15485,204 @@
     "published": "Sun, 09 Aug 2026 07:26:17 +0000",
     "priority": "high",
     "fetched_at": "2026-08-09T07:51:54.261804+00:00",
+    "used": false
+  },
+  {
+    "id": "45b689f6645eb774",
+    "source": "Punch Nigeria",
+    "title": "Northern Yoruba leaders task Tinubu on poverty alleviation",
+    "link": "https://punchng.com/northern-yoruba-leaders-task-tinubu-on-poverty-alleviation/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Northern Yoruba leaders urge President Tinubu to intensify efforts on poverty alleviation, despite acknowledging economic reforms require patience. Read mo\n\nRead More: https://punchng.com/northern-yoruba-leaders-task-tinubu-on-poverty-alleviation/",
+    "published": "Sun, 09 Aug 2026 18:21:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:19.038219+00:00",
+    "used": false
+  },
+  {
+    "id": "1305f421d5a96d8a",
+    "source": "Punch Nigeria",
+    "title": "Oyebanji urges revenue agencies to collaborate, boost Ekiti IGR",
+    "link": "https://punchng.com/oyebanji-urges-revenue-agencies-to-collaborate-boost-ekiti-igr/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ekiti State Governor Oyebanji calls for stronger collaboration among revenue agencies to boost Ekiti IGR, block leakages, and improve service delivery.\n\nRead More: https://punchng.com/oyebanji-urges-revenue-agencies-to-collaborate-boost-ekiti-igr/",
+    "published": "Sun, 09 Aug 2026 17:56:53 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:19.038230+00:00",
+    "used": false
+  },
+  {
+    "id": "de8301e273065702",
+    "source": "Punch Nigeria",
+    "title": "Wike-Fubara crisis was  PDP affair, not Ijaw struggle — Ex-IYC president",
+    "link": "https://punchng.com/wike-fubara-crisis-was-pdp-affair-not-ijaw-struggle-ex-iyc-president/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former IYC President Udengs Eradiri clarifies the Wike-Fubara crisis was an internal PDP matter, not an Ijaw struggle, and discusses its impact on Rivers p\n\nRead More: https://punchng.com/wike-fubara-crisis-was-pdp-affair-not-ijaw-struggle-ex-iyc-president/",
+    "published": "Sun, 09 Aug 2026 17:55:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:19.038241+00:00",
+    "used": false
+  },
+  {
+    "id": "3be6eca9e4ff9558",
+    "source": "Punch Nigeria",
+    "title": "Tinubu urges clerics to speak against terrorism, kidnapping",
+    "link": "https://punchng.com/tinubu-urges-clerics-to-speak-against-terrorism-kidnapping/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu urges religious leaders to speak out against terrorism, kidnapping, and the misuse of religion to justify violence in Nigeria.\n\nRead More: https://punchng.com/tinubu-urges-clerics-to-speak-against-terrorism-kidnapping/",
+    "published": "Sun, 09 Aug 2026 16:52:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:19.038317+00:00",
+    "used": false
+  },
+  {
+    "id": "f165f8a4a4ed84cc",
+    "source": "Punch Nigeria",
+    "title": "Osun-Osogbo: Priestess defends 10-year-old Arugba, dismisses child abuse claims",
+    "link": "https://punchng.com/osun-osogbo-priestess-defends-10-year-old-arugba-dismisses-child-abuse-claims/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A priestess and the Araba of Osogbo defend the selection of a 10-year-old Arugba for the Osun-Osogbo Festival, dismissing child abuse claims and explaining\n\nRead More: https://punchng.com/osun-osogbo-priestess-defends-10-year-old-arugba-dismisses-child-abuse-claims/",
+    "published": "Sun, 09 Aug 2026 16:50:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:19.038325+00:00",
+    "used": false
+  },
+  {
+    "id": "46901ab4ca8dc510",
+    "source": "Punch Nigeria",
+    "title": "Police arrest cultist, recover gun in Ekiti",
+    "link": "https://punchng.com/police-arrest-cultist-recover-gun-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ekiti State Police Command arrests suspected cultist Sunday Samuel in Efon Alaaye, recovering a locally made gun. Read more on the Ekiti cultist arrest.\n\nRead More: https://punchng.com/police-arrest-cultist-recover-gun-in-ekiti/",
+    "published": "Sun, 09 Aug 2026 16:39:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:19.038333+00:00",
+    "used": false
+  },
+  {
+    "id": "7ebafd3241789c41",
+    "source": "Punch Nigeria",
+    "title": "2027: Kebbi PDP denies endorsing gov Idris, says party remains united",
+    "link": "https://punchng.com/2027-kebbi-pdp-denies-endorsing-gov-idris-says-party-remains-united/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kebbi State PDP disowns reports of endorsing Governor Nasir Idris for the 2027 governorship election, insisting the party remains united.\n\nRead More: https://punchng.com/2027-kebbi-pdp-denies-endorsing-gov-idris-says-party-remains-united/",
+    "published": "Sun, 09 Aug 2026 16:18:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:19.038340+00:00",
+    "used": false
+  },
+  {
+    "id": "bae847df6c0f915a",
+    "source": "Punch Nigeria",
+    "title": "APC beats INEC deadline, uploads all candidates for 2027 elections",
+    "link": "https://punchng.com/apc-beats-inec-deadline-uploads-all-candidates-for-2027-elections/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The APC has successfully uploaded all its candidates for the 2027 general elections, beating the INEC deadline. This demonstrates the party&#8217;s preparedness.\n\nRead More: https://punchng.com/apc-beats-inec-deadline-uploads-all-candidates-for-2027-elections/",
+    "published": "Sun, 09 Aug 2026 16:11:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:19.038366+00:00",
+    "used": false
+  },
+  {
+    "id": "32791d9e593e8032",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Over 60 Accord Party members in police detention – Adeleke’s campaign organisation",
+    "link": "https://www.premiumtimesng.com/news/more-news/901716-osundecides2026-over-60-accord-party-members-in-police-detention-adelekes-campaign-organisation.html",
+    "summary": "<img alt=\"Governor Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1366\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/01/GgTzOwXWwAEzHA-.jpeg?fit=2048%2C1366&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The campaign council said the arrests were illegal and called for the immediate release of the detained party members.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/901716-osundecides",
+    "published": "Sun, 09 Aug 2026 16:38:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:20.367567+00:00",
+    "used": false
+  },
+  {
+    "id": "995dd137fd1b0dc2",
+    "source": "Premium Times",
+    "title": "IGP Disu receives Commonwealth Games Champion Ezekiel Nathaniel",
+    "link": "https://www.premiumtimesng.com/news/more-news/901670-igp-disu-receives-commonwealth-games-champion-ezekiel-nathaniel.html",
+    "summary": "<img alt=\"IGP Olatunji Disu with Ezekiel Nathaniel Credit: NPF\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003818412.jpg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Speaking during the reception, the IGP said the victory underscored the longstanding relationship between the Nigeria Police Force and sports.</p>\n<p>The post <a href=\"https://www.premiu",
+    "published": "Sun, 09 Aug 2026 15:01:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:20.367782+00:00",
+    "used": false
+  },
+  {
+    "id": "f074a67e354a58f8",
+    "source": "Premium Times",
+    "title": "Gov Mbah honoured with transformational leadership award",
+    "link": "https://www.premiumtimesng.com/promoted/901666-gov-mbah-honoured-with-transformational-leadership-award.html",
+    "summary": "<img alt=\"Governor Peter Mbah\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"468\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/3da41b9f-e7ce-4e08-a882-b7495fae55a7.jpeg?fit=627%2C468&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"627\" /><p>The Board of Trustees Chairman of Enugu Media Village, Nnanna Nze, commended Governor Mbah for what he described as his remarkable transformation of the state in just three years</p>\n<p>The post <",
+    "published": "Sun, 09 Aug 2026 14:42:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:20.367845+00:00",
+    "used": false
+  },
+  {
+    "id": "cb5a490a59b6ecb5",
+    "source": "Premium Times",
+    "title": "Community leader recounts Kwara abductees’ ordeal during six months in captivity, seeks support for orphaned children",
+    "link": "https://www.premiumtimesng.com/news/top-news/901649-community-leader-recounts-kwara-abductees-ordeal-during-six-months-in-captivity-seeks-support-for-orphaned-children.html",
+    "summary": "<img alt=\"Governor AbdulRazaq during a visit to some of the rescued victims in a hospital\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"914\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/FB_IMG_1786258659367.jpg?fit=1368%2C914&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1368\" /><p>According to him, 11 children were born during the period, including a set of twins, but six of the children died.</p>\n<p>The post <a href=\"https://www",
+    "published": "Sun, 09 Aug 2026 10:16:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:20.368021+00:00",
+    "used": false
+  },
+  {
+    "id": "6d67d28309093cd3",
+    "source": "Leadership Newspaper",
+    "title": "Gombe Approves N1.65bn For Airport Rehabilitation, Solar Lighting",
+    "link": "https://leadership.ng/gombe-approves-n1-65bn-for-airport-rehabilitation-solar-lighting/",
+    "summary": "The Gombe State Government has approved N1.65 billion for the rehabilitation of the Brigadier Zakari Maimalari International Airport and installation of solar-powered street lights along its access corridor. The approval was made at the 55th meeting of the Gombe State Executive Council on Friday, presided over by Governor Muhammadu Inuwa Yahaya. Under the intervention, the [&#8230;]",
+    "published": "Sun, 09 Aug 2026 17:18:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:24.210214+00:00",
+    "used": false
+  },
+  {
+    "id": "c26251ffb978a08b",
+    "source": "Leadership Newspaper",
+    "title": "Gara-Gombe Rejects Odegbami’s Bid To Stop NFF Elections, Backs Electoral Reform",
+    "link": "https://leadership.ng/gara-gombe-rejects-odegbamis-bid-to-stop-nff-elections-backs-electoral-reform/",
+    "summary": "Ahmed Shuaibu Gara-Gombe, Founder and Chairman of the Board of Trustees of the Athletics and Other Sports Development Commission, has rejected former Nigeria international Segun Odegbami’s threat to seek a court order to stop the Nigeria Football Federation (NFF) elections. Odegbami, popularly known as ‘The Mathematical’ during his playing days, had renewed his opposition to [&#8230;]",
+    "published": "Sun, 09 Aug 2026 17:12:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:24.210239+00:00",
+    "used": false
+  },
+  {
+    "id": "714493e65a843dd0",
+    "source": "Leadership Newspaper",
+    "title": "Duke Seeks Financial System Overhaul, Faults High Interest Rates, Rising Debt",
+    "link": "https://leadership.ng/duke-seeks-financial-system-overhaul-faults-high-interest-rates-rising-debt/",
+    "summary": "Presidential candidate of the People’s Redemption Party (PRP) in the 2027 general election, Donald Duke, has called for a comprehensive overhaul of Nigeria’s financial architecture, warning that high interest rates, rising public debt and misplaced government spending are undermining businesses and constraining economic growth. &#160; Duke, a former governor of Cross River State, said Nigeria [&#8230;]",
+    "published": "Sun, 09 Aug 2026 17:06:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:24.210251+00:00",
+    "used": false
+  },
+  {
+    "id": "d6eb70f4f79deb33",
+    "source": "Leadership Newspaper",
+    "title": "Uba Sani And The Making Of History",
+    "link": "https://leadership.ng/uba-sani-and-the-making-of-history/",
+    "summary": "By Waziri Garba Some management and development experts often posit that the accountability expected of leaders does not just stop at minding and dispensing the public till. It also entails living up to their words with action to fulfil their covenant with the public, especially for politicians. Governor Uba Sani, since assuming office, has been [&#8230;]",
+    "published": "Sun, 09 Aug 2026 16:34:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:24.210264+00:00",
+    "used": false
+  },
+  {
+    "id": "615c0c1ae3b3c515",
+    "source": "Leadership Newspaper",
+    "title": "Michael B. Jordan And Raye Fuel Romance Buzz With Six Flags Date",
+    "link": "https://leadership.ng/michael-b-jordan-and-raye-fuel-romance-buzz-with-six-flags-date/",
+    "summary": "Michael B. Jordan and British singer Raye have prompted dating speculation after the pair were spotted enjoying a day out together at Six Flags Magic Mountain near Los Angeles. The 39-year-old actor and filmmaker and the 28-year-old singer were seen riding roller coasters at the amusement park on Friday, with photos and video from their [&#8230;]",
+    "published": "Sun, 09 Aug 2026 16:22:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:24.210275+00:00",
+    "used": false
+  },
+  {
+    "id": "74c4523800e57268",
+    "source": "Leadership Newspaper",
+    "title": "Benue Assembly Majority Leader Dumps APC, Joins PDP",
+    "link": "https://leadership.ng/benue-assembly-majority-leader-dumps-apc-joins-pdp/",
+    "summary": "The majority leader Benue State House of Assembly and member representing Kwande West constituency, Thomas Dugeri, has resigned from the ruling All Progressives Congress, (APC) and joined the opposition Peoples Democratic Party (PDP). Dugeri, who lost the State Assembly APC return ticket emerged as the PDP candidate to run for 2027 general elections. State PDP [&#8230;]",
+    "published": "Sun, 09 Aug 2026 16:19:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T17:38:24.210283+00:00",
     "used": false
   },
   {
@@ -33704,6 +33902,182 @@
     "used": false
   },
   {
+    "id": "53c845e50d53971a",
+    "source": "Punch Nigeria",
+    "title": "Highly provocative, Fani-Kayode rebuts cleric’s comment on Muslim-Muslim ticket",
+    "link": "https://punchng.com/highly-provocative-fani-kayode-rebuts-clerics-comment-on-muslim-muslim-ticket/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Femi Fani-Kayode calls Sheikh Jingir&#8217;s advocacy for a continued Muslim-Muslim ticket &#8220;highly provocative,&#8221; warning against extremist rhetoric ahead of 2027\n\nRead More: https://punchng.com/highly-provocative-fani-kayode-rebuts-clerics-comment-on-muslim-muslim-ticket/",
+    "published": "Sun, 09 Aug 2026 18:37:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:19.038153+00:00",
+    "used": false
+  },
+  {
+    "id": "6cec8e9966505ba6",
+    "source": "Punch Nigeria",
+    "title": "Nigeria’s remaining 400 elephants face fight for survival — Conservationists",
+    "link": "https://punchng.com/nigerias-remaining-400-elephants-face-fight-for-survival-conservationists/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Conservationists warn that Nigeria&#8217;s remaining 400 elephants are threatened by habitat loss, ivory trade, and human-wildlife conflict. Learn how to save Ni\n\nRead More: https://punchng.com/nigerias-remaining-400-elephants-face-fight-for-survival-conservationists/",
+    "published": "Sun, 09 Aug 2026 18:27:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:19.038190+00:00",
+    "used": false
+  },
+  {
+    "id": "6134bb35eb807d24",
+    "source": "Punch Nigeria",
+    "title": "Ex-minister Adeosun’s husband for burial Thursday",
+    "link": "https://punchng.com/ex-minister-adeosuns-husband-for-burial-thursday/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The funeral service for Anthony Adeosun, husband of former Finance Minister Kemi Adeosun, will hold on Thursday, August 13, 2026, in Lagos.\n\nRead More: https://punchng.com/ex-minister-adeosuns-husband-for-burial-thursday/",
+    "published": "Sun, 09 Aug 2026 18:26:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:19.038211+00:00",
+    "used": false
+  },
+  {
+    "id": "d1e81f141c3c2ecc",
+    "source": "Punch Nigeria",
+    "title": "Chelsea draw 3-3 with Johor in pre-season friendly",
+    "link": "https://punchng.com/chelsea-draw-3-3-with-johor-in-pre-season-friendly/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Chelsea were held to a thrilling 3-3 draw by Malaysian champions Johor Darul Ta’zim in a pre-season friendly. Read about the goals and key moments from the\n\nRead More: https://punchng.com/chelsea-draw-3-3-with-johor-in-pre-season-friendly/",
+    "published": "Sun, 09 Aug 2026 16:53:30 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:19.038305+00:00",
+    "used": false
+  },
+  {
+    "id": "22f5a97ab3c6f6df",
+    "source": "Punch Nigeria",
+    "title": "PRP chieftain faults Donald Duke over Lagos-Calabar coastal highway comment",
+    "link": "https://punchng.com/prp-chieftain-faults-donald-duke-over-lagos-calabar-coastal-highway-comment/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A PRP chieftain criticizes Donald Duke&#8217;s comments on the Lagos-Calabar Coastal Highway, advocating for constructive opposition and acknowledging the projec\n\nRead More: https://punchng.com/prp-chieftain-faults-donald-duke-over-lagos-calabar-coastal-highway-comment/",
+    "published": "Sun, 09 Aug 2026 16:11:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:19.038359+00:00",
+    "used": false
+  },
+  {
+    "id": "151942772d0ee9f4",
+    "source": "Premium Times",
+    "title": "WHO recommends a clinical trial of Ebola vaccine against Bundibugyo virus",
+    "link": "https://www.premiumtimesng.com/health/health-news/901719-who-recommends-a-clinical-trial-of-ebola-vaccine-against-bundibugyo-virus.html",
+    "summary": "<img alt=\"World Health Organisation (WHO)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/05/World-Health-Organisation.jpg?fit=1200%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>The recommendation followed preliminary animal study data suggesting that the vaccine may provide some cross-protection against the disease, particularly in reducing deaths.</p>\n<p>The post <a h",
+    "published": "Sun, 09 Aug 2026 16:51:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:20.367537+00:00",
+    "used": false
+  },
+  {
+    "id": "069504e96544a4ff",
+    "source": "Premium Times",
+    "title": "The Sundiata Post Model (6): Institutional success and its four levels, By Max Amuchie",
+    "link": "https://www.premiumtimesng.com/opinion/901694-the-sundiata-post-model-6-institutional-success-and-its-four-levels-by-max-amuchie.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"516\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Max-Amuchie.jpg?fit=464%2C516&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"464\" /><p>In the preceding articles, I have argued that the twenty-first-century newsroom must evolve into a knowledge-producing institution; situated that proposition within a broader intellectual tradition; introduced the Dual Engine Architecture th",
+    "published": "Sun, 09 Aug 2026 15:36:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:20.367732+00:00",
+    "used": false
+  },
+  {
+    "id": "861dbb7f225d6870",
+    "source": "Premium Times",
+    "title": "Judge, jury, mob and the case for community policing, By Funke Adeoye",
+    "link": "https://www.premiumtimesng.com/opinion/901674-judge-jury-mob-and-the-case-for-community-policing-by-funke-adeoye.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"424\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Funke-Adeoye.jpg?fit=506%2C424&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"506\" /><p>What Nigeria needs to curtail issues of mob justice is public safety that is people-centred: community policing that is genuinely local, accountable to the neighbourhoods it serves, and built on relationships. Community policing means offic",
+    "published": "Sun, 09 Aug 2026 15:03:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:20.367771+00:00",
+    "used": false
+  },
+  {
+    "id": "cc183cb28fd8e9af",
+    "source": "Premium Times",
+    "title": "SPECIAL REPORT: As climate change pushes fish into deeper waters, Nigerian coastal fishermen lose livelihoods",
+    "link": "https://www.premiumtimesng.com/news/headlines/901662-special-report-as-climate-change-pushes-fish-into-deeper-waters-nigerian-coastal-fishermen-lose-livelihoods.html",
+    "summary": "<img alt=\"A fisherman in Ikot Inua Eyet Community assesses the water depth before heading out to fish. Photo credit - Ntiedo Ekott\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"864\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/A-fisherman-in-Ikot-Inua-Eyet-Community-assesses-the-water-depth-before-heading-out-to-fish.-Photo-credit-Ntiedo-Ekott.jpg?fit=1152%2C864&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1152\" /><p>According to",
+    "published": "Sun, 09 Aug 2026 14:52:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:20.367830+00:00",
+    "used": false
+  },
+  {
+    "id": "4a5dc3f869ebfe22",
+    "source": "Premium Times",
+    "title": "Article of Faith: The blind servant of God (1), By Femi Aribisala",
+    "link": "https://www.premiumtimesng.com/opinion/901557-article-of-faith-the-blind-servant-of-god-1-by-femi-aribisala.html",
+    "summary": "<img alt=\"Femi Aribisala writes that the Biblical Israel is not the state of Israel.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"318\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2021/02/femi-aribisala.jpg?fit=425%2C318&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"425\" /><p>The Bible reads us. I asked a question during a Bible Study, “What will happen to the great men of the earth?” Nobody answered. Then I said the great men are all in",
+    "published": "Sun, 09 Aug 2026 14:29:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:20.367891+00:00",
+    "used": false
+  },
+  {
+    "id": "ec4d0be675ab7e96",
+    "source": "Premium Times",
+    "title": "Niger records 124 diphtheria cases, 17 deaths — Commissioner",
+    "link": "https://www.premiumtimesng.com/news/more-news/901651-niger-records-124-diphtheria-cases-17-deaths-commissioner.html",
+    "summary": "<img alt=\"Front entrance of General Hospital in Minna\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"519\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2019/06/Front-entrance-of-General-Hospital-in-Minna-1.jpg?fit=800%2C519&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>Mr Bagana said 103 patients had been treated and discharged, while 17 deaths were recorded in Bida, Suleja and Shiroro local government areas.</p>\n<p>The post <a hr",
+    "published": "Sun, 09 Aug 2026 10:55:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:20.367997+00:00",
+    "used": false
+  },
+  {
+    "id": "839cea61ac360308",
+    "source": "Premium Times",
+    "title": "WAFU B U-20 Preview: Flying Eagles seek revenge against Burkina Faso in showdown",
+    "link": "https://www.premiumtimesng.com/news/top-news/901620-wafu-b-u-20-preview-flying-eagles-seek-revenge-against-burkina-faso-in-showdown.html",
+    "summary": "<img alt=\"Flying Eagles (PHOTO CREDIT: Abdul Maikaba on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"957\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003816873-e1786264934588.jpg?fit=1364%2C957&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1364\" /><p>With the regional title and qualification for next year’s Africa U-20 Cup of Nations in Ghana at stake, there is little room for sentiment when the two West African heavyweights",
+    "published": "Sun, 09 Aug 2026 08:51:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:20.368063+00:00",
+    "used": false
+  },
+  {
+    "id": "1656cb96e7c9d19e",
+    "source": "Leadership Newspaper",
+    "title": "Arsenal Lose Emirates Cup To Dortmund On Emirates Stadium Return",
+    "link": "https://leadership.ng/arsenal-lose-emirates-cup-to-dortmund-on-emirates-stadium-return/",
+    "summary": "Arsenal were beaten 3-2 by Borussia Dortmund in the Emirates Cup on their return to the Emirates Stadium, despite winning the subsequent penalty shoot-out. The Gunners, appearing at home for the first time since being crowned Premier League champions, were unable to mark the occasion with victory as Dortmund produced an impressive performance to claim [&#8230;]",
+    "published": "Sun, 09 Aug 2026 16:12:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:24.210306+00:00",
+    "used": false
+  },
+  {
+    "id": "808176df5f11e7ff",
+    "source": "Leadership Newspaper",
+    "title": "Christopher Lambert Collapses at Pittsburgh Comic-Con, Rushed to Hospital",
+    "link": "https://leadership.ng/christopher-lambert-collapses-at-pittsburgh-comic-con-rushed-to-hospital/",
+    "summary": "Highlander star Christopher Lambert was taken to a hospital after collapsing during an appearance at the Steel City Comic-Con in Pittsburgh. The 69-year-old French actor was reportedly signing autographs for fans on Saturday when he suddenly became unwell and collapsed, according to a witness who spoke to TMZ. Lambert was subsequently taken away in an [&#8230;]",
+    "published": "Sun, 09 Aug 2026 16:06:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:24.210328+00:00",
+    "used": false
+  },
+  {
+    "id": "3fc0f350d8d2c2c7",
+    "source": "Leadership Newspaper",
+    "title": "Climate Change: FG Woos Private Capital, Warns Adaptation Gap Threatens Nigeria’s Development",
+    "link": "https://leadership.ng/climate-change-fg-woos-private-capital-warns-adaptation-gap-threatens-nigerias-development/",
+    "summary": "The federal government has intensified its push for private capital and innovative financing to tackle Nigeria’s growing climate adaptation needs, declaring that public funding alone cannot provide the infrastructure, technology and resilience systems required to shield the economy and vulnerable communities from the escalating impacts of climate change. The government said climate adaptation must now [&#8230;]",
+    "published": "Sun, 09 Aug 2026 16:03:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:24.210354+00:00",
+    "used": false
+  },
+  {
+    "id": "be117853d34caaa0",
+    "source": "Leadership Newspaper",
+    "title": "Monaco Edge Liverpool In 5-Goal Pre-Season Thriller",
+    "link": "https://leadership.ng/monaco-edge-liverpool-in-5-goal-pre-season-thriller/",
+    "summary": "Liverpool suffered a narrow 3-2 defeat to AS Monaco in an entertaining club friendly as both sides continued their preparations for the new season. Monaco claimed victory in a five-goal encounter, with Liverpool unable to complete a comeback after falling behind. The result provides Liverpool manager Andoni Iraola with another opportunity to assess his squad [&#8230;]",
+    "published": "Sun, 09 Aug 2026 15:56:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T17:38:24.210375+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -35956,6 +36330,72 @@
     "published": "Sun, 09 Aug 2026 05:08:27 +0000",
     "priority": "low",
     "fetched_at": "2026-08-09T07:51:44.245297+00:00",
+    "used": false
+  },
+  {
+    "id": "591a7d9d3283a2ad",
+    "source": "Punch Nigeria",
+    "title": "Ministry pledges support for youth empowerment through sports",
+    "link": "https://punchng.com/ministry-pledges-support-for-youth-empowerment-through-sports/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government pledges support for youth sports empowerment through initiatives like the Onyeka Ikenga Football Academy, fostering talent developme\n\nRead More: https://punchng.com/ministry-pledges-support-for-youth-empowerment-through-sports/",
+    "published": "Sun, 09 Aug 2026 17:38:45 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-09T17:38:19.038259+00:00",
+    "used": false
+  },
+  {
+    "id": "ebf8bd2037632c6c",
+    "source": "Punch Nigeria",
+    "title": "Lionel Messi bids farewell to father who guided his career",
+    "link": "https://punchng.com/lionel-messi-bids-farewell-to-father-who-guided-his-career/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Football icon Lionel Messi bids an emotional farewell to his father, Jorge Messi, who passed away at 68. Learn about Jorge&#8217;s guiding role in Messi&#8217;s career\n\nRead More: https://punchng.com/lionel-messi-bids-farewell-to-father-who-guided-his-career/",
+    "published": "Sun, 09 Aug 2026 17:06:53 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-09T17:38:19.038283+00:00",
+    "used": false
+  },
+  {
+    "id": "f755ac29b7ace3ba",
+    "source": "Premium Times",
+    "title": "Osun: EFCC and the war this week, By Festus Adedayo",
+    "link": "https://www.premiumtimesng.com/opinion/901700-osun-efcc-and-the-war-this-week-by-festus-adedayo.html",
+    "summary": "<img alt=\"Festus Adedayo writes about Obasa, Aláàfin Ṣàngó and the capture of Lagos.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2019/06/festus-adedayo.jpg?fit=700%2C600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"700\" /><p>Midnight was just shyly unfolding its grim loneliness over the Coal City. I nudged the nose of my blue Peugeot 504 Saloon out of my apartment’s driveway opposite th",
+    "published": "Sun, 09 Aug 2026 15:57:46 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-09T17:38:20.367613+00:00",
+    "used": false
+  },
+  {
+    "id": "86f403c24031d487",
+    "source": "Premium Times",
+    "title": "Big Brother Africa ex-housemate Bayo Okoh dies",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/901702-big-brother-africa-ex-housemate-bayo-okoh-dies.html",
+    "summary": "<img alt=\"Former Big Brother Africa housemate Bayo Okoh\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1440\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/MixCollage-09-Aug-2026-04-50-PM-3136.jpg?fit=2560%2C1440&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>He was an Economist and the only Nigerian on Big Brother Africa, season 2.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/naija-fashion/901702-b",
+    "published": "Sun, 09 Aug 2026 15:52:43 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-09T17:38:20.367644+00:00",
+    "used": false
+  },
+  {
+    "id": "3a1e903b5ceab6d4",
+    "source": "Premium Times",
+    "title": "MOVIE REVIEW: Yul Edochie’s ‘Bury Me Again’ is a tale of seven cows, second burial, father who won’t rest",
+    "link": "https://www.premiumtimesng.com/entertainment/nollywood/901669-movie-review-yul-edochies-bury-me-again-is-a-tale-of-seven-cows-second-burial-father-who-wont-rest.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"750\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Untitled-design-24.jpg?fit=1080%2C750&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The film explores the consequences of neglecting traditional burial rites, anchored by the commanding performances of Pete and Yul Edochie.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/nollywood/901669-movie",
+    "published": "Sun, 09 Aug 2026 15:42:14 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-09T17:38:20.367688+00:00",
+    "used": false
+  },
+  {
+    "id": "f3e6647665f5486d",
+    "source": "Premium Times",
+    "title": "2Baba, Annie Idibia follow each other on Instagram amid alleged fallout with Natasha",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/901653-2baba-annie-idibia-follow-each-other-on-instagram-amid-alleged-fallout-with-natasha.html",
+    "summary": "<img alt=\"2Baba, Natasha Osawuru and Annie\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"386\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/2Baba-Natasha-Osawuru-and-Annie.jpg?fit=750%2C386&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"750\" /><p>PREMIUM TIMES earlier reported that 2Baba and the actress unfollowed each other on social media days after the “African Queen” hitmaker announced their separation in January 2025.</p>\n<p>Th",
+    "published": "Sun, 09 Aug 2026 13:09:27 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-09T17:38:20.367953+00:00",
     "used": false
   }
 ]
