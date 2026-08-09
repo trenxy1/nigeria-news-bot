@@ -866,7 +866,7 @@
     "published": "Wed, 15 Jul 2026 12:09:23 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:09.709701+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "825fa33afde6931b",
@@ -15276,6 +15276,215 @@
     "published": "Sat, 08 Aug 2026 19:04:40 +0000",
     "priority": "high",
     "fetched_at": "2026-08-08T20:15:05.127599+00:00",
+    "used": false
+  },
+  {
+    "id": "0ef21d12da5f840f",
+    "source": "Punch Nigeria",
+    "title": "Endorsing Tinubu won’t stop Adeleke from losing in Osun — Oyetola",
+    "link": "https://punchng.com/endorsing-tinubu-wont-stop-adeleke-from-losing-in-osun-oyetola/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Minister Gboyega Oyetola tells Osun Governor Ademola Adeleke that his endorsement of President Tinubu will not prevent defeat in the upcoming Osun election\n\nRead More: https://punchng.com/endorsing-tinubu-wont-stop-adeleke-from-losing-in-osun-oyetola/",
+    "published": "Sun, 09 Aug 2026 08:43:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:42.966881+00:00",
+    "used": false
+  },
+  {
+    "id": "bc4c4f522db6a63c",
+    "source": "Punch Nigeria",
+    "title": "You can’t bar Obi, Atiku from campaigning in Osun, lawyer tells Oluwo",
+    "link": "https://punchng.com/you-cant-bar-obi-atiku-from-campaigning-in-osun-lawyer-tells-oluwo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A lawyer argues Oluwo&#8217;s declaration barring Obi, Atiku, and other presidential candidates from campaigning in Osun State is unconstitutional and unenforcea\n\nRead More: https://punchng.com/you-cant-bar-obi-atiku-from-campaigning-in-osun-lawyer-tells-oluwo/",
+    "published": "Sun, 09 Aug 2026 08:23:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:42.966957+00:00",
+    "used": false
+  },
+  {
+    "id": "14499a590877e75a",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: Tinubu summons 76 Osun APC leaders over party crisis, MTN warns against fake 25GB giveaway, other top stories",
+    "link": "https://punchng.com/morning-recap-tinubu-summons-76-osun-apc-leaders-over-party-crisis-mtn-warns-against-fake-25gb-giveaway-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu summons 76 Osun APC leaders over party crisis. Also, MTN warns against fake data, and 2Baba&#8217;s marital crisis deepens. Read top stories.\n\nRead More: https://punchng.com/morning-recap-tinubu-summons-76-osun-apc-leaders-over-party-crisis-mtn-warns-against-fake-25gb-giveaway-other-top-stories/",
+    "published": "Sun, 09 Aug 2026 08:13:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:42.966964+00:00",
+    "used": false
+  },
+  {
+    "id": "22b5ee7826a0ca1f",
+    "source": "Punch Nigeria",
+    "title": "Trump birth tourism ban puts visa-seeking foreign parents on notice",
+    "link": "https://punchng.com/trump-birth-tourism-ban-puts-visa-seeking-foreign-parents-on-noticem/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Trump&#8217;s executive order bans &#8220;birth tourism,&#8221; putting visa-seeking foreign parents on notice. Learn what this means for US citizenship.\n\nRead More: https://punchng.com/trump-birth-tourism-ban-puts-visa-seeking-foreign-parents-on-noticem/",
+    "published": "Sun, 09 Aug 2026 07:10:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:42.966990+00:00",
+    "used": false
+  },
+  {
+    "id": "206beabdd01fb344",
+    "source": "Punch Nigeria",
+    "title": "Army kills kidnapper, rescue abducted farmer in Edo",
+    "link": "https://punchng.com/army-kills-kidnapper-rescue-abducted-farmer-in-edo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian Army troops, in collaboration with police, rescued a 50-year-old farmer abducted in Edo State, neutralizing one kidnapper in the operation.\n\nRead More: https://punchng.com/army-kills-kidnapper-rescue-abducted-farmer-in-edo/",
+    "published": "Sun, 09 Aug 2026 06:48:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:42.967020+00:00",
+    "used": false
+  },
+  {
+    "id": "9bbb71716f8bff66",
+    "source": "Punch Nigeria",
+    "title": "Nigerian elected Commonwealth Fencing Federation president",
+    "link": "https://punchng.com/nigerian-elected-commonwealth-fencing-federation-president/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adeyinka Samuel makes history as the first Nigerian and African to be elected President of the Commonwealth Fencing Federation. Read more here.\n\nRead More: https://punchng.com/nigerian-elected-commonwealth-fencing-federation-president/",
+    "published": "Sun, 09 Aug 2026 06:12:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:42.967057+00:00",
+    "used": false
+  },
+  {
+    "id": "de9840ac6a921d33",
+    "source": "Punch Nigeria",
+    "title": "13 rescued as building collapse injures 16 in Kano",
+    "link": "https://punchng.com/13-rescued-as-building-collapse-injures-16-in-kano/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A residential building collapse in Kano&#8217;s Dan Dishe area led to 13 rescues and 16 injuries. The Kano State Fire Service is investigating the cause.\n\nRead More: https://punchng.com/13-rescued-as-building-collapse-injures-16-in-kano/",
+    "published": "Sun, 09 Aug 2026 04:00:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:42.967085+00:00",
+    "used": false
+  },
+  {
+    "id": "dffdbcf73200d0f2",
+    "source": "Punch Nigeria",
+    "title": "Osun: Inside Tinubu’s emergency meeting with 76 APC leaders",
+    "link": "https://punchng.com/osun-inside-tinubus-emergency-meeting-with-76-apc-leaders/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu summoned 76 Osun APC leaders to Aso Rock over party disquiet ahead of the August 15 governorship election. Discover the meeting&#8217;s outcome.\n\nRead More: https://punchng.com/osun-inside-tinubus-emergency-meeting-with-76-apc-leaders/",
+    "published": "Sun, 09 Aug 2026 03:46:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:42.967092+00:00",
+    "used": false
+  },
+  {
+    "id": "0cfdf46b95e8a65a",
+    "source": "Premium Times",
+    "title": "EKO 2026: Sanwo-Olu inspects Lagos facilities ahead of National Intermediate Games",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/901611-eko-2026-sanwo-olu-inspects-lagos-facilities-ahead-of-national-intermediate-games.html",
+    "summary": "<img alt=\"Governor Sanwo-Olu, during the inspection (PHOTO CREDIT: Babajide Sanwo-Olu Facebook Page)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1304\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003816095.jpg?fit=1827%2C1304&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1827\" /><p>The governor said the rehabilitation of sports facilities was part of the state's broader investment in grassroots sports development.</p>\n<p>The po",
+    "published": "Sun, 09 Aug 2026 06:56:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:44.245204+00:00",
+    "used": false
+  },
+  {
+    "id": "d7eca14ae842a011",
+    "source": "Premium Times",
+    "title": "APGA candidate withdraws from Osun election, backs APC’s Oyebamiji",
+    "link": "https://www.premiumtimesng.com/news/top-news/901589-apga-candidate-withdraws-from-osun-election-backs-apcs-oyebamiji.html",
+    "summary": "<img alt=\"Adesina Adeyemi-Doro, Osun APGA guber candidate. Credit: Punch\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"562\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Screenshot-2026-08-08-232954.jpg?fit=1021%2C562&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1021\" /><p>The APGA candidate said his decision followed consultations with the leadership and members of his party across Osun State.</p>\n<p>The post <a href=\"https://www",
+    "published": "Sat, 08 Aug 2026 22:32:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:44.245373+00:00",
+    "used": false
+  },
+  {
+    "id": "f2a305f7472846e3",
+    "source": "Premium Times",
+    "title": "Otti celebrates Ngige, Obiano on their birthday",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/901588-otti-celebrates-ngige-obiano-on-their-birthday.html",
+    "summary": "<img alt=\"Governor Alex Otti of Abia state [PHOTO CREDIT: Alex C. Otti]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"795\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Screenshot-2026-08-08-232148.jpg?fit=1140%2C795&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1140\" /><p>Mr Otti has congratulated former Anambra governors Messrs Ngige and Obiano on their birthdays, praising their contributions to governance and urging them to rema",
+    "published": "Sat, 08 Aug 2026 22:28:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:44.245390+00:00",
+    "used": false
+  },
+  {
+    "id": "57dc4589b0075d95",
+    "source": "Premium Times",
+    "title": "Muslim World League to commission cardiac centre in Kaduna",
+    "link": "https://www.premiumtimesng.com/promoted/901572-muslim-world-league-to-commission-cardiac-centre-in-kaduna.html",
+    "summary": "<img alt=\"Kaduna State Governor, Uba Sani\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1530\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-09-at-1.57.27-AM.jpeg?fit=2048%2C1530&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The new facility is expected to complement existing tertiary healthcare institutions in the state and provide residents with greater access to specialised cardiovascular service",
+    "published": "Sat, 08 Aug 2026 21:38:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:44.245408+00:00",
+    "used": false
+  },
+  {
+    "id": "6f696efd287cc388",
+    "source": "Premium Times",
+    "title": "Yilwatda, an asset to progressive family, Nigeria – Gov Lawal",
+    "link": "https://www.premiumtimesng.com/promoted/901569-yilwatda-an-asset-to-progressive-family-nigeria-gov-lawal.html",
+    "summary": "<img alt=\"Governor Lawal and Nentawe Yilwatda\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"904\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/ec404ffa-b625-4746-a951-21c97d4a04bc.jpeg?fit=1280%2C904&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Governor Lawal noted that Mr Yilwatda’s handling of the recent All Progressives Congress (APC) primary elections shows his knowledge, discipline, sincerity, and commitment to doi",
+    "published": "Sat, 08 Aug 2026 21:30:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:44.245422+00:00",
+    "used": false
+  },
+  {
+    "id": "e74d4ee236457488",
+    "source": "Leadership Newspaper",
+    "title": "Lagos Promises Market Traders Sustainable Infrastructure Devt",
+    "link": "https://leadership.ng/lagos-promises-market-traders-sustainable-infrastructure-devt/",
+    "summary": "Lagos State deputy governor, Dr Kadri Obafemi Hamzat, has stated that the state government would continue to invest in critical infrastructure that promotes commerce, enhances mobility and improves the quality of life for residents. The deputy governor stated this at the unveiling of the New Face of International Market Electronics Association, held in Lagos, reaffirming [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:49:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:54.261640+00:00",
+    "used": false
+  },
+  {
+    "id": "db81e7caae8f6bc7",
+    "source": "Leadership Newspaper",
+    "title": "Kano Distributes Furniture, Others To Newlywed 1,500 Couples",
+    "link": "https://leadership.ng/kano-distributes-furniture-others-to-newlywed-1500-couples/",
+    "summary": "The Kano State government has distributed household furniture and other essential items to 1,500 couples married under its mass wedding programme, Auren Gata. The distribution was carried out on Saturday by Governor Abba Yusuf during a reception organised for the newlyweds at the open arena of the Kano State Government House. Yusuf said the items, [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:43:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:54.261701+00:00",
+    "used": false
+  },
+  {
+    "id": "6da84eac16f30d90",
+    "source": "Leadership Newspaper",
+    "title": "15,000 Athletes To Participate Maiden National Intermediate Games",
+    "link": "https://leadership.ng/15000-athletes-to-participate-maiden-national-intermediate-games/",
+    "summary": "Lagos State governor, Mr. Babajide Sanwo-Olu, on Saturday disclosed that about 15,000 athletes from across the country are expected to participate in the maiden edition of the National Intermediate Sports Festival scheduled to take place in Lagos State. Sanwo-Olu who revealed this after inspecting sporting facilities at the Teslim Balogun Stadium, Surulere, Lagos, as part [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:41:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:54.261714+00:00",
+    "used": false
+  },
+  {
+    "id": "5ad535891a3b4c14",
+    "source": "Leadership Newspaper",
+    "title": "Yoruba Obas In North Back Tinubu, Cite Economic Gains",
+    "link": "https://leadership.ng/yoruba-obas-in-north-back-tinubu-cite-economic-gains/",
+    "summary": "The Association of Yoruba Obas and Leaders in the Northern States of Nigeria and the Federal Capital Territory (FCT) has declared its support for President Bola Ahmed Tinubu, citing what it described as improvements in security, education and the economy. The chairman of the association, Alhaji (Dr) Murtala Sani Adeleke, disclosed this while briefing journalists [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:39:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:54.261719+00:00",
+    "used": false
+  },
+  {
+    "id": "11e6a2b6ec21eb04",
+    "source": "Leadership Newspaper",
+    "title": "INEC Extends Deadline For Submission Of 2027 Governorship, Assembly Candidates",
+    "link": "https://leadership.ng/inec-extends-deadline-for-submission-of-2027-governorship-assembly-candidates/",
+    "summary": "&#160; &#160; The Independent National Electoral Commission (INEC) has extended the deadline for political parties to submit the list of candidates for the 2027 Governorship and State Houses of Assembly elections. &#160; The Commission said the deadline, which was originally scheduled to close on Saturday, August 8, 2026, has now been extended to Tuesday, August [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:37:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:54.261727+00:00",
+    "used": false
+  },
+  {
+    "id": "7a88dc7de92ca4d7",
+    "source": "Leadership Newspaper",
+    "title": "Jonathan, Uzodimma, Attend Burial Of Christiana Opara In Imo",
+    "link": "https://leadership.ng/jonathan-uzodimma-attend-burial-of-christiana-opara-in-imo/",
+    "summary": "Former President Goodluck Jonathan, Imo State Governor Hope Uzodimma and other notable personalities were among dignitaries who attended the burial of the late Chief Ezinne Christiana Opara in Umuopara Obetiti, Nguru, Aboh Mbaise LGA of Imo State. Other personalities at the event included the wife of former president, Dame Patience Jonathan; Governor Abdullahi Sule of [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:26:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-09T07:51:54.261804+00:00",
     "used": false
   },
   {
@@ -33330,6 +33539,171 @@
     "used": false
   },
   {
+    "id": "f5e55dffb8fd8af7",
+    "source": "Punch Nigeria",
+    "title": "Miami lose 2-1 to Monterrey as Messi misses game after father’s death",
+    "link": "https://punchng.com/miami-lose-2-1-to-monterrey-as-messi-misses-game-after-fathers-death/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lionel Messi was absent from Inter Miami&#8217;s 2-1 loss to Monterrey following the death of his father, Jorge Messi. Read more about the match and tributes.\n\nRead More: https://punchng.com/miami-lose-2-1-to-monterrey-as-messi-misses-game-after-fathers-death/",
+    "published": "Sun, 09 Aug 2026 08:31:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:42.966922+00:00",
+    "used": false
+  },
+  {
+    "id": "0656c5d38ea265ff",
+    "source": "Punch Nigeria",
+    "title": "Fans back Peter in P-Square feud, call for Paul’s response",
+    "link": "https://punchng.com/fans-back-peter-in-p-square-feud-call-for-pauls-response/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Fans are taking sides in the renewed P-Square feud between Peter and Paul Okoye. Discover why fans are backing Peter and calling for Paul&#8217;s response.\n\nRead More: https://punchng.com/fans-back-peter-in-p-square-feud-call-for-pauls-response/",
+    "published": "Sun, 09 Aug 2026 08:29:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:42.966946+00:00",
+    "used": false
+  },
+  {
+    "id": "cbe8e4e25e6208e2",
+    "source": "Punch Nigeria",
+    "title": "Barcelona condoles Messi over father’s death",
+    "link": "https://punchng.com/barcelona-condoles-messi-over-fathers-death/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "FC Barcelona extends condolences to club legend Lionel Messi following the death of his father, Jorge Messi. Read more about the club&#8217;s tribute.\n\nRead More: https://punchng.com/barcelona-condoles-messi-over-fathers-death/",
+    "published": "Sun, 09 Aug 2026 07:32:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:42.966984+00:00",
+    "used": false
+  },
+  {
+    "id": "28527bcd53ce59f9",
+    "source": "Punch Nigeria",
+    "title": "I was joking when I asked God for triplets, says woman at RCCG convention",
+    "link": "https://punchng.com/i-was-joking-when-i-asked-god-for-triplets-says-woman-at-rccg-convention/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A woman shares her miraculous RCCG triplets testimony at the convention, revealing how a joke during Pastor Adeboye&#8217;s birthday led to the birth of her thre\n\nRead More: https://punchng.com/i-was-joking-when-i-asked-god-for-triplets-says-woman-at-rccg-convention/",
+    "published": "Sun, 09 Aug 2026 06:48:12 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:42.967012+00:00",
+    "used": false
+  },
+  {
+    "id": "692c0fdb1d9dd3ee",
+    "source": "Punch Nigeria",
+    "title": "Iran sets conditions for reopening Strait of Hormuz",
+    "link": "https://punchng.com/iran-sets-conditions-for-reopening-strait-of-hormuz/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Iran demands compensation and an end to aggression as preconditions for reopening the Strait of Hormuz, a vital global shipping lane. Learn more about the\n\nRead More: https://punchng.com/iran-sets-conditions-for-reopening-strait-of-hormuz/",
+    "published": "Sun, 09 Aug 2026 06:41:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:42.967036+00:00",
+    "used": false
+  },
+  {
+    "id": "cd56c3ef0087761d",
+    "source": "Punch Nigeria",
+    "title": "MTN warns subscribers against fake 25GB anniversary data giveaway",
+    "link": "https://punchng.com/mtn-warns-subscribers-against-fake-25gb-anniversary-data-giveaway/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "MTN Nigeria warns subscribers about fake 25GB anniversary data giveaways. Learn how to identify official MTN promotions and avoid scams.\n\nRead More: https://punchng.com/mtn-warns-subscribers-against-fake-25gb-anniversary-data-giveaway/",
+    "published": "Sun, 09 Aug 2026 06:38:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:42.967052+00:00",
+    "used": false
+  },
+  {
+    "id": "f487f708fc7b7d92",
+    "source": "Punch Nigeria",
+    "title": "Tony Elumelu steals show with dance moves at niece’s wedding",
+    "link": "https://punchng.com/tony-elumelu-steals-show-with-dance-moves-at-nieces-wedding/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian business mogul Tony Elumelu surprised guests with energetic dance moves at his niece&#8217;s wedding in Rome. See highlights of the celebration.\n\nRead More: https://punchng.com/tony-elumelu-steals-show-with-dance-moves-at-nieces-wedding/",
+    "published": "Sun, 09 Aug 2026 04:00:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:42.967074+00:00",
+    "used": false
+  },
+  {
+    "id": "9c8ee980eb24972d",
+    "source": "Premium Times",
+    "title": "‘We know what is at stake’ — Madugu rallies Super Falcons for Cameroon WAFCON showdown",
+    "link": "https://www.premiumtimesng.com/news/top-news/901600-we-know-what-is-at-stake-madugu-rallies-super-falcons-for-cameroon-wafcon-showdown.html",
+    "summary": "<img alt=\"Justin Madugu (Credit: WoliG Ólùyà)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"470\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003750262-e1785573262548.jpg?fit=749%2C470&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"749\" /><p>Madugu insists Nigeria are ready for the challenge and determined to keep their title defence alive.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/901600-we-know-what-i",
+    "published": "Sun, 09 Aug 2026 05:24:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:44.245251+00:00",
+    "used": false
+  },
+  {
+    "id": "1fbdc06f95432a2a",
+    "source": "Premium Times",
+    "title": "INVESTIGATION: Social media, anonymous websites drive Nigeria’s poorly regulated weight-loss injection market",
+    "link": "https://www.premiumtimesng.com/news/headlines/901574-investigation-social-media-anonymous-websites-drive-nigerias-poorly-regulated-weight-loss-injection-market.html",
+    "summary": "<img alt=\"Screenshots of the five websites investigated\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1388\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Photo-1_-Screenshots-of-the-five-websites-investigated-scaled.png?fit=2560%2C1388&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>What appeared to be ordinary social media marketing led PREMIUM TIMES into a week-long open-source investigation that uncovered a growing digi",
+    "published": "Sun, 09 Aug 2026 04:00:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:44.245358+00:00",
+    "used": false
+  },
+  {
+    "id": "3a249bf6d140b6f7",
+    "source": "Premium Times",
+    "title": "Gov Abiodun hails APC National Chairman, Yilwatda at 58",
+    "link": "https://www.premiumtimesng.com/promoted/901565-gov-abiodun-hails-apc-national-chairman-yilwatda-at-58.html",
+    "summary": "<img alt=\"APC chairman, Nentawe Yilwatda\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"855\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Screenshot-2026-08-08-214100.jpg?fit=1251%2C855&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1251\" /><p>Mr Abiodun said the National Chairman has demonstrated the capacity, maturity and political dexterity required to lead the ruling party at a critical stage in the nation’s political developmen",
+    "published": "Sat, 08 Aug 2026 20:44:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:44.245464+00:00",
+    "used": false
+  },
+  {
+    "id": "39a6b94104321c4f",
+    "source": "Premium Times",
+    "title": "Suspected thief dies while allegedly vandalising TCN electricity transmission tower",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/901563-suspected-thief-dies-while-allegedly-vandalising-tcn-electricity-transmission-tower.html",
+    "summary": "<img alt=\"A transmission tower [PHOTO CREDIT: Ellesmere Port Cheshire https://www.flickr.com/photos/oneterry/15143973918]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"553\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/05/Power-line-towers.jpg?fit=1024%2C553&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>The TCN condemns the vandalism of its infrastructure and appeals to host communities and the public to remain vigilant.</p",
+    "published": "Sat, 08 Aug 2026 20:34:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:44.245508+00:00",
+    "used": false
+  },
+  {
+    "id": "8375f0d25ca8c7d4",
+    "source": "Leadership Newspaper",
+    "title": "NEC Tours Yobe State University",
+    "link": "https://leadership.ng/nec-tours-yobe-state-university/",
+    "summary": "The National Economic Council (NEC) Implementation Monitoring Committee has praised Yobe State University’s Biomedical Science Research and Training Centre (BioRTC), describing it as one of the finest research facilities on the African continent. The committee, during a monitoring and assessment visit to Yobe State, toured the university to inspect critical infrastructure and research facilities. The [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:46:12 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:54.261687+00:00",
+    "used": false
+  },
+  {
+    "id": "8858892b6e3f60c9",
+    "source": "Leadership Newspaper",
+    "title": "FRSC Charges Special Marshals On Integrity, Passion",
+    "link": "https://leadership.ng/frsc-charges-special-marshals-on-integrity-passion/",
+    "summary": "Members of the Special Marshals arm of the Federal Road Safety Corps (FRSC) have been charged to discharge their humanitarian responsibilities with passion, integrity and commitment to save lives and reduce road crashes across the country. The Sector Commander, FRSC RS 12.1, Bauchi Sector Command, CC Caleb Luka, gave the charge on Saturday while speaking [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:36:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:54.261748+00:00",
+    "used": false
+  },
+  {
+    "id": "1febcbb9c157fd6f",
+    "source": "Leadership Newspaper",
+    "title": "Experts Blame Blocked Drainages For Floods In Bauchi",
+    "link": "https://leadership.ng/experts-blame-blocked-drainages-for-floods-in-bauchi/",
+    "summary": "Experts have attributed floods in Bauchi State to blocked drainages and the prevalence of illegal structures. To address the anomaly, the Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) Project has convened a stakeholders’ engagement to strengthen preparedness and response to the anticipated 2026 flooding in Bauchi State. The meeting held in Bauchi, followed a prediction by [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:32:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:54.261773+00:00",
+    "used": false
+  },
+  {
+    "id": "bc58f73043850a48",
+    "source": "Leadership Newspaper",
+    "title": "The Sundiata Post Model (6): Institutional Success And Its Four Levels",
+    "link": "https://leadership.ng/the-sundiata-post-model-6-institutional-success-and-its-four-levels/",
+    "summary": "In the preceding articles, I have argued that the twenty-first-century newsroom must evolve into a knowledge-producing institution; situated that proposition within a broader intellectual tradition; introduced the Dual Engine Architecture through which journalism and knowledge production become mutually reinforcing; and proposed the Realm of the Long Term together with its Seven Pillars as the institutional [&#8230;]",
+    "published": "Sun, 09 Aug 2026 07:30:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-09T07:51:54.261798+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -35560,6 +35934,28 @@
     "published": "Sat, 08 Aug 2026 19:51:37 +0000",
     "priority": "low",
     "fetched_at": "2026-08-08T20:14:54.592658+00:00",
+    "used": false
+  },
+  {
+    "id": "e486dde05261e580",
+    "source": "Premium Times",
+    "title": "NPFL: Shooting Stars part ways with Head Coach Aweroro after historic campaign",
+    "link": "https://www.premiumtimesng.com/sports/football/901608-npfl-shooting-stars-part-ways-with-head-coach-aweroro-after-historic-campaign.html",
+    "summary": "<img alt=\"Nurudeen Aweroro (PHOTO CREDIT: Shooting Stars on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"507\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-09-at-07.58.45.jpeg?fit=770%2C507&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"770\" /><p>Shooting Stars did not disclose the specific reasons behind the decision, describing the departure as a mutual agreement following discussions between the club an",
+    "published": "Sun, 09 Aug 2026 07:03:23 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-09T07:51:44.245173+00:00",
+    "used": false
+  },
+  {
+    "id": "75a8630d8aa04a47",
+    "source": "Premium Times",
+    "title": "WAFCON 2026: Algeria, Morocco make history, achieve World Cup dreams with semi-final qualification",
+    "link": "https://www.premiumtimesng.com/sports/football/901603-wafcon-2026-algeria-morocco-make-history-achieve-world-cup-dreams-with-semi-final-qualification.html",
+    "summary": "<img alt=\"Morocco remain unbeaten at the tournament (PHOTO CREDIT: CAF Women on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003816085.jpg?fit=900%2C600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"900\" /><p>While Algeria produced a stunning comeback against Côte d’Ivoire, Morocco held off former champions South Africa to keep their title ambitions alive on home soil.</p>\n<p>",
+    "published": "Sun, 09 Aug 2026 05:08:27 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-09T07:51:44.245297+00:00",
     "used": false
   }
 ]
