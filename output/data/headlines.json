@@ -910,7 +910,7 @@
     "published": "Wed, 15 Jul 2026 11:28:36 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:09.709782+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "38959f2cdef7f6e9",
@@ -16046,6 +16046,259 @@
     "published": "Mon, 10 Aug 2026 07:29:27 +0000",
     "priority": "high",
     "fetched_at": "2026-08-10T08:25:09.000781+00:00",
+    "used": false
+  },
+  {
+    "id": "9890049cc1a001ef",
+    "source": "Punch Nigeria",
+    "title": "Police to fund treatment of child rescued from Anambra native doctor",
+    "link": "https://punchng.com/police-to-fund-treatment-of-child-rescued-from-anambra-native-doctor/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Anambra State Police Command will cover all medical expenses for the child rescued from a native doctor&#8217;s house, vowing a thorough investigation into t\n\nRead More: https://punchng.com/police-to-fund-treatment-of-child-rescued-from-anambra-native-doctor/",
+    "published": "Mon, 10 Aug 2026 18:48:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174332+00:00",
+    "used": false
+  },
+  {
+    "id": "41ac058fc632612b",
+    "source": "Punch Nigeria",
+    "title": "Delta suspends commissioner indefinitely over gov’s aide assault",
+    "link": "https://punchng.com/delta-suspends-commissioner-indefinitely-over-govs-aide-assault/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Delta State Government suspends Commissioner for Works, Reuben Izeze, indefinitely over alleged assault on Governor&#8217;s aide. Investigation underway.\n\nRead More: https://punchng.com/delta-suspends-commissioner-indefinitely-over-govs-aide-assault/",
+    "published": "Mon, 10 Aug 2026 18:18:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174363+00:00",
+    "used": false
+  },
+  {
+    "id": "7d0234e52739434b",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Best of Nigerians are in ADC, Atiku rallies support for Salaam",
+    "link": "https://punchng.com/osun-poll-best-of-nigerians-are-in-adc-atiku-rallies-support-for-salaam/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former VP Atiku Abubakar rallies support for African Democratic Congress (ADC) candidate Salaam in the upcoming Osun governorship election, highlighting AD\n\nRead More: https://punchng.com/osun-poll-best-of-nigerians-are-in-adc-atiku-rallies-support-for-salaam/",
+    "published": "Mon, 10 Aug 2026 18:15:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174375+00:00",
+    "used": false
+  },
+  {
+    "id": "32a4ef17c0db6e8f",
+    "source": "Punch Nigeria",
+    "title": "Amotekun arrests 14 suspects for kidnapping, vandalism, others in Ondo",
+    "link": "https://punchng.com/amotekun-arrests-14-suspects-for-kidnapping-vandalism-others-in-ondo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ondo State Amotekun Corps arrests 14 suspects involved in kidnapping, vandalism, and cattle rustling. Learn more about the Amotekun arrests and rescue oper\n\nRead More: https://punchng.com/amotekun-arrests-14-suspects-for-kidnapping-vandalism-others-in-ondo/",
+    "published": "Mon, 10 Aug 2026 18:13:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174387+00:00",
+    "used": false
+  },
+  {
+    "id": "8dc2c558ecaf9767",
+    "source": "Punch Nigeria",
+    "title": "Police will respect citizens under my watch, new Edo CP vows",
+    "link": "https://punchng.com/police-will-respect-citizens-under-my-watch-new-edo-cp-vows/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "New Edo CP Patrick Daor pledges police respect for citizens and an open-door policy, vowing to intensify crime-fighting strategies and prompt response.\n\nRead More: https://punchng.com/police-will-respect-citizens-under-my-watch-new-edo-cp-vows/",
+    "published": "Mon, 10 Aug 2026 17:54:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174397+00:00",
+    "used": false
+  },
+  {
+    "id": "5066408af65fbed1",
+    "source": "Punch Nigeria",
+    "title": "Kano gov approves salary hike for two state universities’ staff",
+    "link": "https://punchng.com/kano-gov-approves-salary-hike-for-two-state-universities-staff/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kano State Governor, Abba Kabir Yusuf, has approved a significant salary hike for staff at two state universities. This move aims to ensure industrial harm\n\nRead More: https://punchng.com/kano-gov-approves-salary-hike-for-two-state-universities-staff/",
+    "published": "Mon, 10 Aug 2026 17:51:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174412+00:00",
+    "used": false
+  },
+  {
+    "id": "87d41fbbcf1b949c",
+    "source": "Punch Nigeria",
+    "title": "IPAC urges INEC, security agencies to ensure credible Osun polls",
+    "link": "https://punchng.com/ipac-urges-inec-security-agencies-to-ensure-credible-osun-polls/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "IPAC calls on INEC and security agencies to ensure a free, fair, and credible Osun election, urging professionalism and impartiality amidst rising politica\n\nRead More: https://punchng.com/ipac-urges-inec-security-agencies-to-ensure-credible-osun-polls/",
+    "published": "Mon, 10 Aug 2026 17:50:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174420+00:00",
+    "used": false
+  },
+  {
+    "id": "b0ac0ae7f34c8647",
+    "source": "Punch Nigeria",
+    "title": "Police arrest three fraudsters, recover 16 ATM cards in Ekiti",
+    "link": "https://punchng.com/police-arrest-three-fraudsters-recover-16-atm-cards-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ekiti Police have arrested three suspects and recovered 16 ATM cards, disrupting a syndicate specializing in ATM card fraud and theft. Stay vigilant at ATM\n\nRead More: https://punchng.com/police-arrest-three-fraudsters-recover-16-atm-cards-in-ekiti/",
+    "published": "Mon, 10 Aug 2026 17:47:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174433+00:00",
+    "used": false
+  },
+  {
+    "id": "4f138cf846355cfc",
+    "source": "Punch Nigeria",
+    "title": "PHOTOS: Atiku arrives Osun for ADC governorship campaign finale",
+    "link": "https://punchng.com/photos-atiku-arrives-osun-for-adc-governorship-campaign-finale/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former VP Atiku Abubakar arrives in Osun to support ADC governorship candidate Dr. Najeem Salaam at his grand finale campaign rally ahead of Saturday&#8217;s ele\n\nRead More: https://punchng.com/photos-atiku-arrives-osun-for-adc-governorship-campaign-finale/",
+    "published": "Mon, 10 Aug 2026 17:31:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174510+00:00",
+    "used": false
+  },
+  {
+    "id": "5aa6c43e67dbc6f9",
+    "source": "Punch Nigeria",
+    "title": "Stop abusing me, I’m not contesting for gov, Makinde tells Oriyomi Hamzat, others",
+    "link": "https://punchng.com/stop-abusing-me-im-not-contesting-for-gov-makinde-tells-oriyomi-hamzat-others/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Oyo State Governor Seyi Makinde clarifies he will not contest the 2027 governorship election, urging aspirants like Oriyomi Hamzat to focus on their plans.\n\nRead More: https://punchng.com/stop-abusing-me-im-not-contesting-for-gov-makinde-tells-oriyomi-hamzat-others/",
+    "published": "Mon, 10 Aug 2026 17:23:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174562+00:00",
+    "used": false
+  },
+  {
+    "id": "2ccfcc6322fda9a3",
+    "source": "Punch Nigeria",
+    "title": "Why I gifted my son a goat on sign-out day — Mother",
+    "link": "https://punchng.com/why-i-gifted-my-son-a-goat-on-sign-out-day-mother/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Nigerian mother gifted her son a goat on his sign-out day from Nekede Poly, fulfilling a promise to reward him for shunning cultism and making her proud.\n\nRead More: https://punchng.com/why-i-gifted-my-son-a-goat-on-sign-out-day-mother/",
+    "published": "Mon, 10 Aug 2026 17:20:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:08.174577+00:00",
+    "used": false
+  },
+  {
+    "id": "0e8be874583c30e5",
+    "source": "Premium Times",
+    "title": "How oil price swings are creating new opportunities for African traders",
+    "link": "https://www.premiumtimesng.com/promoted/901902-how-oil-price-swings-are-creating-new-opportunities-for-african-traders.html",
+    "summary": "<img alt=\"How oil price swings are creating new opportunities for African traders\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0021.jpeg?fit=1280%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Volatile moves in the price of either WTI or Brent can very soon impact inflation forecasts, central bank policies, currency values, indices, and overall risk sentiments<",
+    "published": "Mon, 10 Aug 2026 17:50:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:09.584847+00:00",
+    "used": false
+  },
+  {
+    "id": "3a97f249cc121af0",
+    "source": "Premium Times",
+    "title": "Groups urge Tinubu to reject tobacco control amendment, demand fresh legislative review",
+    "link": "https://www.premiumtimesng.com/health/health-news/901885-groups-urge-tinubu-to-reject-tobacco-control-amendment-demand-fresh-legislative-review.html",
+    "summary": "<img alt=\"Stakeholders at a press conference on the proposed amendment to Nigeria’s tobacco control law in Abuja on Monday. (PHOTO CREDIT: PREMIUM TIMES)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1440\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/image0-6-scaled.jpeg?fit=2560%2C1440&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Beyond asking Mr Tinubu to withhold assent, the coalition called on the National Assembly",
+    "published": "Mon, 10 Aug 2026 17:32:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:09.584940+00:00",
+    "used": false
+  },
+  {
+    "id": "ff7157ed89df7956",
+    "source": "Premium Times",
+    "title": "Soldiers repel midnight terror attack in Borno",
+    "link": "https://www.premiumtimesng.com/news/top-news/901874-soldiers-repel-midnight-terror-attack-in-borno.html",
+    "summary": "<img alt=\"Nigerian troops\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"870\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Nigerian-troops.jpg?fit=1400%2C870&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1400\" /><p>The Nigerian Army had not officially confirmed the attack, the number of casualties or the soldiers’ claims that several insurgents were killed.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/90187",
+    "published": "Mon, 10 Aug 2026 15:15:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:09.585118+00:00",
+    "used": false
+  },
+  {
+    "id": "549bf017828cea4d",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: What Osun residents say about Governor Adeleke’s stewardship",
+    "link": "https://www.premiumtimesng.com/features-and-interviews/901870-osundecides2026-what-osun-residents-say-about-governor-adelekes-stewardship.html",
+    "summary": "<img alt=\"Aregbesola, Adeleke and Oyetola\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"941\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/38ea29e1-0ec1-4229-be48-ba341c2e9bc3.png?fit=1672%2C941&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1672\" /><p>While some residents praised the Adeleke administration for its performance, particularly in workers’ welfare, infrastructure and education, others said the government had fallen shor",
+    "published": "Mon, 10 Aug 2026 13:46:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:09.585138+00:00",
+    "used": false
+  },
+  {
+    "id": "cf5a9a720d1b88a7",
+    "source": "Premium Times",
+    "title": "Mustapha Inuwa quits ADC, directs supporters to join APC in Katsina",
+    "link": "https://www.premiumtimesng.com/news/top-news/901867-mustapha-inuwa-quits-adc-directs-supporters-to-join-apc-in-katsina.html",
+    "summary": "<img alt=\"Former Secretary to the Katsina State Government, Mustapha Inuwa\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"450\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Mustapha-Inuwa-e1770467848841.jpg?fit=719%2C450&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"719\" /><p>Mr Inuwa's departure followed months of internal disputes within the ADC in Katsina over the party's leadership and the process used to select candidates for t",
+    "published": "Mon, 10 Aug 2026 13:35:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:09.585148+00:00",
+    "used": false
+  },
+  {
+    "id": "7082101c0c5e26b0",
+    "source": "Premium Times",
+    "title": "Tinubu’s subsidy removal, FX reforms, stabilising Nigeria’s economy – Zacch Adedeji",
+    "link": "https://www.premiumtimesng.com/business/business-news/901865-tinubus-subsidy-removal-fx-reforms-stabilising-nigerias-economy-zacch-adedeji.html",
+    "summary": "<img alt=\"The Chairperson of NRS, Zacch Adedeji,\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"594\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/01/530914551_18416828860102990_8036796329283742494_n.jpg?fit=801%2C594&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"801\" /><p>He said the reforms by the Tinubu administration were necessary because it inherited an economy burdened by an unsustainable fuel subsidy regime, an opaque foreign e",
+    "published": "Mon, 10 Aug 2026 13:27:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:09.585162+00:00",
+    "used": false
+  },
+  {
+    "id": "0bf394a0ceff78ac",
+    "source": "Premium Times",
+    "title": "Osun 2026: Tinubu Dilemma: Can president deliver ancestral home to his party, APC?",
+    "link": "https://www.premiumtimesng.com/features-and-interviews/901860-osun-2026-tinubu-dilemma-can-president-deliver-ancestral-home-to-his-party-apc.html",
+    "summary": "<img alt=\"Picture collage of Bola Oyebamiji, Bola Tinubu and Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"941\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/d44d5dd7-eb0e-4a0a-9513-8f0b9e57a5f9.png?fit=1672%2C941&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1672\" /><p>The election has become a test of President Bola Tinubu's authority within the APC, his personal relations hindering his ability to manage competing",
+    "published": "Mon, 10 Aug 2026 12:27:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:09.585216+00:00",
+    "used": false
+  },
+  {
+    "id": "c76dffd4e194b08f",
+    "source": "Leadership Newspaper",
+    "title": "The Economist Report: Atiku Demands Tinubu’s Reponse To Alleged $20Bn Chagoury Deals",
+    "link": "https://leadership.ng/the-economist-report-atiku-demands-tinubus-reponse-to-alleged-20bn-chagoury-deals/",
+    "summary": "Former Vice President and Presidential Candidate of the African Democratic Congress (ADC), Atiku Abubakar, has asked President Bola Tinubu respond to questions raised by The Economist over an alleged  $20 billion worth of projects linked to his long-time associate, Gilbert Chagoury. Atiku said the reported revelations have elevated concerns about the Tinubu administration’s procurement practices [&#8230;]",
+    "published": "Mon, 10 Aug 2026 17:41:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:13.522279+00:00",
+    "used": false
+  },
+  {
+    "id": "19bab4dacc32dc6c",
+    "source": "Leadership Newspaper",
+    "title": "Nigerian US Army Member Pleads With Trump to Help Bring Critically Ill Daughter to America",
+    "link": "https://leadership.ng/nigerian-us-army-member-pleads-with-trump-to-help-bring-critically-ill-daughter-to-america/",
+    "summary": "A Nigerian woman serving in the US Army has made a desperate appeal to President Donald Trump for help in bringing her critically ill 10-year-old daughter from Nigeria to the United States. The woman, who identified herself as Uzumaka, broke down in tears in a video shared online, appealing for a humanitarian exception to the [&#8230;]",
+    "published": "Mon, 10 Aug 2026 17:28:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:13.522330+00:00",
+    "used": false
+  },
+  {
+    "id": "7f9ba4197b7d85fb",
+    "source": "Leadership Newspaper",
+    "title": "Atiku Challenges Tinubu To Explain $20bn Chagoury-Linked Projects",
+    "link": "https://leadership.ng/atiku-challenges-tinubu-to-explain-20bn-chagoury-linked-projects/",
+    "summary": "Former Vice President and presidential candidate of the African Democratic Congress (ADC), Atiku Abubakar, has challenged President Bola Tinubu to explain questions reportedly raised by The ECONOMIST over about $20 billion worth of projects linked to Lebanese-Nigerian businessman, Gilbert Chagoury. Atiku, in a statement issued on Monday by his Senior Special Assistant on Public Communication, [&#8230;]",
+    "published": "Mon, 10 Aug 2026 17:01:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:13.522415+00:00",
+    "used": false
+  },
+  {
+    "id": "f5b6f6abc5583d29",
+    "source": "Leadership Newspaper",
+    "title": "5th Columnists Behind Allegations Against NRS Chairman To Discredit Tinubu Govt – Arewa Think Tank",
+    "link": "https://leadership.ng/5th-columnists-behind-allegations-against-nrs-chairman-to-discredit-tinubu-govt-arewa-think-tank/",
+    "summary": "The Arewa Think Tank has alleged that fifth columnists are behind online allegations against the Executive Chairman of the Nigeria Revenue Service (NRS), Zacch Adedeji, over the Frontier Exploration Fund, describing the claims as an attempt to discredit the administration of President Bola Ahmed Tinubu. Convener of the group, Muhammad Alhaji Yakubu, urged Nigerians to [&#8230;]",
+    "published": "Mon, 10 Aug 2026 16:57:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:13.522426+00:00",
+    "used": false
+  },
+  {
+    "id": "415e66cbf733d46b",
+    "source": "Leadership Newspaper",
+    "title": "Killings: Olawepo-Hashim Advocates Urgent Overhaul Of Nigeria’s Security System",
+    "link": "https://leadership.ng/killings-olawepo-hashim-advocates-urgent-overhaul-of-nigerias-security-system/",
+    "summary": "Presidential Candidate of Accord Party, Dr. Gbenga Olawepo-Hashim, has called on the Federal Government to urgently overhaul the nation&#8217;s security architecture, reclaim the strategic initiative from terrorists and adopt a proactive doctrine that prevents attacks rather than merely responding to them. He also declared that Nigeria is at war but is being led without a [&#8230;]",
+    "published": "Mon, 10 Aug 2026 16:34:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T17:55:13.522458+00:00",
     "used": false
   },
   {
@@ -34793,6 +35046,116 @@
     "used": false
   },
   {
+    "id": "e1594365d6b7e366",
+    "source": "Punch Nigeria",
+    "title": "Zedcrest Group Convenes Market Leaders to Navigate a New Era of Global Investing",
+    "link": "https://punchng.com/zedcrest-group-convenes-market-leaders-to-navigate-a-new-era-of-global-investing/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Zedcrest Group gathered market leaders at the Investors Conference 2026 to discuss navigating a new era of global investing and generating long-term value.\n\nRead More: https://punchng.com/zedcrest-group-convenes-market-leaders-to-navigate-a-new-era-of-global-investing/",
+    "published": "Mon, 10 Aug 2026 17:33:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:08.174478+00:00",
+    "used": false
+  },
+  {
+    "id": "9f5ecc53c7b0887d",
+    "source": "Punch Nigeria",
+    "title": "ASUU shuts Imo varsity over unpaid entitlements, begins strike",
+    "link": "https://punchng.com/asuu-shuts-imo-varsity-over-unpaid-entitlements-begins-strike/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "ASUU-IMSU declares indefinite strike over Imo State Government&#8217;s failure to implement welfare agreements and pay outstanding entitlements.\n\nRead More: https://punchng.com/asuu-shuts-imo-varsity-over-unpaid-entitlements-begins-strike/",
+    "published": "Mon, 10 Aug 2026 17:32:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:08.174499+00:00",
+    "used": false
+  },
+  {
+    "id": "6d13e31714de2230",
+    "source": "Punch Nigeria",
+    "title": "FULL LIST: MFM choir, other winners, categories at World Choir Games 2026",
+    "link": "https://punchng.com/full-list-mfm-choir-other-winners-categories-at-world-choir-games-2026/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "See the full list of winners and categories at the World Choir Games 2026 in Helsingborg, Sweden, including Nigeria&#8217;s MFM choir and other champions.\n\nRead More: https://punchng.com/full-list-mfm-choir-other-winners-categories-at-world-choir-games-2026/",
+    "published": "Mon, 10 Aug 2026 17:26:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:08.174549+00:00",
+    "used": false
+  },
+  {
+    "id": "de8a856761a46fb9",
+    "source": "Premium Times",
+    "title": "Lassa Fever: 53 health workers infected as cases hit 1,000 in 2026",
+    "link": "https://www.premiumtimesng.com/news/headlines/901895-lassa-fever-53-health-workers-infected-as-cases-hit-1000-in-2026.html",
+    "summary": "<img alt=\"Picture of a rat used to illustrate a lassa fever story\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"393\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/03/A-Rat-e1710959995669.jpg?fit=699%2C393&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"699\" /><p>The NCDC said 23 states have now reported at least one confirmed case across 116 local government areas (LGAs)</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/headl",
+    "published": "Mon, 10 Aug 2026 17:42:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:09.584888+00:00",
+    "used": false
+  },
+  {
+    "id": "473d5e5f1614a5f7",
+    "source": "Premium Times",
+    "title": "After years of delay, Niger begins gratuity payment",
+    "link": "https://www.premiumtimesng.com/news/more-news/901889-after-years-of-delay-niger-begins-gratuity-payment.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/3F0F97A6-8EFA-4B3B-BB60-CAC5D005690E.jpeg?fit=1280%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Mr Namaska said that some beneficiaries had retired more than 10 years ago without receiving their gratuity.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/901889-after-years-of-delay-niger",
+    "published": "Mon, 10 Aug 2026 17:22:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:09.584971+00:00",
+    "used": false
+  },
+  {
+    "id": "0f56eaa6ecb54a98",
+    "source": "Premium Times",
+    "title": "ANALYSIS: Osun 2026: Rauf Aregbesola, ADC’s litmus test",
+    "link": "https://www.premiumtimesng.com/news/headlines/901857-analysis-osun-2026-rauf-aregbesola-adcs-litmus-test.html",
+    "summary": "<img alt=\"Aregbesola, Najeem Salaam, Ademola Adeleke, Bola Oyebamiji\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"941\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/13f2128a-a64c-4f35-a8c2-6011224486e3.png?fit=1672%2C941&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1672\" /><p>One way for Mr Aregbesola to silence his critics is to deliver Mr Salaam as the next occupant of the Bola Ige House in Osogbo, the Osun State capital.</p>\n<",
+    "published": "Mon, 10 Aug 2026 12:10:19 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:09.585255+00:00",
+    "used": false
+  },
+  {
+    "id": "282f4f6700ce6709",
+    "source": "Leadership Newspaper",
+    "title": "Oil Producers Meet 97.4% of Domestic Supply Obligation in Q2—NUPRC:",
+    "link": "https://leadership.ng/oil-producers-meet-97-4-of-domestic-supply-obligation-in-q2-nuprc/",
+    "summary": "The Nigerian Upstream Petroleum Regulatory Commission (NUPRC) said on Monday that enforcement of the Domestic Crude Supply Obligation (DCSO) delivered a 97.4 per cent compliance rate in the second quarter of 2026, as producers supplied 53.7 million barrels of crude oil and condensate to domestic refineries between April and June. According to the Commission, the [&#8230;]",
+    "published": "Mon, 10 Aug 2026 17:29:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:13.522320+00:00",
+    "used": false
+  },
+  {
+    "id": "e1f71fa7cde9429f",
+    "source": "Leadership Newspaper",
+    "title": "‘We Are Sorry’: Mysterious Billboards Spark Speculation Across Abuja",
+    "link": "https://leadership.ng/we-are-sorry-mysterious-billboards-spark-speculation-across-abuja/",
+    "summary": "A series of mysterious billboards bearing the simple message “We Are Sorry” has sparked curiosity, speculation and plenty of jokes among residents across Abuja. &#160; The billboards, which have appeared at different locations in the Federal Capital Territory, offer no immediate explanation about who is behind the campaign or what exactly the apology is about. [&#8230;]",
+    "published": "Mon, 10 Aug 2026 17:24:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:13.522358+00:00",
+    "used": false
+  },
+  {
+    "id": "ec04dfcd501a8b70",
+    "source": "Leadership Newspaper",
+    "title": "AI Platform Targets Airline Booking Queues In Nigeria",
+    "link": "https://leadership.ng/ai-platform-targets-airline-booking-queues-in-nigeria/",
+    "summary": "A new artificial intelligence-powered travel platform launched in Abuja is seeking to eliminate physical queues associated with airline ticket bookings in Nigeria by allowing passengers to make reservations remotely. The platform, unveiled by Safety Travels Ltd, uses a networked backend that connects with multiple airlines as well as global car-hire and hotel partners. Chairman of [&#8230;]",
+    "published": "Mon, 10 Aug 2026 17:16:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:13.522383+00:00",
+    "used": false
+  },
+  {
+    "id": "b32bdbf2f9c22529",
+    "source": "Leadership Newspaper",
+    "title": "Caverton Completes Debt Restructuring After N8.7bn H1 Loss",
+    "link": "https://leadership.ng/caverton-completes-debt-restructuring-after-n8-7bn-h1-loss/",
+    "summary": "Caverton Offshore Support Group Plc has reported a net loss of N8.7 billion for the half year ended June 30, 2026, even as it completed a debt restructuring aimed at reducing foreign exchange exposure and improving long-term sustainability. The Lagos-listed aviation and marine logistics group released half-year results showing early signs of a turnaround, with [&#8230;]",
+    "published": "Mon, 10 Aug 2026 16:38:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T17:55:13.522448+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -37166,6 +37529,83 @@
     "published": "Mon, 10 Aug 2026 08:03:25 +0000",
     "priority": "low",
     "fetched_at": "2026-08-10T08:25:09.000671+00:00",
+    "used": false
+  },
+  {
+    "id": "6a22e449b4e2652b",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: I don’t want to look for trouble again – 2Baba",
+    "link": "https://punchng.com/video-i-dont-want-to-look-for-trouble-again-2baba/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian music icon 2Baba makes a cryptic remark about avoiding trouble, days after reports of a confrontation involving his wife, Natasha Osawaru.\n\nRead More: https://punchng.com/video-i-dont-want-to-look-for-trouble-again-2baba/",
+    "published": "Mon, 10 Aug 2026 17:45:13 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T17:55:08.174456+00:00",
+    "used": false
+  },
+  {
+    "id": "4290d2b4a8d866d6",
+    "source": "Premium Times",
+    "title": "Standing Still: No surprises, the Falcons have fallen",
+    "link": "https://www.premiumtimesng.com/news/top-news/901884-standing-still-no-surprises-the-falcons-have-fallen.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003826469-1-e1786383329672.jpg?fit=1080%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The signs were there that the Falcons had fallen off their perch, but that is not the most hurtful thing: the fact that the players have been let down by the football federation, which clearly showed no iota of strategy or ",
+    "published": "Mon, 10 Aug 2026 17:41:33 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T17:55:09.584922+00:00",
+    "used": false
+  },
+  {
+    "id": "c8db9aa09fb6fbfe",
+    "source": "Premium Times",
+    "title": "Funke Akindele sets another December box-office test with ‘The Four’",
+    "link": "https://www.premiumtimesng.com/entertainment/nollywood/901882-funke-akindele-sets-another-december-box-office-test-with-the-four.html",
+    "summary": "<img alt=\"Funke Akindele photo credit Funke Akindele Facebook\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"437\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Funke-Akindele-photo-credit-Funke-Akindele-Facebook-1-e1786381294579.jpg?fit=599%2C437&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"599\" /><p>The latest project will test whether she can extend a remarkable box-office run, with her last three December releases setting new Ni",
+    "published": "Mon, 10 Aug 2026 17:04:06 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T17:55:09.585017+00:00",
+    "used": false
+  },
+  {
+    "id": "fac512e4d81b7725",
+    "source": "Premium Times",
+    "title": "WAFCON 2026: Madugu takes responsibility as Super Falcons face World Cup playoff after Cameroon defeat",
+    "link": "https://www.premiumtimesng.com/sports/football/901878-wafcon-2026-madugu-takes-responsibility-as-super-falcons-face-world-cup-playoff-after-cameroon-defeat.html",
+    "summary": "<img alt=\"Justin Madugu (CREDIT: WoliG Ólùyà)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"468\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003801102-e1786084320710.jpg?fit=748%2C468&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"748\" /><p>Speaking after the game, a visibly disappointed Madugu apologised for failing to deliver the result Nigeria needed</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/sports/football/90187",
+    "published": "Mon, 10 Aug 2026 16:01:51 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T17:55:09.585055+00:00",
+    "used": false
+  },
+  {
+    "id": "c0a69310e2443c02",
+    "source": "Premium Times",
+    "title": "‘I’m definitely not finding any woman, ever’ — Frank Edoho",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/901876-im-definitely-not-finding-any-woman-ever-frank-edoho.html",
+    "summary": "<img alt=\"Frank Edoho\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"906\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Frank-Edoho-e1778581348198.jpg?fit=1438%2C906&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1438\" /><p>The broadcaster’s latest declaration came after an X user wished him another chance at love</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/naija-fashion/901876-im-definitely-not-finding-any-",
+    "published": "Mon, 10 Aug 2026 15:37:19 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T17:55:09.585092+00:00",
+    "used": false
+  },
+  {
+    "id": "cd1f9c3adc545170",
+    "source": "Premium Times",
+    "title": "‘I’ve seen trouble, I won’t look for it again’ — 2Baba says amid alleged fallout with Natasha",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/901863-ive-seen-trouble-i-wont-look-for-it-again-2baba-says-amid-alleged-fallout-with-natasha.html",
+    "summary": "<img alt=\"2Baba Speaking during an interview on “Mic On Podcast” with Channels Television journalist, Seun Okinbaloye\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1048\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/Screenshot-2026-02-08-at-09.33.30.png?fit=2056%2C1048&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2056\" /><p>The singer made the cryptic remark days after a video of a reported altercation involving him and Natasha Os",
+    "published": "Mon, 10 Aug 2026 12:37:19 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T17:55:09.585209+00:00",
+    "used": false
+  },
+  {
+    "id": "d432c40e3380dcc4",
+    "source": "Leadership Newspaper",
+    "title": "‘I Don Go Look For Trouble, I Don Hear Am’ — 2Face Speaks Amid Marital Crisis.",
+    "link": "https://leadership.ng/i-don-go-look-for-trouble-i-don-hear-am-2face-speaks-amid-marital-crisis/",
+    "summary": "Nigerian music star Innocent Idibia, popularly known as 2Face or 2Baba, has made a reflective remark about his recent experiences, saying he has learnt his lesson and would no longer go looking for trouble. The singer commented while speaking at an event over the weekend, amid the ongoing public attention surrounding his marital crisis with [&#8230;]",
+    "published": "Mon, 10 Aug 2026 17:09:38 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T17:55:13.522409+00:00",
     "used": false
   }
 ]
