@@ -921,7 +921,7 @@
     "published": "Wed, 15 Jul 2026 11:24:07 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:09.709792+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "cb0f93ac5fe9f570",
@@ -16299,6 +16299,193 @@
     "published": "Mon, 10 Aug 2026 16:34:59 +0000",
     "priority": "high",
     "fetched_at": "2026-08-10T17:55:13.522458+00:00",
+    "used": false
+  },
+  {
+    "id": "8c82a3f793fe5124",
+    "source": "Punch Nigeria",
+    "title": "Nigeria was near collapse, says colonel accused of coup plot against Tinubu",
+    "link": "https://punchng.com/nigeria-was-near-collapse-says-colonel-accused-of-coup-plot-against-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Colonel Mohammed Ma&#8217;aji, accused in a coup plot against Tinubu, claims his actions were patriotic, citing Nigeria&#8217;s near collapse due to economic hardship\n\nRead More: https://punchng.com/nigeria-was-near-collapse-says-colonel-accused-of-coup-plot-against-tinubu/",
+    "published": "Mon, 10 Aug 2026 21:03:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:49.555263+00:00",
+    "used": false
+  },
+  {
+    "id": "f1300a8cdfb7ed16",
+    "source": "Punch Nigeria",
+    "title": "Nigeria targets doubling livestock sector’s $32bn economic contribution — Tinubu",
+    "link": "https://punchng.com/nigeria-targets-doubling-livestock-sectors-32bn-economic-contribution-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Bola Tinubu has said Nigeria is targeting more than doubling the livestock sector’s estimated $32bn annual contribution to the national economy as part of efforts to make the country a leading hub for livestock production and processing in Africa. Tinubu stated this on Monday in Abuja at the opening ceremony of the 9th All\n\nRead More: https://punchng.com/nigeria-targets-doubling-livestock-sectors-32bn-economic-contribution-tinubu/",
+    "published": "Mon, 10 Aug 2026 20:56:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:49.555326+00:00",
+    "used": false
+  },
+  {
+    "id": "55ee2b55ec06134a",
+    "source": "Punch Nigeria",
+    "title": "EFCC arrests fake operative over alleged N3m fraud in Maiduguri",
+    "link": "https://punchng.com/efcc-arrests-fake-operative-over-alleged-n3m-fraud-in-maiduguri/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The EFCC has arrested Nuhu Dahiru for allegedly impersonating an operative and defrauding the public of N3m in Maiduguri. Read more about this EFCC arrest.\n\nRead More: https://punchng.com/efcc-arrests-fake-operative-over-alleged-n3m-fraud-in-maiduguri/",
+    "published": "Mon, 10 Aug 2026 20:30:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:49.555368+00:00",
+    "used": false
+  },
+  {
+    "id": "d5b16fca15fb6e1d",
+    "source": "Punch Nigeria",
+    "title": "You can’t stop God’s project, Davido slams APC over Adeleke",
+    "link": "https://punchng.com/you-cant-stop-gods-project-davido-slams-apc-over-adeleke/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Afrobeats star Davido criticizes APC&#8217;s alleged attempts to hinder progress in Osun State, celebrating Governor Adeleke&#8217;s project inauguration.\n\nRead More: https://punchng.com/you-cant-stop-gods-project-davido-slams-apc-over-adeleke/",
+    "published": "Mon, 10 Aug 2026 20:25:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:49.555382+00:00",
+    "used": false
+  },
+  {
+    "id": "78ec2d7490e9709d",
+    "source": "Punch Nigeria",
+    "title": "Resources inadequate for Lagos’ massive infrastructure needs — Hamzat",
+    "link": "https://punchng.com/resources-inadequate-for-lagos-massive-infrastructure-needs-hamzat/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos Deputy Governor Hamzat highlights inadequate resources for Lagos infrastructure, citing rising costs and population growth. Discover critical areas n\n\nRead More: https://punchng.com/resources-inadequate-for-lagos-massive-infrastructure-needs-hamzat/",
+    "published": "Mon, 10 Aug 2026 20:00:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:49.555425+00:00",
+    "used": false
+  },
+  {
+    "id": "d26785eca7a09a30",
+    "source": "Punch Nigeria",
+    "title": "Iran supreme leader names new military chief, Guards commander",
+    "link": "https://punchng.com/iran-supreme-leader-names-new-military-chief-guards-commander/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Iran&#8217;s Supreme Leader Mojtaba Khamenei has named Major General Ali Abdollahi as the new military chief and Ahmad Vahidi as the Guards commander. Learn more\n\nRead More: https://punchng.com/iran-supreme-leader-names-new-military-chief-guards-commander/",
+    "published": "Mon, 10 Aug 2026 19:54:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:49.555481+00:00",
+    "used": false
+  },
+  {
+    "id": "3e4f92c8dbba7ef9",
+    "source": "Punch Nigeria",
+    "title": "Army arrests kidnap commander in Enugu, recovers rifles, cash",
+    "link": "https://punchng.com/army-arrests-kidnap-commander-in-enugu-recovers-rifles-cash/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian Army arrests a notorious kidnap commander in Enugu, recovering four AK-47 rifles, ammunition, and significant cash. Read more about the operation.\n\nRead More: https://punchng.com/army-arrests-kidnap-commander-in-enugu-recovers-rifles-cash/",
+    "published": "Mon, 10 Aug 2026 19:51:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:49.555492+00:00",
+    "used": false
+  },
+  {
+    "id": "f3e1d38a7c42d948",
+    "source": "Premium Times",
+    "title": "EU denies rejecting INEC invitation to observe Nigeria’s general elections",
+    "link": "https://www.premiumtimesng.com/news/headlines/901930-eu-denies-rejecting-inec-invitation-to-observe-nigerias-general-elections.html",
+    "summary": "<img alt=\"European Union Logo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Flag_of_Europe.svg-scaled.webp?fit=2560%2C1707&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The EU Ambassador to Nigeria and ECOWAS, Gautier Mignot, in a statement on Monday, said reporting insinuating that the body had rejected INEC’s invitation is inaccurate and speculative.</p>\n<p>The post <",
+    "published": "Mon, 10 Aug 2026 20:02:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:50.080880+00:00",
+    "used": false
+  },
+  {
+    "id": "25ea56d76dcc90d1",
+    "source": "Premium Times",
+    "title": "Victim dies as Amotekun hunts kidnappers in Ondo forest",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/901922-victim-dies-as-amotekun-hunts-kidnappers-in-ondo-forest.html",
+    "summary": "<img alt=\"AMOTEKUN security trucks.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"360\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2021/01/Amotekun-6-2-640x360-1.jpg?fit=640%2C360&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>The victim died as a result of the stress she was subjected to while the Amotekun operatives were chasing the abductors.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/regional/ssouth-west/901922-",
+    "published": "Mon, 10 Aug 2026 18:55:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:50.080928+00:00",
+    "used": false
+  },
+  {
+    "id": "1e159b915231a54c",
+    "source": "Premium Times",
+    "title": "EFCC arrests man for allegedly impersonating operative, obtaining N3 million",
+    "link": "https://www.premiumtimesng.com/news/top-news/901908-efcc-arrests-man-for-allegedly-impersonating-operative-obtaining-n3-million.html",
+    "summary": "<img alt=\"EFCC has arrested a man, Nuhu Dahiru, for allegedly impersonating an operative of the commission\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"457\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-10-at-19.45.08.jpeg?fit=733%2C457&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"733\" /><p>The EFCC noted that N3 million was recovered from the suspect upon his arrest.</p>\n<p>The post <a href=\"https://www.pr",
+    "published": "Mon, 10 Aug 2026 18:38:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:50.080946+00:00",
+    "used": false
+  },
+  {
+    "id": "7c964cdf9befaab6",
+    "source": "Leadership Newspaper",
+    "title": "Jonathan Hails Bauchi’s N4.68bn Recreational Parks, Says Green Spaces Boost Health, Tourism",
+    "link": "https://leadership.ng/jonathan-hails-bauchis-n4-68bn-recreational-parks-says-green-spaces-boost-health-tourism/",
+    "summary": "Former Nigeria&#8217;s President Goodluck Jonathan has commended the Bauchi state government for embarking on the construction and modernisation of four recreational parks in the state capital, describing green spaces and public parks as essential infrastructure for healthy living, social cohesion and economic development. Jonathan spoke on Monday in Bauchi at the groundbreaking ceremony for the [&#8230;]",
+    "published": "Mon, 10 Aug 2026 20:19:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:53.258334+00:00",
+    "used": false
+  },
+  {
+    "id": "be41095141d059ab",
+    "source": "Leadership Newspaper",
+    "title": "Kidnapped Victim Dies In Ondo Abductors’ Den As Amotekun Rescues 5",
+    "link": "https://leadership.ng/kidnapped-victim-dies-in-ondo-abductors-den-as-amotekun-rescues-5/",
+    "summary": "‎A kidnapped victim has died in the den of her abductors in Ondo State, even as operatives of the Ondo State Security Network Agency, codenamed Amotekun, rescued five other victims. ‎The state Commander of Amotekun, Akogun Adetunji Adeleye, disclosed this on Monday while briefing journalists on the agency’s recent operations. ‎The deceased victim was among [&#8230;]",
+    "published": "Mon, 10 Aug 2026 20:13:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:53.258349+00:00",
+    "used": false
+  },
+  {
+    "id": "fb7385ec5f6e4f87",
+    "source": "Leadership Newspaper",
+    "title": "Atiku, Obi, Kwankwaso, Makinde Set For Aug. 18 Meeting As G100 Pushes Opposition Unity",
+    "link": "https://leadership.ng/atiku-obi-kwankwaso-makinde-set-for-aug-18-meeting-as-g100-pushes-opposition-unity/",
+    "summary": "&#160; A coalition of concerned Nigerians, G100, says it has concluded the first phase of talks with leaders of six opposition parties in a bid to build a united front ahead of the 2027 general election. In a statement issued yesterday and signed by Salihu Moh. Lukman, the G100 said those consulted included former Vice [&#8230;]",
+    "published": "Mon, 10 Aug 2026 20:01:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:53.258359+00:00",
+    "used": false
+  },
+  {
+    "id": "5fb5b946c1c77440",
+    "source": "Leadership Newspaper",
+    "title": "Global Airline Operators Struggle For Jet Fuel As Hormuz Closure Causes Severe Shortages",
+    "link": "https://leadership.ng/global-airline-operators-struggles-for-jet-fuel-as-hormuz-closure-causes-severe-shortages/",
+    "summary": "Global Airlines have been hit hard as they struggle to obtain enough jet fuel to maintain their regular flight schedules. The months-long closure of the Strait of Hormuz has led to severe fuel shortages around the globe, as companies battle to continue operations, according Worldoil report. However, The U.S., Nigeria, Canada, India and South Korea [&#8230;]",
+    "published": "Mon, 10 Aug 2026 19:57:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:53.258369+00:00",
+    "used": false
+  },
+  {
+    "id": "ddab5a3cc79e6625",
+    "source": "Leadership Newspaper",
+    "title": "API Advocates Strong Investment To Boost Energy Security As Regional Tensions Escalate",
+    "link": "https://leadership.ng/api-advocates-strong-investment-to-boost-energy-security-as-regional-tensions-escalate/",
+    "summary": "The American Petroleum Institute (API) has called on nations to sustain investment in energy supply through the cycles as energy security measures have become increasingly critical with uncertainties over Middle East tensions. The Institute said the U.S. energy system has helped mitigate the shock loss of oil and LNG supply from the Middle East when [&#8230;]",
+    "published": "Mon, 10 Aug 2026 19:55:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:53.258378+00:00",
+    "used": false
+  },
+  {
+    "id": "76e1aab888599117",
+    "source": "Leadership Newspaper",
+    "title": "NSCDC Commandant Underscores Intensified Operations In Abia  ‎",
+    "link": "https://leadership.ng/nscdc-commandant-underscores-intensified-operations-in-abia/",
+    "summary": "Abia State Commandant of the Nigeria Security and Civil Defence Corps,  Chukwuemeka Odimba had underscored the need for intensified operations in the state to achieve the corps&#8217; mandate. ‎ ‎He charged the personnel to redouble their efforts in the areas of surveillance, intelligence gathering and sharing on real time and general operations to surpass the [&#8230;]",
+    "published": "Mon, 10 Aug 2026 19:50:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:53.258418+00:00",
+    "used": false
+  },
+  {
+    "id": "cdba69d4a7e10d1c",
+    "source": "Leadership Newspaper",
+    "title": "2027: Ex-NULGE Leaders To Mobilise Support Across 16 LGAs For Kefas",
+    "link": "https://leadership.ng/2027-ex-nulge-leaders-to-mobilise-support-across-16-lgas-for-kefas/",
+    "summary": "Former leaders of the Nigeria Union of Local Government Employees (NULGE) in Taraba State have declared their support for Governor Agbu Kefas ahead of the 2027 governorship election. The group, led by a former Vice President of NULGE in the state, Yabkwa Rimamnyang Usman, said it would mobilise its members across the 16 local government [&#8230;]",
+    "published": "Mon, 10 Aug 2026 19:44:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T20:28:53.258448+00:00",
     "used": false
   },
   {
@@ -35156,6 +35343,149 @@
     "used": false
   },
   {
+    "id": "a58f24a7b3202a88",
+    "source": "Punch Nigeria",
+    "title": "Tupac Shakur murder trial begins 30 years after rapper’s death",
+    "link": "https://punchng.com/tupac-shakur-murder-trial-begins-30-years-after-rappers-death/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The trial of Duane &#8220;Keffe D&#8221; Davis, accused of orchestrating Tupac Shakur&#8217;s murder, begins 30 years after the rapper&#8217;s death. Get the latest updates on thi\n\nRead More: https://punchng.com/tupac-shakur-murder-trial-begins-30-years-after-rappers-death/",
+    "published": "Mon, 10 Aug 2026 20:56:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:49.555311+00:00",
+    "used": false
+  },
+  {
+    "id": "cd166b0a257f2f99",
+    "source": "Punch Nigeria",
+    "title": "Gambia to understudy TETFund as country seeks stronger tertiary education financing",
+    "link": "https://punchng.com/gambia-to-understudy-tetfund-as-country-seeks-stronger-tertiary-education-financing/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Gambia plans to understudy Nigeria&#8217;s TETFund to strengthen its tertiary education financing, seeking collaboration and learning from TETFund&#8217;s successf\n\nRead More: https://punchng.com/gambia-to-understudy-tetfund-as-country-seeks-stronger-tertiary-education-financing/",
+    "published": "Mon, 10 Aug 2026 20:43:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:49.555353+00:00",
+    "used": false
+  },
+  {
+    "id": "30c6e44512e8a71b",
+    "source": "Punch Nigeria",
+    "title": "2027: Kwankwaso slams Islamic cleric’s comments, says Kano rejects divisive remarks",
+    "link": "https://punchng.com/2027-kwankwaso-islamic-clerics-comments-says-kano-rejects-divisive-remarks/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Rabiu Kwankwaso condemns Islamic cleric&#8217;s comments on Muslim-Muslim tickets for 2027, calling them divisive and against Kano&#8217;s stance.\n\nRead More: https://punchng.com/2027-kwankwaso-islamic-clerics-comments-says-kano-rejects-divisive-remarks/",
+    "published": "Mon, 10 Aug 2026 20:20:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:49.555405+00:00",
+    "used": false
+  },
+  {
+    "id": "aa12259729fa5cdf",
+    "source": "Punch Nigeria",
+    "title": "Law school confirms student’s death after fall from Lagos campus rooftop",
+    "link": "https://punchng.com/law-school-confirms-students-death-after-fall-from-lagos-campus-rooftop/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian Law School confirms the tragic death of a 23-year-old student, Faith Alayande, after a fall from its Lagos campus rooftop. Investigation ongoing.\n\nRead More: https://punchng.com/law-school-confirms-students-death-after-fall-from-lagos-campus-rooftop/",
+    "published": "Mon, 10 Aug 2026 19:57:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:49.555449+00:00",
+    "used": false
+  },
+  {
+    "id": "c1c1ec96ced067ea",
+    "source": "Punch Nigeria",
+    "title": "Ekiti SUBEB extends teachers’ recruitment examination",
+    "link": "https://punchng.com/ekiti-subeb-extends-teachers-recruitment-examination/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ekiti SUBEB extends the qualifying examination for its teachers&#8217; recruitment exercise due to a high volume of applicants. Get details on the new dates and\n\nRead More: https://punchng.com/ekiti-subeb-extends-teachers-recruitment-examination/",
+    "published": "Mon, 10 Aug 2026 19:54:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:49.555473+00:00",
+    "used": false
+  },
+  {
+    "id": "e35421a67ba8d544",
+    "source": "Punch Nigeria",
+    "title": "Dangote takes 52.6m barrels as DCSO performance hits 97.4% – NUPRC",
+    "link": "https://punchng.com/dangote-takes-52-6m-barrels-as-dcso-performance-hits-97-4-nuprc/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Dangote Refinery received 52.6 million barrels of crude as Nigeria&#8217;s Domestic Crude Supply Obligation (DCSO) performance reached 97.4% in Q2 2026.\n\nRead More: https://punchng.com/dangote-takes-52-6m-barrels-as-dcso-performance-hits-97-4-nuprc/",
+    "published": "Mon, 10 Aug 2026 19:50:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:49.555515+00:00",
+    "used": false
+  },
+  {
+    "id": "e81d556b56d0ae9d",
+    "source": "Punch Nigeria",
+    "title": "Muslim World League chief arrives Abuja for interfaith peace conference",
+    "link": "https://punchng.com/muslim-world-league-chief-arrives-abuja-for-interfaith-peace-conference/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Dr. Mohammad Al-Issa, Muslim World League chief, arrives in Abuja for an Interfaith Peace Conference promoting religious tolerance and peaceful coexistence\n\nRead More: https://punchng.com/muslim-world-league-chief-arrives-abuja-for-interfaith-peace-conference/",
+    "published": "Mon, 10 Aug 2026 19:39:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:49.555535+00:00",
+    "used": false
+  },
+  {
+    "id": "b0a779754aba946b",
+    "source": "Punch Nigeria",
+    "title": "PHOTO: Wike goes on vacation after 30 days of project inauguration",
+    "link": "https://punchng.com/photo-wike-goes-on-vacation-after-30-days-of-project-commissioning/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "FCT Minister Nyesom Wike embarks on a well-deserved vacation after over 30 days of project commissioning and inspections in Abuja. Read more about Wike&#8217;s v\n\nRead More: https://punchng.com/photo-wike-goes-on-vacation-after-30-days-of-project-commissioning/",
+    "published": "Mon, 10 Aug 2026 19:32:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:49.555551+00:00",
+    "used": false
+  },
+  {
+    "id": "f9d5dc5be5ec1601",
+    "source": "Premium Times",
+    "title": "ASUU shuts Nigerian university, gives reason",
+    "link": "https://www.premiumtimesng.com/news/top-news/901920-asuu-shuts-nigerian-university-gives-reason.html",
+    "summary": "<img alt=\"IMSU gate (PHOTO CREDIT: Facebook)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"415\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMSU-gate-PHOTO-Facebook.jpeg?fit=739%2C415&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"739\" /><p>The academic union said during a press conference that the industrial action was deemed necessary after several engagements with the university management failed.</p>\n<p>The post <a href=\"https",
+    "published": "Mon, 10 Aug 2026 19:13:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:50.080916+00:00",
+    "used": false
+  },
+  {
+    "id": "7821d033327406f0",
+    "source": "Premium Times",
+    "title": "ROUNDCHECK launches digital game to boost civic participation among young Nigerians",
+    "link": "https://www.premiumtimesng.com/news/top-news/901903-roundcheck-launches-digital-game-to-boost-civic-participation-among-young-nigerians.html",
+    "summary": "<img alt=\"Civic Play\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"815\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-10-at-19.34.22-e1786387009232.jpeg?fit=1280%2C815&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>ROUNDCHECK has launched Civic Play, a web-based game designed to improve civic education, political literacy and media and information literacy among young Nigerians.</p>\n<p>The post <a h",
+    "published": "Mon, 10 Aug 2026 18:37:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:50.080984+00:00",
+    "used": false
+  },
+  {
+    "id": "b5a91b05e0691910",
+    "source": "Premium Times",
+    "title": "NAPTIP says 58% of survivors fail to seek help after sexual violence",
+    "link": "https://www.premiumtimesng.com/news/top-news/901907-naptip-says-58-of-survivors-fail-to-seek-help-after-sexual-violence.html",
+    "summary": "<img alt=\"Facilitators and journalists at the SGBV Media Corps Workshop\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1404\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_4418-scaled-e1786386031292.jpeg?fit=2560%2C1404&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>NAPTIP disclosed that 21 per cent of Nigerian women aged 15 to 49 have experienced physical or sexual violence.</p>\n<p>The post <a href=\"https://www.premium",
+    "published": "Mon, 10 Aug 2026 18:21:15 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:50.081035+00:00",
+    "used": false
+  },
+  {
+    "id": "fd0eb6bb3a1f8634",
+    "source": "Leadership Newspaper",
+    "title": "7.4-Magnitude Earthquake Hits Colombia, Injures Several",
+    "link": "https://leadership.ng/7-4-magnitude-earthquake-hits-colombia-injures-several/",
+    "summary": "A powerful 7.4-magnitude earthquake struck western Colombia on Monday, triggering evacuations in several cities and leaving people injured while damaging buildings in the Chocó region. The United States Geological Survey (USGS) said the earthquake occurred at 7:34 a.m. local time, with its epicentre in San José del Palmar, Chocó Department, about 280 kilometres west of [&#8230;]",
+    "published": "Mon, 10 Aug 2026 20:21:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:53.258311+00:00",
+    "used": false
+  },
+  {
+    "id": "33b1cecd2897c3c9",
+    "source": "Leadership Newspaper",
+    "title": "TotalEnergies Fast-Tracks Oil Fields To Boost NLNG Train 7 Feedstock",
+    "link": "https://leadership.ng/totalenergies-fast-tracks-oil-fields-to-boost-nlng-train-7-feedstock/",
+    "summary": "The Nigerian Liquified Natural Gas (NLNG) Train-7 project now underway is ready to receive feedstock in volume as TotalEnergies fast tracks to key prolific oil fields which would deliver significant benefits to the project. The French energy giant says the Ubeta deepwater project and Ima shallow water offshore field are on course to achieve first [&#8230;]",
+    "published": "Mon, 10 Aug 2026 19:46:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T20:28:53.258441+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -37606,6 +37936,39 @@
     "published": "Mon, 10 Aug 2026 17:09:38 +0000",
     "priority": "low",
     "fetched_at": "2026-08-10T17:55:13.522409+00:00",
+    "used": false
+  },
+  {
+    "id": "8d6fc3509113b446",
+    "source": "Premium Times",
+    "title": "Dimbo Atiya: Plateau creative community mourns filmmaker, to preserve his legacy",
+    "link": "https://www.premiumtimesng.com/entertainment/901941-dimbo-atiya-plateau-creative-community-mourns-filmmaker-to-preserve-his-legacy.html",
+    "summary": "<img alt=\"Dimbo Atiya\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"420\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Dimbo-Atiya.jpg?fit=746%2C420&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"746\" /><p>Mr Atiya's death has prompted colleagues and institutions to call for the preservation of his creative works and the recognition of the opportunities he created for younger practitioners during his career.</p>\n<p>The post <a href=",
+    "published": "Mon, 10 Aug 2026 20:04:58 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T20:28:50.080848+00:00",
+    "used": false
+  },
+  {
+    "id": "f45ea3844a1590d2",
+    "source": "Premium Times",
+    "title": "P-Square Feud: Mr P gains 1 million YouTube subscribers, sells 3,000 caps in one week",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/901883-p-square-feud-mr-p-gains-1-million-youtube-subscribers-sells-3000-caps-in-one-week.html",
+    "summary": "<img alt=\"Peter Okoye wears red ZR cap in the video series\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"520\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Peter-Okoye-wears-red-ZR-cap-in-the-video-series--e1786384558699.webp?fit=768%2C520&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>The milestones come amid a wave of public support for Mr P following his tell-all series on the long-running P-Square family feud.</p>\n<p>T",
+    "published": "Mon, 10 Aug 2026 18:03:06 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T20:28:50.081073+00:00",
+    "used": false
+  },
+  {
+    "id": "a76ca39a502befec",
+    "source": "Leadership Newspaper",
+    "title": "UK Radio Station Fined After Accidentally Announcing King Charles’ Death",
+    "link": "https://leadership.ng/uk-radio-station-fined-after-accidentally-announcing-king-charles-death/",
+    "summary": "A community radio station in the United Kingdom breached broadcasting rules after accidentally announcing the death of King Charles III during a May broadcast, the UK media regulator, Ofcom, said on Monday. Radio Caroline, a former pirate radio station that now mainly broadcasts rock music, apologised in May after mistakenly airing messages announcing the monarch’s [&#8230;]",
+    "published": "Mon, 10 Aug 2026 19:52:54 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T20:28:53.258407+00:00",
     "used": false
   }
 ]
