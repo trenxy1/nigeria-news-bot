@@ -899,7 +899,7 @@
     "published": "Wed, 15 Jul 2026 11:33:24 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:09.709769+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "7135866fe27f4fe5",
@@ -15848,6 +15848,204 @@
     "published": "Sun, 09 Aug 2026 19:39:36 +0000",
     "priority": "high",
     "fetched_at": "2026-08-09T20:17:48.328519+00:00",
+    "used": false
+  },
+  {
+    "id": "048b8d638178ec78",
+    "source": "Punch Nigeria",
+    "title": "NSCDC deploys 10,000 personnel for Osun governorship election",
+    "link": "https://punchng.com/nscdc-deploys-10000-personnel-for-osun-governorship-election/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NSCDC has deployed 10,000 personnel to Osun State to ensure a peaceful and secure governorship election. Learn about the extensive Osun election securi\n\nRead More: https://punchng.com/nscdc-deploys-10000-personnel-for-osun-governorship-election/",
+    "published": "Mon, 10 Aug 2026 09:05:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:04.933046+00:00",
+    "used": false
+  },
+  {
+    "id": "b06087b32faacbf9",
+    "source": "Punch Nigeria",
+    "title": "NAF airstrike kills nine ISWAP fighters, commander in Borno",
+    "link": "https://punchng.com/naf-airstrike-kills-nine-iswap-fighters-commander-in-borno-2/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Nigerian Air Force airstrike in Borno&#8217;s Sambisa Forest killed nine ISWAP fighters, including a key commander, disrupting terrorist operations.\n\nRead More: https://punchng.com/naf-airstrike-kills-nine-iswap-fighters-commander-in-borno-2/",
+    "published": "Mon, 10 Aug 2026 08:55:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:04.933091+00:00",
+    "used": false
+  },
+  {
+    "id": "361acef0938b736a",
+    "source": "Punch Nigeria",
+    "title": "Oyinlola’s Oyebamiji endorsement won’t stop Adeleke’s victory — Accord",
+    "link": "https://punchng.com/oyinlolas-oyebamiji-endorsement-wont-stop-adelekes-victory-accord/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun Accord Party states that ex-Governor Oyinlola&#8217;s endorsement of APC candidate Oyebamiji will not hinder Governor Ademola Adeleke&#8217;s re-election bid.\n\nRead More: https://punchng.com/oyinlolas-oyebamiji-endorsement-wont-stop-adelekes-victory-accord/",
+    "published": "Mon, 10 Aug 2026 08:35:53 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:04.933124+00:00",
+    "used": false
+  },
+  {
+    "id": "27e7d4a06385e528",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: Presidency, Atiku clash over killings, Osun 2026 politics, PFIPC probe other top stories",
+    "link": "https://punchng.com/morning-recap-presidency-atiku-clash-over-killings-osun-2026-politics-pfipc-probe-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Stay updated on Nigeria politics: Presidency and Atiku clash over killings, Osun 2026 governorship race intensifies, and other top stories.\n\nRead More: https://punchng.com/morning-recap-presidency-atiku-clash-over-killings-osun-2026-politics-pfipc-probe-other-top-stories/",
+    "published": "Mon, 10 Aug 2026 08:31:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:04.933137+00:00",
+    "used": false
+  },
+  {
+    "id": "39213626d431ee42",
+    "source": "Punch Nigeria",
+    "title": "Tinubu treks to office, eats once daily — NRS boss",
+    "link": "https://punchng.com/tinubu-treks-to-office-eats-once-daily-nrs-boss/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NRS Chairman Zacch Adedeji defends President Tinubu&#8217;s lifestyle, claiming he treks to office and eats once daily amid public concerns over official extrava\n\nRead More: https://punchng.com/tinubu-treks-to-office-eats-once-daily-nrs-boss/",
+    "published": "Mon, 10 Aug 2026 07:45:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:04.933146+00:00",
+    "used": false
+  },
+  {
+    "id": "ea2f45f4c21a37bb",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Omisore, others in attendance as Akande meets APC leaders",
+    "link": "https://punchng.com/osun-poll-omisore-others-in-attendance-as-akande-meets-apc-leaders/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun APC elders, including Iyiola Omisore, met with former governor Bisi Akande to strategize for the upcoming governorship election. Get the details on Os\n\nRead More: https://punchng.com/osun-poll-omisore-others-in-attendance-as-akande-meets-apc-leaders/",
+    "published": "Mon, 10 Aug 2026 06:39:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:04.933176+00:00",
+    "used": false
+  },
+  {
+    "id": "be750b702e3976ce",
+    "source": "Premium Times",
+    "title": "Confessors, penitents, and the whole kablooey, By Uddin Ifeanyi",
+    "link": "https://www.premiumtimesng.com/opinion/901812-confessors-penitents-and-the-whole-kablooey-by-uddin-ifeanyi.html",
+    "summary": "<img alt=\"Uddin Ifeanyi writes about the two-state solution as the best pathway to peace for Israel and Palestine.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"573\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/07/Uddin-Ifeanyi.jpeg?fit=640%2C573&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>It would have been far easier, then, for the president to have made this case to the bishops. That his government is aware of the exac",
+    "published": "Mon, 10 Aug 2026 07:59:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:05.611888+00:00",
+    "used": false
+  },
+  {
+    "id": "e324539b80ff3799",
+    "source": "Premium Times",
+    "title": "Kidnappers abduct veteran journalist’s son-in-law in Ogun, demand N500m ransom",
+    "link": "https://www.premiumtimesng.com/news/top-news/901814-kidnappers-abduct-veteran-journalists-son-in-law-in-ogun-demand-n500m-ransom.html",
+    "summary": "<img alt=\"Gunmen or Kidnappers used to illustrate the story in Katsina\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/06/Gunmen-used-to-illustrate-the-story.jpg?fit=1200%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>Mr Osunuga’s kidnap became more alarming after the abductors reportedly contacted his family using his mobile phone demanding N500 million for his release.",
+    "published": "Mon, 10 Aug 2026 07:57:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:05.611920+00:00",
+    "used": false
+  },
+  {
+    "id": "a3da085e071967e8",
+    "source": "Premium Times",
+    "title": "INEC extends deadline for submission of nominations for state elections to 11 August",
+    "link": "https://www.premiumtimesng.com/news/top-news/901782-inec-extends-deadline-for-submission-of-nominations-for-state-elections-to-11-august.html",
+    "summary": "<img alt=\"INEC headquarters\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"598\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/INEC-1062x598-1.jpg?fit=1062%2C598&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1062\" /><p>INEC says the extension follows growing appeals by political parties for additional time to complete the process.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/901782-inec-extends-deadline-for-s",
+    "published": "Mon, 10 Aug 2026 04:14:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:05.612150+00:00",
+    "used": false
+  },
+  {
+    "id": "5d72f12a3ea3a5d2",
+    "source": "Premium Times",
+    "title": "EDITORIAL: Purging the 2026 budget of its frivolities and graft bazaar",
+    "link": "https://www.premiumtimesng.com/opinion/editorial/901775-editorial-purging-the-2026-budget-of-its-frivolities-and-graft-bazaar.html",
+    "summary": "<img alt=\"Tinubu signing (PHOTO CREDIT: @officialABAT)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/HBdbof-WcAARgK9-scaled-e1773595578913.jpg?fit=2556%2C1600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2556\" /><p>We believe that the “zero budgeting” system, which deals with the MDAs on a needs basis, rather than the “envelope system,” will help in curbing this craze of annual b",
+    "published": "Mon, 10 Aug 2026 04:00:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:05.612163+00:00",
+    "used": false
+  },
+  {
+    "id": "c24712ef9ca67baf",
+    "source": "Premium Times",
+    "title": "Canada-Africa Summit: Lawal, Sani, others to represent Nigeria in Toronto",
+    "link": "https://www.premiumtimesng.com/promoted/901766-canada-africa-summit-lawal-sani-others-to-represent-nigeria-in-toronto.html",
+    "summary": "<img alt=\"Governor Dauda Lawal of Zamfara State\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"918\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/cc24c43c-a127-424a-a770-58ad120b0dca-e1786309023237.jpeg?fit=1468%2C918&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1468\" /><p>The maiden investment summit is set to take place in Toronto from 10 to 15 August 2026</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/promoted/901766-ca",
+    "published": "Sun, 09 Aug 2026 21:02:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:05.612223+00:00",
+    "used": false
+  },
+  {
+    "id": "cf9f329bb04e2aeb",
+    "source": "Premium Times",
+    "title": "2027 elections: Seven actions INEC must take to build trust in election results, By Samson Itodo",
+    "link": "https://www.premiumtimesng.com/opinion/901760-2027-elections-seven-actions-inec-must-take-to-build-trust-in-election-results-by-samson-itodo.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"614\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/09/Samson-Itodo.png?fit=624%2C614&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"624\" /><p>Election results management remains the most contested and consequential phase of Nigeria’s electoral process. It is the point at which votes cast by citizens are translated into electoral outcomes. It is here that the inconceivable becomes",
+    "published": "Sun, 09 Aug 2026 20:44:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:05.612281+00:00",
+    "used": false
+  },
+  {
+    "id": "f48dcce20b8f6165",
+    "source": "Leadership Newspaper",
+    "title": "Alia To Corps Members: Your Security Is Guaranteed In Benue",
+    "link": "https://leadership.ng/alia-to-corps-members-your-security-is-guaranteed-in-benue-2/",
+    "summary": "Benue State governor, Rev. Fr. Hyacinth Alia, has said the security of corps members posted to the state is guaranteed through out their one year stay. Alia said Nigeria currently bedeviled with security challenges which Benue state has not been left out. In his address during the opening ceremony of 2026 Batch ‘B’ Stream II [&#8230;]",
+    "published": "Mon, 10 Aug 2026 08:06:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:09.000645+00:00",
+    "used": false
+  },
+  {
+    "id": "2fca15887115e94b",
+    "source": "Leadership Newspaper",
+    "title": "Police Kill Notorious Bandit Kingpin ‘Acid’ In Imo",
+    "link": "https://leadership.ng/police-kill-notorious-bandit-kingpin-acid-in-imo/",
+    "summary": "Operatives of the Special Tactical Squad–Force Intelligence Department (STS-FID) of the Nigeria Police Force have neutralised a suspected notorious bandit kingpin, Ojiogu Elumah Martin, popularly known as &#8220;Acid&#8221;, during a gun battle in Ohaji/Egbema Local Government Area of Imo State. The operation, carried out in the early hours of 6 August, followed a directive by [&#8230;]",
+    "published": "Mon, 10 Aug 2026 07:43:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:09.000745+00:00",
+    "used": false
+  },
+  {
+    "id": "81529af2020779ce",
+    "source": "Leadership Newspaper",
+    "title": "Alia To Corps Members: Your Security Is Guaranteed In Benue",
+    "link": "https://leadership.ng/alia-to-corps-members-your-security-is-guaranteed-in-benue/",
+    "summary": "Benue State Governor, Rev. Fr. Hyacinth Alia, has said the security of corps members posted to the state is guaranteed throughout their one-year stay. Alia said Nigeria was currently bedevilled by security challenges, which Benue state had not been left out of. In his address during the opening ceremony of the 2026 Batch &#8216;B&#8217; Stream [&#8230;]",
+    "published": "Mon, 10 Aug 2026 07:39:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:09.000753+00:00",
+    "used": false
+  },
+  {
+    "id": "a3a510e47216cbdf",
+    "source": "Leadership Newspaper",
+    "title": "Immigration Orders Airport Security Overhaul, Deploys High-Tech Anti-Corruption Tools",
+    "link": "https://leadership.ng/immigration-orders-airport-security-overhaul-deploys-high-tech-anti-corruption-tools/",
+    "summary": "In a decisive move to crush corruption and seal Nigeria&#8217;s air borders against emerging security threats, the Comptroller General of the Nigeria Immigration Service (NIS), Kemi Nandap, has ordered a sweeping, nationwide overhaul of all airport operations. According to an official statement released Sunday, 9 August 2026, by the Service Public Relations Officer, DCI Akinsola [&#8230;]",
+    "published": "Mon, 10 Aug 2026 07:35:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:09.000761+00:00",
+    "used": false
+  },
+  {
+    "id": "2d67ed5bdae1f474",
+    "source": "Leadership Newspaper",
+    "title": "Benue Assembly Majority Leader Dumps APC, Joins PDP",
+    "link": "https://leadership.ng/benue-assembly-majority-leader-dumps-apc-joins-pdp-2/",
+    "summary": "The majority leader of Benue State House of Assembly and member representing Kwande West constituency, Thomas Dugeri, has resigned from the ruling All Progressives Congress (APC) and joined the opposition Peoples Democratic Party (PDP. Dugeri, who lost the APC return ticket for the State Assembly, emerged as the PDP candidate for the 2027 general elections. [&#8230;]",
+    "published": "Mon, 10 Aug 2026 07:33:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:09.000769+00:00",
+    "used": false
+  },
+  {
+    "id": "0200b1a3db6bbd09",
+    "source": "Leadership Newspaper",
+    "title": "The Victories You Rarely Notice: Why Prevention Is The Highest Form Of National Security",
+    "link": "https://leadership.ng/the-victories-you-rarely-notice-why-prevention-is-the-highest-form-of-national-security/",
+    "summary": "By Crispin Oduobuk On 10 June 2026, armed men disguised in military uniforms descended on Iluke community in Kogi State. They disrupted an ongoing West African Senior School Certificate Examination and began herding students towards the bush. Acting on credible intelligence supplied by members of the community, troops of the Nigerian Army’s 12 Brigade, supported [&#8230;]",
+    "published": "Mon, 10 Aug 2026 07:29:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-10T08:25:09.000781+00:00",
     "used": false
   },
   {
@@ -34408,6 +34606,193 @@
     "used": false
   },
   {
+    "id": "e68d8b07b43342eb",
+    "source": "Punch Nigeria",
+    "title": "Ex-gang leader faces trial over 1996 Tupac Shakur murder",
+    "link": "https://punchng.com/ex-gang-leader-faces-trial-over-1996-tupac-shakur-murder/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former gang leader Duane &#8220;Keffe D&#8221; Davis faces trial in Las Vegas for the 1996 Tupac Shakur murder. Get the latest updates on this high-profile cold case.\n\nRead More: https://punchng.com/ex-gang-leader-faces-trial-over-1996-tupac-shakur-murder/",
+    "published": "Mon, 10 Aug 2026 09:19:15 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.932982+00:00",
+    "used": false
+  },
+  {
+    "id": "caa3e8fef8b92cbc",
+    "source": "Punch Nigeria",
+    "title": "Global stocks rise as weak US jobs data eases rate fears",
+    "link": "https://punchng.com/global-stocks-rise-as-weak-us-jobs-data-eases-rate-fears/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Global stocks surged after weak US jobs data in July reduced fears of a Federal Reserve interest rate hike, despite a spike in oil prices. Find out more.\n\nRead More: https://punchng.com/global-stocks-rise-as-weak-us-jobs-data-eases-rate-fears/",
+    "published": "Mon, 10 Aug 2026 09:09:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.933018+00:00",
+    "used": false
+  },
+  {
+    "id": "a6f9166999a8e59a",
+    "source": "Punch Nigeria",
+    "title": "Prof Alfred Kasunmu dies at 92",
+    "link": "https://punchng.com/prof-alfred-kasunmu-dies-at-92/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Professor Alfred Kasunmu, SAN, a distinguished Nigerian lawyer and scholar, has died at 92. Learn about the legacy of this towering legal figure.\n\nRead More: https://punchng.com/prof-alfred-kasunmu-dies-at-92/",
+    "published": "Mon, 10 Aug 2026 09:08:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.933037+00:00",
+    "used": false
+  },
+  {
+    "id": "1e5ea81492a13183",
+    "source": "Punch Nigeria",
+    "title": "CBT best way to curb ‘miracle centres’, examination malpractice — WAEC official",
+    "link": "https://punchng.com/cbt-best-way-to-curb-miracle-centres-examination-malpractice-waec-official/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "WAEC official advocates for strict Computer-Based Testing (CBT) to combat examination malpractice and the rise of &#8216;miracle centres&#8217; in Nigeria. Learn how C\n\nRead More: https://punchng.com/cbt-best-way-to-curb-miracle-centres-examination-malpractice-waec-official/",
+    "published": "Mon, 10 Aug 2026 08:58:53 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.933077+00:00",
+    "used": false
+  },
+  {
+    "id": "80a88a2fb3252e77",
+    "source": "Punch Nigeria",
+    "title": "Woman stabs husband to death in Abia community",
+    "link": "https://punchng.com/woman-stabs-husband-to-death-in-abia-community/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A woman has allegedly stabbed her husband to death in Umuokereke Ngwa, Abia State. This tragic incident has shocked the community.\n\nRead More: https://punchng.com/woman-stabs-husband-to-death-in-abia-community/",
+    "published": "Mon, 10 Aug 2026 08:39:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.933108+00:00",
+    "used": false
+  },
+  {
+    "id": "847292e8b71d0ce3",
+    "source": "Punch Nigeria",
+    "title": "18 teams qualify for 2027 FIFA Women’s World Cup",
+    "link": "https://punchng.com/18-teams-qualify-for-2027-fifa-womens-world-cup/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The 2027 FIFA Women&#8217;s World Cup is taking shape with 18 teams already qualified. Discover which nations from Africa, Asia, Europe, Oceania, and South Ameri\n\nRead More: https://punchng.com/18-teams-qualify-for-2027-fifa-womens-world-cup/",
+    "published": "Mon, 10 Aug 2026 07:35:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.933168+00:00",
+    "used": false
+  },
+  {
+    "id": "68b5c3c8aa827606",
+    "source": "Punch Nigeria",
+    "title": "The Baule District (Tula Chiefdom) of Gombe State: A Respectful Appeal for Inclusive Development",
+    "link": "https://punchng.com/the-baule-district-tula-chiefdom-of-gombe-state-a-respectful-appeal-for-inclusive-development/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Baule District of Gombe State appeals for inclusive development, highlighting critical needs in roads, education, and healthcare. Learn about their con\n\nRead More: https://punchng.com/the-baule-district-tula-chiefdom-of-gombe-state-a-respectful-appeal-for-inclusive-development/",
+    "published": "Mon, 10 Aug 2026 06:37:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.933195+00:00",
+    "used": false
+  },
+  {
+    "id": "c67e6b05b9a3b11e",
+    "source": "Punch Nigeria",
+    "title": "Why I turned down Man United job in 2013 – Mourinho",
+    "link": "https://punchng.com/why-i-turned-down-man-united-job-in-2013-mourinho/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Jose Mourinho reveals he initially agreed to manage Manchester United in 2013 after Sir Alex Ferguson, but chose to return to Chelsea instead. Discover his\n\nRead More: https://punchng.com/why-i-turned-down-man-united-job-in-2013-mourinho/",
+    "published": "Mon, 10 Aug 2026 06:29:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.933217+00:00",
+    "used": false
+  },
+  {
+    "id": "c59d6ca4dd3868f0",
+    "source": "Punch Nigeria",
+    "title": "Atiku accuses Obasanjo of 20-year campaign of lies, deceit",
+    "link": "https://punchng.com/atiku-accuses-obasanjo-of-20-year-campaign-of-lies-deceit/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Atiku Abubakar accuses Olusegun Obasanjo of a 20-year campaign of lies and deceit, challenging recent allegations. Discover the full story of their politic\n\nRead More: https://punchng.com/atiku-accuses-obasanjo-of-20-year-campaign-of-lies-deceit/",
+    "published": "Mon, 10 Aug 2026 06:09:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:04.933235+00:00",
+    "used": false
+  },
+  {
+    "id": "22c33223025dd02b",
+    "source": "Premium Times",
+    "title": "Baule District, Tula Chiefdom of Gombe State: A respectful appeal for inclusive development",
+    "link": "https://www.premiumtimesng.com/promoted/901817-baule-district-tula-chiefdom-of-gombe-state-a-respectful-appeal-for-inclusive-development.html",
+    "summary": "<img alt=\"Daktibe Community of Baule- Tula access to water\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"515\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0015-e1786348907676.jpeg?fit=750%2C515&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"750\" /><p>The Baule District seeks neither privilege nor special treatment. It seeks what every community desire: safe roads, quality education, accessible healthcare, inclusive governance a",
+    "published": "Mon, 10 Aug 2026 08:05:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:05.611869+00:00",
+    "used": false
+  },
+  {
+    "id": "f635f25f9376ed4c",
+    "source": "Premium Times",
+    "title": "Why OPay is turning savings into a national movement",
+    "link": "https://www.premiumtimesng.com/promoted/901801-why-opay-is-turning-savings-into-a-national-movement.html",
+    "summary": "<img alt=\"OPay launches the 7 Savings Festival\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"500\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0014.jpeg?fit=884%2C500&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"884\" /><p>OPay launches the 7 Savings Festival, powered by OWealth, a nationwide savings initiative designed to make disciplined saving simple, rewarding, and accessible.</p>\n<p>The post <a href=\"https://www.premiumti",
+    "published": "Mon, 10 Aug 2026 07:12:18 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:05.612002+00:00",
+    "used": false
+  },
+  {
+    "id": "7ba8c9ac35348b78",
+    "source": "Premium Times",
+    "title": "Coronation Insurance, Wema Bank, UACN top stock pick this week",
+    "link": "https://www.premiumtimesng.com/news/top-news/901798-coronation-insurance-wema-bank-uacn-top-stock-pick-this-week.html",
+    "summary": "<img alt=\"Nigerian stocks Exchange\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"900\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2021/12/1638894895899blob.png?fit=1200%2C900&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>This is not a buy, sell or hold recommendation but a stock investment guide. You may need to involve your financial advisor before taking investment decisions.</p>\n<p>The post <a href=\"https://www.premiumtimes",
+    "published": "Mon, 10 Aug 2026 06:45:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:05.612037+00:00",
+    "used": false
+  },
+  {
+    "id": "21e4a64205cee5a6",
+    "source": "Premium Times",
+    "title": "WAFU B U20 Tourney: Flying Eagles suffer heavy defeat in final clash against Burkina Faso",
+    "link": "https://www.premiumtimesng.com/news/more-news/901792-wafu-b-u20-tourney-flying-eagles-suffer-heavy-defeat-in-final-clash-against-burkina-faso.html",
+    "summary": "<img alt=\"Final score Credit: CAF Zone Quest B X Page\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"642\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003820366-e1786336479218.jpg?fit=1052%2C642&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1052\" /><p>It was a tough afternoon for the defending champions, who were undone by a blistering first-half display from the Young Stallions.</p>\n<p>The post <a href=\"https://www.premiumtimesng",
+    "published": "Mon, 10 Aug 2026 04:37:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:05.612106+00:00",
+    "used": false
+  },
+  {
+    "id": "48c2c8f05482e206",
+    "source": "Premium Times",
+    "title": "WAFCON 2026: Cameroon end Nigeria’s title defence, seal World Cup ticket",
+    "link": "https://www.premiumtimesng.com/news/more-news/901769-wafcon-2026-cameroon-end-nigerias-title-defence-seal-world-cup-ticket.html",
+    "summary": "<img alt=\"Final score (Credit: NG Super Falcons X Page)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003819955-e1786310144362.jpg?fit=1080%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Nigeria entered the quarter-final as the most successful team in WAFCON history and had dominated previous meetings with Cameroon.</p>\n<p>The post <a href=\"https://www.premiumtimes",
+    "published": "Sun, 09 Aug 2026 21:18:19 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:05.612207+00:00",
+    "used": false
+  },
+  {
+    "id": "676be3f7f1802f63",
+    "source": "Leadership Newspaper",
+    "title": "Commercial Diving: Nigeria Seeks Local Certification Capacity To Reduce Overseas Training Dependence",
+    "link": "https://leadership.ng/commercial-diving-nigeria-seeks-local-certification-capacity-to-reduce-overseas-training-dependence/",
+    "summary": "Nigeria’s commercial diving industry is seeking to strengthen local training and certification capacity in collaboration with the International Marine Contractors Association (IMCA), a move expected to reduce the dependence of Nigerian divers on overseas institutions for qualifications required for international offshore operations. The development followed an engagement in Lagos  between IMCA officials, commercial diving professionals, [&#8230;]",
+    "published": "Mon, 10 Aug 2026 08:19:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:09.000623+00:00",
+    "used": false
+  },
+  {
+    "id": "f41a015a5e167d16",
+    "source": "Leadership Newspaper",
+    "title": "1,200 In Kano Benefit From NASENI’s Phase III Clean Energy Programme",
+    "link": "https://leadership.ng/1200-in-kano-benefit-from-nasenis-phase-iii-clean-energy-programme/",
+    "summary": "No fewer than 1,200 residents of Kabo Local Government Area of Kano State have benefited from the Phase III of the NASENI Sustainable Empowerment Programme of the National Agency for Science and Engineering Infrastructure. The intervention, unveiled in Kabo at the weekend, focused on clean energy solutions, skills development, entrepreneurship and sustainable livelihood opportunities in [&#8230;]",
+    "published": "Mon, 10 Aug 2026 07:56:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:09.000703+00:00",
+    "used": false
+  },
+  {
+    "id": "2bd3ddd8690f81a9",
+    "source": "Leadership Newspaper",
+    "title": "NASIDA: Driving Nasarawa’s Quiet Industrial Revolution",
+    "link": "https://leadership.ng/nasida-driving-nasarawas-quiet-industrial-revolution/",
+    "summary": "In the last few years, Nasarawa State has quietly transformed from a sleepy neighbour of the Federal Capital Territory into one of the most talked about investment destinations in North Central Nigeria. At the centre of this transformation is the Nasarawa State Investment and Development Agency (NASIDA), an agency that has become the engine room [&#8230;]",
+    "published": "Mon, 10 Aug 2026 07:44:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-10T08:25:09.000732+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -36726,6 +37111,61 @@
     "published": "Sun, 09 Aug 2026 13:09:27 +0000",
     "priority": "low",
     "fetched_at": "2026-08-09T17:38:20.367953+00:00",
+    "used": false
+  },
+  {
+    "id": "b4bc83462d4a08f9",
+    "source": "Premium Times",
+    "title": "WAFCON 2026: Five things learnt as Cameroon end Super Falcons’ title defence",
+    "link": "https://www.premiumtimesng.com/news/top-news/901804-wafcon-2026-five-things-learnt-as-cameroon-end-super-falcons-title-defence.html",
+    "summary": "<img alt=\"The Super Falcons were stunned by the Indomitable Lionesses Credit: CAF Women&#039;s Football X Page\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"665\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003821490-e1786347312177.jpg?fit=1080%2C665&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>For much of the contest, Nigeria created the clearer openings and spent long periods searching for the breakthrough. But when",
+    "published": "Mon, 10 Aug 2026 07:41:46 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T08:25:05.611966+00:00",
+    "used": false
+  },
+  {
+    "id": "2640f8d6f2440e70",
+    "source": "Premium Times",
+    "title": "Iheanacho scores, assists on Bursaspor debut",
+    "link": "https://www.premiumtimesng.com/sports/football/901796-iheanacho-scores-assists-on-bursaspor-debut.html",
+    "summary": "<img alt=\"Kelechi Iheanacho made an immediate impact on his Bursaspor debut [Credit: Bursaspor on X]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"887\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003821230-e1786343305569.jpg?fit=1536%2C887&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>The Nigerian star wasted little time announcing his arrival, playing a direct role in both goals as Bursaspor made a perfect start to t",
+    "published": "Mon, 10 Aug 2026 06:31:07 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T08:25:05.612070+00:00",
+    "used": false
+  },
+  {
+    "id": "48b0f8eb1c6129ee",
+    "source": "Premium Times",
+    "title": "Nigeria Immigration deploys passport intervention team to UK",
+    "link": "https://www.premiumtimesng.com/news/more-news/901785-nigeria-immigration-deploys-passport-intervention-team-to-uk.html",
+    "summary": "<img alt=\"Nigerian Passport\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"705\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2021/04/Nigerian-Passport.png?fit=1024%2C705&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>The Nigeria Immigration Service (NIS) says it will deploy a dedicated Passport Intervention Team to the United Kingdom to address pending, new, and renewal passport applications by Nigerians in the country.</p>\n<p>Th",
+    "published": "Mon, 10 Aug 2026 04:27:27 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T08:25:05.612140+00:00",
+    "used": false
+  },
+  {
+    "id": "fd59b4800deec28e",
+    "source": "Premium Times",
+    "title": "Martins, Mercedes evicted from BBNaija ‘Show Ya Sef’",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/901758-martins-mercedes-evicted-from-bbnaija-show-ya-sef.html",
+    "summary": "<img alt=\"BBN Season 11 stars Mercedes and Martins\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"570\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/BBN-Season-11-stars-Mercedes-and-Martins-.png?fit=1120%2C570&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1120\" /><p>The pair were evicted on the Sunday live show after viewers’ votes determined the outcome of the season's first eviction.</p>\n<p>The post <a href=\"https://www.premiumtim",
+    "published": "Sun, 09 Aug 2026 20:48:05 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T08:25:05.612263+00:00",
+    "used": false
+  },
+  {
+    "id": "1a0655e994a45d21",
+    "source": "Leadership Newspaper",
+    "title": "Passport Backlog: Immigration Service Deploys Intervention Team To UK",
+    "link": "https://leadership.ng/passport-backlog-immigration-service-deploys-intervention-team-to-uk/",
+    "summary": "The Nigeria Immigration Service (NIS) has deployed a dedicated Passport Intervention Team (PIT) to the United Kingdom to tackle the backlog of passport applications and further ease access to passport services for Nigerians in the diaspora. The Service in a statement signed by its Public Relations Officer, DCI Akinsola Akinlabi, said the intervention is part [&#8230;]",
+    "published": "Mon, 10 Aug 2026 08:03:25 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-10T08:25:09.000671+00:00",
     "used": false
   }
 ]
