@@ -932,7 +932,7 @@
     "published": "Wed, 15 Jul 2026 11:07:40 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T12:11:09.709800+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "0a6572a8cb40bcc8",
@@ -16486,6 +16486,248 @@
     "published": "Mon, 10 Aug 2026 19:44:21 +0000",
     "priority": "high",
     "fetched_at": "2026-08-10T20:28:53.258448+00:00",
+    "used": false
+  },
+  {
+    "id": "b7c224370eb82e8f",
+    "source": "Punch Nigeria",
+    "title": "14 clandestine miners killed in disused S’Africa mine",
+    "link": "https://punchng.com/14-clandestine-miners-killed-in-disused-safrica-mine/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Fourteen clandestine miners died and eight were injured in a rockfall at a disused South Africa mine. Learn more about the perilous conditions faced by ill\n\nRead More: https://punchng.com/14-clandestine-miners-killed-in-disused-safrica-mine/",
+    "published": "Tue, 11 Aug 2026 09:03:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047472+00:00",
+    "used": false
+  },
+  {
+    "id": "492e55b44d220787",
+    "source": "Punch Nigeria",
+    "title": "Muslim-Muslim ticket: Ex-Imo gov candidate condemns cleric’s ‘infidels’ comment",
+    "link": "https://punchng.com/muslim-muslim-ticket-ex-imo-gov-candidate-condemns-clerics-infidels-comment/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Imo governorship candidate, Uche Nwosu, condemns Sheikh Sani Jingir&#8217;s &#8216;infidels&#8217; comment, urging religious leaders to promote tolerance and unity am\n\nRead More: https://punchng.com/muslim-muslim-ticket-ex-imo-gov-candidate-condemns-clerics-infidels-comment/",
+    "published": "Tue, 11 Aug 2026 09:01:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047519+00:00",
+    "used": false
+  },
+  {
+    "id": "6bbd2d2f0da41321",
+    "source": "Punch Nigeria",
+    "title": "Gunmen abduct Ogun farmer, demand N500m ransom",
+    "link": "https://punchng.com/gunmen-abduct-ogun-farmer-demand-n500m-ransom/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A poultry farmer in Ogun State has been abducted by gunmen, who are demanding a N500 million ransom. Security forces are investigating the Ogun farmer abdu\n\nRead More: https://punchng.com/gunmen-abduct-ogun-farmer-demand-n500m-ransom/",
+    "published": "Tue, 11 Aug 2026 08:50:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047530+00:00",
+    "used": false
+  },
+  {
+    "id": "51ae62feb2cec235",
+    "source": "Punch Nigeria",
+    "title": "Colombia scrambles to find survivors as quake kills 132",
+    "link": "https://punchng.com/colombia-scrambles-to-find-survivors-as-quake-kills-132/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A powerful 7.4-magnitude Colombia earthquake has killed at least 132 people. Rescuers are scrambling to find survivors amidst widespread destruction.\n\nRead More: https://punchng.com/colombia-scrambles-to-find-survivors-as-quake-kills-132/",
+    "published": "Tue, 11 Aug 2026 08:49:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047545+00:00",
+    "used": false
+  },
+  {
+    "id": "a6d5cac59b5f085a",
+    "source": "Punch Nigeria",
+    "title": "Army, others rescue 16 kidnapped victims in Kogi, hunter killed",
+    "link": "https://punchng.com/army-others-rescue-16-kidnapped-victims-in-kogi-hunter-killed/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian Army, in a joint operation with other security agencies, rescued 16 kidnapped victims in Kogi State. One hunter was killed during the rescue.\n\nRead More: https://punchng.com/army-others-rescue-16-kidnapped-victims-in-kogi-hunter-killed/",
+    "published": "Tue, 11 Aug 2026 08:49:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047553+00:00",
+    "used": false
+  },
+  {
+    "id": "785f29945bac6d23",
+    "source": "Punch Nigeria",
+    "title": "Oil prices jump further as hopes for Hormuz deal fade",
+    "link": "https://punchng.com/oil-prices-jump-further-as-hopes-for-hormuz-deal-fade/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Oil prices surged as hopes for a Strait of Hormuz deal diminish, fanning inflation fears and increasing bets on US interest rate hikes. Get the latest on c\n\nRead More: https://punchng.com/oil-prices-jump-further-as-hopes-for-hormuz-deal-fade/",
+    "published": "Tue, 11 Aug 2026 08:43:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047564+00:00",
+    "used": false
+  },
+  {
+    "id": "7502e35bd6cf483f",
+    "source": "Punch Nigeria",
+    "title": "I never said soldiers should reject Tinubu’s salary hike – Peter Obi",
+    "link": "https://punchng.com/i-never-said-soldiers-should-reject-tinubus-salary-hike-peter-obi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Peter Obi refutes claims he urged soldiers to reject President Tinubu&#8217;s salary increase, reaffirming his commitment to security forces&#8217; welfare. Read more.\n\nRead More: https://punchng.com/i-never-said-soldiers-should-reject-tinubus-salary-hike-peter-obi/",
+    "published": "Tue, 11 Aug 2026 08:37:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047603+00:00",
+    "used": false
+  },
+  {
+    "id": "882e727a1c0873d2",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: Salah’s Turkey move, coup plot against Tinubu, opposition talks dominate top stories",
+    "link": "https://punchng.com/morning-recap-salahs-turkey-move-coup-plot-against-tinubu-opposition-talks-dominate-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Catch up on top stories: Mohamed Salah&#8217;s Turkey move, alleged coup plot against President Tinubu, and opposition parties discussing a single candidate for\n\nRead More: https://punchng.com/morning-recap-salahs-turkey-move-coup-plot-against-tinubu-opposition-talks-dominate-top-stories/",
+    "published": "Tue, 11 Aug 2026 08:27:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047642+00:00",
+    "used": false
+  },
+  {
+    "id": "8e9e910dcd0fd165",
+    "source": "Punch Nigeria",
+    "title": "ICYMI: Nigeria was near collapse, says colonel accused of coup plot against Tinubu",
+    "link": "https://punchng.com/nigeria-was-near-collapse-says-colonel-accused-of-coup-plot-against-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Colonel Mohammed Ma’aji, accused of a coup plot against Tinubu, claims his actions were driven by patriotism and concern over Nigeria&#8217;s near collapse due t\n\nRead More: https://punchng.com/nigeria-was-near-collapse-says-colonel-accused-of-coup-plot-against-tinubu/",
+    "published": "Tue, 11 Aug 2026 08:17:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047652+00:00",
+    "used": false
+  },
+  {
+    "id": "cfa205ad33b9c65c",
+    "source": "Punch Nigeria",
+    "title": "Enugu church attack: DSS, others arrest three suspects, recover four AK-47 rifles",
+    "link": "https://punchng.com/enugu-church-attack-dss-others-arrest-three-suspects-recover-four-ak-47-rifles/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Three suspects linked to the Enugu church attack have been arrested by security agencies, recovering four AK-47 rifles. Two victims freed.\n\nRead More: https://punchng.com/enugu-church-attack-dss-others-arrest-three-suspects-recover-four-ak-47-rifles/",
+    "published": "Tue, 11 Aug 2026 07:30:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047660+00:00",
+    "used": false
+  },
+  {
+    "id": "0bd3553f0400812f",
+    "source": "Punch Nigeria",
+    "title": "DSS frees, compensates artisan cleared of Oyo school kidnapping link",
+    "link": "https://punchng.com/dss-frees-compensates-artisan-cleared-of-oyo-school-kidnapping-link/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The DSS has released and compensated Mustapha Marwana, an artisan cleared of links to the Oyo school kidnapping, demonstrating a commitment to justice.\n\nRead More: https://punchng.com/dss-frees-compensates-artisan-cleared-of-oyo-school-kidnapping-link/",
+    "published": "Tue, 11 Aug 2026 07:20:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047672+00:00",
+    "used": false
+  },
+  {
+    "id": "3819177037c511f6",
+    "source": "Punch Nigeria",
+    "title": "APC Muslim-Muslim ticket: Cleric’s ‘infidels’ remark sparks condemnation",
+    "link": "https://punchng.com/apc-muslim-muslim-ticket-clerics-infidels-remark-sparks-condemnation/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A cleric&#8217;s controversial &#8216;infidels&#8217; remark while campaigning for a Muslim-Muslim ticket ahead of 2027 elections sparks widespread condemnation, deepening r\n\nRead More: https://punchng.com/apc-muslim-muslim-ticket-clerics-infidels-remark-sparks-condemnation/",
+    "published": "Tue, 11 Aug 2026 07:10:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047683+00:00",
+    "used": false
+  },
+  {
+    "id": "8c6feaa193362123",
+    "source": "Punch Nigeria",
+    "title": "Why I’m backing Adeleke despite being ADC member — Dele Momodu",
+    "link": "https://punchng.com/why-im-backing-adeleke-despite-being-adc-member-dele-momodu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Dele Momodu, an ADC chieftain, explains why he is backing Governor Ademola Adeleke for a second term in Osun State, urging opposition unity.\n\nRead More: https://punchng.com/why-im-backing-adeleke-despite-being-adc-member-dele-momodu/",
+    "published": "Tue, 11 Aug 2026 06:47:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:51.047697+00:00",
+    "used": false
+  },
+  {
+    "id": "eda7e653f21dd266",
+    "source": "Premium Times",
+    "title": "Muslim-Muslim Ticket: Islamic cleric Jingir’s remarks trigger political backlash",
+    "link": "https://www.premiumtimesng.com/news/top-news/902010-muslim-muslim-ticket-islamic-cleric-jingirs-remarks-trigger-political-backlash.html",
+    "summary": "<img alt=\"Prominent Islamic cleric, Sani Jingir\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"806\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1000989420-e1786432097755.jpg?fit=1290%2C806&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1290\" /><p>“Sheikh Jingir has done immense damage to President Tinubu and Vice President Kashim Shettima,” Mr Fani-Kayode said, adding that “I suspect that he is secretly working against them.”</p>\n<",
+    "published": "Tue, 11 Aug 2026 07:19:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:52.377544+00:00",
+    "used": false
+  },
+  {
+    "id": "3da9695035f0641b",
+    "source": "Premium Times",
+    "title": "Nigeria’s 650,000sq km rangelands threatened by degradation, desertification — Minister",
+    "link": "https://www.premiumtimesng.com/news/more-news/901993-nigerias-650000sq-km-rangelands-threatened-by-degradation-desertification-minister.html",
+    "summary": "<img alt=\"The Minister of Environment, Balarabe Abbas Lawal\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"640\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/Screenshot-2026-06-09-081420.png?fit=1058%2C640&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1058\" /><p>Nigeria’s 650,000-square-kilometre rangelands are facing increasing degradation, driven by desertification, agricultural and livestock expansion and overgrazing, the Ministe",
+    "published": "Tue, 11 Aug 2026 05:45:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:52.377709+00:00",
+    "used": false
+  },
+  {
+    "id": "282b23312be1c15d",
+    "source": "Premium Times",
+    "title": "I’m not lobbying to be APC, Tinubu’s campaigner DG – Wike",
+    "link": "https://www.premiumtimesng.com/news/more-news/901990-im-not-lobbying-to-be-apc-tinubus-campaigner-dg-wike.html",
+    "summary": "<img alt=\"Mr Nyesom Wike\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"427\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/1772945225953-e1772945268830.jpeg?fit=683%2C427&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"683\" /><p>\"I do not need to be the DG or even member of the Presidential Campaign Council of Mr President’s political party to contribute my quota.\"</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news",
+    "published": "Tue, 11 Aug 2026 05:37:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:52.377726+00:00",
+    "used": false
+  },
+  {
+    "id": "26884923c2815b62",
+    "source": "Premium Times",
+    "title": "Delta govt suspends works commissioner, gives reasons",
+    "link": "https://www.premiumtimesng.com/news/top-news/901982-delta-govt-suspends-works-commissioner-gives-reasons.html",
+    "summary": "<img alt=\"Governor of Delta State, Rt Hon Sheriff Oborevwori\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1153\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/05/438255054_10159401069557191_4687165517342917853_n-e1715207857285.jpg?fit=2048%2C1153&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The suspension notice is contained in a statement signed by the Secretary to the State Government, Kingsley Emu in Asaba.</p>\n<p>The p",
+    "published": "Mon, 10 Aug 2026 22:35:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:52.377789+00:00",
+    "used": false
+  },
+  {
+    "id": "6b56fe268d13a330",
+    "source": "Premium Times",
+    "title": "Atiku, Mark Aregbesola rally Osun electorate for ADC ahead of Saturday’s governorship election",
+    "link": "https://www.premiumtimesng.com/news/top-news/901966-atiku-mark-aregbesola-rally-osun-electorate-for-adc-ahead-of-saturdays-governorship-election.html",
+    "summary": "<img alt=\"Atiku, Mark Aregbesola rally Osun electorate for ADC (PHOTO CREDIT: @atiku)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1706\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/HPX58T4WYAAARNh.jpg?fit=2560%2C1706&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The ADC chieftains urged the Osun people to vote its candidate, Najeem Salam, promising to ensure good governance in the state.</p>\n<p>The post <a href=\"https",
+    "published": "Mon, 10 Aug 2026 21:41:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:52.377805+00:00",
+    "used": false
+  },
+  {
+    "id": "24bc33d5c29f3049",
+    "source": "Leadership Newspaper",
+    "title": "Trump Warns FIFA Against Ousting Infantino, Calls Move ‘Terrible Mistake’",
+    "link": "https://leadership.ng/trump-warns-fifa-against-ousting-infantino-calls-move-terrible-mistake/",
+    "summary": "U.S. President Donald Trump publicly defended FIFA President Gianni Infantino on social media Tuesday, warning that replacing him would be a “terrible mistake” amid growing pressure from major soccer confederations over a controversial commercial proposal. Trump’s comments marked his first direct support for Infantino since the aborted FIFA Forward Enterprise (FFE) plan surfaced July 28. [&#8230;]",
+    "published": "Tue, 11 Aug 2026 07:24:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:56.133686+00:00",
+    "used": false
+  },
+  {
+    "id": "9103f6c8ddc3e40b",
+    "source": "Leadership Newspaper",
+    "title": "Osun 2026: Adeleke’s Wife Leads Protest Against Violence",
+    "link": "https://leadership.ng/osun-2026-adelekes-wife-leads-protest-against-violence/",
+    "summary": "Ahead of Saturday&#8217;s gubernatorial election in Osun State, the wife of Osun State Governor, Mrs Titi Adeleke, on Monday led hundreds of women to protest against violence in Osogbo, the state capital. The governor&#8217;s wife, in the company of the state Commissioner for Women Affairs, Mrs Ayobola Awolowo, and Special Adviser, Market, Eniola Omotosho, led [&#8230;]",
+    "published": "Tue, 11 Aug 2026 04:45:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:56.133775+00:00",
+    "used": false
+  },
+  {
+    "id": "ecf3a9d6b31be024",
+    "source": "Leadership Newspaper",
+    "title": "Atiku, Mark, Aregbesola Campaign For ADC Candidate",
+    "link": "https://leadership.ng/atiku-mark-aregbesola-campaign-for-adc-candidate/",
+    "summary": "Former Vice President and presidential candidate of the African Democratic Congress, Alhaji Atiku Abubakar, on Monday made a direct appeal to Osun voters to support the ADC in the August 15 governorship election, saying the party represents the best of Nigerians. Speaking at the ADC grand rally at Nelson Mandela Freedom Park, Osogbo, Atiku recalled [&#8230;]",
+    "published": "Tue, 11 Aug 2026 04:42:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:56.133781+00:00",
+    "used": false
+  },
+  {
+    "id": "2ee8ba7cb23895e3",
+    "source": "Leadership Newspaper",
+    "title": "Civil Society Faults INEC’s New Result Validation System",
+    "link": "https://leadership.ng/civil-society-faults-inecs-new-result-validation-system/",
+    "summary": "The Nigerian Civil Society Situation Room and 12 other civil society organisations have raised concerns over the Independent National Electoral Commission’s (INEC) new results validation system. The groups warned that the process could undermine transparency, accountability and public confidence in the management of election results. In a joint position on the electronic transmission and collation [&#8230;]",
+    "published": "Tue, 11 Aug 2026 04:40:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-11T08:07:56.133792+00:00",
     "used": false
   },
   {
@@ -35486,6 +35728,160 @@
     "used": false
   },
   {
+    "id": "64d5364e3d6f62a9",
+    "source": "Punch Nigeria",
+    "title": "Sokoto to tackle maternal mortality, plans free delivery kits, solar lights",
+    "link": "https://punchng.com/sokoto-to-tackle-maternal-mortality-plans-free-delivery-kits-solar-lights/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Sokoto State government plans free delivery kits and solar lights to combat maternal mortality, addressing delays in care and strengthening antenatal servi\n\nRead More: https://punchng.com/sokoto-to-tackle-maternal-mortality-plans-free-delivery-kits-solar-lights/",
+    "published": "Tue, 11 Aug 2026 08:42:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:51.047587+00:00",
+    "used": false
+  },
+  {
+    "id": "9d1937ed6bf29547",
+    "source": "Punch Nigeria",
+    "title": "Airbus joins probe into Air India flight plunge",
+    "link": "https://punchng.com/airbus-joins-probe-into-air-india-flight-plunge/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Airbus is sending experts to assist the probe into an Air India flight that plunged dramatically, injuring 17. The chief pilot&#8217;s drug test results are awai\n\nRead More: https://punchng.com/airbus-joins-probe-into-air-india-flight-plunge/",
+    "published": "Tue, 11 Aug 2026 08:36:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:51.047631+00:00",
+    "used": false
+  },
+  {
+    "id": "b845cbae30c79401",
+    "source": "Premium Times",
+    "title": "53.7m barrels of crude oil, condensate supplied to local refiners in Q2 — NUPRC",
+    "link": "https://www.premiumtimesng.com/business/business-news/902022-53-7m-barrels-of-crude-oil-condensate-supplied-to-local-refiners-in-q2-nuprc.html",
+    "summary": "<img alt=\"Barrels of crude oil used to illustrate the story [PHOTO CREDIT: tradewheel.com]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1057\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/download-6.jpg?fit=1788%2C1057&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1788\" /><p>NUPRC says 53.7 million barrels of crude oil and condensate were supplied to local refineries between April and June 2026 under the Domestic Crude Supply Obli",
+    "published": "Tue, 11 Aug 2026 08:05:12 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:52.377418+00:00",
+    "used": false
+  },
+  {
+    "id": "0960482e11188dc6",
+    "source": "Premium Times",
+    "title": "192 children trafficked, violated in Niger in eight months",
+    "link": "https://www.premiumtimesng.com/regional/north-central/902019-192-children-trafficked-violated-in-niger-in-eight-months.html",
+    "summary": "<img alt=\"Ummul Mohammed, Director-General of Niger State Child Rights Protection Agency\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"680\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/C9C46609-FB27-4A60-8CFE-8E13EE573E88-e1786434547642.jpeg?fit=1087%2C680&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1087\" /><p>The disclosure comes amid several reported cases involving children in Niger State</p>\n<p>The post <a href=\"https://www.",
+    "published": "Tue, 11 Aug 2026 07:54:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:52.377465+00:00",
+    "used": false
+  },
+  {
+    "id": "7158adfd79819c18",
+    "source": "Premium Times",
+    "title": "Mararaba-Nyanya bridge, road to be completed in December – Official",
+    "link": "https://www.premiumtimesng.com/regional/north-central/901998-mararaba-nyanya-bridge-road-to-be-completed-in-december-official.html",
+    "summary": "<img alt=\"Mararaba-Nyanya Flyover\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"343\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/images-2026-08-10T225545.045.jpeg?fit=583%2C343&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"583\" /><p>The Mararaba-Nyanya project, which covers approximately 2.6 kilometres, is designed to improve traffic flow, ease congestion and strengthen connectivity between the state and the Federal Capital Terri",
+    "published": "Tue, 11 Aug 2026 06:18:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:52.377677+00:00",
+    "used": false
+  },
+  {
+    "id": "3de11376210b2a40",
+    "source": "Premium Times",
+    "title": "Heirs Life Assurance appoints Pastor Jerry Eze as Non-Executive Director",
+    "link": "https://www.premiumtimesng.com/promoted/901980-heirs-life-assurance-appoints-pastor-jerry-eze-as-non-executive-director.html",
+    "summary": "<img alt=\"L – R: Tony Elumelu, Chairman, Heirs Life Assurance; Pastor Jerry Eze, incoming director, Heirs Life Assurance\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"395\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-10-at-23.37.15.jpeg?fit=760%2C395&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"760\" /><p>Beyond ministry, Eze is the Founder of the Jerry Eze Foundation, a faith-led philanthropy where he provi",
+    "published": "Mon, 10 Aug 2026 22:42:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:52.377772+00:00",
+    "used": false
+  },
+  {
+    "id": "fbb87ac4b59c8c8d",
+    "source": "Premium Times",
+    "title": "FCMB, stakeholders set out roadmap to move Nigeria’s health sector from survival to scale",
+    "link": "https://www.premiumtimesng.com/news/top-news/901974-fcmb-stakeholders-set-out-roadmap-to-move-nigerias-health-sector-from-survival-to-scale.html",
+    "summary": "<img alt=\"Managing Director of First City Monument Bank (FCMB), Yemisi Edun.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"493\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-10-at-20.21.52.jpeg?fit=781%2C493&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"781\" /><p>At the heart of the discussions was a persistent financing problem: healthcare providers struggle to access affordable, long-term capital, while len",
+    "published": "Mon, 10 Aug 2026 21:40:12 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:52.377844+00:00",
+    "used": false
+  },
+  {
+    "id": "5a6ebe683a9b8024",
+    "source": "Premium Times",
+    "title": "Ten oil spills recorded in Niger Delta in July",
+    "link": "https://www.premiumtimesng.com/news/top-news/901965-ten-oil-spills-recorded-in-niger-delta-in-july.html",
+    "summary": "<img alt=\"SEEPCO oil spill in Imo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"493\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/SEEPCO-oil-spill-in-Imo-e1786396787288.jpeg?fit=992%2C493&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"992\" /><p>Analysis of official spill records shows sabotage, corrosion and equipment failures continued to pollute oil-producing communities across the Niger Delta in July despite years of government ",
+    "published": "Mon, 10 Aug 2026 21:24:46 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:52.377883+00:00",
+    "used": false
+  },
+  {
+    "id": "ca82876113bb196f",
+    "source": "Premium Times",
+    "title": "Nigerian Law School confirms student’s death at Lagos Campus",
+    "link": "https://www.premiumtimesng.com/news/top-news/901961-nigerian-law-school-confirms-students-death-at-lagos-campus.html",
+    "summary": "<img alt=\"Nigerian Law School\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2012/08/Nigerian-law-school.jpg?fit=800%2C600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>The student, who was from the Enugu Campus, was in Lagos for the school’s externship programme and was temporarily accommodated at the Lagos Campus hostel.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/ne",
+    "published": "Mon, 10 Aug 2026 21:16:18 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:52.377923+00:00",
+    "used": false
+  },
+  {
+    "id": "b4046e80bb21e3a9",
+    "source": "Leadership Newspaper",
+    "title": "Athletes Flood Enugu Marathon As Registration Gathers Momentum",
+    "link": "https://leadership.ng/athletes-flood-enugu-marathon-as-registration-gathers-momentum/",
+    "summary": "The second edition of the Enugu City International Marathon is attracting strong interest from elite, grassroots and international athletes as preparations intensify for the 29 August race. Organised by Nilayo Sports Management with the support of the Enugu State Government, the marathon is positioning itself as a major road-running event aimed at promoting sports, tourism, [&#8230;]",
+    "published": "Tue, 11 Aug 2026 06:54:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:56.133710+00:00",
+    "used": false
+  },
+  {
+    "id": "50fedd9f97b80d99",
+    "source": "Leadership Newspaper",
+    "title": "Zenith Bank/NBBF Women’s Basketball League Tips Off In Lagos, Jos",
+    "link": "https://leadership.ng/zenith-bank-nbbf-womens-basketball-league-tips-off-in-lagos-jos/",
+    "summary": "The 2026 Zenith Bank/Nigeria Basketball Federation (NBBF) Women’s Basketball League will tip off this weekend with teams battling for supremacy at the Atlantic and Savannah Conference centres in Lagos and Jos. The premier women’s basketball competition, sponsored by Zenith Bank Plc in partnership with the NBBF, is scheduled to begin in Lagos on 16 August, [&#8230;]",
+    "published": "Tue, 11 Aug 2026 06:33:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:56.133741+00:00",
+    "used": false
+  },
+  {
+    "id": "326a7927b50e8a4c",
+    "source": "Leadership Newspaper",
+    "title": "Prepare Yourselves For Leadership Roles, Minister Admonishes Youths",
+    "link": "https://leadership.ng/prepare-yourselves-for-leadership-roles-minister-admonishes-youths/",
+    "summary": "Minister of Youth Development, Ayodele Olawande, has challenged Nigerian youths to develop character, competence and commitment to noble causes. He said Nigeria needs young people who are prepared to take responsibility and provide leadership in different sectors. Olawande spoke yesterday in Abuja at the opening of the 2026 Rotary Youth Leadership Academy (RYLA), where over [&#8230;]",
+    "published": "Tue, 11 Aug 2026 06:20:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:56.133764+00:00",
+    "used": false
+  },
+  {
+    "id": "7527be90f8685af9",
+    "source": "Leadership Newspaper",
+    "title": "NASENI Empowers Osun Youths, Women With Advanced Technical Skills, Equipment",
+    "link": "https://leadership.ng/naseni-empowers-osun-youths-women-with-advanced-technical-skills-equipment/",
+    "summary": "The National Agency for Science and Engineering Infrastructure (NASENI) has empowered young people and women in Ile Ife, Osun State, with advanced technical skills and equipment under its NASENI Sustainable Empowerment Programme (NSEP). This was disclosed in a statement issued on Monday by the NASENI Information unit, stressing that it was aimed at promoting self-reliance, [&#8230;]",
+    "published": "Tue, 11 Aug 2026 04:40:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:56.133817+00:00",
+    "used": false
+  },
+  {
+    "id": "3896fe1285237197",
+    "source": "Leadership Newspaper",
+    "title": "Oil Companies Offered 68.1m Barrels Of Crude To Dangote Refinery In Q2 – NUPRC",
+    "link": "https://leadership.ng/oil-companies-offered-68-1m-barrels-of-crude-to-dangote-refinery-in-q2-nuprc/",
+    "summary": "Oil companies offered 68.1 million barrels of crude and condensate to the Dangote Refinery in the second quarter of 2026, the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) said on Monday — a contribution that helped the agency record a 97.4 per cent compliance rate for the Domestic Crude Supply Obligation (DCSO) after producers supplied a [&#8230;]",
+    "published": "Tue, 11 Aug 2026 04:40:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-11T08:07:56.133848+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -37969,6 +38365,50 @@
     "published": "Mon, 10 Aug 2026 19:52:54 +0000",
     "priority": "low",
     "fetched_at": "2026-08-10T20:28:53.258407+00:00",
+    "used": false
+  },
+  {
+    "id": "92c29af27c7e8c3f",
+    "source": "Premium Times",
+    "title": "Despite defeat to Cameroon, World Cup remains our target – Super Falcons’ Christy Ucheibe",
+    "link": "https://www.premiumtimesng.com/sports/football/902016-despite-defeat-to-cameroon-world-cup-remains-our-target-super-falcons-christy-ucheibe.html",
+    "summary": "<img alt=\"Credit: WoliG Ólùyà\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"514\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003830181.jpg?fit=828%2C514&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"828\" /><p>Ucheibe acknowledged that Nigeria gave everything in the contest but admitted that their efforts ultimately fell short, and despite the disappointment of losing their quarter-final, she insisted that Nigeria’s World Cup dre",
+    "published": "Tue, 11 Aug 2026 07:30:49 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-11T08:07:52.377529+00:00",
+    "used": false
+  },
+  {
+    "id": "db68132a7e3c5bef",
+    "source": "Premium Times",
+    "title": "China eye D’Tigress clean sweep after second straight Pre-World Cup victory",
+    "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/902006-china-eye-dtigress-clean-sweep-after-second-straight-pre-world-cup-victory.html",
+    "summary": "<img alt=\"D’Tigress (Credit: FIBAWBWC on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003830095-e1786430895424.jpg?fit=1080%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The three-match series is part of both teams’ preparations for next month’s FIBA Women’s World Cup in Berlin, with China now looking to complete a 3-0 sweep when the sides meet for the final t",
+    "published": "Tue, 11 Aug 2026 06:57:53 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-11T08:07:52.377589+00:00",
+    "used": false
+  },
+  {
+    "id": "b2ecf1b1a6efa0ae",
+    "source": "Premium Times",
+    "title": "Another Nigerian star moves to Turkey ahead of historic Super Lig campaign",
+    "link": "https://www.premiumtimesng.com/sports/football/902001-another-nigerian-star-moves-to-turkey-ahead-of-historic-super-lig-campaign.html",
+    "summary": "<img alt=\"Credit: Kenethlyons on IG\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003830043-e1786429655701.jpg?fit=828%2C518&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"828\" /><p>Amedspor confirmed Sor’s arrival on Monday via an exciting video through its official social media platforms, welcoming the 26-year-old winger as he brings an end to months of uncertainty surrounding hi",
+    "published": "Tue, 11 Aug 2026 06:33:28 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-11T08:07:52.377630+00:00",
+    "used": false
+  },
+  {
+    "id": "9a3a1f11926797a3",
+    "source": "Leadership Newspaper",
+    "title": "Arsenal Reject Real Madrid Interest In Martin Zubimendi",
+    "link": "https://leadership.ng/arsenal-reject-real-madrid-interest-in-martin-zubimendi/",
+    "summary": "Arsenal have no intention of selling midfielder Martin Zubimendi despite renewed interest from Real Madrid, football.london understands. The 27-year-old Spain international, who joined the Gunners from Real Sociedad in June 2025 for just over £51 million, remains central to Mikel Arteta&#8217;s plans. His contract at the Emirates runs until 2030. Real Madrid&#8217;s interest, however, faces [&#8230;]",
+    "published": "Tue, 11 Aug 2026 07:27:56 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-11T08:07:56.133660+00:00",
     "used": false
   }
 ]
