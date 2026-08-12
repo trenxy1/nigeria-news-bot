@@ -976,7 +976,7 @@
     "published": "Wed, 15 Jul 2026 17:40:11 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.239839+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "72109e5d6fdf2111",
@@ -17388,6 +17388,248 @@
     "published": "Wed, 12 Aug 2026 06:41:25 +0000",
     "priority": "high",
     "fetched_at": "2026-08-12T08:13:55.416596+00:00",
+    "used": false
+  },
+  {
+    "id": "93eecb0c138cb92a",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: NBA warns against violence, urges police neutrality",
+    "link": "https://punchng.com/osun-poll-nba-warns-against-violence-urges-police-neutrality/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigerian Bar Association (NBA) decries rising Osun election violence ahead of Saturday&#8217;s poll, urging police neutrality and an end to political killing\n\nRead More: https://punchng.com/osun-poll-nba-warns-against-violence-urges-police-neutrality/",
+    "published": "Wed, 12 Aug 2026 18:56:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:21.394243+00:00",
+    "used": false
+  },
+  {
+    "id": "27f02373a6c363fd",
+    "source": "Punch Nigeria",
+    "title": "Osun speaker petitions IG over APC Reps candidate’s death threats",
+    "link": "https://punchng.com/osun-speaker-petitions-ig-over-apc-reps-candidates-death-threats/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun Speaker Adewale Egbedun petitions Inspector General of Police over alleged death threats from APC Reps candidate Francis Eniade, calling for swift inv\n\nRead More: https://punchng.com/osun-speaker-petitions-ig-over-apc-reps-candidates-death-threats/",
+    "published": "Wed, 12 Aug 2026 18:34:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:21.394296+00:00",
+    "used": false
+  },
+  {
+    "id": "404394a8ea39298d",
+    "source": "Punch Nigeria",
+    "title": "Kwara community welcomes new army battalion",
+    "link": "https://punchng.com/kwara-community-welcomes-new-army-battalion/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Kwara community in Omu-Aran welcomes a new army battalion, an intervention expected to boost Kwara security and stability in the region.\n\nRead More: https://punchng.com/kwara-community-welcomes-new-army-battalion/",
+    "published": "Wed, 12 Aug 2026 18:32:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:21.394305+00:00",
+    "used": false
+  },
+  {
+    "id": "f582fb6fa0ecef26",
+    "source": "Punch Nigeria",
+    "title": "Terrorist surrenders rise 213% in one week — Military",
+    "link": "https://punchng.com/terrorist-surrenders-rise-213-in-one-week-military/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian military reports a 213% increase in terrorist surrenders in the North East within a week, signaling success in Operation HADIN KAI.\n\nRead More: https://punchng.com/terrorist-surrenders-rise-213-in-one-week-military/",
+    "published": "Wed, 12 Aug 2026 18:15:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:21.394337+00:00",
+    "used": false
+  },
+  {
+    "id": "0573a6c8438a7cb3",
+    "source": "Punch Nigeria",
+    "title": "CBN relaxes borrowing rules for banks trading FX, government securities",
+    "link": "https://punchng.com/cbn-relaxes-borrowing-rules-for-banks-trading-fx-government-securities/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Central Bank of Nigeria has relaxed borrowing rules for banks involved in foreign exchange and government securities, aiming to improve liquidity manag\n\nRead More: https://punchng.com/cbn-relaxes-borrowing-rules-for-banks-trading-fx-government-securities/",
+    "published": "Wed, 12 Aug 2026 18:00:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:21.394369+00:00",
+    "used": false
+  },
+  {
+    "id": "b486e4134274b038",
+    "source": "Punch Nigeria",
+    "title": "Trump sued over sale of access to Truth Social posts",
+    "link": "https://punchng.com/trump-sued-over-sale-of-access-to-truth-social-posts/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Two US media groups are suing President Trump over his &#8220;corrupt and unconstitutional&#8221; scheme to charge for early access to his market-moving Truth Social p\n\nRead More: https://punchng.com/trump-sued-over-sale-of-access-to-truth-social-posts/",
+    "published": "Wed, 12 Aug 2026 17:45:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:21.394395+00:00",
+    "used": false
+  },
+  {
+    "id": "b16f1de6bb7a4e23",
+    "source": "Punch Nigeria",
+    "title": "US will keep Strait of Hormuz control — Trump",
+    "link": "https://punchng.com/us-will-keep-strait-of-hormuz-control-trump/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Trump asserts the US maintains total control over the strategic Strait of Hormuz, calling its naval blockade a &#8220;wall of steel&#8221; amid the ongoing w\n\nRead More: https://punchng.com/us-will-keep-strait-of-hormuz-control-trump/",
+    "published": "Wed, 12 Aug 2026 17:37:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:21.394422+00:00",
+    "used": false
+  },
+  {
+    "id": "f7d984b6c6a6f686",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Accord seeks EU intervention over alleged attacks, tension",
+    "link": "https://punchng.com/osun-poll-accord-seeks-eu-intervention-over-alleged-attacks-tension/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Accord Party appeals to the EU to intervene in escalating Osun election tension, citing alleged attacks, arrests, and intimidation of its members.\n\nRead More: https://punchng.com/osun-poll-accord-seeks-eu-intervention-over-alleged-attacks-tension/",
+    "published": "Wed, 12 Aug 2026 17:24:33 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:21.394454+00:00",
+    "used": false
+  },
+  {
+    "id": "520ce1bff1a77ae7",
+    "source": "Premium Times",
+    "title": "ANALYSIS: #OsunDecides2026: How governorship election will be won and lost",
+    "link": "https://www.premiumtimesng.com/news/headlines/902435-analysis-osundecides2026-how-governorship-election-will-be-won-and-lost.html",
+    "summary": "<img alt=\"Collage of Ademola Adeleke, Bola Oyebamiji and Najeem Salaam\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"941\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Collage-of-Ademola-Adeleke-Bola-Oyebamiji-and-Najeem-Salaam.png?fit=1672%2C941&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1672\" /><p>Another unusual feature of the election is that the three leading candidates are all from the Osun West Senatorial District.</p>\n<p",
+    "published": "Wed, 12 Aug 2026 17:43:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014533+00:00",
+    "used": false
+  },
+  {
+    "id": "05cf372152a56e62",
+    "source": "Premium Times",
+    "title": "The 1945 general strike in the womb of history, By Ahmed Aminu-Ramatu Yusuf",
+    "link": "https://www.premiumtimesng.com/opinion/902385-the-1945-general-strike-in-the-womb-of-history-by-ahmed-aminu-ramatu-yusuf.html",
+    "summary": "<img alt=\"Ahmed Aminu-Ramatu Yusuf writes about the struggle for June 12.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"827\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/05/Ahmed-Aminu-Ramatu-Yusuf.jpeg?fit=591%2C827&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"591\" /><p>By 9 August, the strike became so severe that the residents of Beau telegraphed high ranking colonial officials in Lagos and Enugu, that the: “Labour situation Vict",
+    "published": "Wed, 12 Aug 2026 17:22:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014568+00:00",
+    "used": false
+  },
+  {
+    "id": "c8e2fa3f558ea694",
+    "source": "Premium Times",
+    "title": "CBN removes FX, government securities restrictions on discount window access",
+    "link": "https://www.premiumtimesng.com/business/business-news/902423-cbn-removes-fx-government-securities-restrictions-on-discount-window-access.html",
+    "summary": "<img alt=\"The Central Bank of Nigeria (CREDIT: CBN X handle)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"774\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/FnaRrxBXgAA4brG.jfif_.jpg?fit=1400%2C774&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1400\" /><p>The new provisions take immediate effect, with CBN directing all banks, authorised dealers and other market participants to ensure strict compliance.</p>\n<p>The post <a href=\"http",
+    "published": "Wed, 12 Aug 2026 15:56:12 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014585+00:00",
+    "used": false
+  },
+  {
+    "id": "5fd5683d2644cadc",
+    "source": "Premium Times",
+    "title": "Lawmaker cautions NASS against external political influences",
+    "link": "https://www.premiumtimesng.com/news/more-news/902420-lawmaker-cautions-nass-against-external-political-influences.html",
+    "summary": "<img alt=\"The deputy spokesperson for the House of Representatives, Philip Agbese\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"918\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/594290952_858215966790925_6340380815925132453_n-e1771440652263.jpg?fit=1469%2C918&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1469\" /><p>The lawmaker defended the 10th National Assembly against claims that it operates as a rubber stamp for the executive,",
+    "published": "Wed, 12 Aug 2026 15:42:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014597+00:00",
+    "used": false
+  },
+  {
+    "id": "56e408ed8beacde3",
+    "source": "Premium Times",
+    "title": "Abia rolls out app to track high-risk pregnancies, set to recruit more health workers",
+    "link": "https://www.premiumtimesng.com/news/top-news/902418-abia-rolls-out-app-to-track-high-risk-pregnancies-set-to-recruit-more-health-workers.html",
+    "summary": "<img alt=\"Abia information commissioner, Okey Kanu, his counterpart in health, Enoch Ogbonnaya Uche speaking on Abia health sector reforms\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"530\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Abia-information-commissioner-Okey-Kanu-his-counterpart-in-health-Enoch-Ogbonnaya-Uche-speaking-on-Abia-health-sector-reforms.jpg?fit=960%2C530&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"960\" /><p",
+    "published": "Wed, 12 Aug 2026 15:34:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014619+00:00",
+    "used": false
+  },
+  {
+    "id": "3eb4eef8dfbe317c",
+    "source": "Premium Times",
+    "title": "PalmPay joins CBN’s 7th Africa Emerging Markets Forum, shares perspective on regional payment integration",
+    "link": "https://www.premiumtimesng.com/promoted/902396-palmpay-joins-cbns-7th-africa-emerging-markets-forum-shares-perspective-on-regional-payment-integration.html",
+    "summary": "<img alt=\"Chika Nwosu (c) at the CBN&#039;s 7th Africa Emerging Markets Forum held in Abuja.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0617.jpeg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>At the forum, Chika Nwosu, Managing Director, PalmPay Nigeria, shared his perspective on the need for greater investment in interoperable payment infrastruct",
+    "published": "Wed, 12 Aug 2026 15:05:53 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014685+00:00",
+    "used": false
+  },
+  {
+    "id": "1a93aaab52e913c2",
+    "source": "Premium Times",
+    "title": "Osun 2026: INEC adds SDP candidate to ballot three days to election",
+    "link": "https://www.premiumtimesng.com/news/top-news/902366-osun-2026-inec-adds-sdp-candidate-to-ballot-three-days-to-election.html",
+    "summary": "<img alt=\"The Chairperson of the Independent National Electoral Commission (INEC), Joash Amupitan\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1165\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/709783104_1412827500870305_5911715596684305422_n-e1785351462912.jpg?fit=1864%2C1165&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1864\" /><p>With the addition of the SDP, candidates of 15 political parties will contest Saturday’s Osun gove",
+    "published": "Wed, 12 Aug 2026 14:18:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014841+00:00",
+    "used": false
+  },
+  {
+    "id": "346654c40ce49d3e",
+    "source": "Premium Times",
+    "title": "NHRC seeks arrest, suspension of Osun senator over death threat remarks",
+    "link": "https://www.premiumtimesng.com/news/more-news/902362-nhrc-seeks-arrest-suspension-of-osun-senator-over-death-threat-remarks.html",
+    "summary": "<img alt=\"National Human Rights Commission (NHRC)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"361\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2019/06/033A0032.jpg?fit=640%2C361&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>“This is not politics. This is a licence to kill. A public officer who tells citizens to murder other citizens because of party affiliation must not be allowed to remain in office for one more day,\" the NH",
+    "published": "Wed, 12 Aug 2026 13:57:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014864+00:00",
+    "used": false
+  },
+  {
+    "id": "f03e2f0c21981200",
+    "source": "Premium Times",
+    "title": "NBA election observers arrive Osun ahead of Saturday’s election",
+    "link": "https://www.premiumtimesng.com/news/more-news/902356-nba-election-observers-arrive-osun-ahead-of-saturdays-election.html",
+    "summary": "<img alt=\"The NBA&#039;s National Election Observers Team members had a stop-over in Akure, Ondo State, enroute to Osun State\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"852\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_5788.jpeg?fit=1280%2C852&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>The NBA said it deployed the election observers to monitor the electoral process and promote compliance with electoral laws an",
+    "published": "Wed, 12 Aug 2026 13:50:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014880+00:00",
+    "used": false
+  },
+  {
+    "id": "63f238e90903496b",
+    "source": "Premium Times",
+    "title": "Police arrest 5 suspected drug dealers, recover illicit substances",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/902353-police-arrest-5-suspected-drug-dealers-recover-illicit-substances.html",
+    "summary": "<img alt=\"Photo of suspected illicit drugs Photo credit - Timfon John\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"873\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Photo-of-suspected-illicit-drugs-Photo-credit-Timfon-John.jpg?fit=1280%2C873&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>The police said the suspects were arrested during a raid in Mbak Itam, recovering suspected Indian hemp, Tramadol, Loud, Ice, and ₦42,",
+    "published": "Wed, 12 Aug 2026 13:38:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014897+00:00",
+    "used": false
+  },
+  {
+    "id": "6af3b8edc3f8f282",
+    "source": "Premium Times",
+    "title": "Akwa Ibom local council chairman suspends youth election, orders arrest of ‘defaulters’",
+    "link": "https://www.premiumtimesng.com/news/more-news/902351-akwa-ibom-local-council-chairman-suspends-youth-election-orders-arrest-of-defaulters.html",
+    "summary": "<img alt=\"Glory Effiong, Chairman, Ibeno L.G.A, Akwa Ibom State Photo credit - Ms Effiong&#039;s Facebook page\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"517\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Glory-Effiong-Chairman-Ibeno-L.G.A-Akwa-Ibom-State-Photo-credit-Ms-Effiongs-Facebook-page-e1786541389472.jpg?fit=826%2C517&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"826\" /><p>The electoral board insists the election must ho",
+    "published": "Wed, 12 Aug 2026 13:33:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:22.014913+00:00",
+    "used": false
+  },
+  {
+    "id": "3b3a6e30b3393fa4",
+    "source": "Leadership Newspaper",
+    "title": "2027: Speaker Abbas Urges Movement To Market Tinubu With Facts, Figures",
+    "link": "https://leadership.ng/2027-speaker-abbas-urges-movement-to-market-tinubu-with-facts-figures/",
+    "summary": "The Speaker of the House of Representatives, Hon. Abbas Tajudeen, has urged the PBAT Door-to-Door Movement to campaign for President Bola Tinubu&#8217;s second term bid based on his administration&#8217;s performance statistics. &#160; Abbas, who declared that it will be easy to sell the All Progressives Congress (APC) candidate to Nigerians and secure well over 10 [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:08:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:26.272363+00:00",
+    "used": false
+  },
+  {
+    "id": "398bc140c3aba599",
+    "source": "Leadership Newspaper",
+    "title": "Osun 2026: Osun Assembly Speaker Wants Fadahunsi, Eniade Prosecuted",
+    "link": "https://leadership.ng/672074-2/",
+    "summary": "&#160; &#160; Ahead of Saturday’s governorship election, the Speaker of the Osun State House of Assembly, Hon. Adewale Egbedun, has called on the Inspector-General of Police, Tunji Disu, to arrest and prosecute Francis Eniade, the APC House of Representatives candidate for the Ifelodun, Boripe and Odo-Otin Federal Constituency, over alleged threats of violence and death [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:00:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:26.272374+00:00",
+    "used": false
+  },
+  {
+    "id": "4fb45535bf2b8e5b",
+    "source": "Leadership Newspaper",
+    "title": "Tinubu’s Experience Should Be Considered In Assessing His Leadership – Alawuje",
+    "link": "https://leadership.ng/tinubus-experience-should-be-considered-in-assessing-his-leadership-alawuje/",
+    "summary": "The National Coordinator of The Disciples of Jagaban, Abdulhakeem Adegoke Alawuje, has urged Nigerians to assess President Bola Tinubu and other political leaders based on competence, experience, policies and measurable achievements rather than sentiments or political loyalty. Alawuje made the call in a statement issued on Wednesday, describing Tinubu as one of Nigeria’s most experienced [&#8230;]",
+    "published": "Wed, 12 Aug 2026 16:56:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T18:00:26.272384+00:00",
     "used": false
   },
   {
@@ -36993,6 +37235,171 @@
     "used": false
   },
   {
+    "id": "ad67e2b55003c95e",
+    "source": "Punch Nigeria",
+    "title": "PHOTOS: Solar eclipse begins across UK, Europe",
+    "link": "https://punchng.com/photos-solar-eclipse-begins-across-uk-europe/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A rare solar eclipse is underway across the UK and Europe. Learn what causes a solar eclipse and how to safely view this celestial event.\n\nRead More: https://punchng.com/photos-solar-eclipse-begins-across-uk-europe/",
+    "published": "Wed, 12 Aug 2026 18:48:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:21.394277+00:00",
+    "used": false
+  },
+  {
+    "id": "5505b1ec6a5cf5ae",
+    "source": "Punch Nigeria",
+    "title": "FG trains 239,726 Nigerians through youth academy",
+    "link": "https://punchng.com/fg-trains-239726-nigerians-through-youth-academy/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government has equipped 239,726 Nigerian youths with digital, employability, and practical skills through the Nigerian Youth Academy.\n\nRead More: https://punchng.com/fg-trains-239726-nigerians-through-youth-academy/",
+    "published": "Wed, 12 Aug 2026 18:28:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:21.394324+00:00",
+    "used": false
+  },
+  {
+    "id": "2c0fbde3c5aeadb4",
+    "source": "Punch Nigeria",
+    "title": "ASUU declares strike at Benue varsity over unpaid salaries",
+    "link": "https://punchng.com/asuu-declares-strike-at-benue-varsity-over-unpaid-salaries/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "ASUU&#8217;s Joseph Sarwuan Tarka University chapter declares a total strike over unpaid salaries, demanding immediate payment to resume academic activities.\n\nRead More: https://punchng.com/asuu-declares-strike-at-benue-varsity-over-unpaid-salaries/",
+    "published": "Wed, 12 Aug 2026 18:00:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:21.394354+00:00",
+    "used": false
+  },
+  {
+    "id": "41d52e1a551dfa71",
+    "source": "Punch Nigeria",
+    "title": "Iger, Kushner to buy Los Angeles Lakers in record $12.5bn deal",
+    "link": "https://punchng.com/iger-kushner-to-buy-los-angeles-lakers-in-record-12-5bn-deal/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Bob Iger and Joshua Kushner are set to acquire the Los Angeles Lakers for a record $12.5 billion. This historic Lakers sale marks a new era for the NBA gia\n\nRead More: https://punchng.com/iger-kushner-to-buy-los-angeles-lakers-in-record-12-5bn-deal/",
+    "published": "Wed, 12 Aug 2026 17:59:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:21.394389+00:00",
+    "used": false
+  },
+  {
+    "id": "38cfe9da8bb5132c",
+    "source": "Punch Nigeria",
+    "title": "Fire ravages bank, bookshop, shops in Anambra",
+    "link": "https://punchng.com/fire-ravages-bank-bookshop-shops-in-anambra/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Three separate fire outbreaks in Anambra State destroyed a bank, bookshop, and multiple shops in Awka and Onitsha. Learn about the causes and damage.\n\nRead More: https://punchng.com/fire-ravages-bank-bookshop-shops-in-anambra/",
+    "published": "Wed, 12 Aug 2026 17:43:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:21.394413+00:00",
+    "used": false
+  },
+  {
+    "id": "f5f7a5ca674270bf",
+    "source": "Punch Nigeria",
+    "title": "Meet LASU’s best graduating students for two sessions",
+    "link": "https://punchng.com/meet-lasus-best-graduating-students-for-two-sessions/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos State University celebrates Ayilara Olawale and Adebanjo Oluolamide, its best graduating students for the 2024/2025 and 2025/2026 sessions. Discover\n\nRead More: https://punchng.com/meet-lasus-best-graduating-students-for-two-sessions/",
+    "published": "Wed, 12 Aug 2026 17:30:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:21.394446+00:00",
+    "used": false
+  },
+  {
+    "id": "1209971cb2ccdf80",
+    "source": "Punch Nigeria",
+    "title": "Sultan asks Muslims to watch for new Islamic month’s moon",
+    "link": "https://punchng.com/sultan-asks-muslims-to-watch-for-new-islamic-months-moon/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Sultanate Council urges Nigerian Muslims to look out for the Rabiul Awwal moon on Thursday, August 13, 2026, and report sightings to authorities.\n\nRead More: https://punchng.com/sultan-asks-muslims-to-watch-for-new-islamic-months-moon/",
+    "published": "Wed, 12 Aug 2026 17:23:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:21.394490+00:00",
+    "used": false
+  },
+  {
+    "id": "5a745f2fb432d04a",
+    "source": "Premium Times",
+    "title": "Over 2,700 Osun residents access free healthcare as SROL expands SegunCare to include mental health support",
+    "link": "https://www.premiumtimesng.com/promoted/902399-over-2700-osun-residents-access-free-healthcare-as-srol-expands-seguncare-to-include-mental-health-support.html",
+    "summary": "<img alt=\"SROL provides free access to medical care for host communities.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/SROL-provides-free-access-to-medical-care-for-host-communities-scaled.jpg?fit=2560%2C1707&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Held on the 7th and 8th August 2026, the outreach delivered essential services to host communities and marked a majo",
+    "published": "Wed, 12 Aug 2026 15:26:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:22.014659+00:00",
+    "used": false
+  },
+  {
+    "id": "bb7a7f2186365091",
+    "source": "Leadership Newspaper",
+    "title": "Omotola Jalade-Ekeinde’s Daughter Gets Engaged",
+    "link": "https://leadership.ng/omotola-jalade-ekeindes-daughter-gets-engaged/",
+    "summary": "Nollywood actress and filmmaker Omotola Jalade-Ekeinde is celebrating another major family milestone as her daughter, Princess Omotola “Meraiah” Ekeinde, has reportedly gotten engaged. &#160; The engagement has attracted excitement from fans and followers of the actress, who have watched Meraiah grow up in the public eye. &#160; Meraiah, one of Omotola and her husband Captain [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:57:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:26.272184+00:00",
+    "used": false
+  },
+  {
+    "id": "d09026d4962fa505",
+    "source": "Leadership Newspaper",
+    "title": "NNPC/Shell Vision First Initiative Impacts Over 10,000 People",
+    "link": "https://leadership.ng/nnpc-shell-vision-first-initiative-impacts-over-10000-people/",
+    "summary": "The Vision First initiative of the Nigerian National Petroleum Company Limited (NNPC) and Shell Nigeria Exploration and Production Company Limited (SNEPCo) has sustained its medical outreach efforts across Nigeria with more than 10,000 people benefitting from the programme since its inception in 2022.  The latest outreach holds this week in Badagry Local Government Area of [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:57:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:26.272224+00:00",
+    "used": false
+  },
+  {
+    "id": "6dca5bdb90e16492",
+    "source": "Leadership Newspaper",
+    "title": "‎KADIFF To Honour LEADERSHIP Newspaper For 5 Years Of Consistent Coverage",
+    "link": "https://leadership.ng/kadiff-to-honour-leadership-newspaper-for-5-years-of-consistent-coverage/",
+    "summary": "‎The Kaduna International Film Festival (KADIFF) is set to honour LEADERSHIP Newspaper at the 9th edition of the festival in recognition of the newspaper’s consistent reporting, publication and promotion of KADIFF activities over the past five years. ‎The recognition, which forms part of the activities of the 9th Kaduna International Film Festival scheduled to hold [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:53:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:26.272256+00:00",
+    "used": false
+  },
+  {
+    "id": "c0cae41eb58aab12",
+    "source": "Leadership Newspaper",
+    "title": "‎Peller Calls Out His Parents For Bringing Their Partners To His Wedding, Addresses Gay Rumours About His Father",
+    "link": "https://leadership.ng/peller-calls-out-his-parents-for-bringing-their-partners-to-his-wedding-addresses-gay-rumours-about-his-father/",
+    "summary": "&#160; ‎TikToker and streamer Hamzat Habeeb Adelaja ‘Peller’ has called out his parents. ‎While on a livestream, he noted how his parents, who are separated, brought their partners to his wedding. Peller described polygamy as a bad thing, saying his parents invited many people despite his warning to them. ‎The famous internet personality noted how [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:27:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:26.272288+00:00",
+    "used": false
+  },
+  {
+    "id": "539d55eb5c8daba3",
+    "source": "Leadership Newspaper",
+    "title": "Women Miners Need Digital Due Diligence To Tap 1.4bn African Market",
+    "link": "https://leadership.ng/women-miners-need-digital-due-diligence-to-tap-1-4bn-african-market/",
+    "summary": "Women-owned mining businesses across Africa have been urged to improve their digital records and business transparency to enhance their chances of securing finance, attracting investors and accessing international markets. Executive director, Women in Mining Africa, Comfort Asokoro-Ogaji, gave the advice during a webinar organised under the Mansa Awareness Initiative, a collaboration between Women in Mining [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:27:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:26.272311+00:00",
+    "used": false
+  },
+  {
+    "id": "d1a7a20c1bb32408",
+    "source": "Leadership Newspaper",
+    "title": "BBNaija S11: Uriel Oputa Hits Back at Fashion Critics: “I Will Continue to Wear What I Want”",
+    "link": "https://leadership.ng/bbnaija-s11-uriel-oputa-hits-back-at-fashion-critics-i-will-continue-to-wear-what-i-want/",
+    "summary": "Big Brother Naija star Uriel Oputa has responded to criticism over her fashion choices, making it clear that she intends to dress according to her own preferences. The reality TV personality addressed the backlash on Instagram, saying she is aware of the comments about her appearance but has chosen not to be bothered by negative [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:21:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:26.272339+00:00",
+    "used": false
+  },
+  {
+    "id": "3e2529053cf09d98",
+    "source": "Leadership Newspaper",
+    "title": "Court Of Appeal Sets Aside Judgment Recognising Expelled Gabam As SDP Chairman",
+    "link": "https://leadership.ng/court-of-appeal-sets-aside-judgment-recognising-expelled-gabam-as-sdp-chairman/",
+    "summary": "The Court of Appeal in Abuja has set aside the judgment of the Federal High Court recognising expelled Shehu Gabam as the National Chairman of the Social Democratic Party (SDP). The appellate court made this known in a unanimous judgment delivered on Wednesday by a three-member panel comprising Justices Fadawu Umaru, M.S. Hassan and L.A. [&#8230;]",
+    "published": "Wed, 12 Aug 2026 17:14:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T18:00:26.272357+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -39608,6 +40015,39 @@
     "published": "Wed, 12 Aug 2026 06:32:43 +0000",
     "priority": "low",
     "fetched_at": "2026-08-12T08:13:52.407753+00:00",
+    "used": false
+  },
+  {
+    "id": "3863513627aa9af2",
+    "source": "Premium Times",
+    "title": "‘My entire family is now on social media’ — Peller laments after wedding",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/902382-my-entire-family-is-now-on-social-media-peller-laments-after-wedding.html",
+    "summary": "<img alt=\"Peller\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"559\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Peller-.webp?fit=768%2C559&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>The TikToker expressed frustration with his family’s growing social media presence and criticised his parents over their conduct at his recent wedding.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/entertainment/naija-fashion/90",
+    "published": "Wed, 12 Aug 2026 15:02:42 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T18:00:22.014730+00:00",
+    "used": false
+  },
+  {
+    "id": "4caac2b5b9737dde",
+    "source": "Premium Times",
+    "title": "Free Juma Jux” trends as Tanzanians blame Priscilla Ojo for singer’s weight loss",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/902379-free-juma-jux-trends-as-tanzanians-blame-priscilla-ojo-for-singers-weight-loss.html",
+    "summary": "<img alt=\"Singer Juma Jux at Peller&#039;s wedding (Credit_ Instagram@Juma_jux)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"439\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Singer-Juma-Jux-at-Pellers-wedding-Credit_-Instagram%40Juma_jux-e1786546593176.jpg?fit=701%2C439&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"701\" /><p>Tanzanians and fans of the singer are calling on Priscilla, daughter of actress Iyabo Ojo, to “release” t",
+    "published": "Wed, 12 Aug 2026 14:47:06 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T18:00:22.014778+00:00",
+    "used": false
+  },
+  {
+    "id": "bba58636e3145538",
+    "source": "Premium Times",
+    "title": "Why banning under-16s from social media may not be the answer — Adebayo Tijani",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/902373-why-banning-under-16s-from-social-media-may-not-be-the-answer-adebayo-tijani.html",
+    "summary": "<img alt=\"Adebayo Shehu Tijani\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"702\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_1119-e1786546169418.png?fit=1254%2C702&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1254\" /><p>As governments consider tougher age restrictions on social media, a Nigerian youth advocate argues that keeping children safe online requires more than simply keeping them off the platforms.</p>\n<p>The post ",
+    "published": "Wed, 12 Aug 2026 14:45:32 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T18:00:22.014824+00:00",
     "used": false
   }
 ]
