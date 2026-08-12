@@ -965,7 +965,7 @@
     "published": "Wed, 15 Jul 2026 17:40:37 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.239827+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "be101d6997b8c35e",
@@ -17223,6 +17223,171 @@
     "published": "Tue, 11 Aug 2026 18:55:10 +0000",
     "priority": "high",
     "fetched_at": "2026-08-11T20:31:41.819842+00:00",
+    "used": false
+  },
+  {
+    "id": "06017b7a55151bd0",
+    "source": "Punch Nigeria",
+    "title": "US military operations killed 153 civilians in 2025 — Pentagon",
+    "link": "https://punchng.com/us-military-operations-killed-153-civilians-in-2025-pentagon/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Pentagon report reveals US military operations killed 153 civilians in 2025, a sharp increase from previous years. Learn more about the strikes in Yemen.\n\nRead More: https://punchng.com/us-military-operations-killed-153-civilians-in-2025-pentagon/",
+    "published": "Wed, 12 Aug 2026 07:50:54 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:51.038563+00:00",
+    "used": false
+  },
+  {
+    "id": "f562c5382c0d26be",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: Senator summoned over ‘kill them’ comment as Osun election tension rises, 10 cops killed in Kebbi bandit attack, other top stories",
+    "link": "https://punchng.com/morning-recap-senator-summoned-over-kill-them-comment-as-osun-election-tension-rises-10-cops-killed-in-kebbi-bandit-attack-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Stay informed with our Nigeria news recap. Get updates on the Osun election, Kebbi bandit attack, Air Peace flight disruptions, and more top stories.\n\nRead More: https://punchng.com/morning-recap-senator-summoned-over-kill-them-comment-as-osun-election-tension-rises-10-cops-killed-in-kebbi-bandit-attack-other-top-stories/",
+    "published": "Wed, 12 Aug 2026 07:38:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:51.038589+00:00",
+    "used": false
+  },
+  {
+    "id": "c5a4700abd252533",
+    "source": "Punch Nigeria",
+    "title": "Police bar Amotekun, vigilantes from Osun gov poll",
+    "link": "https://punchng.com/police-bar-amotekun-vigilantes-from-osun-gov-poll/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigeria Police Force has barred Amotekun, vigilante groups, and other non-state security outfits from the Osun governorship election to ensure a peacef\n\nRead More: https://punchng.com/police-bar-amotekun-vigilantes-from-osun-gov-poll/",
+    "published": "Wed, 12 Aug 2026 07:17:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:51.038594+00:00",
+    "used": false
+  },
+  {
+    "id": "383bf19a4e75160f",
+    "source": "Punch Nigeria",
+    "title": "Police summon Osun senator over killing comment",
+    "link": "https://punchng.com/police-summon-osun-senator-over-killing-comment/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun State Police summon Senator Francis Fadahunsi for allegedly threatening Accord Party members ahead of Saturday&#8217;s governorship election.\n\nRead More: https://punchng.com/police-summon-osun-senator-over-killing-comment/",
+    "published": "Wed, 12 Aug 2026 07:04:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:51.038602+00:00",
+    "used": false
+  },
+  {
+    "id": "fac5f72a7b28e06c",
+    "source": "Punch Nigeria",
+    "title": "African airlines reject API, PNR charges",
+    "link": "https://punchng.com/african-airlines-reject-api-pnr-charges/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "African airlines are pushing back against government-imposed API and PNR charges, arguing border security costs should not burden passengers or carriers. L\n\nRead More: https://punchng.com/african-airlines-reject-api-pnr-charges/",
+    "published": "Wed, 12 Aug 2026 05:54:33 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:51.038678+00:00",
+    "used": false
+  },
+  {
+    "id": "d45a856c3b804a7b",
+    "source": "Premium Times",
+    "title": "Police invite Osun’s APC senator over viral threat to ‘kill’ Accord Party members",
+    "link": "https://www.premiumtimesng.com/news/top-news/902276-police-invite-osuns-apc-senator-over-viral-threat-to-kill-accord-party-members.html",
+    "summary": "<img alt=\"Senator Francis Fadahunsi\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"776\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/02/Francis-Fadahunsi-e1786472960922.jpg?fit=1240%2C776&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1240\" /><p>The police summoned the senator over what they referred to as his threatening, inciting and intimidating comments.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/902276-p",
+    "published": "Wed, 12 Aug 2026 07:50:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:52.407616+00:00",
+    "used": false
+  },
+  {
+    "id": "ee956b8619dd5ab6",
+    "source": "Premium Times",
+    "title": "NFF apologises to Tinubu, Nigerians over Super Falcons’ WAFCON setback",
+    "link": "https://www.premiumtimesng.com/sports/football/902259-nff-apologises-to-tinubu-nigerians-over-super-falcons-wafcon-setback.html",
+    "summary": "<img alt=\"NFF President Ibrahim Gusau [Credit: NFF]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1342\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003821596-1.jpg?fit=2048%2C1342&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Mr Gusau said the federation recognised the disappointment caused to millions of Nigerians who passionately supported the team throughout the ongoing Women’s Africa Cup of Nations (WAFCON) in Mor",
+    "published": "Wed, 12 Aug 2026 06:15:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:52.407760+00:00",
+    "used": false
+  },
+  {
+    "id": "884a7f58ff2a4f48",
+    "source": "Premium Times",
+    "title": "ANALYSIS: OsunDecides2026: Ex-governors, their remarkable feats, low moments",
+    "link": "https://www.premiumtimesng.com/news/top-news/902072-analysis-osundecides2026-ex-governors-their-remarkable-feats-low-moments.html",
+    "summary": "<img alt=\"Ex-Military Governor Leo Ajiborisha, Isiaka Adeleke, Ex-Military Governor Anthony Udofia, Ex-Military Governor Anthony Obi, Ex-Military Governor Theophilus Bamgboye, Bisi Akande, Olagunsoye Oyinlola, Rauf Aregbesola, Gboyega Oyetola, and Governor Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1440\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Untitled-design-1-scaled.jpg?fit=2560%2C1440&amp;ssl=1\" style=\"display: block; margin: auto; m",
+    "published": "Wed, 12 Aug 2026 04:00:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:52.407773+00:00",
+    "used": false
+  },
+  {
+    "id": "5ba87ae9b8aadb59",
+    "source": "Leadership Newspaper",
+    "title": "TUC Backs Aviation Workers Strike, Demands Urgent Release Of 5% Ticket Charges",
+    "link": "https://leadership.ng/tuc-backs-aviation-workers-strike-demands-urgent-release-of-5-ticket-charges/",
+    "summary": "The Trade Union Congress of Nigeria (TUC) has thrown its weight behind the ongoing strike by aviation workers, demanding the immediate remittance of five per cent ticket charges by airlines and insisting that workers’ right to unionise must be respected. TUC president-general, Comrade Festus Osifo, made the position known in Abuja while addressing journalists on [&#8230;]",
+    "published": "Wed, 12 Aug 2026 07:48:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:55.416502+00:00",
+    "used": false
+  },
+  {
+    "id": "7e397366092fc184",
+    "source": "Leadership Newspaper",
+    "title": "Adeleke Seeks Sen Fadahunsi’s Arrest Over Video Calling For Killing Of Accord Members",
+    "link": "https://leadership.ng/adeleke-seeks-sen-fadahunsis-arrest-over-video-calling-for-killing-of-accord-members/",
+    "summary": "…I didn’t call for physical violence, says senator Governor Ademola Adeleke of Osun State has called for the immediate arrest and prosecution of Senator Francis Fadahunsi, representing Osun East Senatorial District, over a viral video in which he called for the killing of Accord Party members and their family members ahead of Saturday’s governorship election [&#8230;]",
+    "published": "Wed, 12 Aug 2026 07:05:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:55.416520+00:00",
+    "used": false
+  },
+  {
+    "id": "b1ffea7e1c248ea0",
+    "source": "Leadership Newspaper",
+    "title": "Osun Guber: Oyetola Left N15bn, Adeleke’s Claims Misleading – Oyebamiji",
+    "link": "https://leadership.ng/osun-guber-oyetola-left-n15bn-adelekes-claims-misleading-oyebamiji/",
+    "summary": "The All Progressives Congress (APC) governorship candidate in Osun state, Asiwaju Munirudeen Bola Oyebamiji (AMBO), has challenged the claims of Governor Ademola Adeleke administration regarding the financial position it inherited from the immediate past administration of Gboyega Oyetola. Speaking at the Arise TV Town Hall Meeting held in Osun State, Oyebamiji fielded questions from journalists [&#8230;]",
+    "published": "Wed, 12 Aug 2026 07:03:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:55.416532+00:00",
+    "used": false
+  },
+  {
+    "id": "21e00dc20e20ee36",
+    "source": "Leadership Newspaper",
+    "title": "2027: We Fielded Candidates For Elective Positions Nationwide – NNPP",
+    "link": "https://leadership.ng/2027-we-fielded-candidates-for-elective-positions-nationwide-nnpp/",
+    "summary": "Amid delay caused by the series of litigations resulting from internal leadership crisis rocking the party, the founder of the New Nigeria Peoples Party (NNPP), Dr. Boniface Aniebonam, yesterday disclosed that the party was able to field over 90 per cent candidates of all the elective positions in the 2027 general elections nationwide. Aniebonam stated [&#8230;]",
+    "published": "Wed, 12 Aug 2026 06:59:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:55.416563+00:00",
+    "used": false
+  },
+  {
+    "id": "b6834abe141dedee",
+    "source": "Leadership Newspaper",
+    "title": "Kwankwaso Says Cleric’s Muslim-Muslim Ticket Remark Divisive",
+    "link": "https://leadership.ng/kwankwaso-says-clerics-muslim-muslim-ticket-remark-divisive/",
+    "summary": "Vice-Presidential candidate of the New Democratic Congress (NDC), Dr Rabiu Musa Kwankwaso, has condemned comments by Islamic scholar, Sheikh Sani Yahaya Jingir, on the Muslim-Muslim ticket, describing them as capable of promoting division and disunity in the country. Kwankwaso, who reacted in a statement posted on his verified Facebook page, said he was deeply concerned [&#8230;]",
+    "published": "Wed, 12 Aug 2026 06:57:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:55.416568+00:00",
+    "used": false
+  },
+  {
+    "id": "3a83a70a04a7edbd",
+    "source": "Leadership Newspaper",
+    "title": "External Crises Shouldn’t Dictate Africa’s Fuel Prices, Regulators Insist",
+    "link": "https://leadership.ng/external-crises-shouldnt-dictate-africas-fuel-prices-regulators-insist/",
+    "summary": "&#8230;Push for region&#8217;s own pricing benchmark amid refining growth West Africa&#8217;s petroleum regulators have declared that crises in Western Europe and the Mediterranean should no longer determine fuel prices on the continent, insisting that the region&#8217;s expanding refining capacity now gives it every reason to build and rely on its own pricing benchmark. The Nigerian [&#8230;]",
+    "published": "Wed, 12 Aug 2026 06:45:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:55.416590+00:00",
+    "used": false
+  },
+  {
+    "id": "acee18edc67caa0f",
+    "source": "Leadership Newspaper",
+    "title": "Group Raises  The Alarm Over Looming Crisis Ahead Of NFF Elections",
+    "link": "https://leadership.ng/group-raises-the-alarm-over-looming-crisis-ahead-of-nff-elections/",
+    "summary": "The Advocacy for Nigeria Football Reforms Initiative has warned that Nigerian football is facing a critical period, accusing the authorities of failing to address what it described as deep-rooted administrative problems in the game. The group, in a statement signed by its Chairman, Prince Harrison Jalla, said the focus on the Nigeria Football Federation (NFF) [&#8230;]",
+    "published": "Wed, 12 Aug 2026 06:41:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T08:13:55.416596+00:00",
     "used": false
   },
   {
@@ -36707,6 +36872,127 @@
     "used": false
   },
   {
+    "id": "ef2de49214359ccf",
+    "source": "Punch Nigeria",
+    "title": "Depay accuses Corinthians of breaking contract renewal agreement",
+    "link": "https://punchng.com/depay-accuses-corinthians-of-breaking-contract-renewal-agreement/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Memphis Depay accuses Corinthians of breaching a contract renewal agreement, vowing to speak out. Learn more about the dispute and the club&#8217;s financial rea\n\nRead More: https://punchng.com/depay-accuses-corinthians-of-breaking-contract-renewal-agreement/",
+    "published": "Wed, 12 Aug 2026 08:26:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:51.038536+00:00",
+    "used": false
+  },
+  {
+    "id": "4d465ab527075a82",
+    "source": "Punch Nigeria",
+    "title": "Chelsea face Luton, Spurs get Charlton, all EFL second round fixtures",
+    "link": "https://punchng.com/chelsea-face-luton-spurs-get-charlton-all-efl-second-round-fixtures/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Discover all the EFL Cup second-round fixtures, including Chelsea vs Luton Town and Tottenham Hotspur vs Charlton Athletic. Get the full draw details here.\n\nRead More: https://punchng.com/chelsea-face-luton-spurs-get-charlton-all-efl-second-round-fixtures/",
+    "published": "Wed, 12 Aug 2026 06:59:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:51.038617+00:00",
+    "used": false
+  },
+  {
+    "id": "b5b63d5e49df1d71",
+    "source": "Punch Nigeria",
+    "title": "UK gives councils more power over betting, vape shops",
+    "link": "https://punchng.com/uk-gives-councils-more-power-over-betting-vape-shops/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "New UK measures empower councils and residents to control high street development, targeting betting shops, vape shops, and adult gaming centres to revital\n\nRead More: https://punchng.com/uk-gives-councils-more-power-over-betting-vape-shops/",
+    "published": "Wed, 12 Aug 2026 06:40:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:51.038644+00:00",
+    "used": false
+  },
+  {
+    "id": "e26496590804fad5",
+    "source": "Punch Nigeria",
+    "title": "Embraer grows profit 38% to $218.6m in Q2",
+    "link": "https://punchng.com/embraer-grows-profit-38-to-218-6m-in-q2/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Brazilian aircraft manufacturer Embraer announced a 38% surge in Q2 2026 adjusted net income to $218.6 million, driven by higher revenue and strong operati\n\nRead More: https://punchng.com/embraer-grows-profit-38-to-218-6m-in-q2/",
+    "published": "Wed, 12 Aug 2026 05:57:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:51.038657+00:00",
+    "used": false
+  },
+  {
+    "id": "4c59e7f6389f56cd",
+    "source": "Punch Nigeria",
+    "title": "Expert calls for FAAN’s 5% airport revenue contribution",
+    "link": "https://punchng.com/expert-calls-for-faans-5-airport-revenue-contribution/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An aviation expert urges the House of Reps to compel FAAN to contribute 5% of its airport commercial earnings to aviation safety agencies, ensuring adequat\n\nRead More: https://punchng.com/expert-calls-for-faans-5-airport-revenue-contribution/",
+    "published": "Wed, 12 Aug 2026 05:55:56 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:51.038673+00:00",
+    "used": false
+  },
+  {
+    "id": "5d3427b932784b33",
+    "source": "Punch Nigeria",
+    "title": "NCAA deploys RFID technology to curb baggage mishandling",
+    "link": "https://punchng.com/ncaa-deploys-rfid-technology-to-curb-baggage-mishandling/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NCAA is deploying RFID technology at Nigerian airports to track luggage, reduce lost bags, and improve passenger experience. Learn how RFID baggage tra\n\nRead More: https://punchng.com/ncaa-deploys-rfid-technology-to-curb-baggage-mishandling/",
+    "published": "Wed, 12 Aug 2026 05:48:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:51.038690+00:00",
+    "used": false
+  },
+  {
+    "id": "f62bec75019085db",
+    "source": "Premium Times",
+    "title": "UEFA Super Cup: Somalian referee Omar Artan bounces back from World Cup snub with blockbuster fixture",
+    "link": "https://www.premiumtimesng.com/news/more-news/902273-uefa-super-cup-somalian-referee-omar-artan-bounces-back-from-world-cup-snub-with-blockbuster-fixture.html",
+    "summary": "<img alt=\"Omar Artan Credit: UEFA on X\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1366\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003839941.jpg?fit=2048%2C1366&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The 34-year-old referee was thrust into the international spotlight shortly before the World Cup began in June after he was turned away upon arrival at Miami International Airport, despite being among the refer",
+    "published": "Wed, 12 Aug 2026 07:15:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:52.407661+00:00",
+    "used": false
+  },
+  {
+    "id": "bdbc0c3249b75afe",
+    "source": "Premium Times",
+    "title": "NCAA to introduce real-time luggage tracking at Nigerian airports",
+    "link": "https://www.premiumtimesng.com/news/902268-ncaa-to-introduce-real-time-luggage-tracking-at-nigerian-airports.html",
+    "summary": "<img alt=\"NCAA grants Enugu Air licence to begin commercial flight operations\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"690\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/IMG-20260310-WA0016.jpg?fit=1080%2C690&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The technology is expected to improve baggage handling, reduce cases of misrouted luggage and strengthen the resolution of passengers’ complaints.</p>\n<p>The post <",
+    "published": "Wed, 12 Aug 2026 07:00:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:52.407722+00:00",
+    "used": false
+  },
+  {
+    "id": "0aa08a7c3d351951",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria A Graveyard Of Abandoned Projects – ADC",
+    "link": "https://leadership.ng/nigeria-a-graveyard-of-abandoned-projects-adc/",
+    "summary": "The African Democratic Congress (ADC) has decried the high rate of abandoned projects across the country, attributing the development to alleged corruption and lack of political will by federal and state governments to complete projects initiated in the public interest. The party said it would uphold the principle of institutional continuity by ensuring that changes [&#8230;]",
+    "published": "Wed, 12 Aug 2026 07:02:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:55.416556+00:00",
+    "used": false
+  },
+  {
+    "id": "0ffe1ad5e10d20d2",
+    "source": "Leadership Newspaper",
+    "title": "NRS, Tax Reforms: The New Face Of Nigeria’s Economy",
+    "link": "https://leadership.ng/nrs-tax-reforms-the-new-face-of-nigerias-economy/",
+    "summary": "For decades, Nigeria’s economic story was defined by a paradox: a country with one of Africa’s largest economies and a vast population of potential taxpayers, yet one that struggled to generate enough domestic revenue to finance its development. Oil provided the lifeline, while borrowing increasingly became the bridge whenever government revenue fell short. But that [&#8230;]",
+    "published": "Wed, 12 Aug 2026 06:50:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:55.416582+00:00",
+    "used": false
+  },
+  {
+    "id": "f8993ad8ab2b30a9",
+    "source": "Leadership Newspaper",
+    "title": "Katsina United Mourn Ozoh Chinedu After Midfielder Collapses During Friendly",
+    "link": "https://leadership.ng/katsina-united-mourn-ozoh-chinedu-after-midfielder-collapses-during-friendly/",
+    "summary": "Katsina United midfielder Ozoh Chinedu has died after collapsing during a pre-season friendly against Niger Tornadoes at the Muhammadu Dikko Stadium in Katsina on Tuesday. The club confirmed the death of the midfielder, who had recently joined Katsina United from Kano Pillars ahead of the 2026/27 season. According to a statement issued by the club’s [&#8230;]",
+    "published": "Wed, 12 Aug 2026 06:40:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T08:13:55.416616+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -39256,6 +39542,72 @@
     "published": "Tue, 11 Aug 2026 16:49:22 +0000",
     "priority": "low",
     "fetched_at": "2026-08-11T18:00:49.636697+00:00",
+    "used": false
+  },
+  {
+    "id": "80ad702ea6f5d203",
+    "source": "Punch Nigeria",
+    "title": "Super Eagles forward Dessers fires club into Conference League play-offs",
+    "link": "https://punchng.com/super-eagles-forward-dessers-fires-club-into-conference-league-play-offs/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Super Eagles forward Cyriel Dessers scored an extra-time winner, firing Panathinaikos into the UEFA Conference League play-off round. Read more on Dessers&#8217;\n\nRead More: https://punchng.com/super-eagles-forward-dessers-fires-club-into-conference-league-play-offs/",
+    "published": "Wed, 12 Aug 2026 08:30:12 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T08:13:51.038510+00:00",
+    "used": false
+  },
+  {
+    "id": "a1cf335daa37ab6b",
+    "source": "Punch Nigeria",
+    "title": "Why I rejected Netherlands job – Slot",
+    "link": "https://punchng.com/why-i-rejected-netherlands-job-slot/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Liverpool coach Arne Slot explains his decision to reject the Netherlands national team job, preferring to remain in club football. Find out why.\n\nRead More: https://punchng.com/why-i-rejected-netherlands-job-slot/",
+    "published": "Wed, 12 Aug 2026 08:06:59 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T08:13:51.038555+00:00",
+    "used": false
+  },
+  {
+    "id": "a8b75dbb7dfd02f3",
+    "source": "Punch Nigeria",
+    "title": "Meet Liverpool’s 18-year-old defender blocked from competitive football by Brexit rules",
+    "link": "https://punchng.com/meet-liverpools-18-year-old-defender-blocked-from-competitive-football-by-brexit-rules/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Liverpool&#8217;s 18-year-old defender, Ifeanyi Ndukwe, is blocked from competitive football due to post-Brexit work permit rules. Learn how this impacts his car\n\nRead More: https://punchng.com/meet-liverpools-18-year-old-defender-blocked-from-competitive-football-by-brexit-rules/",
+    "published": "Wed, 12 Aug 2026 07:43:58 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T08:13:51.038582+00:00",
+    "used": false
+  },
+  {
+    "id": "1c8dce177c2848a7",
+    "source": "Punch Nigeria",
+    "title": "Cristiano Ronaldo marries long-term partner Georgina Rodriguez",
+    "link": "https://punchng.com/cristiano-ronaldo-marries-long-term-partner-georgina-rodriguez/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Football superstar Cristiano Ronaldo has married his long-term partner Georgina Rodriguez in a private ceremony in Portugal. Get details on their wedding.\n\nRead More: https://punchng.com/cristiano-ronaldo-marries-long-term-partner-georgina-rodriguez/",
+    "published": "Wed, 12 Aug 2026 06:41:01 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T08:13:51.038631+00:00",
+    "used": false
+  },
+  {
+    "id": "8692e408716cdb5f",
+    "source": "Premium Times",
+    "title": "Conference League: Dessers marks injury return with extra-time winner",
+    "link": "https://www.premiumtimesng.com/sports/football/902266-conference-league-dessers-marks-injury-return-with-extra-time-winner.html",
+    "summary": "<img alt=\"Cyril Dessers Credit: Panathinaikos on X\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1095\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003839924-e1786517402727.jpg?fit=1535%2C1095&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1535\" /><p>For Dessers, the goal provided the perfect response to a lengthy spell on the sidelines and marked his first appearance for Panathinaikos since the previous campaign</p>\n<p>The post <",
+    "published": "Wed, 12 Aug 2026 07:00:41 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T08:13:52.407689+00:00",
+    "used": false
+  },
+  {
+    "id": "c102976bb37d6717",
+    "source": "Premium Times",
+    "title": "Cristiano Ronaldo weds long-time partner Georgina Rodríguez",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/902262-cristiano-ronaldo-weds-long-time-partner-georgina-rodriguez.html",
+    "summary": "<img alt=\"Cristiano Ronaldo and Georgina Rodríguez are officially married [PHOTO CREDIT: Cristiano Ronaldo﻿]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1193\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/772868655_18760833085056421_701013831858641592_n-e1786516247346.jpg?fit=1600%2C1193&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1600\" /><p>The couple have been together for almost a decade.</p>\n<p>The post <a href=\"https://www",
+    "published": "Wed, 12 Aug 2026 06:32:43 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T08:13:52.407753+00:00",
     "used": false
   }
 ]
