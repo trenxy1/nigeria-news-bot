@@ -987,7 +987,7 @@
     "published": "Wed, 15 Jul 2026 17:20:48 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.239851+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "5accdda1cab78c23",
@@ -17630,6 +17630,237 @@
     "published": "Wed, 12 Aug 2026 16:56:34 +0000",
     "priority": "high",
     "fetched_at": "2026-08-12T18:00:26.272384+00:00",
+    "used": false
+  },
+  {
+    "id": "b7003f773c5a3114",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Lawyer seeks UK sanctions against senator over incitement",
+    "link": "https://punchng.com/osun-poll-lawyer-seeks-uk-sanctions-against-senator-over-incitement/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A lawyer urges the UK to sanction Senator Fadahunsi and his family for alleged incitement against Accord Party members ahead of the Osun election.\n\nRead More: https://punchng.com/osun-poll-lawyer-seeks-uk-sanctions-against-senator-over-incitement/",
+    "published": "Wed, 12 Aug 2026 21:21:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:00.635330+00:00",
+    "used": false
+  },
+  {
+    "id": "e2d4f906dd0da24d",
+    "source": "Punch Nigeria",
+    "title": "Hit-and-run driver kills two in Enugu",
+    "link": "https://punchng.com/hit-and-run-driver-kills-two-in-enugu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Police in Enugu State are investigating a hit-and-run incident at Airport Corner, Emene, where a speeding driver killed two men.\n\nRead More: https://punchng.com/hit-and-run-driver-kills-two-in-enugu/",
+    "published": "Wed, 12 Aug 2026 21:03:14 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:00.635362+00:00",
+    "used": false
+  },
+  {
+    "id": "607620fda2c8dc16",
+    "source": "Punch Nigeria",
+    "title": "Police arrest four suspected armed robbers, cultists in Lagos",
+    "link": "https://punchng.com/police-arrest-four-suspected-armed-robbers-cultists-in-lagos/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos State Police Command arrests four suspected armed robbers and cultists in Ajah, recovering weapons and linking them to recent crimes. Read more.\n\nRead More: https://punchng.com/police-arrest-four-suspected-armed-robbers-cultists-in-lagos/",
+    "published": "Wed, 12 Aug 2026 21:02:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:00.635371+00:00",
+    "used": false
+  },
+  {
+    "id": "236f0cec6b8008d8",
+    "source": "Punch Nigeria",
+    "title": "Cultists shoot 100-level student as Rivers varsity suspends SUG week",
+    "link": "https://punchng.com/cultists-shoot-100-level-student-as-rivers-varsity-suspends-sug-week/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A 100-level student was shot by suspected cultists at Ignatius Ajuru University, Rivers State, leading to the suspension of SUG Week. Read more on the Rive\n\nRead More: https://punchng.com/cultists-shoot-100-level-student-as-rivers-varsity-suspends-sug-week/",
+    "published": "Wed, 12 Aug 2026 21:00:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:00.635384+00:00",
+    "used": false
+  },
+  {
+    "id": "b8a7af932340f99e",
+    "source": "Punch Nigeria",
+    "title": "NSCDC arrests 16 suspects over vandalism, cattle rustling in Gombe",
+    "link": "https://punchng.com/nscdc-arrests-16-suspects-over-vandalism-cattle-rustling-in-gombe/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NSCDC Gombe Command has arrested 16 suspects for various crimes including rape, vandalism, theft, forgery, impersonation, and cattle rustling.\n\nRead More: https://punchng.com/nscdc-arrests-16-suspects-over-vandalism-cattle-rustling-in-gombe/",
+    "published": "Wed, 12 Aug 2026 20:38:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:00.635442+00:00",
+    "used": false
+  },
+  {
+    "id": "988070906519e594",
+    "source": "Punch Nigeria",
+    "title": "Evening recap: NDPC probes UNILAG, Lotus Bank, police invite Fadahunsi, Jingir maintains Muslim-Muslim ticket stance, other top stories",
+    "link": "https://punchng.com/evening-recap-ndpc-probes-unilag-lotus-bank-police-invite-fadahunsi-jingir-maintains-muslim-muslim-ticket-stance-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Stay informed with our Nigeria news recap. Get updates on NDPC&#8217;s probe into UNILAG data breaches, police inviting Osun senator Fadahunsi, and other top sto\n\nRead More: https://punchng.com/evening-recap-ndpc-probes-unilag-lotus-bank-police-invite-fadahunsi-jingir-maintains-muslim-muslim-ticket-stance-other-top-stories/",
+    "published": "Wed, 12 Aug 2026 20:31:28 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:00.635505+00:00",
+    "used": false
+  },
+  {
+    "id": "58a26058883d8958",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Peter Obi arrives Edo for Archbishop Akubeze’s funeral rites",
+    "link": "https://punchng.com/video-peter-obi-arrives-edo-for-archbishop-akubezes-funeral-rites/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Peter Obi attends Archbishop Akubeze&#8217;s funeral rites in Edo State. Watch the video of the presidential candidate&#8217;s arrival amidst a large crowd.\n\nRead More: https://punchng.com/video-peter-obi-arrives-edo-for-archbishop-akubezes-funeral-rites/",
+    "published": "Wed, 12 Aug 2026 20:14:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:00.635535+00:00",
+    "used": false
+  },
+  {
+    "id": "2d936a51512b5a5d",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Osun senator Fadahunsi leaves police headquarters after questioning over killing comment",
+    "link": "https://punchng.com/video-osun-senator-fadahunsi-leaves-police-headquarters-after-questioning-over-killing-comment/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun Senator Francis Fadahunsi leaves police headquarters after questioning regarding alleged inciting comments at a campaign rally ahead of the Osun gover\n\nRead More: https://punchng.com/video-osun-senator-fadahunsi-leaves-police-headquarters-after-questioning-over-killing-comment/",
+    "published": "Wed, 12 Aug 2026 20:04:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:00.635547+00:00",
+    "used": false
+  },
+  {
+    "id": "4d3ca2edb3519ecc",
+    "source": "Premium Times",
+    "title": "Ebonyi Assembly passes bill regulating scrap trade, rents, agent fees.",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-east/902467-ebonyi-assembly-passes-bill-regulating-scrap-trade-rents-agent-fees.html",
+    "summary": "<img alt=\"Ebonyi House of Assembly building\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"742\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Ebonyi-Assembly.webp?fit=1256%2C742&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1256\" /><p>The bill prohibits the purchase, sale, possession for sale, transportation or disposal of metal or electrical scraps except by licensed dealers operating in accordance with regulations made under the l",
+    "published": "Wed, 12 Aug 2026 20:29:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:01.793463+00:00",
+    "used": false
+  },
+  {
+    "id": "81f89b92a3272e02",
+    "source": "Premium Times",
+    "title": "Otti backs creation of south-east’s first national park in Abia",
+    "link": "https://www.premiumtimesng.com/promoted/902454-otti-backs-creation-of-south-easts-first-national-park-in-abia.html",
+    "summary": "<img alt=\"Governor Otti addressing the visiting National Park Service delegation\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1366\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0046.jpeg?fit=2048%2C1366&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The governor says the initiative aligns with ongoing efforts to trace, conserve the state’s forest reserves.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/prom",
+    "published": "Wed, 12 Aug 2026 19:33:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:01.793549+00:00",
+    "used": false
+  },
+  {
+    "id": "bd78c8fef200592b",
+    "source": "Premium Times",
+    "title": "ASUU condemns arrest of its leaders over strike",
+    "link": "https://www.premiumtimesng.com/news/top-news/902452-asuu-condemns-arrest-of-its-leaders-over-strike.html",
+    "summary": "<img alt=\"ASUU Logo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"492\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/WhatsApp-Image-2025-10-13-at-15.29.53.jpeg?fit=800%2C492&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>PREMIUM TIMES earlier reported that the IMSU branch of ASUU declared a total and indefinite strike in the university on Monday over the failure of the Imo State Government to honour agreements it reached w",
+    "published": "Wed, 12 Aug 2026 19:16:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:01.793567+00:00",
+    "used": false
+  },
+  {
+    "id": "ef18379dfc72eb76",
+    "source": "Premium Times",
+    "title": "Osun 2026: CISLAC raises alarm over killings, vote buying, electoral manipulation",
+    "link": "https://www.premiumtimesng.com/news/more-news/902448-osun-2026-cislac-raises-alarm-over-killings-vote-buying-electoral-manipulation.html",
+    "summary": "<img alt=\"The Executive Director of the Civil Society Legislative Advocacy Centre (CISLAC) and Head of Transparency International (TI) Nigeria, Auwal Rafsanjani\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"902\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/732401323_897680705985535_8804836448603704664_n.jpg?fit=1365%2C902&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1365\" /><p>The group said violence and electoral malpractices un",
+    "published": "Wed, 12 Aug 2026 18:48:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:01.793621+00:00",
+    "used": false
+  },
+  {
+    "id": "f555a7054f14d587",
+    "source": "Premium Times",
+    "title": "Building a Legacy: Abiodun’s urban transformation through housing, By Kayode Akinmade",
+    "link": "https://www.premiumtimesng.com/promoted/902440-building-a-legacy-abioduns-urban-transformation-through-housing-by-kayode-akinmade.html",
+    "summary": "<img alt=\"Governor Dapo Abiodun\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"540\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/963e97cf-9bfc-4815-bdb6-006e71f25339-e1786558007301.jpeg?fit=864%2C540&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"864\" /><p>Today, standing prominently on that Kobape corridor is Prince Court Estate — a thriving residential community of completed and occupied homes, with its own electricity supply, sho",
+    "published": "Wed, 12 Aug 2026 18:11:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:01.793639+00:00",
+    "used": false
+  },
+  {
+    "id": "1a4cb3a1df7db1c1",
+    "source": "Leadership Newspaper",
+    "title": "CBN Opens OMO Market to Individuals, Local Corporates",
+    "link": "https://leadership.ng/cbn-opens-omo-market-to-individuals-local-corporates/",
+    "summary": "The Central Bank of Nigeria (CBN) has opened participation in its Open Market Operations (OMO) to individual investors, corporates and non bank financial institutions, a move traders say will increase demand for the instrument and potentially lower yields. CBN in a circular issued on Wednesday titled “Review of Discount Window Restrictions and Open Market Operations [&#8230;]",
+    "published": "Wed, 12 Aug 2026 20:02:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:06.225537+00:00",
+    "used": false
+  },
+  {
+    "id": "5ea1ab37ec3f9274",
+    "source": "Leadership Newspaper",
+    "title": "Radda Pledges N1.2bn for UNICEF Nutrition Programme in Katsina",
+    "link": "https://leadership.ng/radda-pledges-n1-2bn-for-unicef-nutrition-programme-in-katsina/",
+    "summary": "Katsina State governor, Malam Dikko Umaru Radda, has pledged to include N1.2 billion in the state’s 2027 budget to strengthen nutrition interventions under the Child Nutrition Fund. The proposed funding, which is expected to be matched by UNICEF, will support the procurement of Multiple Micronutrient Supplements for pregnant women and therapeutic food for children under [&#8230;]",
+    "published": "Wed, 12 Aug 2026 19:53:14 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:06.225555+00:00",
+    "used": false
+  },
+  {
+    "id": "36f4515e0de14024",
+    "source": "Leadership Newspaper",
+    "title": "West Africa Can Build $3trn Energy Market By 2035 Through Integrations – Expert",
+    "link": "https://leadership.ng/west-africa-can-build-3trn-energy-market-by-2035-through-integrations-expert/",
+    "summary": "&#160; West Africa can build a $3 trillion energy economy by 2035 if countries harmonize regulations, data standards and infrastructure to allow cross-border trade, an energy expert has said. Speaking on Tuesday at the West Africa Refined Fuel Market Conference 2026 in Abuja, the chairman of RHS Advisory Limited, Mallam Suleiman Yahyah said regional integration [&#8230;]",
+    "published": "Wed, 12 Aug 2026 19:50:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:06.225572+00:00",
+    "used": false
+  },
+  {
+    "id": "51311e2f78ce8050",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election: ADC  Warns Against Planned Arrest Of Aregbesola",
+    "link": "https://leadership.ng/osun-election-adc-warns-against-planned-arrest-of-aregbesola/",
+    "summary": "The African Democratic Congress (ADC) has raised the alarm over alleged plans to arrest its National Secretary, Ogbeni Rauf Aregbesola, ahead of Saturday’s governorship election in Osun State. The party, in a statement issued by its National Publicity Secretary, Mallam Bolaji Abdullahi, on Wednesday, said it had received what it described as “credible reports” of [&#8230;]",
+    "published": "Wed, 12 Aug 2026 19:47:33 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:06.225584+00:00",
+    "used": false
+  },
+  {
+    "id": "a852bd33b902d81e",
+    "source": "Leadership Newspaper",
+    "title": "Foundation Links Youth Investment To Food Security, Economic Prosperity",
+    "link": "https://leadership.ng/foundation-links-youth-investment-to-food-security-economic-prosperity/",
+    "summary": "The BATN Foundation has tied increased investment in young Nigerians to improved food security and sustainable economic development. Marking International Youth Day 2026, the Foundation said agriculture and entrepreneurship present the fastest routes to absorb Nigeria’s growing youth population and build national prosperity, calling for more funding and policy support in the sector. The Foundation [&#8230;]",
+    "published": "Wed, 12 Aug 2026 19:47:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:06.225597+00:00",
+    "used": false
+  },
+  {
+    "id": "4571275ae86029bd",
+    "source": "Leadership Newspaper",
+    "title": "Rivers Govt  Says No Friction Between Fubara, Lawmakers",
+    "link": "https://leadership.ng/rivers-govt-says-no-friction-between-fubara-lawmakers/",
+    "summary": "The Rivers State government has declared that Governor Siminalayi Fubara is not again loggerheads with members of the State House of Assembly over the 2026 appropriation bill, which is currently before the House. Chief Press Secretary to the Governor, Onwuka Nzechi, in a statement issued in Port Harcourt on Wednesday evening, said rather Fubara working [&#8230;]",
+    "published": "Wed, 12 Aug 2026 19:34:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:06.225611+00:00",
+    "used": false
+  },
+  {
+    "id": "1ddeeb951e66bdb8",
+    "source": "Leadership Newspaper",
+    "title": "Olakunle Churchill Denies Arrest In Switzerland, Says Report Is Attempt To Tarnish His Reputation",
+    "link": "https://leadership.ng/olakunle-churchill-denies-arrest-in-switzerland-says-report-is-attempt-to-tarnish-his-reputation/",
+    "summary": "Nigerian businessman and philanthropist Olakunle Churchill has denied reports claiming that he was arrested in Switzerland in connection with an alleged tax investigation, describing the publication as false and malicious. &#160; The report, which circulated across several online platforms, alleged that Churchill was arrested by Swiss authorities over an investigation involving a company reportedly linked [&#8230;]",
+    "published": "Wed, 12 Aug 2026 18:55:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:06.225625+00:00",
+    "used": false
+  },
+  {
+    "id": "bef63b61305f0298",
+    "source": "Leadership Newspaper",
+    "title": "Harmonized Regulations, Fuel Quality Standards To Broaden West Africa’s Energy Market",
+    "link": "https://leadership.ng/harmonized-regulations-fuel-quality-standards-to-broaden-west-africas-energy-market-i/",
+    "summary": "Countries in West Africa are exploring ways to harmonise regulations and fuel quality standards across West Africa to ease cross-border trade and improve market integration. Leading the call is the West Africa Regulatory Forum (WARF) which is calling on countries in the region to increase investment in oil and gas infrastructure and improve operational efficiency [&#8230;]",
+    "published": "Wed, 12 Aug 2026 18:50:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-12T20:30:06.225672+00:00",
     "used": false
   },
   {
@@ -37400,6 +37631,105 @@
     "used": false
   },
   {
+    "id": "3251d3767ed36ada",
+    "source": "Punch Nigeria",
+    "title": "NYSC DG hails Abia camp renovation, seeks more govt support",
+    "link": "https://punchng.com/nysc-dg-hails-abia-camp-renovation-seeks-more-govt-support/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NYSC DG praises the renovated Abia orientation camp, highlighting corps members&#8217; contributions and seeking further government support for the scheme&#8217;s\n\nRead More: https://punchng.com/nysc-dg-hails-abia-camp-renovation-seeks-more-govt-support/",
+    "published": "Wed, 12 Aug 2026 21:21:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:00.635305+00:00",
+    "used": false
+  },
+  {
+    "id": "878fbc063e4835d2",
+    "source": "Punch Nigeria",
+    "title": "CSOs demand access to $2.5bn JBS MoU, warn FG against oil sector mistakes",
+    "link": "https://punchng.com/csos-demand-access-to-2-5bn-jbs-mou-warn-fg-against-oil-sector-mistakes/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Civil society organisations urge the Nigerian Federal Government to release the JBS Nigeria $2.5bn MoU for public scrutiny, warning against repeating past\n\nRead More: https://punchng.com/csos-demand-access-to-2-5bn-jbs-mou-warn-fg-against-oil-sector-mistakes/",
+    "published": "Wed, 12 Aug 2026 21:18:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:00.635353+00:00",
+    "used": false
+  },
+  {
+    "id": "0d769fdeca296640",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Davido offers $1m for hit-song battle, says he has most hits",
+    "link": "https://punchng.com/video-davido-offers-1m-for-hit-song-battle-says-he-has-most-hits/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Afrobeats star Davido challenges artists to a $1m hit-song battle, boasting he has the most hits. Read reactions to Davido&#8217;s bold claim.\n\nRead More: https://punchng.com/video-davido-offers-1m-for-hit-song-battle-says-he-has-most-hits/",
+    "published": "Wed, 12 Aug 2026 20:53:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:00.635407+00:00",
+    "used": false
+  },
+  {
+    "id": "ffb0cf3e7f04c736",
+    "source": "Punch Nigeria",
+    "title": "Gov poll: Akpabio, Uzodimma, others arrive Osun for APC rally",
+    "link": "https://punchng.com/gov-poll-akpabio-uzodimma-others-arrive-osun-for-apc-rally/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Top APC leaders, including Akpabio and Uzodimma, arrive in Osogbo for a mega Osun APC rally to boost support for Bola Oyebamiji ahead of Saturday&#8217;s governo\n\nRead More: https://punchng.com/gov-poll-akpabio-uzodimma-others-arrive-osun-for-apc-rally/",
+    "published": "Wed, 12 Aug 2026 20:44:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:00.635429+00:00",
+    "used": false
+  },
+  {
+    "id": "ed79daa6f67788c9",
+    "source": "Punch Nigeria",
+    "title": "JUST IN: Xavi appointed Netherlands manager – Reports",
+    "link": "https://punchng.com/just-in-xavi-appointed-netherlands-manager-reports/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Barcelona coach Xavi Hernández has reportedly signed an agreement to become the new Netherlands national team manager. Get the details on Xavi&#8217;s new\n\nRead More: https://punchng.com/just-in-xavi-appointed-netherlands-manager-reports/",
+    "published": "Wed, 12 Aug 2026 20:33:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:00.635470+00:00",
+    "used": false
+  },
+  {
+    "id": "01602c8c8cb1aa8b",
+    "source": "Punch Nigeria",
+    "title": "NNPC ready to implement new production sharing contract framework – Ojulari",
+    "link": "https://punchng.com/nnpc-ready-to-implement-new-production-sharing-contract-framework-ojulari/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NNPC is set to implement the new Production Sharing Contract framework, unlocking up to $50bn in deep offshore oil and gas investments.\n\nRead More: https://punchng.com/nnpc-ready-to-implement-new-production-sharing-contract-framework-ojulari/",
+    "published": "Wed, 12 Aug 2026 20:31:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:00.635495+00:00",
+    "used": false
+  },
+  {
+    "id": "2e39a99956d8337a",
+    "source": "Punch Nigeria",
+    "title": "Speak out on personal struggles, Nollywood actress Daramola urges colleagues",
+    "link": "https://punchng.com/speak-out-on-personal-struggles-nollywood-actress-daramola-urges-colleagues/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Foluke Daramola urges Nollywood colleagues to speak out about personal struggles, warning silence leads to suffering. Learn more about the call for opennes\n\nRead More: https://punchng.com/speak-out-on-personal-struggles-nollywood-actress-daramola-urges-colleagues/",
+    "published": "Wed, 12 Aug 2026 20:19:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:00.635525+00:00",
+    "used": false
+  },
+  {
+    "id": "f9f15a43ac67d7c7",
+    "source": "Leadership Newspaper",
+    "title": "Midweek Sell-off Wipes N1.76trn Off Stock Market",
+    "link": "https://leadership.ng/midweek-sell-off-wipes-n1-76trn-off-stock-market/",
+    "summary": "The domestic equities market extended its losing streak for a second day, as the overall capitalisation declined by N1.762 trillion. The All-Share Index (ASI) lost 2,756.48 points, representing a decline of 1.12 per cent to close at 243,967.09 points. Also, market capitalisation depreciated by N1.762 trillion to close at N157.494 trillion. The downturn was driven [&#8230;]",
+    "published": "Wed, 12 Aug 2026 20:13:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:06.225508+00:00",
+    "used": false
+  },
+  {
+    "id": "4adb03c1a32eb7d3",
+    "source": "Leadership Newspaper",
+    "title": "‎LASU Graduates 20,604 Students, Honours Dangote, Adesola, Kekere-Ekun At 29th/30th Combined Convocation",
+    "link": "https://leadership.ng/lasu-graduates-20604-students-honours-dangote-adesola-kekere-ekun-at-29th-30th-combined-convocation/",
+    "summary": "‎‎Lagos State University (LASU) is set to graduate 20,604 students during its 29th and 30th combined convocation ceremonies, while Aliko Dangote, Bola Adesola and Akin Kekere-Ekun will receive honorary doctorate degrees. ‎This was made known on Wednesday, August 12, 2026, by the Vice-Chancellor, Prof. Ibiyemi Olatunji-Bello, during a press conference held at the university’s main [&#8230;]",
+    "published": "Wed, 12 Aug 2026 18:52:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-12T20:30:06.225657+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -40048,6 +40378,28 @@
     "published": "Wed, 12 Aug 2026 14:45:32 +0000",
     "priority": "low",
     "fetched_at": "2026-08-12T18:00:22.014824+00:00",
+    "used": false
+  },
+  {
+    "id": "a7fb76c321efb986",
+    "source": "Premium Times",
+    "title": "Celestial Church launches probe into Tope Osoba’s death, allegations against fiancé",
+    "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/902461-celestial-church-launches-probe-into-tope-osobas-death-allegations-against-fiance.html",
+    "summary": "<img alt=\"Osoba and her Fiance. Credit_ cccworldwide\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Osoba-and-her-Fiance.-Credit_-cccworldwide-e1786565021967.jpg?fit=1080%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The church launched an investigation after allegations involving Prophet Itunu Onadeko, its Shepherd and the late actress’s fiancé, emerged following h",
+    "published": "Wed, 12 Aug 2026 20:07:47 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T20:30:01.793525+00:00",
+    "used": false
+  },
+  {
+    "id": "f4c00bd5fdcaeeb6",
+    "source": "Premium Times",
+    "title": "How Tope Osoba died — Family reveals",
+    "link": "https://www.premiumtimesng.com/entertainment/nollywood/902450-how-tope-osoba-died-family-reveals.html",
+    "summary": "<img alt=\"Temitope Osoba (PHOTO CREDIT: IG@Osobatemitope)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"410\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Temitope-Osoba-PHOTO-CREDIT_-Instagram%40Osobatemitope-e1785930960871.jpg?fit=655%2C410&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"655\" /><p>The family said concerns about Tope’s condition became more serious in the days preceding her death.</p>\n<p>The post <a href=\"https://ww",
+    "published": "Wed, 12 Aug 2026 19:06:48 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-12T20:30:01.793605+00:00",
     "used": false
   }
 ]
