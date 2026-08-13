@@ -1009,7 +1009,7 @@
     "published": "Wed, 15 Jul 2026 17:03:46 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.239870+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "d59d0a0d48928623",
@@ -18026,6 +18026,204 @@
     "published": "Thu, 13 Aug 2026 06:44:04 +0000",
     "priority": "high",
     "fetched_at": "2026-08-13T08:17:25.484129+00:00",
+    "used": false
+  },
+  {
+    "id": "0ee61cf6beb9e99a",
+    "source": "Punch Nigeria",
+    "title": "Meet 15 candidates vying for Osun governorship seat",
+    "link": "https://punchng.com/meet-15-candidates-vying-for-osun-governorship-seat/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Discover the 15 candidates vying for the Osun governorship seat in the upcoming election. Learn about the key contenders and their parties.\n\nRead More: https://punchng.com/meet-15-candidates-vying-for-osun-governorship-seat/",
+    "published": "Thu, 13 Aug 2026 18:50:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.089837+00:00",
+    "used": false
+  },
+  {
+    "id": "1ccecc2bce2a2c81",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Accord candidate to drag Fadahunsi before ICC, US, UK",
+    "link": "https://punchng.com/osun-poll-accord-candidate-to-drag-fadahunsi-before-icc-us-uk/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Accord Party candidate, Ladi Adebayo, plans to drag Senator Francis Fadahunsi before the ICC, US, and UK over alleged threats ahead of the Osun election.\n\nRead More: https://punchng.com/osun-poll-accord-candidate-to-drag-fadahunsi-before-icc-us-uk/",
+    "published": "Thu, 13 Aug 2026 18:46:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.089848+00:00",
+    "used": false
+  },
+  {
+    "id": "1946776028a009f4",
+    "source": "Punch Nigeria",
+    "title": "Court gives police two weeks to probe Osun senator over ‘kill Accord’ comment",
+    "link": "https://punchng.com/court-gives-police-two-weeks-to-probe-osun-senator-over-kill-accord-comment/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An Abuja court has directed police to investigate Osun Senator Francis Fadahunsi over alleged comments calling for violence against Accord Party members. T\n\nRead More: https://punchng.com/court-gives-police-two-weeks-to-probe-osun-senator-over-kill-accord-comment/",
+    "published": "Thu, 13 Aug 2026 18:46:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.089862+00:00",
+    "used": false
+  },
+  {
+    "id": "fe8878de5eca3977",
+    "source": "Punch Nigeria",
+    "title": "Group seeks ending gov, NASS election petitions at Court of Appeal",
+    "link": "https://punchng.com/ijap-seeks-ending-gov-nass-election-petitions-at-court-of-appeal/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A judicial accountability panel recommends that governorship and National Assembly election petitions should terminate at the Court of Appeal, except in ex\n\nRead More: https://punchng.com/ijap-seeks-ending-gov-nass-election-petitions-at-court-of-appeal/",
+    "published": "Thu, 13 Aug 2026 18:30:54 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.089871+00:00",
+    "used": false
+  },
+  {
+    "id": "288461da19b4834e",
+    "source": "Punch Nigeria",
+    "title": "Nigeria’s problem is institutional corruption, not Tinubu — Femi Kuti",
+    "link": "https://punchng.com/nigerias-problem-is-institutional-corruption-not-tinubu-femi-kuti/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Femi Kuti argues Nigeria&#8217;s core problem is deeply entrenched institutional corruption, not President Tinubu. He criticizes the judiciary and elite networks\n\nRead More: https://punchng.com/nigerias-problem-is-institutional-corruption-not-tinubu-femi-kuti/",
+    "published": "Thu, 13 Aug 2026 18:20:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.089954+00:00",
+    "used": false
+  },
+  {
+    "id": "724fea3b75f10d34",
+    "source": "Punch Nigeria",
+    "title": "Adeleke camp demands probe into Osun political violence",
+    "link": "https://punchng.com/adeleke-camp-demands-probe-into-osun-political-violence/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adeleke&#8217;s camp urges the National Human Rights Commission to investigate killings and attacks linked to Osun political violence in Esa Oke, demanding accou\n\nRead More: https://punchng.com/adeleke-camp-demands-probe-into-osun-political-violence/",
+    "published": "Thu, 13 Aug 2026 18:12:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.089969+00:00",
+    "used": false
+  },
+  {
+    "id": "73b706a04fda4e8b",
+    "source": "Punch Nigeria",
+    "title": "Insecurity: Katsina gov seeks stronger inter-agency synergies, social interventions",
+    "link": "https://punchng.com/insecurity-katsina-gov-seeks-stronger-inter-agency-synergies-social-interventions/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Katsina State Governor, Dikko Radda, calls for stronger inter-agency collaboration and social interventions to combat insecurity in the North-West.\n\nRead More: https://punchng.com/insecurity-katsina-gov-seeks-stronger-inter-agency-synergies-social-interventions/",
+    "published": "Thu, 13 Aug 2026 18:03:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.089977+00:00",
+    "used": false
+  },
+  {
+    "id": "9cdf1cda1a83c794",
+    "source": "Punch Nigeria",
+    "title": "Election violence, vote buying eroding Nigerians’ confidence — NOA",
+    "link": "https://punchng.com/election-violence-vote-buying-eroding-nigerians-confidence-noa/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NOA identifies election violence, vote buying, and misinformation as key factors eroding Nigerians&#8217; confidence in the electoral process, leading to voter a\n\nRead More: https://punchng.com/election-violence-vote-buying-eroding-nigerians-confidence-noa/",
+    "published": "Thu, 13 Aug 2026 17:38:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.090010+00:00",
+    "used": false
+  },
+  {
+    "id": "69a14d85def83f17",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Mount your guard, we are coasting to victory, Davido urges Accord members",
+    "link": "https://punchng.com/osun-poll-mount-your-guard-we-are-coasting-to-victory-davido-urges-accord-members/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Davido raises alarm over alleged plot to arrest Accord Party members ahead of the Osun election, urging vigilance as the party &#8216;coasts to victory&#8217;.\n\nRead More: https://punchng.com/osun-poll-mount-your-guard-we-are-coasting-to-victory-davido-urges-accord-members/",
+    "published": "Thu, 13 Aug 2026 17:33:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.090018+00:00",
+    "used": false
+  },
+  {
+    "id": "ffed29cbae20ee7b",
+    "source": "Punch Nigeria",
+    "title": "Osun election: Let peace prevail, Obi urges stakeholders",
+    "link": "https://punchng.com/osun-election-let-peace-prevail-obi-urges-stakeholders/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Peter Obi calls on INEC, security agencies, and stakeholders to ensure a peaceful, free, and credible Osun election. He urges residents to vote without int\n\nRead More: https://punchng.com/osun-election-let-peace-prevail-obi-urges-stakeholders/",
+    "published": "Thu, 13 Aug 2026 17:22:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.090025+00:00",
+    "used": false
+  },
+  {
+    "id": "22af86cbf9009628",
+    "source": "Premium Times",
+    "title": "Suspected kidnapper arrested while buying AK-47 in Kwara",
+    "link": "https://www.premiumtimesng.com/news/more-news/902619-suspected-kidnapper-arrested-while-buying-ak-47-in-kwara.html",
+    "summary": "<img alt=\"Kwara State Commissioner of Police, Adekimi Ojo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"533\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/04/thumbnail-12-3-e1745143988799.jpg?fit=850%2C533&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"850\" /><p>Police said N1.6 million had been paid for the weapon before his arrest on 3 August, and that the suspect planned to use the firearm to eventually form his own group.</p>\n<p>Th",
+    "published": "Thu, 13 Aug 2026 17:53:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.628392+00:00",
+    "used": false
+  },
+  {
+    "id": "6e7d09b84ba91e29",
+    "source": "Premium Times",
+    "title": "Osun 2026: What Iwo residents want from govt. as state holds governorship poll",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/902620-osun-2026-what-iwo-residents-want-from-govt-as-state-holds-governorship-poll.html",
+    "summary": "<img alt=\"Iwo resident\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"744\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/587102.jpg?fit=1040%2C744&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1040\" /><p>Iwo residents say they want the progress made sustained while other issues affecting the town and its residents receive attention.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/regional/ssouth-west/902620-osun-2026-what-iw",
+    "published": "Thu, 13 Aug 2026 17:36:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.628512+00:00",
+    "used": false
+  },
+  {
+    "id": "822077eea1960057",
+    "source": "Premium Times",
+    "title": "Faith leaders urged to confront beliefs, family decisions driving maternal deaths in Kano",
+    "link": "https://www.premiumtimesng.com/health/health-news/902617-faith-leaders-urged-to-confront-beliefs-family-decisions-driving-maternal-deaths-in-kano.html",
+    "summary": "<img alt=\"Faith leaders urged to confront beliefs, family decisions driving maternal deaths in Kano\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG-20260811-WA0015-e1786641937463.jpg?fit=1080%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Religious and community leaders in Kano have been urged to challenge cultural and religious beliefs, family decisions and other",
+    "published": "Thu, 13 Aug 2026 17:27:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.628625+00:00",
+    "used": false
+  },
+  {
+    "id": "8217ef10c7f25f07",
+    "source": "Premium Times",
+    "title": "Osun 2026: Adeleke’s campaign organisation asks INEC to send away Ebonyi REC from Osun",
+    "link": "https://www.premiumtimesng.com/news/top-news/902615-osun-2026-adelekes-campaign-organisation-asks-inec-to-send-away-ebonyi-rec-from-osun.html",
+    "summary": "<img alt=\"Governor Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1366\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/01/GgTzOwXWwAEzHA-.jpeg?fit=2048%2C1366&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>“We demand immediate exit of the Ebonyi REC as she was not posted here for any official duties and her presence constitutes grave danger to the electoral health of Osun people,” the campaign organisation said",
+    "published": "Thu, 13 Aug 2026 16:59:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.628683+00:00",
+    "used": false
+  },
+  {
+    "id": "090c755e79279be5",
+    "source": "Premium Times",
+    "title": "Osun 2026: Yiaga raises alarm over late movement of election materials, security risks",
+    "link": "https://www.premiumtimesng.com/news/top-news/902612-osun-2026-yiaga-raises-alarm-over-late-movement-of-election-materials-security-risks.html",
+    "summary": "<img alt=\"Pre-election briefing by Yiaga Africa\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1442\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_4437-scaled-e1786639505312.jpeg?fit=2560%2C1442&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>“If as of this morning the revised materials have not arrived, and INEC has issued a statement to the effect that it will come in later, it has disrupted the logistics arrangement.",
+    "published": "Thu, 13 Aug 2026 16:47:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.628698+00:00",
+    "used": false
+  },
+  {
+    "id": "8826a2399d62273a",
+    "source": "Premium Times",
+    "title": "2027 Election: My nomination is a renewed call to service, says Jigawa deputy gov",
+    "link": "https://www.premiumtimesng.com/promoted/902609-2027-election-my-nomination-is-a-renewed-call-to-service-says-jigawa-deputy-gov.html",
+    "summary": "<img alt=\"Aminu Usman, Deputy Governor, Jigawa State\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"626\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_0053-e1786638605321.jpeg?fit=1002%2C626&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1002\" /><p>The deputy governor expressed his profound gratitude to the Governor of Jigawa State, Umar Namadi, for the confidence and trust he continually had in him</p>\n<p>The post <a href=\"https",
+    "published": "Thu, 13 Aug 2026 16:35:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.628708+00:00",
+    "used": false
+  },
+  {
+    "id": "2fa0136c672c5f3f",
+    "source": "Premium Times",
+    "title": "OsunDecides2026: NSCDC warns against disruption of election",
+    "link": "https://www.premiumtimesng.com/news/more-news/902605-osundecides2026-nscdc-warns-against-disruption-of-election.html",
+    "summary": "<img alt=\"Governor Adeleke (middle) with members of NSCDC delegation during a visit to Osun State ahead of Saturday&#039;s govrnorship election, on Thursday.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_5874-e1786638075698.jpeg?fit=1080%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The NSCDC has vowed to decisively deal with anyone attempting to disrupt Saturd",
+    "published": "Thu, 13 Aug 2026 16:24:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.628723+00:00",
+    "used": false
+  },
+  {
+    "id": "fc9175b377ce9ba2",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Women struggle for visibility with one flagbearer, one deputy in race",
+    "link": "https://www.premiumtimesng.com/gender/902599-osundecides2026-women-struggle-for-visibility-with-one-flagbearer-one-deputy-in-race.html",
+    "summary": "<img alt=\"Ex-Deputy Governor Titilayo Laoye-Tomori\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"465\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Ex-Deputy-Governor-Titilayo-Laoye-Tomori.jpg?fit=727%2C465&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"727\" /><p>In the line-up for Saturday's election, Yemisi Adeagbo of ADP, a former principal, is the sole female governorship candidate, while Temitope Agiri of ADC is the only deputy",
+    "published": "Thu, 13 Aug 2026 16:13:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T18:00:38.628733+00:00",
     "used": false
   },
   {
@@ -38101,6 +38299,138 @@
     "published": "Thu, 13 Aug 2026 06:37:38 +0000",
     "priority": "medium",
     "fetched_at": "2026-08-13T08:17:25.484146+00:00",
+    "used": false
+  },
+  {
+    "id": "31332f8f07f9c474",
+    "source": "Punch Nigeria",
+    "title": "How to apply for Canada work permit — IRCC",
+    "link": "https://punchng.com/how-to-apply-for-canada-work-permit-ircc/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Learn how to apply for a Canada work permit through IRCC. Understand different types, eligibility, and application routes for foreign nationals seeking emp\n\nRead More: https://punchng.com/how-to-apply-for-canada-work-permit-ircc/",
+    "published": "Thu, 13 Aug 2026 18:55:56 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.089806+00:00",
+    "used": false
+  },
+  {
+    "id": "0f7aae1007205d9d",
+    "source": "Punch Nigeria",
+    "title": "Don’t disrespect my staff, Davido tells fan at London concert",
+    "link": "https://punchng.com/dont-disrespect-my-staff-davido-tells-fan-at-london-concert/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Davido stopped his London concert to sternly warn a fan for disrespecting his staff. Watch the viral video of the Afrobeats star defending his team.\n\nRead More: https://punchng.com/dont-disrespect-my-staff-davido-tells-fan-at-london-concert/",
+    "published": "Thu, 13 Aug 2026 18:30:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.089897+00:00",
+    "used": false
+  },
+  {
+    "id": "2fbfc2cf133713e7",
+    "source": "Punch Nigeria",
+    "title": "ICPC uncovers official who put 14 family members on govt payroll",
+    "link": "https://punchng.com/icpc-uncovers-official-who-put-14-family-members-on-govt-payroll/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The ICPC has exposed an official who enrolled 14 family members as ghost workers and another who collected 13 salaries, highlighting widespread payroll fra\n\nRead More: https://punchng.com/icpc-uncovers-official-who-put-14-family-members-on-govt-payroll/",
+    "published": "Thu, 13 Aug 2026 18:29:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.089916+00:00",
+    "used": false
+  },
+  {
+    "id": "3b9da8fd976dd548",
+    "source": "Punch Nigeria",
+    "title": "Most child sexual abuses involve fathers, daughters — Edo govt",
+    "link": "https://punchng.com/most-child-sexual-abuses-involve-fathers-daughters-edo-govt/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Edo State reports over 70 defilement cases in 7 months, with fathers perpetrating over 50% of child sexual abuse. Victims are often 2-10 years old.\n\nRead More: https://punchng.com/most-child-sexual-abuses-involve-fathers-daughters-edo-govt/",
+    "published": "Thu, 13 Aug 2026 18:27:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.089943+00:00",
+    "used": false
+  },
+  {
+    "id": "fb6b2855f38739ed",
+    "source": "Punch Nigeria",
+    "title": "King Power puts Leicester City up for sale after 16 years- Reports",
+    "link": "https://punchng.com/king-power-puts-leicester-city-up-for-sale-after-16-years-reports/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "King Power is reportedly putting Leicester City up for sale after 16 years, seeking over £200 million. Discover details of the potential Leicester City sal\n\nRead More: https://punchng.com/king-power-puts-leicester-city-up-for-sale-after-16-years-reports/",
+    "published": "Thu, 13 Aug 2026 17:54:21 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.089999+00:00",
+    "used": false
+  },
+  {
+    "id": "181d6297dabee2ce",
+    "source": "Premium Times",
+    "title": "Four injured in farmers-herders clash in Niger",
+    "link": "https://www.premiumtimesng.com/regional/north-central/902653-four-injured-in-farmers-herders-clash-in-niger.html",
+    "summary": "<img alt=\"An injured victim of the violence\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"379\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/DAF0C887-1517-4DEE-93D9-5D23114AD026-e1786643786771.jpeg?fit=574%2C379&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"574\" /><p>The incident reportedly occurred after some cattle grazed in a soybean farm belonging to one of the victims</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/reg",
+    "published": "Thu, 13 Aug 2026 17:59:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.628364+00:00",
+    "used": false
+  },
+  {
+    "id": "532e77ba097a1f11",
+    "source": "Premium Times",
+    "title": "United Nigeria Airlines, Air Peace report losses as aviation union suspends strike",
+    "link": "https://www.premiumtimesng.com/news/top-news/902648-united-nigeria-airlines-air-peace-report-losses-as-aviation-union-suspends-strike.html",
+    "summary": "<img alt=\"United Nigeria Airlines (PHOTO CREDIT: United Nigeria Airlines on Facebook)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"768\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/105305137_104854627949893_6745310715136595637_n.jpg?fit=1024%2C768&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1024\" /><p>Air Peace and United Nigeria Airlines suffered significant operational disruption following Tuesday’s industrial action by aviat",
+    "published": "Thu, 13 Aug 2026 17:45:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.628444+00:00",
+    "used": false
+  },
+  {
+    "id": "8e59ae00d9f4631e",
+    "source": "Premium Times",
+    "title": "Nigerians risk being left behind as innovations fail to reach rural communities — Experts",
+    "link": "https://www.premiumtimesng.com/news/top-news/902645-nigerians-risk-being-left-behind-as-innovations-fail-to-reach-rural-communities-experts.html",
+    "summary": "<img alt=\"Experts at the GS26 press briefing in Abuja\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/BCC46671-6753-4C5B-8904-80CC10DF58D7.jpeg?fit=1280%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Experts have warned that millions of Nigerians risk being excluded from development gains unless policies and innovations are designed and scaled to reach people in rural",
+    "published": "Thu, 13 Aug 2026 17:41:18 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.628496+00:00",
+    "used": false
+  },
+  {
+    "id": "1f8399fa64ef2a9a",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Accord faction endorses APC’s Oyebamiji candidate at mega rally",
+    "link": "https://www.premiumtimesng.com/news/more-news/902638-osundecides2026-accord-faction-endorses-apcs-oyebamiji-candidate-at-mega-rally.html",
+    "summary": "<img alt=\"Bola Oyebamiji\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"560\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/12/Oyebamiji-IV-840x560-1.jpg?fit=840%2C560&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"840\" /><p>\"As the national chairman of Accord Party, today and members of my committee are all here; we have stepped down our support for Ademola Adeleke and today we declare our support for Ambo.”</p>\n<p>The post <a href=\"htt",
+    "published": "Thu, 13 Aug 2026 17:35:37 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.628559+00:00",
+    "used": false
+  },
+  {
+    "id": "389553538a47f2df",
+    "source": "Premium Times",
+    "title": "Osun decides: From dance steps to war footing, By Azu Ishiekwene",
+    "link": "https://www.premiumtimesng.com/opinion/902580-osun-decides-from-dance-steps-to-war-footing-by-azu-ishiekwene.html",
+    "summary": "<img alt=\"Azu Ishiekwene writes about Muhammadu Buhari and his legacy.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/11/Azu-Ishiekwene-2.jpg?fit=582%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"582\" /><p>Osun State has a reputation for controversies bigger than its size. It ranks 26th nationally in terms of voter population and is six out of six in the Southwest. From 2010, whe",
+    "published": "Thu, 13 Aug 2026 17:28:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.628599+00:00",
+    "used": false
+  },
+  {
+    "id": "eb116a331fe06806",
+    "source": "Premium Times",
+    "title": "Seven miners die in Plateau pit collapse",
+    "link": "https://www.premiumtimesng.com/news/headlines/902621-seven-miners-die-in-plateau-pit-collapse.html",
+    "summary": "<img alt=\"Mining site used to illustrate a story\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"750\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/09/A-wide-view-of-Ratwok-mining-site-scaled-e1756400383289.jpg?fit=1200%2C750&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>Seven miners have died after a mining pit collapsed in Kassa community, Barkin Ladi Local Government Area of Plateau State.</p>\n<p>The post <a href=\"https://",
+    "published": "Thu, 13 Aug 2026 17:24:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.628659+00:00",
+    "used": false
+  },
+  {
+    "id": "87044840d1ca5cc1",
+    "source": "Premium Times",
+    "title": "South Africa vs Nigeria PREVIEW: Super Falcons face do-or-die World Cup showdown",
+    "link": "https://www.premiumtimesng.com/news/top-news/902588-south-africa-vs-nigeria-preview-super-falcons-face-do-or-die-world-cup-showdown.html",
+    "summary": "<img alt=\"The Super Falcons (CREDIT: WoliG Ólùyà)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"750\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Untitled-design-29.jpg?fit=1080%2C750&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Nigeria need a victory to move one step closer to preserving their unbroken World Cup record. South Africa need the same victory to keep alive their dream of returning to the global stage</p>\n<",
+    "published": "Thu, 13 Aug 2026 13:44:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T18:00:38.628775+00:00",
     "used": false
   },
   {
