@@ -1020,7 +1020,7 @@
     "published": "Wed, 15 Jul 2026 16:47:19 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.239898+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "7370ea95f397344a",
@@ -18224,6 +18224,138 @@
     "published": "Thu, 13 Aug 2026 16:13:32 +0000",
     "priority": "high",
     "fetched_at": "2026-08-13T18:00:38.628733+00:00",
+    "used": false
+  },
+  {
+    "id": "cc2f7b581d1441d5",
+    "source": "Punch Nigeria",
+    "title": "1.91m PVCs collected in Osun ahead of election – INEC",
+    "link": "https://punchng.com/1-91m-pvcs-collected-in-osun-ahead-of-election-inec/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "INEC reports 1.91 million PVCs collected in Osun State ahead of Saturday&#8217;s governorship election, representing 81.50% of registered voters.\n\nRead More: https://punchng.com/1-91m-pvcs-collected-in-osun-ahead-of-election-inec/",
+    "published": "Thu, 13 Aug 2026 21:05:19 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:43.564313+00:00",
+    "used": false
+  },
+  {
+    "id": "52c43b73fe0c8d32",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Politicians must honour peace accord, says INEC",
+    "link": "https://punchng.com/osun-poll-politicians-must-honour-peace-accord-says-inec/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "INEC calls on political parties and candidates in the Osun election to honour the signed peace accord, ensuring a peaceful and credible poll. Learn more ab\n\nRead More: https://punchng.com/osun-poll-politicians-must-honour-peace-accord-says-inec/",
+    "published": "Thu, 13 Aug 2026 20:49:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:43.564369+00:00",
+    "used": false
+  },
+  {
+    "id": "59a96c97f3725c1e",
+    "source": "Punch Nigeria",
+    "title": "I was warned against supporting Daniel for senate in 2023 — Abiodun",
+    "link": "https://punchng.com/i-was-warned-against-supporting-daniel-for-senate-in-2023-abiodun/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ogun State Governor Dapo Abiodun reveals he was warned against supporting Gbenga Daniel for Senate in 2023 due to concerns he might turn against him.\n\nRead More: https://punchng.com/i-was-warned-against-supporting-daniel-for-senate-in-2023-abiodun/",
+    "published": "Thu, 13 Aug 2026 20:31:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:43.564407+00:00",
+    "used": false
+  },
+  {
+    "id": "2d5c37655b346e3c",
+    "source": "Punch Nigeria",
+    "title": "Refineries’ll work again, Tinubu assures petroleum workers",
+    "link": "https://punchng.com/refineriesll-work-again-tinubu-assures-petroleum-workers/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu assures NUPENG that Nigeria&#8217;s moribund refineries will be revived, emphasizing productivity and profitability. He also discusses CNG benef\n\nRead More: https://punchng.com/refineriesll-work-again-tinubu-assures-petroleum-workers/",
+    "published": "Thu, 13 Aug 2026 20:30:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:43.564421+00:00",
+    "used": false
+  },
+  {
+    "id": "27d4e5e71b9a5432",
+    "source": "Punch Nigeria",
+    "title": "NADF graduates 250 agricultural mechanisation service providers",
+    "link": "https://punchng.com/nadf-graduates-250-agricultural-mechanisation-service-providers/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The National Agricultural Development Fund (NADF) has graduated 250 participants in agricultural mechanisation, boosting Nigeria&#8217;s food security.\n\nRead More: https://punchng.com/nadf-graduates-250-agricultural-mechanisation-service-providers/",
+    "published": "Thu, 13 Aug 2026 20:22:00 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:43.564430+00:00",
+    "used": false
+  },
+  {
+    "id": "9280a5e8803bc3a8",
+    "source": "Punch Nigeria",
+    "title": "Accord dismisses factional chairman’s support for Osun APC gov candidate",
+    "link": "https://punchng.com/accord-dismisses-factional-chairmans-support-for-osun-apc-gov-candidate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Accord Party has dismissed its expelled factional chairman&#8217;s endorsement of the APC governorship candidate in Osun State, Bola Oyebamiji, ahead of the\n\nRead More: https://punchng.com/accord-dismisses-factional-chairmans-support-for-osun-apc-gov-candidate/",
+    "published": "Thu, 13 Aug 2026 20:19:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:43.564445+00:00",
+    "used": false
+  },
+  {
+    "id": "aca4f4f29bcfd17f",
+    "source": "Punch Nigeria",
+    "title": "Makinde picks ex-SSS DG Daura as running mate",
+    "link": "https://punchng.com/makinde-picks-ex-sss-dg-daura-as-running-mate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Seyi Makinde, APM presidential candidate, selects former SSS DG Lawal Daura as his running mate for the 2027 election, citing security concerns.\n\nRead More: https://punchng.com/makinde-picks-ex-sss-dg-daura-as-running-mate/",
+    "published": "Thu, 13 Aug 2026 20:04:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:43.564537+00:00",
+    "used": false
+  },
+  {
+    "id": "61a63cd13857f90d",
+    "source": "Premium Times",
+    "title": "Nigeria, US evaluate counter-terrorism cooperation – Official",
+    "link": "https://www.premiumtimesng.com/news/top-news/902698-nigeria-us-evaluate-counter-terrorism-cooperation-official.html",
+    "summary": "<img alt=\"US official, Nigeria’s Minister of Foreign Affairs, Bianca Ojukwu, and National Security Adviser (NSA), Nuhu Ribadu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"546\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-13-at-20.41.26.jpeg?fit=828%2C546&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"828\" /><p>Nigeria’s Minister of Foreign Affairs, Bianca Ojukwu, disclosed this in an X post on Thursday.</p>\n",
+    "published": "Thu, 13 Aug 2026 19:48:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:44.448438+00:00",
+    "used": false
+  },
+  {
+    "id": "21cf9c0a075f0fed",
+    "source": "Premium Times",
+    "title": "Magistrate orders police to probe senator over ‘kill Accord members’ comment",
+    "link": "https://www.premiumtimesng.com/news/top-news/902656-magistrate-orders-police-to-probe-senator-over-kill-accord-members-comment.html",
+    "summary": "<img alt=\"Senator Francis Fadahunsi\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"776\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/02/Francis-Fadahunsi-e1786472960922.jpg?fit=1240%2C776&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1240\" /><p>The magistrate's directive ordered the police to investigate Mr Fadahunsi over alleged statements linked to his call to “kill” Accord Party members.</p>\n<p>The post <a href=\"https://www.premium",
+    "published": "Thu, 13 Aug 2026 18:37:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:44.448600+00:00",
+    "used": false
+  },
+  {
+    "id": "1e4344cc82deac41",
+    "source": "Premium Times",
+    "title": "Ogun 2027: Abiodun welcomes OGD, Kashamu allies into APC",
+    "link": "https://www.premiumtimesng.com/promoted/902639-ogun-2027-abiodun-welcomes-ogd-kashamu-allies-into-apc.html",
+    "summary": "<img alt=\"L-R: Commissioner for Finance and Chief Economic Adviser, Dapo Okubadejo; Secretary to the Ogun State Government, Tokunbo Talabi; Governor Dapo Abiodun; former Deputy Governor of the state, Chief Segun Adesegun; Deputy Chairman of the All Progressives Congress, James Dina and the Ogun East Senatorial District Chairman, Adeleke Adedoyin, during a stakeholders&#039; meeting with party loyalists from the Ogun East Senatorial District, held at the Presidential Lodge, Abeokuta on Wednesday.",
+    "published": "Thu, 13 Aug 2026 18:25:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:44.448608+00:00",
+    "used": false
+  },
+  {
+    "id": "72050388be22803f",
+    "source": "Premium Times",
+    "title": "OsunDecides: Accord dismisses Imumolen’s endorsement of APC candidate, reaffirms Adeleke",
+    "link": "https://www.premiumtimesng.com/news/top-news/902662-osundecides-accord-dismisses-imumolens-endorsement-of-apc-candidate-reaffirms-adeleke.html",
+    "summary": "<img alt=\"Accord Party presidential candidate, Christopher Imumolen.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/01/Imoleme.jpg?fit=1080%2C720&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The Osun State chaprter of the Accord Party rejected Imumolen’s endorsement of APC’s candidate, describing the faction’s chairman as an “impersonator.”</p>\n<p>The post <a href=\"https://",
+    "published": "Thu, 13 Aug 2026 18:23:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:44.448662+00:00",
+    "used": false
+  },
+  {
+    "id": "9e193a187861e963",
+    "source": "Premium Times",
+    "title": "Bandits kill two, abduct six in Katsina",
+    "link": "https://www.premiumtimesng.com/news/headlines/902660-bandits-kill-two-abduct-six-in-katsina.html",
+    "summary": "<img alt=\"An AI image of Bandits used to illustrate a story\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"576\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/10/output-12.jpg?fit=768%2C576&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"768\" /><p>The attack on Unguwar Aminu is the latest in a string of raids across communities in Bakori since late July, involving killings, abductions, livestock theft and displacement despite recent secur",
+    "published": "Thu, 13 Aug 2026 18:15:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T20:27:44.448673+00:00",
     "used": false
   },
   {
@@ -38434,6 +38566,182 @@
     "used": false
   },
   {
+    "id": "3f23059cc7bc6e07",
+    "source": "Punch Nigeria",
+    "title": "FG prioritises hepatitis B, C prevention to curb liver cancer",
+    "link": "https://punchng.com/fg-prioritises-hepatitis-b-c-prevention-to-curb-liver-cancer/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Federal Government has intensified efforts to prevent and detect liver cancer early by strengthening the prevention and control of hepatitis B and C, the Minister of State for Health, Dr Adekunle Salako, has said. Salako spoke on Thursday in Abuja at the 5th Africa Hepato-Pancreato-Biliary Cancer Consortium Conference, where cancer specialists, researchers and healthcare\n\nRead More: https://punchng.com/fg-prioritises-hepatitis-b-c-prevention-to-curb-liver-cancer/",
+    "published": "Thu, 13 Aug 2026 21:18:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:43.564284+00:00",
+    "used": false
+  },
+  {
+    "id": "a556f3b5e9a95269",
+    "source": "Punch Nigeria",
+    "title": "It’s a dream come true, hearing-impaired man lauds Kano mass wedding",
+    "link": "https://punchng.com/its-a-dream-come-true-hearing-impaired-man-lauds-kano-mass-wedding/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A hearing-impaired man celebrates his dream wedding at the Kano mass wedding, part of the &#8216;Auren Gata&#8217; initiative supporting vulnerable couples.\n\nRead More: https://punchng.com/its-a-dream-come-true-hearing-impaired-man-lauds-kano-mass-wedding/",
+    "published": "Thu, 13 Aug 2026 21:03:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:43.564342+00:00",
+    "used": false
+  },
+  {
+    "id": "6ae3514a3418e3e3",
+    "source": "Punch Nigeria",
+    "title": "PHOTOS: Atiku meets UK High Commissioner",
+    "link": "https://punchng.com/photos-atiku-meets-uk-high-commissioner/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former VP Atiku Abubakar hosted the British High Commissioner to Nigeria, Dr. Richard Montgomery, for talks on current affairs. Read about the Atiku UK mee\n\nRead More: https://punchng.com/photos-atiku-meets-uk-high-commissioner/",
+    "published": "Thu, 13 Aug 2026 21:00:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:43.564360+00:00",
+    "used": false
+  },
+  {
+    "id": "c5237f66eba2c168",
+    "source": "Punch Nigeria",
+    "title": "Adeleke camp dismisses factional Accord leader’s endorsement of APC candidate",
+    "link": "https://punchng.com/adeleke-camp-dismisses-factional-accord-leaders-endorsement-of-apc-candidate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adeleke&#8217;s campaign council dismisses a factional Accord Party leader&#8217;s endorsement of the APC candidate, insisting the official chairman supports Adeleke.\n\nRead More: https://punchng.com/adeleke-camp-dismisses-factional-accord-leaders-endorsement-of-apc-candidate/",
+    "published": "Thu, 13 Aug 2026 20:46:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:43.564396+00:00",
+    "used": false
+  },
+  {
+    "id": "4daf0b610b29553e",
+    "source": "Punch Nigeria",
+    "title": "Two injured as train derails in southeast England",
+    "link": "https://punchng.com/two-injured-as-train-derails-in-southeast-england/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A commuter train from London derailed near Lewes, southeast England, injuring 11 passengers, two seriously. Learn more about the train derailment incident.\n\nRead More: https://punchng.com/two-injured-as-train-derails-in-southeast-england/",
+    "published": "Thu, 13 Aug 2026 20:17:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:43.564464+00:00",
+    "used": false
+  },
+  {
+    "id": "aa5ee5c65dfe2339",
+    "source": "Punch Nigeria",
+    "title": "Abia varsity suspends lecturer over Facebook post on workers’ pay",
+    "link": "https://punchng.com/abia-varsity-suspends-lecturer-over-facebook-post-on-workers-pay/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An Abia State University lecturer has been suspended for a Facebook post alleging poor worker pay and unremitted deductions. The Abia varsity lecturer&#8217;s cl\n\nRead More: https://punchng.com/abia-varsity-suspends-lecturer-over-facebook-post-on-workers-pay/",
+    "published": "Thu, 13 Aug 2026 20:15:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:43.564489+00:00",
+    "used": false
+  },
+  {
+    "id": "d246e33deddf17c7",
+    "source": "Punch Nigeria",
+    "title": "Weak systems helped Adeyemi set up ‘fake agency,’ says ICPC",
+    "link": "https://punchng.com/weak-systems-helped-adeyemi-set-up-fake-agency-says-icpc/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "ICPC Chairman Musa Aliyu reveals weak institutional controls allowed Adeniyi Adeyemi to establish a &#8216;fake agency,&#8217; highlighting loopholes in Nigeria&#8217;s publ\n\nRead More: https://punchng.com/weak-systems-helped-adeyemi-set-up-fake-agency-says-icpc/",
+    "published": "Thu, 13 Aug 2026 20:14:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:43.564512+00:00",
+    "used": false
+  },
+  {
+    "id": "31c575446eaae524",
+    "source": "Punch Nigeria",
+    "title": "Nigeria not prone to earthquakes, geological agency allays fears",
+    "link": "https://punchng.com/nigeria-not-prone-to-earthquakes-geological-agency-allays-fears/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigerian Geological Survey Agency assures Abuja residents that the recent Abuja tremor has subsided, stating Nigeria is not prone to earthquakes. No ca\n\nRead More: https://punchng.com/nigeria-not-prone-to-earthquakes-geological-agency-allays-fears/",
+    "published": "Thu, 13 Aug 2026 20:14:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:43.564531+00:00",
+    "used": false
+  },
+  {
+    "id": "c549f5eeb7e923d2",
+    "source": "Premium Times",
+    "title": "WHO recommends Phase III trial of Ebola vaccine against Bundibugyo virus",
+    "link": "https://www.premiumtimesng.com/health/health-news/902712-who-recommends-phase-iii-trial-of-ebola-vaccine-against-bundibugyo-virus.html",
+    "summary": "<img alt=\"Vaccines used to illustrate the story [Photo: celiac.org]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"399\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2016/03/vaccines.jpg?fit=600%2C399&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>The recommendation comes as researchers develop vaccines and treatments for the ongoing outbreak in the Democratic Republic of the Congo (DRC).</p>\n<p>The post <a href=\"https://www.premiu",
+    "published": "Thu, 13 Aug 2026 20:22:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:44.448261+00:00",
+    "used": false
+  },
+  {
+    "id": "b4c19dec894351b9",
+    "source": "Premium Times",
+    "title": "WAEC defends 2026 WASSCE results amid social media criticism",
+    "link": "https://www.premiumtimesng.com/news/headlines/902710-waec-defends-2026-wassce-results-amid-social-media-criticism.html",
+    "summary": "<img alt=\"WAEC Logo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"499\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/08/WAEC-Logo.jpg?fit=750%2C499&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"750\" /><p>WAEC said it “welcomes constructive scrutiny” but urged members of the public to disregard unverified claims and use its official channels to raise concerns about their results.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/",
+    "published": "Thu, 13 Aug 2026 20:21:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:44.448322+00:00",
+    "used": false
+  },
+  {
+    "id": "d5f16d052eb09a78",
+    "source": "Premium Times",
+    "title": "The cloud revolution: Inside Nigeria’s bold drive for digital sovereignty, By Fom Gyem",
+    "link": "https://www.premiumtimesng.com/opinion/902703-the-cloud-revolution-inside-nigerias-bold-drive-for-digital-sovereignty-by-fom-gyem.html",
+    "summary": "<img alt=\"Fom Gyem writes about e-learning in a period of economic challenges in Nigeria.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/03/Fom-Gyem.jpeg?fit=640%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>Ultimately, the National Sovereign Cloud Initiative marks the beginning of a new chapter in Nigeria’s digital evolution — one in which sovereignty extends beyond ph",
+    "published": "Thu, 13 Aug 2026 20:05:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:44.448383+00:00",
+    "used": false
+  },
+  {
+    "id": "924c35303b8e726a",
+    "source": "Premium Times",
+    "title": "In Ethiopia, five detained journalists pressured to apologise for terrorism",
+    "link": "https://www.premiumtimesng.com/news/top-news/902699-in-ethiopia-five-detained-journalists-pressured-to-apologise-for-terrorism.html",
+    "summary": "<img alt=\"Clockwise from top left: Genet Asmamaw, Gobeze Sisay, Abay Zewdu, Dawit Begashaw, and Meskerem Abera. (Images: Medlot Media/YouTube, Courtesy of Gobeze Sisay, Amara Media Center/YouTube, Arat Kilo Media/YouTube, Ethio Nikat Media/YouTube)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"708\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/unnamed-1.png?fit=1080%2C708&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>\"Af",
+    "published": "Thu, 13 Aug 2026 19:59:05 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:44.448421+00:00",
+    "used": false
+  },
+  {
+    "id": "b37571b34a26a971",
+    "source": "Premium Times",
+    "title": "The 90-day clock on Nigeria’s oil future, By Muntasir Adamu Kanam",
+    "link": "https://www.premiumtimesng.com/opinion/902676-the-90-day-clock-on-nigerias-oil-future-by-muntasir-adamu-kanam.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"684\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Muntasir-Adamu-Kanam.png?fit=673%2C684&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"673\" /><p>Not by speeches. Not by photographs. Not even by signature bonuses. But by whether, three years from now, we can point to producing wells, instead of framed licence certificates. The 2025 Licensing Round is over. The countdown has b",
+    "published": "Thu, 13 Aug 2026 19:33:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:44.448488+00:00",
+    "used": false
+  },
+  {
+    "id": "d31047d599bb5420",
+    "source": "Premium Times",
+    "title": "Anambra TV station retirees lament nine years of unpaid gratuities",
+    "link": "https://www.premiumtimesng.com/news/top-news/902688-anambra-tv-station-retirees-lament-nine-years-of-unpaid-gratuities.html",
+    "summary": "<img alt=\"Anambra Broadcasting Service (ABS)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1010\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Anambra_Broadcasting_Service_-_ABS_both_Radio_and_Television-e1786648973859.jpg?fit=1920%2C1010&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>“Before now, staff members usually received their gratuities upon retirement. But in recent times, we don't receive anything again,” said B",
+    "published": "Thu, 13 Aug 2026 19:24:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:44.448537+00:00",
+    "used": false
+  },
+  {
+    "id": "b0c0a34adc05c73d",
+    "source": "Premium Times",
+    "title": "Haske advocates investment in youth to secure Nigeria’s future",
+    "link": "https://www.premiumtimesng.com/news/more-news/902651-haske-advocates-investment-in-youth-to-secure-nigerias-future.html",
+    "summary": "<img alt=\"Abdulrahman Haske\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Abdulrahman-Haske-e1786645446573.jpg?fit=1080%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Mr Haske urged greater inclusion of young people in leadership and decision-making processes.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/902651-haske-advocates-investment-in",
+    "published": "Thu, 13 Aug 2026 18:24:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:44.448648+00:00",
+    "used": false
+  },
+  {
+    "id": "d0bdf54f6ddf569b",
+    "source": "Premium Times",
+    "title": "Keyamo directs airlines, unions to agree repayment plans over TSC debt",
+    "link": "https://www.premiumtimesng.com/news/more-news/902649-keyamo-directs-airlines-unions-to-agree-repayment-plans-over-tsc-debt.html",
+    "summary": "<img alt=\"Nigeria’s Aviation Minister, Festus Keyamo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"435\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/08/w6Ak9kpTURBXy83YmQ2ZmJmYTQwMmVhZjM1ZTc0NjQ3YWRkZWU0OWU4OS5qcGeSlQMAHs0DzM0CIpUCzQMHAMPDgqEwAaExAQ.jpg?fit=775%2C435&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"775\" /><p>The development comes two days after aviation unions picketed Air Peace operations in Lagos and Abuja, disrupting",
+    "published": "Thu, 13 Aug 2026 18:06:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T20:27:44.448725+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -41137,6 +41445,17 @@
     "published": "Thu, 13 Aug 2026 06:13:26 +0000",
     "priority": "low",
     "fetched_at": "2026-08-13T08:17:22.607863+00:00",
+    "used": false
+  },
+  {
+    "id": "314b22215ac5ff0f",
+    "source": "Premium Times",
+    "title": "Nigerian journalist, Tomi Falade, returns with two historical plays",
+    "link": "https://www.premiumtimesng.com/entertainment/artsbooks/902674-nigerian-journalist-tomi-falade-returns-with-two-historical-plays.html",
+    "summary": "<img alt=\"Tomi Falade and Gbenga Adeyinka\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1527\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Tomi-Falade-and-Gbenga-Adeyinka-e1786647108513.jpg?fit=2510%2C1527&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2510\" /><p>Her latest works follow her debut play, ‘Olobun: Matriarch of Ondo, Mother of Legacy’, and ‘Dates From Hell’, a collection of humorous short stories examining the complica",
+    "published": "Thu, 13 Aug 2026 18:52:16 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-13T20:27:44.448583+00:00",
     "used": false
   }
 ]
