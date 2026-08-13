@@ -998,7 +998,7 @@
     "published": "Wed, 15 Jul 2026 17:19:05 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.239860+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "2f952a8c3cc9e961",
@@ -17861,6 +17861,171 @@
     "published": "Wed, 12 Aug 2026 18:50:48 +0000",
     "priority": "high",
     "fetched_at": "2026-08-12T20:30:06.225672+00:00",
+    "used": false
+  },
+  {
+    "id": "fa2440ed7ca3c46a",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: Davido urged to apologise to Okpebholo, Galatasaray reduce Osimhen asking price to €65m, other top stories",
+    "link": "https://punchng.com/morning-recap-davido-urged-to-apologise-to-okpebholo-galatasaray-reduce-osimhen-asking-price-to-e65m-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Catch up on the latest Nigerian news: Davido urged to apologise to Okpebholo, Osimhen&#8217;s transfer price reduced, 2027 election talks, and fiscal transparenc\n\nRead More: https://punchng.com/morning-recap-davido-urged-to-apologise-to-okpebholo-galatasaray-reduce-osimhen-asking-price-to-e65m-other-top-stories/",
+    "published": "Thu, 13 Aug 2026 07:45:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:21.944263+00:00",
+    "used": false
+  },
+  {
+    "id": "10ce5f5fc8031e8d",
+    "source": "Punch Nigeria",
+    "title": "Singer Saint Janet complained of chest pain, died at hospital — Children",
+    "link": "https://punchng.com/singer-saint-janet-complained-of-chest-pain-died-at-hospital-children/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Children of veteran Juju musician Saint Janet reveal she complained of chest pain and difficulty breathing before her death. Get the full story here.\n\nRead More: https://punchng.com/singer-saint-janet-complained-of-chest-pain-died-at-hospital-children/",
+    "published": "Thu, 13 Aug 2026 07:22:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:21.944300+00:00",
+    "used": false
+  },
+  {
+    "id": "d438620c5dbde1db",
+    "source": "Punch Nigeria",
+    "title": "Tinubu’s ‘all is fair’ remark emboldened Osun senator Fadahunsi — ADC spokesman",
+    "link": "https://punchng.com/tinubus-all-is-fair-remark-emboldened-osun-senator-fadahunsi-adc-spokesman/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "ADC spokesman blames President Tinubu&#8217;s &#8216;all is fair in politics&#8217; remark for emboldening Osun Senator Fadahunsi&#8217;s controversial comments ahead of the Osun\n\nRead More: https://punchng.com/tinubus-all-is-fair-remark-emboldened-osun-senator-fadahunsi-adc-spokesman/",
+    "published": "Thu, 13 Aug 2026 07:09:22 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:21.944332+00:00",
+    "used": false
+  },
+  {
+    "id": "992427d1a9ddf674",
+    "source": "Punch Nigeria",
+    "title": "Why Davido should apologise to Okpebholo over WAEC result troll — Lawyer",
+    "link": "https://punchng.com/why-davido-should-apologise-to-okpebholo-over-waec-result-troll-lawyer/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A lawyer calls on Afrobeats star Davido to apologise to Edo Governor Monday Okpebholo for sharing his alleged WAEC result, urging humility from the singer.\n\nRead More: https://punchng.com/why-davido-should-apologise-to-okpebholo-over-waec-result-troll-lawyer/",
+    "published": "Thu, 13 Aug 2026 06:36:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:21.944370+00:00",
+    "used": false
+  },
+  {
+    "id": "dfa7e987a525696b",
+    "source": "Punch Nigeria",
+    "title": "ADC alleges plot to arrest Aregbesola, warns FG",
+    "link": "https://punchng.com/adc-alleges-plot-to-arrest-aregbesola-warns-fg/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The African Democratic Congress (ADC) alleges a plot to arrest its National Secretary, Rauf Aregbesola, before the Osun governorship election, warning the\n\nRead More: https://punchng.com/adc-alleges-plot-to-arrest-aregbesola-warns-fg/",
+    "published": "Thu, 13 Aug 2026 05:29:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:21.944444+00:00",
+    "used": false
+  },
+  {
+    "id": "409b825e6c218d0b",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: A governorship election trailed by sorrow, tears, blood",
+    "link": "https://www.premiumtimesng.com/features-and-interviews/902414-osundecides2026-a-governorship-election-trailed-by-sorrow-tears-blood.html",
+    "summary": "<img alt=\"Collage of vandalised billboards in Osun.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1671\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/collage_export_8967F625-D661-4EFD-B195-FE0EE670CDEF-scaled.jpeg?fit=2560%2C1671&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>No fewer than 73 election-related violent incidents leading to 29 deaths have been recorded in the build-up to the election, with Osogbo, the state ",
+    "published": "Thu, 13 Aug 2026 06:00:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:22.607875+00:00",
+    "used": false
+  },
+  {
+    "id": "b90639173fd966cc",
+    "source": "Premium Times",
+    "title": "Osun 2026: IGP deploys DIG to coordinate security operations",
+    "link": "https://www.premiumtimesng.com/news/top-news/902484-osun-2026-igp-deploys-dig-to-coordinate-security-operations.html",
+    "summary": "<img alt=\"IGP Olatunji Disu, psc (PHOTO CREDIT: @PoliceNG)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"564\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/HC-ehLQbEAA4eZG.jpg?fit=984%2C564&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"984\" /><p>DIG Ishyaku Mohammed will coordinate the police component of the election-security arrangement and work closely with other security agencies under the Inter-Agency Consultative Committee on",
+    "published": "Thu, 13 Aug 2026 04:53:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:22.607886+00:00",
+    "used": false
+  },
+  {
+    "id": "f9cee0b1fa26a846",
+    "source": "Premium Times",
+    "title": "Akpabio, Uzodimma, Aiyedatiwa, others arrive Osun for APC mega rally",
+    "link": "https://www.premiumtimesng.com/news/top-news/902481-akpabio-uzodimma-aiyedatiwa-others-arrive-osun-for-apc-mega-rally.html",
+    "summary": "<img alt=\"APC governorship candidate, Bola Oyebamiji campaigning\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"610\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Screenshot-2026-08-13-054554.jpg?fit=1017%2C610&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1017\" /><p>The mega rally is expected to serve as the APC’s major show of strength before the campaign window closes at midnight today.</p>\n<p>The post <a href=\"https://www.premiu",
+    "published": "Thu, 13 Aug 2026 04:49:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:22.607907+00:00",
+    "used": false
+  },
+  {
+    "id": "52aac36494b1cb84",
+    "source": "Premium Times",
+    "title": "Accord petitions EU, ECOWAS over rising violence ahead of the Osun governorship election",
+    "link": "https://www.premiumtimesng.com/news/top-news/902480-accord-petitions-eu-ecowas-over-rising-violence-ahead-of-the-osun-governorship-election.html",
+    "summary": "<img alt=\"Governor Adeleke holding Accord Party flag (PHOTO CREDIT: The sun nigeria)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"455\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-30-at-23.57.30.jpeg?fit=731%2C455&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"731\" /><p>\"Our appeal is for the protection of democratic principles, the rule of law, political pluralism and the fundamental right of the people of ",
+    "published": "Thu, 13 Aug 2026 04:27:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:22.607923+00:00",
+    "used": false
+  },
+  {
+    "id": "091aab94c86d9ac9",
+    "source": "Premium Times",
+    "title": "EDITORIAL: Unpacking the CBN’s purported expenditure efficiency",
+    "link": "https://www.premiumtimesng.com/opinion/editorial/902474-editorial-unpacking-the-cbns-purported-expenditure-efficiency.html",
+    "summary": "<img alt=\"The Central Bank of Nigeria, CBN. [PHOTO CREDIT: Ehud Kaduna]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1702\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/01/20200913_161409-scaled-e1652250793565.jpg?fit=2387%2C1702&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2387\" /><p>The questions may be legion and the challenge to transparency and good governance stern, but for PREMIUM TIMES, the most important poser is whether th",
+    "published": "Thu, 13 Aug 2026 04:00:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:22.607943+00:00",
+    "used": false
+  },
+  {
+    "id": "e58e80c2728ece16",
+    "source": "Premium Times",
+    "title": "EXPLAINER: What Tinubu’s new deep offshore tax incentives mean for Nigeria",
+    "link": "https://www.premiumtimesng.com/business/business-news/902472-explainer-what-tinubus-new-deep-offshore-tax-incentives-mean-for-nigeria.html",
+    "summary": "<img alt=\"President Bola Tinubu (PHOTO CREDIT: @officialABAT)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/HIVur_4XwAAHMRZ-scaled-e1779638155832.jpg?fit=2556%2C1600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2556\" /><p>President Bola Tinubu has approved a new tax incentive framework for deep offshore oil and gas projects, designed to attract up to $50 billion in fresh investme",
+    "published": "Wed, 12 Aug 2026 21:20:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:22.608018+00:00",
+    "used": false
+  },
+  {
+    "id": "0233354ea4e7906c",
+    "source": "Premium Times",
+    "title": "Ebonyi Assembly passes bill regulating scrap trade, rents, agent fees.",
+    "link": "https://www.premiumtimesng.com/news/top-news/902467-ebonyi-assembly-passes-bill-regulating-scrap-trade-rents-agent-fees.html",
+    "summary": "<img alt=\"Ebonyi House of Assembly building\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"742\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Ebonyi-Assembly.webp?fit=1256%2C742&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1256\" /><p>The bill prohibits the purchase, sale, possession for sale, transportation or disposal of metal or electrical scraps except by licensed dealers operating in accordance with regulations made under the l",
+    "published": "Wed, 12 Aug 2026 20:29:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:22.608070+00:00",
+    "used": false
+  },
+  {
+    "id": "ea02a1073ca3e8ce",
+    "source": "Leadership Newspaper",
+    "title": "Ododo Donates 3 Buses To Labour Unions",
+    "link": "https://leadership.ng/ododo-donates-3-buses-to-labour-unions/",
+    "summary": "Kogi State governor, Alhaji Ahmed Usman Ododo, has donated three new buses to the leadership of the Nigeria Labour Congress (NLC), Trade Union Congress (TUC) and Joint Negotiating Council (JNC) to enhance their operations. The governor presented the buses when the leadership of organised labour in the state, led by the NLC chairman, Comrade Gabriel [&#8230;]",
+    "published": "Thu, 13 Aug 2026 08:01:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:25.484009+00:00",
+    "used": false
+  },
+  {
+    "id": "64f225e0e2945621",
+    "source": "Leadership Newspaper",
+    "title": "Fintiri Urges Northern Adamawa Political Leaders To Unite Ahead Of 2027 Elections",
+    "link": "https://leadership.ng/fintiri-urges-northern-adamawa-political-leaders-to-unite-ahead-of-2027-elections/",
+    "summary": "Adamawa State Governor, Ahmadu Umaru Fintiri, has called on political leaders in Northern Adamawa to set aside personal interests and support candidates based on character, competence and commitment to the development of the people. Governor Fintiri made the call when he received political stakeholders and supporters from the Northern Senatorial Zone at the Government House [&#8230;]",
+    "published": "Thu, 13 Aug 2026 06:54:10 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:25.484096+00:00",
+    "used": false
+  },
+  {
+    "id": "bc411b6fc9c8c53d",
+    "source": "Leadership Newspaper",
+    "title": "Ex-Kogi Speaker Plans Rally For Tinubu, Ododo Ahead Of 2027",
+    "link": "https://leadership.ng/ex-kogi-speaker-plans-rally-for-tinubu-ododo-ahead-of-2027/",
+    "summary": "A former Speaker of the Kogi State House of Assembly, Prince Matthew Yomi Kolawole, is set to organise a major political rally in support of President Bola Ahmed Tinubu and Kogi State governor, Alhaji Ahmed Usman Ododo ahead of the 2027 general elections. The proposed rally is expected to bring together political leaders, supporters, youths, [&#8230;]",
+    "published": "Thu, 13 Aug 2026 06:44:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-13T08:17:25.484129+00:00",
     "used": false
   },
   {
@@ -37730,6 +37895,215 @@
     "used": false
   },
   {
+    "id": "3a686cc1bdac1d66",
+    "source": "Punch Nigeria",
+    "title": "EPL: Rashford is back with something different – Carrick",
+    "link": "https://punchng.com/epl-rashford-is-back-with-something-different-carrick/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Michael Carrick backs Marcus Rashford to play a crucial role in the new Premier League season, highlighting his unique contribution after his return from B\n\nRead More: https://punchng.com/epl-rashford-is-back-with-something-different-carrick/",
+    "published": "Thu, 13 Aug 2026 08:56:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944168+00:00",
+    "used": false
+  },
+  {
+    "id": "c608a7a94daac54b",
+    "source": "Punch Nigeria",
+    "title": "EPL: Chelsea demand £120m for Fernandez, set Friday deadline",
+    "link": "https://punchng.com/epl-chelsea-demand-120m-for-fernandez-set-friday-deadline/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Chelsea sets a Friday deadline for clubs interested in Enzo Fernandez, demanding £120m for the midfielder. Learn more about the Enzo Fernandez transfer sag\n\nRead More: https://punchng.com/epl-chelsea-demand-120m-for-fernandez-set-friday-deadline/",
+    "published": "Thu, 13 Aug 2026 08:11:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944230+00:00",
+    "used": false
+  },
+  {
+    "id": "8db27dccc0547105",
+    "source": "Punch Nigeria",
+    "title": "Eight Redeemer varsity students pass ICAN exams",
+    "link": "https://punchng.com/eight-redeemer-varsity-students-pass-ican-exams/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Eight Redeemer&#8217;s University accounting students successfully passed the May 2026 ICAN qualifying exams, showcasing the institution&#8217;s commitment to professi\n\nRead More: https://punchng.com/eight-redeemer-varsity-students-pass-ican-exams/",
+    "published": "Thu, 13 Aug 2026 08:04:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944250+00:00",
+    "used": false
+  },
+  {
+    "id": "a2bca3f9b7066a6f",
+    "source": "Punch Nigeria",
+    "title": "NCDMB urges oil firms to embrace digital portal for global competitiveness",
+    "link": "https://punchng.com/ncdmb-urges-oil-firms-to-embrace-digital-portal-for-global-competitiveness/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NCDMB unveils a new digital portal to boost efficiency, transparency, and global competitiveness in Nigeria&#8217;s oil and gas sector. Learn how this NCDMB digi\n\nRead More: https://punchng.com/ncdmb-urges-oil-firms-to-embrace-digital-portal-for-global-competitiveness/",
+    "published": "Thu, 13 Aug 2026 07:43:40 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944283+00:00",
+    "used": false
+  },
+  {
+    "id": "40f9b71a25e27be1",
+    "source": "Punch Nigeria",
+    "title": "Ondo warns monarchs against turning palaces into detention centres",
+    "link": "https://punchng.com/ondo-warns-monarchs-against-turning-palaces-into-detention-centres/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ondo State warns traditional rulers against turning palaces into detention centres or courts, urging them to operate within constitutional limits and coope\n\nRead More: https://punchng.com/ondo-warns-monarchs-against-turning-palaces-into-detention-centres/",
+    "published": "Thu, 13 Aug 2026 07:21:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944321+00:00",
+    "used": false
+  },
+  {
+    "id": "4a66968a73653a00",
+    "source": "Punch Nigeria",
+    "title": "Messi returns after father’s death as Inter Miami exit Leagues Cup",
+    "link": "https://punchng.com/messi-returns-after-fathers-death-as-inter-miami-exit-leagues-cup/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lionel Messi made an emotional return to Inter Miami after his father&#8217;s death, but it wasn&#8217;t enough as they exited the Leagues Cup.\n\nRead More: https://punchng.com/messi-returns-after-fathers-death-as-inter-miami-exit-leagues-cup/",
+    "published": "Thu, 13 Aug 2026 07:08:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944356+00:00",
+    "used": false
+  },
+  {
+    "id": "ea34101c24eaaa7e",
+    "source": "Punch Nigeria",
+    "title": "West Africa needs regional energy market to unlock $3tn wealth — Expert",
+    "link": "https://punchng.com/west-africa-needs-regional-energy-market-to-unlock-3tn-wealth-expert/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An expert says West Africa could build a $3tn energy market by 2035 with a connected regional system. Discover how a unified West Africa energy market can\n\nRead More: https://punchng.com/west-africa-needs-regional-energy-market-to-unlock-3tn-wealth-expert/",
+    "published": "Thu, 13 Aug 2026 06:30:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944394+00:00",
+    "used": false
+  },
+  {
+    "id": "689a6777dc654b9a",
+    "source": "Punch Nigeria",
+    "title": "Katsina United clarifies Ozor’s death report",
+    "link": "https://punchng.com/katsina-united-clarifies-ozors-death-report/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Katsina United clarifies reports surrounding player Chinedu Ozor&#8217;s death after he collapsed during a pre-season game, refuting claims he regained conscious\n\nRead More: https://punchng.com/katsina-united-clarifies-ozors-death-report/",
+    "published": "Thu, 13 Aug 2026 05:31:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944415+00:00",
+    "used": false
+  },
+  {
+    "id": "ee55cbf2c2ee7d9a",
+    "source": "Punch Nigeria",
+    "title": "Professional membership not compulsory for civil service promotion – Memo",
+    "link": "https://punchng.com/professional-membership-not-compulsory-for-civil-service-promotion-memo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The National Council on Establishments rules professional membership is not automatically compulsory for civil service promotion or career progression in N\n\nRead More: https://punchng.com/professional-membership-not-compulsory-for-civil-service-promotion-memo/",
+    "published": "Thu, 13 Aug 2026 05:30:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:21.944437+00:00",
+    "used": false
+  },
+  {
+    "id": "45c9ea939d278581",
+    "source": "Premium Times",
+    "title": "ANALYSIS: OsunDecides2026: What’s moving in the digital information space",
+    "link": "https://www.premiumtimesng.com/news/top-news/902500-analysis-osundecides2026-whats-moving-in-the-digital-information-space.html",
+    "summary": "<img alt=\"Voting commence in Oshogbo. Aged people allowed to vote first.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"460\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2018/09/IMG-20180927-WA0017-e1538033139458.jpg?fit=544%2C460&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"544\" /><p>Much of the campaign is naturally a contest over records: jobs, teachers, roads, education, health, infrastructure and the economy.</p>\n<p>The post <a href=",
+    "published": "Thu, 13 Aug 2026 08:12:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:22.607765+00:00",
+    "used": false
+  },
+  {
+    "id": "f46bbe52d069562f",
+    "source": "Premium Times",
+    "title": "What investing in Africa means to Aliko Dangote, By Ehi Braimah",
+    "link": "https://www.premiumtimesng.com/opinion/902477-what-investing-in-africa-means-to-aliko-dangote-by-ehi-braimah.html",
+    "summary": "<img alt=\"Ehi Braimah writes about Ken-Calebs Olumese at 80.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"480\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/01/Ehi-Braimah.png?fit=470%2C480&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"470\" /><p>When conversations turn to investment in Africa, one name consistently dominates the discussion: Aliko Dangote. Over the past four decades, the Nigerian industrialist has become more than Afr",
+    "published": "Thu, 13 Aug 2026 03:36:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:22.608004+00:00",
+    "used": false
+  },
+  {
+    "id": "e560fc42d9516311",
+    "source": "Premium Times",
+    "title": "Nigeria’s crude oil production down 4% in July — NUPRC",
+    "link": "https://www.premiumtimesng.com/business/business-news/902470-nigerias-crude-oil-production-down-4-in-july-nuprc.html",
+    "summary": "<img alt=\"Nigerian Upstream Petroleum Regulatory Commission (NUPRC)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"992\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/2d83539b-03f2-44d0-9971-53e9e447e521.png?fit=1586%2C992&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1586\" /><p>Nigeria’s crude oil production fell by four per cent month-on-month in July 2026, despite the country maintaining production above its OPEC quota for the thi",
+    "published": "Wed, 12 Aug 2026 21:04:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:22.608053+00:00",
+    "used": false
+  },
+  {
+    "id": "2c9964d26d958d93",
+    "source": "Leadership Newspaper",
+    "title": "NYSC DG Tasks Corps Members On Skills Acquisition",
+    "link": "https://leadership.ng/nysc-dg-tasks-corps-members-on-skills-acquisition/",
+    "summary": "Director-general (DG) of the National Youth Service Corps (NYSC), Brig-Gen. Okakunle Nafiu, has urged members of the corps to disabuse their minds from unemployment mentally and orientation. Nafiu stated this yesterday when he addressed members of the 2026 Batch B Steam 2 at the NYSC Permanent Orientation Camp, Umunna, Bende local government area of Abia [&#8230;]",
+    "published": "Thu, 13 Aug 2026 08:06:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:25.483962+00:00",
+    "used": false
+  },
+  {
+    "id": "b2215abe43658686",
+    "source": "Leadership Newspaper",
+    "title": "Delta Court Jails Man For Life Over Rape Of Minor",
+    "link": "https://leadership.ng/delta-court-jails-man-for-life-over-rape-of-minor/",
+    "summary": "Delta State High Court sitting in Asaba, the state capital, has sentenced one Abubakar Mohammed to life imprisonment without an option of fine for raping a nine-year-old girl in Asaba, Oshimili South local government area. Justice Onome Marshal-Umukoro delivered the judgement in Charge No. DTHC/ASB/CR/26/2025, State vs Abubakar Mohammed. The court also ordered that the [&#8230;]",
+    "published": "Thu, 13 Aug 2026 08:04:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:25.483996+00:00",
+    "used": false
+  },
+  {
+    "id": "50cc508dbd909a1d",
+    "source": "Leadership Newspaper",
+    "title": "Commission Targets Speedy Complaint Resolution",
+    "link": "https://leadership.ng/commission-targets-speedy-complaint-resolution/",
+    "summary": "Nigeria’s ombudsman, Public Complaints Commission (PCC) has commenced a comprehensive training on Artificial Intelligence (AI) and electronic complaint management for its officers across the North-Central geopolitical zone. The training is part of efforts to accelerate complaint resolution and improve service delivery. The capacity-building programme, facilitated by Instincts Resources Nigeria Limited, is being conducted in phases [&#8230;]",
+    "published": "Thu, 13 Aug 2026 07:44:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:25.484044+00:00",
+    "used": false
+  },
+  {
+    "id": "3a4fc03971f5a0b5",
+    "source": "Leadership Newspaper",
+    "title": "CSOs Seek Integration Of Reproductive Health Education In Bauchi Schools",
+    "link": "https://leadership.ng/csos-seek-integration-of-reproductive-health-education-in-bauchi-schools/",
+    "summary": "A section of civil society organisations (CSOs) working in Sexual and Reproductive Health Education (SRHE) in Bauchi State have canvassed stronger integration of reproductive health education into schools and communities to improve access to accurate information and safeguard the health and well-being of adolescents and young people. The CSOs also advocated wider use of the [&#8230;]",
+    "published": "Thu, 13 Aug 2026 07:38:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:25.484066+00:00",
+    "used": false
+  },
+  {
+    "id": "4d8cb1674898ccb7",
+    "source": "Leadership Newspaper",
+    "title": "Taraba, World Bank To Strengthen Governance, Health, Education",
+    "link": "https://leadership.ng/taraba-world-bank-to-strengthen-governance-health-education/",
+    "summary": "Taraba State government has reaffirmed its commitment to transparency, accountability and prudent management of public resources in the execution of World Bank projects in the state. This is just as the government said it would deepen collaboration with the World Bank to improve governance, healthcare delivery and education across the state. The commissioner for Finance, [&#8230;]",
+    "published": "Thu, 13 Aug 2026 07:31:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:25.484087+00:00",
+    "used": false
+  },
+  {
+    "id": "23c2c286b49fb0da",
+    "source": "Leadership Newspaper",
+    "title": "Adamawa Hospital Board Opens Recruitment For Medical, Dental Officers",
+    "link": "https://leadership.ng/adamawa-hospital-board-opens-recruitment-for-medical-dental-officers/",
+    "summary": "The Adamawa State Hospital Services Management Board has invited applications from suitably qualified Medical and Dental Officers to fill existing vacancies within the state’s healthcare system. In a vacancy announcement dated August 10, 2026, the Board stated that interested applicants must possess an MBBS degree from a recognised and accredited university. Applicants are also required [&#8230;]",
+    "published": "Thu, 13 Aug 2026 06:45:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:25.484123+00:00",
+    "used": false
+  },
+  {
+    "id": "30c567a4d6e0b525",
+    "source": "Leadership Newspaper",
+    "title": "An Open Letter To The Minister Of Finance",
+    "link": "https://leadership.ng/an-open-letter-to-the-minister-of-finance/",
+    "summary": "By Alh. Mohamed Kari I write this as an open letter to you, deliberately choosing a public medium in the interest of total transparency. The matters surrounding regulatory compliance, market capitalisation, and financial stability in the Nigerian insurance sector affect not just a few boardroom executives, but the entire economic architecture of our nation. By [&#8230;]",
+    "published": "Thu, 13 Aug 2026 06:37:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-13T08:17:25.484146+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -40400,6 +40774,39 @@
     "published": "Wed, 12 Aug 2026 19:06:48 +0000",
     "priority": "low",
     "fetched_at": "2026-08-12T20:30:01.793605+00:00",
+    "used": false
+  },
+  {
+    "id": "4a89b3956eb0be2d",
+    "source": "Punch Nigeria",
+    "title": "Why Saint Janet switched from gospel to sexually explicit songs — Backup singer",
+    "link": "https://punchng.com/why-saint-janet-switched-from-gospel-to-sexually-explicit-songs-backup-singer/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Saint Janet&#8217;s backup singer reveals why the late Juju musician transitioned from gospel to sexually explicit songs, attracting more audience engagement and\n\nRead More: https://punchng.com/why-saint-janet-switched-from-gospel-to-sexually-explicit-songs-backup-singer/",
+    "published": "Thu, 13 Aug 2026 08:19:43 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-13T08:17:21.944206+00:00",
+    "used": false
+  },
+  {
+    "id": "e6cfcf1f17de4557",
+    "source": "Premium Times",
+    "title": "South Africa vs Nigeria: Five Key players who could decide Super Falcons’ World Cup Play-Off fixture",
+    "link": "https://www.premiumtimesng.com/news/headlines/902492-south-africa-vs-nigeria-five-key-players-who-could-decide-super-falcons-world-cup-play-off-fixture.html",
+    "summary": "<img alt=\"South Africa vs Nigeria Credit: CAF Women&#039;s Football X Page\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"672\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003846559.jpg?fit=1080%2C672&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Both nations possess experienced squads packed with players who have performed at the highest level for club and country. But in a match this tight, individual moments could ma",
+    "published": "Thu, 13 Aug 2026 06:55:06 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-13T08:17:22.607817+00:00",
+    "used": false
+  },
+  {
+    "id": "0cf4dbd34b63b609",
+    "source": "Premium Times",
+    "title": "WAFCON 2026: Chawinga sisters fire Malawi into historic final as Cameroon end Morocco’s dream",
+    "link": "https://www.premiumtimesng.com/sports/football/902487-wafcon-2026-chawinga-sisters-fire-malawi-into-historic-final-as-cameroon-end-moroccos-dream.html",
+    "summary": "<img alt=\"Cameroon and Malawi make it to the Final Credit: CAF Women on X\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"634\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003846581-e1786601374230.jpg?fit=1080%2C634&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>With Malawi and Cameroon now set for the final, the 2026 WAFCON has produced a fascinating title clash between a debutant nation chasing its first continental cro",
+    "published": "Thu, 13 Aug 2026 06:13:26 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-13T08:17:22.607863+00:00",
     "used": false
   }
 ]
