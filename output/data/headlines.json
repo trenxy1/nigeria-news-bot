@@ -1031,7 +1031,7 @@
     "published": "Wed, 15 Jul 2026 16:43:41 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.239926+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "74749e781c194a5a",
@@ -18356,6 +18356,171 @@
     "published": "Thu, 13 Aug 2026 18:15:20 +0000",
     "priority": "high",
     "fetched_at": "2026-08-13T20:27:44.448673+00:00",
+    "used": false
+  },
+  {
+    "id": "69902bd8089bbfb5",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: Police lockdown Osun, Makinde picks Daura as running mate, other top stories",
+    "link": "https://punchng.com/morning-recap-police-lockdown-osun-makinde-picks-daura-as-running-mate-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Catch up on the latest Nigerian news with our morning recap, featuring the Osun police lockdown, Makinde&#8217;s running mate choice, and other top stories.\n\nRead More: https://punchng.com/morning-recap-police-lockdown-osun-makinde-picks-daura-as-running-mate-other-top-stories/",
+    "published": "Fri, 14 Aug 2026 08:27:54 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:22.155691+00:00",
+    "used": false
+  },
+  {
+    "id": "bc55a2d36eb8f2d1",
+    "source": "Punch Nigeria",
+    "title": "Agricultural quarantine service postpones release of recruitment shortlist",
+    "link": "https://punchng.com/agricultural-quarantine-service-postpones-release-of-recruitment-shortlist/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigeria Agricultural Quarantine Service (NAQS) has postponed the release of its recruitment shortlist. Stay updated on the new date for the NAQS recrui\n\nRead More: https://punchng.com/agricultural-quarantine-service-postpones-release-of-recruitment-shortlist/",
+    "published": "Fri, 14 Aug 2026 07:58:30 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:22.155782+00:00",
+    "used": false
+  },
+  {
+    "id": "fe71d2cad1f7a6da",
+    "source": "Punch Nigeria",
+    "title": "Farage wins Clacton by-election, defeats rival Count Binface",
+    "link": "https://punchng.com/farage-wins-clacton-by-election-defeats-rival-count-binface/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigel Farage secures victory in the Clacton by-election, comfortably beating satirical opponent Count Binface. Get the full details of Farage&#8217;s win.\n\nRead More: https://punchng.com/farage-wins-clacton-by-election-defeats-rival-count-binface/",
+    "published": "Fri, 14 Aug 2026 07:41:39 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:22.155792+00:00",
+    "used": false
+  },
+  {
+    "id": "368637533a8db00b",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Haaland’s image found on cocaine packages seized in Ecuador",
+    "link": "https://punchng.com/video-haalands-image-found-on-cocaine-packages-seized-in-ecuador/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ecuadorian police seized 369kg of cocaine with Erling Haaland&#8217;s image on packages. Discover why drug traffickers use celebrity labels.\n\nRead More: https://punchng.com/video-haalands-image-found-on-cocaine-packages-seized-in-ecuador/",
+    "published": "Fri, 14 Aug 2026 07:41:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:22.155804+00:00",
+    "used": false
+  },
+  {
+    "id": "e3dbdc5c449ef9d1",
+    "source": "Punch Nigeria",
+    "title": "Police arrest six suspected kidnappers in Kaduna",
+    "link": "https://punchng.com/police-arrest-six-suspected-kidnappers-in-kaduna/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kaduna State Police Command arrests six suspected kidnappers and dismantles a hideout in Ikara LGA. Learn more about the operation and ongoing investigatio\n\nRead More: https://punchng.com/police-arrest-six-suspected-kidnappers-in-kaduna/",
+    "published": "Fri, 14 Aug 2026 07:40:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:22.155813+00:00",
+    "used": false
+  },
+  {
+    "id": "2864c2d08f2480fa",
+    "source": "Punch Nigeria",
+    "title": "Ghana police foil bank robbery, kill two suspects, arrest one",
+    "link": "https://punchng.com/ghana-police-foil-bank-robbery-kill-two-suspects-arrest-one/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ghana Police successfully foiled a bank robbery in Labone, Accra, killing two suspects and arresting one. Read more about the Ghana bank robbery attempt.\n\nRead More: https://punchng.com/ghana-police-foil-bank-robbery-kill-two-suspects-arrest-one/",
+    "published": "Fri, 14 Aug 2026 06:36:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:22.155872+00:00",
+    "used": false
+  },
+  {
+    "id": "bbd8e2de399e8a41",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Adeleke Administration: Four years of mixed bag of projects, controversies",
+    "link": "https://www.premiumtimesng.com/news/headlines/902786-osundecides2026-adeleke-administration-four-years-of-mixed-bag-of-projects-controversies.html",
+    "summary": "<img alt=\"Governor Ademola Adeleke of Osun State [PHOTO CREDIT: Gov Ademola Adeleke]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"854\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/623858893_10235126970529705_2745348544370898457_n.jpg?fit=1280%2C854&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>While Mr Adeleke’s administration claims it has recorded governance successes, it also faced criticism over the quality of some",
+    "published": "Fri, 14 Aug 2026 08:02:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:23.588350+00:00",
+    "used": false
+  },
+  {
+    "id": "8101d7e8b1bea807",
+    "source": "Premium Times",
+    "title": "1.9m PVCs collected for Osun governorship election – INEC",
+    "link": "https://www.premiumtimesng.com/news/more-news/902780-1-9m-pvcs-collected-for-osun-governorship-election-inec.html",
+    "summary": "<img alt=\"INEC headquarters\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"598\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/INEC-1062x598-1.jpg?fit=1062%2C598&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1062\" /><p>INEC said the figure represented 81.50 per cent of the total 2,339,233 registered voters in the state.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/902780-1-9m-pvcs-collected-for-osun-governor",
+    "published": "Fri, 14 Aug 2026 07:50:14 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:23.588372+00:00",
+    "used": false
+  },
+  {
+    "id": "78301b0278b217fd",
+    "source": "Premium Times",
+    "title": "CJID deploys observers, fact-checkers, analysts across Osun for 2026 governorship election",
+    "link": "https://www.premiumtimesng.com/news/more-news/902766-cjid-deploys-observers-fact-checkers-analysts-across-osun-for-2026-governorship-election.html",
+    "summary": "<img alt=\"Centre for Journalism Innovation and Development (CJID)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"657\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/11/CJID-Logo-Mustard-1024x1021-1-e1668873065656.jpeg?fit=1022%2C657&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1022\" /><p>The deployment comes after weeks of monitoring the pre-election environment in Osun.<br />\nThe Centre for Journalism Innovation and Development (CJID)",
+    "published": "Fri, 14 Aug 2026 06:30:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:23.588473+00:00",
+    "used": false
+  },
+  {
+    "id": "a55657cd84af1ff0",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Residents speak on election-day expectations, demand transparent, violence-free polls",
+    "link": "https://www.premiumtimesng.com/news/top-news/902759-osundecides2026-residents-speak-on-election-day-expectations-demand-transparent-violence-free-polls.html",
+    "summary": "<img alt=\"Residents speak on election-day expectations,\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1440\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/MixCollage-14-Aug-2026-05-26-AM-6660.jpg?fit=2560%2C1440&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Their responses reveal a state caught between fear and determination, as they are aware of the risks posed by the violence and yet remain unwilling to surrender their ",
+    "published": "Fri, 14 Aug 2026 04:39:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:23.588484+00:00",
+    "used": false
+  },
+  {
+    "id": "ea73243ab4e1357d",
+    "source": "Premium Times",
+    "title": "Why we built Enugu International Hospital – Gov Mbah",
+    "link": "https://www.premiumtimesng.com/news/more-news/902745-why-we-built-enugu-international-hospital-gov-mbah.html",
+    "summary": "<img alt=\"Enugu International Hospital\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"499\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Enugu-International-Hospital-.jpg?fit=1080%2C499&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The governor said the facility was part of his administration’s deliberate plan to position Enugu as a medical tourism destination.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/",
+    "published": "Thu, 13 Aug 2026 23:01:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:23.588613+00:00",
+    "used": false
+  },
+  {
+    "id": "a0775039a22c7482",
+    "source": "Premium Times",
+    "title": "OsunDecides2026: APM candidate withdraws from governorship race, endorses Adeleke",
+    "link": "https://www.premiumtimesng.com/news/top-news/902741-osundecides2026-apm-candidate-withdraws-from-governorship-race-endorses-adeleke.html",
+    "summary": "<img alt=\"governorship candidate of the Allied Peoples Movement (APM) in the Osun State governorship election, Simon Adewale (PHOTO CREDIT: Spy Nigeria)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"636\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/773359893_922210990308281_5805610665872684857_n.jpg?fit=800%2C636&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>Mr Adewale's withdrawal comes less than two days before the 15 ",
+    "published": "Thu, 13 Aug 2026 22:35:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:23.588623+00:00",
+    "used": false
+  },
+  {
+    "id": "afc6d75d94829d4c",
+    "source": "Premium Times",
+    "title": "Cross River assembly approves N963bn supplementary budget",
+    "link": "https://www.premiumtimesng.com/news/more-news/902728-cross-river-assembly-approves-n963bn-supplementary-budget.html",
+    "summary": "<img alt=\"Cross River House of Assembly Complex (CREDIT: CrossRiver Watch)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"485\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/1615192701641.jpg?fit=720%2C485&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"720\" /><p>The revised figure represents an increase of N1.45 billion from the earlier N961 billion provision, which translates to a 0.15 per cent rise.</p>\n<p>The post <a href=\"https://",
+    "published": "Thu, 13 Aug 2026 21:24:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:23.588777+00:00",
+    "used": false
+  },
+  {
+    "id": "ecf84b9b88d0f95a",
+    "source": "Leadership Newspaper",
+    "title": "Motsepe: Infantino Can Only Be Removed Through FIFA Election",
+    "link": "https://leadership.ng/motsepe-infantino-can-only-be-removed-through-fifa-election/",
+    "summary": "CAF President Patrice Motsepe has insisted that Gianni Infantino’s future as FIFA president must be decided through the organisation’s established electoral process. Motsepe, who is also a FIFA vice-president, made the comments amid growing calls from some continental football bodies for Infantino to step aside. UEFA, the Asian Football Confederation (AFC) and CONCACAF have reportedly [&#8230;]",
+    "published": "Fri, 14 Aug 2026 07:33:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:27.971191+00:00",
+    "used": false
+  },
+  {
+    "id": "466959efcc0a97eb",
+    "source": "Leadership Newspaper",
+    "title": "Odegbami’s Call To Halt NFF Polls Raises Governance, FIFA Concerns — Saidu",
+    "link": "https://leadership.ng/odegbamis-call-to-halt-nff-polls-raises-governance-fifa-concerns-saidu/",
+    "summary": "The Chairman of the Sokoto State Football Association, Mohammed Nasir Saidu, has backed calls for greater transparency and inclusiveness in Nigeria Football Federation (NFF) elections but rejected the proposal to halt the 2026 polls, warning that direct government intervention could expose Nigerian football to FIFA sanctions. Saidu was reacting to former Green Eagles captain and [&#8230;]",
+    "published": "Fri, 14 Aug 2026 06:43:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T08:12:27.971305+00:00",
     "used": false
   },
   {
@@ -38742,6 +38907,259 @@
     "used": false
   },
   {
+    "id": "8ad044eb01998d71",
+    "source": "Punch Nigeria",
+    "title": "Ogun Customs intercept N3.57bn contraband, promise smugglers tougher time",
+    "link": "https://punchng.com/ogun-customs-intercept-n3-57bn-contraband-promise-smugglers-tougher-time/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ogun Customs Command intercepts N3.57bn worth of contraband, including cannabis and foreign rice, vowing tougher times for smugglers in the state.\n\nRead More: https://punchng.com/ogun-customs-intercept-n3-57bn-contraband-promise-smugglers-tougher-time/",
+    "published": "Fri, 14 Aug 2026 08:56:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155612+00:00",
+    "used": false
+  },
+  {
+    "id": "aa2c47aa438028ba",
+    "source": "Punch Nigeria",
+    "title": "Four UEFA Super Cup finals played, lost by Unai Emery",
+    "link": "https://punchng.com/four-uefa-super-cup-finals-played-lost-by-unai-emery/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Unai Emery, the Europa League king, has a perfect losing record in the UEFA Super Cup, with four defeats in four appearances. Discover his Super Cup strugg\n\nRead More: https://punchng.com/four-uefa-super-cup-finals-played-lost-by-unai-emery/",
+    "published": "Fri, 14 Aug 2026 08:46:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155644+00:00",
+    "used": false
+  },
+  {
+    "id": "f80691576f986caf",
+    "source": "Punch Nigeria",
+    "title": "PICTORIAL: Ronaldo returns to Al Nassr with golden new look",
+    "link": "https://punchng.com/pictorial-ronaldo-returns-to-al-nassr-with-golden-new-look/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Cristiano Ronaldo is back at Al Nassr training with a striking new copper-yellow hairstyle after his wedding. See photos of Ronaldo&#8217;s return.\n\nRead More: https://punchng.com/pictorial-ronaldo-returns-to-al-nassr-with-golden-new-look/",
+    "published": "Fri, 14 Aug 2026 08:46:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155664+00:00",
+    "used": false
+  },
+  {
+    "id": "005400a0ec47dd6c",
+    "source": "Punch Nigeria",
+    "title": "La Liga: Barcelona prepare third bid for Rodri",
+    "link": "https://punchng.com/la-liga-barcelona-prepare-third-bid-for-rodri/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Barcelona is set to make a third offer for Manchester City&#8217;s Rodri, with negotiations ongoing. Will the Catalan giants secure their target?\n\nRead More: https://punchng.com/la-liga-barcelona-prepare-third-bid-for-rodri/",
+    "published": "Fri, 14 Aug 2026 08:33:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155682+00:00",
+    "used": false
+  },
+  {
+    "id": "7454336b15bb23ee",
+    "source": "Punch Nigeria",
+    "title": "Public funding of marriage legitimate under Shariah — Gumi",
+    "link": "https://punchng.com/public-funding-of-marriage-legitimate-under-shariah-gumi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Sheikh Gumi defends public funding for marriages under Shariah law, citing it as legitimate governance in states prohibiting promiscuity. Learn more about\n\nRead More: https://punchng.com/public-funding-of-marriage-legitimate-under-shariah-gumi/",
+    "published": "Fri, 14 Aug 2026 08:08:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155717+00:00",
+    "used": false
+  },
+  {
+    "id": "cd1efee5e48e1659",
+    "source": "Punch Nigeria",
+    "title": "Anambra LG chairman, foundation offer scholarship, accommodation to debate star after parents’ death",
+    "link": "https://punchng.com/anambra-lg-chairman-foundation-offer-scholarship-accommodation-to-debate-star-after-parents-death/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Anambra LG chairman and Okwumereze Foundation offer scholarship and accommodation to Richard Emmanuel Ekene Ike, a debate star who lost his parents.\n\nRead More: https://punchng.com/anambra-lg-chairman-foundation-offer-scholarship-accommodation-to-debate-star-after-parents-death/",
+    "published": "Fri, 14 Aug 2026 08:02:50 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155762+00:00",
+    "used": false
+  },
+  {
+    "id": "581e1d2affbcc775",
+    "source": "Punch Nigeria",
+    "title": "Coach apologises to Nigerians over Falcons World Cup miss",
+    "link": "https://punchng.com/coach-apologises-to-nigerians-over-falcons-world-cup-miss/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Super Falcons coach, Justine Madugu, apologises to Nigerians after the team&#8217;s failure to qualify for the 2027 FIFA Women&#8217;s World Cup.\n\nRead More: https://punchng.com/coach-apologises-to-nigerians-over-falcons-world-cup-miss/",
+    "published": "Fri, 14 Aug 2026 07:23:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155830+00:00",
+    "used": false
+  },
+  {
+    "id": "2bccb4bb58072acb",
+    "source": "Punch Nigeria",
+    "title": "Real Warri Pikin, Delta groups resolve dispute over planned show",
+    "link": "https://punchng.com/real-warri-pikin-delta-groups-resolve-dispute-over-planned-show/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Real Warri Pikin and Delta State groups have resolved their dispute over her planned comedy show in Effurun, agreeing to work together for its success.\n\nRead More: https://punchng.com/real-warri-pikin-delta-groups-resolve-dispute-over-planned-show/",
+    "published": "Fri, 14 Aug 2026 07:07:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155848+00:00",
+    "used": false
+  },
+  {
+    "id": "d3f85e0a2dbc1aad",
+    "source": "Punch Nigeria",
+    "title": "How Nigerians can apply for 2026 UK commonwealth fellowships",
+    "link": "https://punchng.com/how-nigerians-can-apply-for-2026-uk-commonwealth-fellowships/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerians can apply for the 2026/27 UK Commonwealth Fellowships. Discover eligibility, application process, and what these fully funded opportunities cover\n\nRead More: https://punchng.com/how-nigerians-can-apply-for-2026-uk-commonwealth-fellowships/",
+    "published": "Fri, 14 Aug 2026 07:00:20 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:22.155864+00:00",
+    "used": false
+  },
+  {
+    "id": "b82114971d0c8c3d",
+    "source": "Premium Times",
+    "title": "World Cup dream over: Six major takeaways from Nigeria’s painful defeat to South Africa",
+    "link": "https://www.premiumtimesng.com/news/headlines/902767-world-cup-dream-over-six-major-takeaways-from-nigerias-painful-defeat-to-south-africa.html",
+    "summary": "<img alt=\"South Africa make it to the next round at the expense of Nigeria (CREDIT: CAF Women on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"750\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Untitled-design-18.jpg?fit=1080%2C750&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The winner was guaranteed a place in the intercontinental World Cup play-off route, making the clash a second chance for both nations after dis",
+    "published": "Fri, 14 Aug 2026 06:44:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:23.588462+00:00",
+    "used": false
+  },
+  {
+    "id": "6b1753b690e813ec",
+    "source": "Premium Times",
+    "title": "NAHCON approves five airlines for 2027 Hajj airlift",
+    "link": "https://www.premiumtimesng.com/news/more-news/902756-nahcon-approves-five-airlines-for-2027-hajj-airlift.html",
+    "summary": "<img alt=\"Pilgrims/NAHCON Chair, Ismaila Yusuf (PHOTO CREDIT: Daily Trust)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"641\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Chairman-and-Chief-Executive-Office-of-NAHCON-Amb-Ismail-Abba-Yuusf-1140x641-1.webp?fit=1140%2C641&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1140\" /><p>NAHCON urged all stakeholders to cooperate with the designated carriers to ensure a safe, seamless, and com",
+    "published": "Fri, 14 Aug 2026 04:17:15 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:23.588519+00:00",
+    "used": false
+  },
+  {
+    "id": "22643611c7a987c3",
+    "source": "Premium Times",
+    "title": "EXCLUSIVE: What Nigerian delegates, African Group of Negotiators will demand at COP17",
+    "link": "https://www.premiumtimesng.com/business/business-news/902754-exclusive-what-nigerian-delegates-african-group-of-negotiators-will-demand-at-cop17.html",
+    "summary": "<img alt=\"Etim William, director of the desertification, land degradation and drought management department of the Federal Ministry of Environment in Abuja\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"960\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-13-at-5.44.13-PM.jpeg?fit=1280%2C960&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>Nigeria and other African countries will push for a legally bindi",
+    "published": "Fri, 14 Aug 2026 04:12:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:23.588553+00:00",
+    "used": false
+  },
+  {
+    "id": "0b9fe8e4df0affa6",
+    "source": "Premium Times",
+    "title": "Nigeria to miss Women’s World Cup for first time in over 30 years",
+    "link": "https://www.premiumtimesng.com/news/top-news/902740-nigeria-to-miss-womens-world-cup-for-first-time-in-over-30-years.html",
+    "summary": "<img alt=\"Super Falcons Credit: WoliG Ólùyà\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1708\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003821508.jpg?fit=2560%2C1708&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>The Super Falcons had hoped to recover from their disappointing WAFCON quarter-final exit against Cameroon, but South Africa proved too strong in Thursday’s crucial play-off.</p>\n<p>The post <a href=\"https",
+    "published": "Thu, 13 Aug 2026 23:02:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:23.588592+00:00",
+    "used": false
+  },
+  {
+    "id": "5d44a2bd26dc7939",
+    "source": "Premium Times",
+    "title": "Deep offshore incentive order will accelerate investment, production growth — NNPC",
+    "link": "https://www.premiumtimesng.com/business/business-news/902730-deep-offshore-incentive-order-will-accelerate-investment-production-growth-nnpc.html",
+    "summary": "<img alt=\"The Group Chief Executive Officer of the Nigerian National Petroleum Company Limited (NNPC Ltd), Bayo Ojulari\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"666\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/11/large_DSC_05186_32f8e9e3f5.jpg?fit=1000%2C666&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>NNPC said the new order establishes a transparent, predictable, and globally competitive fiscal framework for quali",
+    "published": "Thu, 13 Aug 2026 21:51:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:23.588660+00:00",
+    "used": false
+  },
+  {
+    "id": "acd9575d5ef5c7f1",
+    "source": "Premium Times",
+    "title": "Most child sexual abuses involve fathers, daughters — Edo govt",
+    "link": "https://www.premiumtimesng.com/news/more-news/902733-most-child-sexual-abuses-involve-fathers-daughters-edo-govt.html",
+    "summary": "<img alt=\"Ms Eugenia Abdallah, Edo Commissioner for Women Affairs and Social Development during a news conference\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"539\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Ms-Eugenia-Abdallah-Edo-Commissioner-for-Women-Affairs-and-Social-Development-during-a-news-conference.jpg?fit=992%2C539&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"992\" /><p>Eugenia Abdallah, the State Commissioner for Wo",
+    "published": "Thu, 13 Aug 2026 21:44:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:23.588708+00:00",
+    "used": false
+  },
+  {
+    "id": "0b508a26efae6777",
+    "source": "Premium Times",
+    "title": "AFC leads investment in Dangote Refinery’s $2.5bn private placement",
+    "link": "https://www.premiumtimesng.com/business/business-news/902726-afc-leads-investment-in-dangote-refinerys-2-5bn-private-placement.html",
+    "summary": "<img alt=\"Africa Finance Corporation\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"343\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/AFC_Logo-202510062354356876-e1776699815639.jpg?fit=609%2C343&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"609\" /><p>AFC describes the investment as a continuation of its long-term partnership with the Dangote Group and commitment to financing transformative industrial projects across Africa.</p>\n<p>",
+    "published": "Thu, 13 Aug 2026 21:31:53 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:23.588759+00:00",
+    "used": false
+  },
+  {
+    "id": "88d2943700d8f41a",
+    "source": "Leadership Newspaper",
+    "title": "Ghana Beat Ivory Coast To Keep World Cup Dream Alive",
+    "link": "https://leadership.ng/ghana-beat-ivory-coast-to-keep-world-cup-dream-alive/",
+    "summary": "Ghana came from behind to defeat Ivory Coast 2-1 and secure a place in the FIFA Women’s World Cup 2027 inter-confederation playoffs after a dramatic TotalEnergies CAF Women’s Africa Cup of Nations playoff in Casablanca. The Black Queens trailed after just four minutes at the Larbi Zaouli Stadium when Ines Konan converted a penalty to [&#8230;]",
+    "published": "Fri, 14 Aug 2026 08:08:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:27.971099+00:00",
+    "used": false
+  },
+  {
+    "id": "6fbdc0eb860e9cb7",
+    "source": "Leadership Newspaper",
+    "title": "China Pledges N40bn In Grant For Nigeria",
+    "link": "https://leadership.ng/china-pledges-n40bn-in-grant-for-nigeria/",
+    "summary": "The government of the People’s Republic of China has pledged to provide over N40 billion (RMB 200 million) in grant assistance to Nigeria as part of measures to enhance the diplomatic ties between both countries aimed at helping Nigeria in some of its developmental needs. Indications to this development emerged on Thursday when Chinese Ambassador [&#8230;]",
+    "published": "Fri, 14 Aug 2026 07:49:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:27.971134+00:00",
+    "used": false
+  },
+  {
+    "id": "0d33382e774b57f2",
+    "source": "Leadership Newspaper",
+    "title": "Finalise TSC Debt Repayment Plan In 7 Days, FG Orders Airlines",
+    "link": "https://leadership.ng/finalise-tsc-debt-repayment-plan-in-7-days-fg-orders-airlines/",
+    "summary": "The federal government has given airlines seven days to agree with aviation agencies on realistic repayment plans for their outstanding Ticket Sales Charge (TSC) obligations, as part of efforts to end the lingering industrial dispute in the aviation sector. The directive followed an emergency stakeholders’ meeting brokered by the Minister of Aviation and Aerospace Development, [&#8230;]",
+    "published": "Fri, 14 Aug 2026 07:40:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:27.971181+00:00",
+    "used": false
+  },
+  {
+    "id": "c28a4d887a87dba8",
+    "source": "Leadership Newspaper",
+    "title": "Transfer: Osimhen Not For Sale, Galatasaray Tell Arsenal, Al-Hilal",
+    "link": "https://leadership.ng/transfer-osimhen-not-for-sale-galatasaray-tell-arsenal-al-hilal/",
+    "summary": "Galatasaray have reportedly sent a firm message to clubs interested in Victor Osimhen, insisting that the Nigerian striker is not available for transfer. The 27-year-old has attracted interest from several clubs during the summer transfer window, with Premier League side Arsenal and Saudi Arabian outfit Al-Hilal among those reportedly monitoring his situation. Al-Hilal are said [&#8230;]",
+    "published": "Fri, 14 Aug 2026 07:27:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:27.971212+00:00",
+    "used": false
+  },
+  {
+    "id": "e6c494553855674a",
+    "source": "Leadership Newspaper",
+    "title": "Simeone’s ‘€200m’ Demand For Álvarez-Bara Move Sends Social Media Into Frenzy",
+    "link": "https://leadership.ng/simeones-e200m-demand-for-alvarez-bara-move-sends-social-media-into-frenzy/",
+    "summary": "Atlético Madrid manager Diego Simeone and the Spanish club have supposedly set out a remarkable list of demands that Barcelona would have to meet before they would consider allowing Julián Álvarez to leave the club. According to the tongue-in-cheek statement circulating online, Atlético’s demands include a staggering €200 million transfer fee, the inclusion of Barcelona [&#8230;]",
+    "published": "Fri, 14 Aug 2026 06:56:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:27.971241+00:00",
+    "used": false
+  },
+  {
+    "id": "e2f6ba369a84dc38",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria Beat Hosts Senegal To Win African U18 Beach Volleyball Cup",
+    "link": "https://leadership.ng/nigeria-beat-hosts-senegal-to-win-african-u18-beach-volleyball-cup/",
+    "summary": "Nigeria’s women’s team have been crowned champions of the 2026 African U18 Beach Volleyball Development Cup after defeating hosts Senegal A 2-0 in the final on Thursday. The Nigerian pair of Joy Lawrence and Ifechukwu Odoh produced a dominant display to beat the hosts 21-8, 21-10 and secure the title in Senegal. Lawrence and Odoh [&#8230;]",
+    "published": "Fri, 14 Aug 2026 06:50:48 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:27.971265+00:00",
+    "used": false
+  },
+  {
+    "id": "61c1aaf037b54340",
+    "source": "Leadership Newspaper",
+    "title": "Abuja Tremor: Geological Agency Moves To Strengthen Nigeria’s Earthquake Monitoring System",
+    "link": "https://leadership.ng/abuja-tremor-geological-agency-moves-to-strengthen-nigerias-earthquake-monitoring-system/",
+    "summary": "The Nigerian Geological Survey Agency (NGSA) has called for stronger national capacity to monitor seismic activities and manage geological hazards following the recent earth tremor recorded in parts of Abuja. The agency made the call while assuring residents of the Federal Capital Territory, Abuja, that the tremor recorded on August 4 had completely subsided and [&#8230;]",
+    "published": "Fri, 14 Aug 2026 06:43:29 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T08:12:27.971293+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -41456,6 +41874,28 @@
     "published": "Thu, 13 Aug 2026 18:52:16 +0000",
     "priority": "low",
     "fetched_at": "2026-08-13T20:27:44.448583+00:00",
+    "used": false
+  },
+  {
+    "id": "e99c3c74dfad167b",
+    "source": "Premium Times",
+    "title": "Nigeria’s Kanyinsola Ajayi turns professional, signs with Adidas",
+    "link": "https://www.premiumtimesng.com/news/more-news/902776-nigerias-kanyinsola-ajayi-turns-professional-signs-with-adidas.html",
+    "summary": "<img alt=\"Kanyinsola Ajayi (CREDIT: MakingofChampions)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1067\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003854798.jpg?fit=1600%2C1067&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1600\" /><p>Commonwealth Games bronze medallist Kanyinsola Ajayi has announced the start of his professional athletics career with global sportswear brand Adidas.</p>\n<p>The post <a href=\"https://www.premiu",
+    "published": "Fri, 14 Aug 2026 06:48:29 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-14T08:12:23.588414+00:00",
+    "used": false
+  },
+  {
+    "id": "1593c7dd2f0b4224",
+    "source": "Leadership Newspaper",
+    "title": "Super Eagles Defender Closes-in-on Kano Pillars Move",
+    "link": "https://leadership.ng/super-eagles-defender-closes-in-on-kano-pillars-move/",
+    "summary": "Super Eagles defender Sadiq Ismail is reportedly closing in on a move to Nigeria Premier Football League (NPFL) side Kano Pillars. The right-back has reportedly linked up with the Sai Masu Gida at their pre-season training camp in Katsina as negotiations over a possible transfer continue. Ismail is no stranger to success in the NPFL, [&#8230;]",
+    "published": "Fri, 14 Aug 2026 07:41:05 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-14T08:12:27.971157+00:00",
     "used": false
   }
 ]
