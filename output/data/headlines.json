@@ -1053,7 +1053,7 @@
     "published": "Wed, 15 Jul 2026 16:54:46 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.803307+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "aec3b6d7fc561d28",
@@ -18675,6 +18675,171 @@
     "published": "Fri, 14 Aug 2026 16:32:17 +0000",
     "priority": "high",
     "fetched_at": "2026-08-14T17:56:50.038974+00:00",
+    "used": false
+  },
+  {
+    "id": "24caf1efa3276bdf",
+    "source": "Punch Nigeria",
+    "title": "Asaba highway landing: Jet’s black box overwritten, says NSIB",
+    "link": "https://punchng.com/asaba-highway-landing-jets-black-box-overwritten-says-nsib/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NSIB has revealed the black box of the private jet that landed on an Asaba highway was overwritten, making investigation difficult. Learn more about th\n\nRead More: https://punchng.com/asaba-highway-landing-jets-black-box-overwritten-says-nsib/",
+    "published": "Fri, 14 Aug 2026 20:55:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:51.907201+00:00",
+    "used": false
+  },
+  {
+    "id": "51d9789e0d704822",
+    "source": "Punch Nigeria",
+    "title": "Police raid secessionist hideout, arrest 65-year-old suspect, six others in Anambra",
+    "link": "https://punchng.com/police-raid-secessionist-hideout-arrest-65-year-old-suspect-six-others-in-anambra/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Anambra Police Command raids criminal hideouts, arresting a 65-year-old secessionist suspect and six others, recovering arms and illicit drugs.\n\nRead More: https://punchng.com/police-raid-secessionist-hideout-arrest-65-year-old-suspect-six-others-in-anambra/",
+    "published": "Fri, 14 Aug 2026 20:25:01 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:51.907279+00:00",
+    "used": false
+  },
+  {
+    "id": "e56c3901d19d57f9",
+    "source": "Punch Nigeria",
+    "title": "Abiodun completes 108-unit Buhari estate in Ogun",
+    "link": "https://punchng.com/abiodun-completes-108-unit-buhari-estate-in-ogun/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Governor Dapo Abiodun completes the 108-unit Buhari Estate in Ogun State, transforming the stalled project into a modern residential community. Find out mo\n\nRead More: https://punchng.com/abiodun-completes-108-unit-buhari-estate-in-ogun/",
+    "published": "Fri, 14 Aug 2026 20:06:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:51.907317+00:00",
+    "used": false
+  },
+  {
+    "id": "9464ce114a703369",
+    "source": "Punch Nigeria",
+    "title": "Army rescues nine kidnapped victims, foil terrorist attacks in Niger",
+    "link": "https://punchng.com/army-rescues-nine-kidnapped-victims-foil-terrorist-attacks-in-niger/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian Army troops successfully rescued nine kidnapped victims and foiled terrorist attacks in Niger State, demonstrating commitment to safeguarding comm\n\nRead More: https://punchng.com/army-rescues-nine-kidnapped-victims-foil-terrorist-attacks-in-niger/",
+    "published": "Fri, 14 Aug 2026 19:13:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:51.907452+00:00",
+    "used": false
+  },
+  {
+    "id": "6bc7cc87884e0c95",
+    "source": "Punch Nigeria",
+    "title": "Youths protest EFCC midnight raids in Delta, petition Oborevwori",
+    "link": "https://punchng.com/youths-protest-efcc-midnight-raids-in-delta-petition-oborevwori/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Delta youths protest alleged EFCC midnight raids, forced entry, and intimidation, petitioning Governor Oborevwori for intervention and professional conduct\n\nRead More: https://punchng.com/youths-protest-efcc-midnight-raids-in-delta-petition-oborevwori/",
+    "published": "Fri, 14 Aug 2026 19:11:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:51.907462+00:00",
+    "used": false
+  },
+  {
+    "id": "82aa1bdac051b97f",
+    "source": "Punch Nigeria",
+    "title": "Backlash, support as pastor quits Christianity for Isese practice in Ondo",
+    "link": "https://punchng.com/backlash-support-as-pastor-quits-christianity-for-isese-practice-in-ondo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An Ondo pastor, Olabanjo Felix, renounces Christianity for Isese practice, sparking debate on religious freedom and cultural identity. Read more about the\n\nRead More: https://punchng.com/backlash-support-as-pastor-quits-christianity-for-isese-practice-in-ondo/",
+    "published": "Fri, 14 Aug 2026 18:58:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:51.907476+00:00",
+    "used": false
+  },
+  {
+    "id": "646f1e6a2b23b222",
+    "source": "Premium Times",
+    "title": "Police arrest drug dealer, six others after recovering rifles in abandoned vehicle",
+    "link": "https://www.premiumtimesng.com/news/top-news/902951-police-arrest-drug-dealer-six-others-after-recovering-rifles-in-abandoned-vehicle.html",
+    "summary": "<img alt=\"Police operatives\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1707\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/06/Police-response-to-insecurity-in-Abuja.jpeg?fit=2560%2C1707&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Police said the suspects were arrested during separate operations in the state.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/902951-police-arrest-drug-dealer-six-other",
+    "published": "Fri, 14 Aug 2026 19:14:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:53.039772+00:00",
+    "used": false
+  },
+  {
+    "id": "2c1057619d21ecc5",
+    "source": "Premium Times",
+    "title": "What can Tinubu do differently?, By Remi Ladigbolu",
+    "link": "https://www.premiumtimesng.com/opinion/902949-what-can-tinubu-do-differently-by-remi-ladigbolu.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"595\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Bukoladeremi-Ladigbolu-2.jpeg?fit=515%2C595&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"515\" /><p>There was one question in Zacch Adedeji’s Channels Television interview on Sunday, 9 August, that deserves to survive the noise around the interview. “Anybody who says he is coming,” the Executive Chairman of the Nigeria Revenu",
+    "published": "Fri, 14 Aug 2026 19:02:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:53.039800+00:00",
+    "used": false
+  },
+  {
+    "id": "b79a49f53dc2a7a1",
+    "source": "Premium Times",
+    "title": "How kidnappers murdered woman after collecting $98,700, N30.5m ransoms – Police",
+    "link": "https://www.premiumtimesng.com/news/top-news/902944-how-kidnappers-murdered-woman-after-collecting-98700-n30-5m-ransoms-police.html",
+    "summary": "<img alt=\"The arrested suspects and recovered weapons\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"697\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/The-arrested-suspects-and-recovered-weapons.jpg?fit=1080%2C697&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Police said the kidnappers have been arrested through “human and technical intelligence-led operations conducted in different parts of Nigeria.</p>\n<p>The post <a h",
+    "published": "Fri, 14 Aug 2026 18:39:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:53.039821+00:00",
+    "used": false
+  },
+  {
+    "id": "e9a33a7acef7b0cb",
+    "source": "Leadership Newspaper",
+    "title": "NAQS Postpones Release Of Recruitment Shortlist",
+    "link": "https://leadership.ng/naqs-postpones-release-of-recruitment-shortlist/",
+    "summary": "The Nigeria Agricultural Quarantine Service (NAQS) has postponed the release of shortlisted candidates for its ongoing recruitment exercise, which was initially scheduled for Thursday, August 13. The agency said the decision was necessary to ensure a thorough, transparent and accurate recruitment process. NAQS announced the postponement in a public notice signed by its Director of [&#8230;]",
+    "published": "Fri, 14 Aug 2026 20:19:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:57.097617+00:00",
+    "used": false
+  },
+  {
+    "id": "aab7b6abd966a5cc",
+    "source": "Leadership Newspaper",
+    "title": "76% Of IDPs In Northwest Nigeria Lack Adequate Shelter – IOM",
+    "link": "https://leadership.ng/76-of-idps-in-northwest-nigeria-lack-adequate-shelter-iom/",
+    "summary": "The International Organization for Migration (IOM) has disclosed that 74 per cent of internally displaced persons (IDP) locations in Northwest Nigeria require shelter, exposing thousands of displaced people to difficult and unsafe living conditions. The IOM programme manager and head of sub office, Katsina, Mr John Nahesi disclosed this while briefing journalists during a peacebuilding [&#8230;]",
+    "published": "Fri, 14 Aug 2026 20:17:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:57.097653+00:00",
+    "used": false
+  },
+  {
+    "id": "3302a5dc350578b0",
+    "source": "Leadership Newspaper",
+    "title": "Nimrod Challenges Nigeria’s Beach Volleyball Stars To Conquer Senior Level After U18 Victory",
+    "link": "https://leadership.ng/nimrod-challenges-nigerias-beach-volleyball-stars-to-conquer-senior-level-after-u18-victory/",
+    "summary": "President of the Nigeria Volleyball Federation (NVBF), Musa Nimrod, has hailed Nigeria’s U-18 beach volleyball triumph and challenged the country’s emerging stars to translate their dominance at youth level into success on the senior international stage. Nimrod, who also oversees the CFPP Beach Volleyball Commission, praised the players and coaching crew for their resilience during [&#8230;]",
+    "published": "Fri, 14 Aug 2026 20:10:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:57.097694+00:00",
+    "used": false
+  },
+  {
+    "id": "7ef84c61d378560c",
+    "source": "Leadership Newspaper",
+    "title": "C’River 2027: BBNaija Star Phyna, Bloggers Stage 1 Million-man March For Otu, Odey",
+    "link": "https://leadership.ng/criver-2027-bbnaija-star-phyna-bloggers-stage-1-million-man-march-for-otu-odey/",
+    "summary": "Big Brother Naija Season 7 winner, Josephina Otabor, popularly known as Phyna, and members of the National Association of Bloggers have mobilised support for the second-term bid of Cross River State Governor, Senator Bassey Otu, and his Deputy, Rt. Hon. Peter Odey, staging a one-million-man march in Calabar at the weekend in endorsement of the [&#8230;]",
+    "published": "Fri, 14 Aug 2026 20:01:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:57.097803+00:00",
+    "used": false
+  },
+  {
+    "id": "dee821d9658925ae",
+    "source": "Leadership Newspaper",
+    "title": "Davido Fires Back At Fan Who Questioned His Presence In London Ahead Of Osun Election",
+    "link": "https://leadership.ng/davido-fires-back-at-fan-who-questioned-his-presence-in-london-ahead-of-osun-election/",
+    "summary": "Afrobeats superstar David Adeleke, popularly known as Davido, has responded to a social media user who questioned his decision to remain in London just days before the Osun State governorship election. The exchange followed concerns from some Nigerians over whether the singer would return to Nigeria in time to participate in the election and support [&#8230;]",
+    "published": "Fri, 14 Aug 2026 19:57:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:57.097811+00:00",
+    "used": false
+  },
+  {
+    "id": "99b643584088c76f",
+    "source": "Leadership Newspaper",
+    "title": "Davido Slams Sowore Over Comments On Governor Adeleke",
+    "link": "https://leadership.ng/davido-slams-sowore-over-comments-on-governor-adeleke/",
+    "summary": "&#160; Nigerian music star David Adeleke, popularly known as Davido, has criticized politician and former presidential candidate Omoyele Sowore following remarks made against his uncle, Osun State Governor Ademola Adeleke. &#160; The clash began after Sowore, the flagbearer of the African Action Congress (AAC), appeared on News Central TV and questioned Governor Adeleke&#8217;s intellectual capacity [&#8230;]",
+    "published": "Fri, 14 Aug 2026 19:55:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-14T20:19:57.097817+00:00",
     "used": false
   },
   {
@@ -39553,6 +39718,171 @@
     "published": "Fri, 14 Aug 2026 15:57:34 +0000",
     "priority": "medium",
     "fetched_at": "2026-08-14T17:56:50.039114+00:00",
+    "used": false
+  },
+  {
+    "id": "1c80a5d40f4653af",
+    "source": "Punch Nigeria",
+    "title": "Fire guts part of Gombe technology centre",
+    "link": "https://punchng.com/fire-guts-part-of-gombe-technology-centre/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A fire outbreak at Gombe&#8217;s Technology Incubation Centre destroyed N4m worth of property. Federal Fire Service contained the Gombe fire, saving N15m.\n\nRead More: https://punchng.com/fire-guts-part-of-gombe-technology-centre/",
+    "published": "Fri, 14 Aug 2026 20:50:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907238+00:00",
+    "used": false
+  },
+  {
+    "id": "2c29a55eb883380d",
+    "source": "Punch Nigeria",
+    "title": "Family seeks N17m for three-month-old’s heart surgery",
+    "link": "https://punchng.com/family-seeks-n17m-for-three-month-olds-heart-surgery/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Nigerian family is urgently seeking N17m for their three-month-old baby&#8217;s corrective heart surgery. Learn how you can help save Robiah&#8217;s life.\n\nRead More: https://punchng.com/family-seeks-n17m-for-three-month-olds-heart-surgery/",
+    "published": "Fri, 14 Aug 2026 20:49:31 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907266+00:00",
+    "used": false
+  },
+  {
+    "id": "93d488cace9e1946",
+    "source": "Punch Nigeria",
+    "title": "El-Rufai’s son celebrates parents on 27th wedding anniversary",
+    "link": "https://punchng.com/el-rufais-son-celebrates-parents-on-27th-wedding-anniversary/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Mohammed El-Rufai celebrates his parents, Nasir and Asia El-Rufai, on their 27th wedding anniversary, praising his mother&#8217;s compassion and support.\n\nRead More: https://punchng.com/el-rufais-son-celebrates-parents-on-27th-wedding-anniversary/",
+    "published": "Fri, 14 Aug 2026 20:17:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907305+00:00",
+    "used": false
+  },
+  {
+    "id": "a32d5ab02da08bb7",
+    "source": "Punch Nigeria",
+    "title": "Mangione admits 2024 shooting of US health boss, pleads guilty",
+    "link": "https://punchng.com/mangione-admits-2024-shooting-of-us-health-boss-pleads-guilty/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Luigi Mangione pleads guilty to stalking charges, admitting to the 2024 shooting of UnitedHealthcare CEO Brian Thompson. Get the latest on this high-profil\n\nRead More: https://punchng.com/mangione-admits-2024-shooting-of-us-health-boss-pleads-guilty/",
+    "published": "Fri, 14 Aug 2026 19:54:23 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907335+00:00",
+    "used": false
+  },
+  {
+    "id": "9b23753678b0694a",
+    "source": "Punch Nigeria",
+    "title": "Shakhtar Donetsk target Stamford Bridge for Champions League home games",
+    "link": "https://punchng.com/shakhtar-donetsk-target-stamford-bridge-for-champions-league-home-games/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Shakhtar Donetsk aims to play Champions League home games at Chelsea&#8217;s Stamford Bridge. Learn why the Ukrainian club chose the London venue.\n\nRead More: https://punchng.com/shakhtar-donetsk-target-stamford-bridge-for-champions-league-home-games/",
+    "published": "Fri, 14 Aug 2026 19:53:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907360+00:00",
+    "used": false
+  },
+  {
+    "id": "bffa6be6fa06b7c9",
+    "source": "Punch Nigeria",
+    "title": "Two die cleaning sewage in Abia",
+    "link": "https://punchng.com/two-die-cleaning-sewage-in-abia/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Tragedy strikes in Abia as two men die manually evacuating sewage. The Abia State Orientation Agency warns residents against this illegal and dangerous pra\n\nRead More: https://punchng.com/two-die-cleaning-sewage-in-abia/",
+    "published": "Fri, 14 Aug 2026 19:41:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907378+00:00",
+    "used": false
+  },
+  {
+    "id": "c888a824be703f00",
+    "source": "Punch Nigeria",
+    "title": "Liverpool sell minority stake to Jeff Bezos-backed consortium",
+    "link": "https://punchng.com/liverpool-sell-minority-stake-to-jeff-bezos-backed-consortium/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Liverpool FC announces a strategic minority investment from 1892 Holdings, a consortium including Jeff Bezos. This Liverpool investment supports long-term\n\nRead More: https://punchng.com/liverpool-sell-minority-stake-to-jeff-bezos-backed-consortium/",
+    "published": "Fri, 14 Aug 2026 19:33:33 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907398+00:00",
+    "used": false
+  },
+  {
+    "id": "53198f16806b7326",
+    "source": "Punch Nigeria",
+    "title": "VIDEO: Hospital building collapses in Cross River",
+    "link": "https://punchng.com/video-hospital-building-collapses-in-cross-river/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A hospital building in Calabar, Cross River State, has collapsed following a landslide triggered by heavy rainfall. Watch the video of the hospital collaps\n\nRead More: https://punchng.com/video-hospital-building-collapses-in-cross-river/",
+    "published": "Fri, 14 Aug 2026 19:29:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907417+00:00",
+    "used": false
+  },
+  {
+    "id": "b1c5e8e0a0a3b73c",
+    "source": "Punch Nigeria",
+    "title": "How to apply for FG’s ₦5m initiative for young entrepreneurs",
+    "link": "https://punchng.com/how-to-apply-for-fgs-%e2%82%a65m-initiative-for-young-entrepreneurs/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Learn how to apply for the Federal Government&#8217;s N5m initiative for young Nigerian entrepreneurs. Get non-dilutive funding and business support.\n\nRead More: https://punchng.com/how-to-apply-for-fgs-%e2%82%a65m-initiative-for-young-entrepreneurs/",
+    "published": "Fri, 14 Aug 2026 19:14:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:51.907438+00:00",
+    "used": false
+  },
+  {
+    "id": "e1ab81405460b714",
+    "source": "Premium Times",
+    "title": "FG seeks African-led research, partnerships to tackle hepatobiliary cancers",
+    "link": "https://www.premiumtimesng.com/news/top-news/902938-fg-seeks-african-led-research-partnerships-to-tackle-hepatobiliary-cancers.html",
+    "summary": "<img alt=\"The Minister of State for Health and Social Welfare, Iziaq Salako\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"855\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/image0.jpeg?fit=1280%2C855&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>He also advocated the use of digital health, genomics and artificial intelligence, where they could strengthen cancer prevention, diagnosis, treatment and surveillance.</p>\n<p>Th",
+    "published": "Fri, 14 Aug 2026 18:14:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:53.039855+00:00",
+    "used": false
+  },
+  {
+    "id": "f0629a24355c5163",
+    "source": "Premium Times",
+    "title": "JUST IN: NAHCON announces 2027 Hajj fares, fixes payment deadline",
+    "link": "https://www.premiumtimesng.com/news/top-news/902934-just-in-nahcon-announces-2027-hajj-fares-fixes-payment-deadline.html",
+    "summary": "<img alt=\"NAHCON Chairman, Ismaila Yusuf/\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"400\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Abba-Ismail-Yusuf-644x400-1.jpeg?fit=644%2C400&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"644\" /><p>NAHCON said intending pilgrims who had already deposited ₦5 million must pay the outstanding balance to complete their registration.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news",
+    "published": "Fri, 14 Aug 2026 17:57:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:53.039902+00:00",
+    "used": false
+  },
+  {
+    "id": "9a30d3a4970bcbb4",
+    "source": "Leadership Newspaper",
+    "title": "UK Opens 2026/27 Commonwealth Fellowship: How Nigerians Can Apply Before August 25",
+    "link": "https://leadership.ng/uk-opens-2026-27-commonwealth-fellowship-how-nigerians-can-apply-before-august-25/",
+    "summary": "The United Kingdom has opened applications for the 2026/27 Commonwealth Fellowship Programme, offering fully funded opportunities to mid-career professionals and university academics from eligible Commonwealth countries, including Nigeria. The UK in Nigeria announced the opening in a post on its X handle on Thursday, urging qualified candidates to submit their applications before the August 25, [&#8230;]",
+    "published": "Fri, 14 Aug 2026 20:13:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:57.097683+00:00",
+    "used": false
+  },
+  {
+    "id": "512d9be6bd400ef7",
+    "source": "Leadership Newspaper",
+    "title": "China To Provide Over N40bn In Grant Assistance To Nigeria",
+    "link": "https://leadership.ng/china-to-provide-over-n40bn-in-grant-assistance-to-nigeria/",
+    "summary": "The Government of the People’s Republic of China has pledged to provide over N40 billion (RMB 200 million) in grant assistance to Nigeria as part of measures to enhance the diplomatic ties between both countries aimed at helping Nigeria in some of its developmental needs. Indications to this development emerged when Chinese Ambassador to Nigeria [&#8230;]",
+    "published": "Fri, 14 Aug 2026 20:09:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:57.097723+00:00",
+    "used": false
+  },
+  {
+    "id": "ab1ce54eefd91f10",
+    "source": "Leadership Newspaper",
+    "title": "NAHCON Announces 2027 Hajj Fare, Warns Intending Pilgrims Over Payment Deadline",
+    "link": "https://leadership.ng/nahcon-announces-2027-hajj-fare-warns-intending-pilgrims-over-payment-deadline/",
+    "summary": "The National Hajj Commission of Nigeria (NAHCON) has announced the Federal Government-approved fares for the 2027 Hajj, with intending pilgrims required to complete their payments ahead of strict deadlines set for the pilgrimage. The approved fares vary according to departure zones, with pilgrims from the Maiduguri/Yola Zone to pay ₦7,560,822, those from the Northern Zone [&#8230;]",
+    "published": "Fri, 14 Aug 2026 20:03:42 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:57.097752+00:00",
+    "used": false
+  },
+  {
+    "id": "f1f5789599fa4423",
+    "source": "Leadership Newspaper",
+    "title": "𝗡𝗕𝗧𝗜 𝗜𝗻𝗮𝘂𝗴𝘂𝗿𝗮𝘁𝗲𝘀 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗚𝗿𝗼𝘂𝗽 𝗧𝗼 𝗖𝗼𝗼𝗿𝗱𝗶𝗻𝗮𝘁𝗲 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻 𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗶𝗮𝗹𝗶sa𝘁𝗶𝗼𝗻 𝗜𝗻 𝗡𝗶𝗴𝗲𝗿𝗶𝗮",
+    "link": "https://leadership.ng/%f0%9d%97%a1%f0%9d%97%95%f0%9d%97%a7%f0%9d%97%9c-%f0%9d%97%9c%f0%9d%97%bb%f0%9d%97%ae%f0%9d%98%82%f0%9d%97%b4%f0%9d%98%82%f0%9d%97%bf%f0%9d%97%ae%f0%9d%98%81%f0%9d%97%b2%f0%9d%98%80-%f0%9d%97%a7/",
+    "summary": "The National Board for Technology Incubation (NBTI) has established the Technical Working Group (TWG) to coordinate innovation commercialisation activities and data in Nigeria. While inaugurating the TWG in Abuja, the Director General of NBTI, Dr Kazeem Kolawole Raji, said the Agency has the mandate to lead and coordinate innovation commercialisation activities in Nigeria. He explained [&#8230;]",
+    "published": "Fri, 14 Aug 2026 20:03:37 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-14T20:19:57.097786+00:00",
     "used": false
   },
   {
