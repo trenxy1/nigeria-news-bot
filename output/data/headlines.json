@@ -1064,7 +1064,7 @@
     "published": "Wed, 15 Jul 2026 16:28:01 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.803361+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "2a2dd5b1f093d0b8",
@@ -18840,6 +18840,248 @@
     "published": "Fri, 14 Aug 2026 19:55:40 +0000",
     "priority": "high",
     "fetched_at": "2026-08-14T20:19:57.097817+00:00",
+    "used": false
+  },
+  {
+    "id": "c215734768113a05",
+    "source": "Punch Nigeria",
+    "title": "Osun Speaker’s residence surrounded by armed personnel, says Adeleke campaign",
+    "link": "https://punchng.com/osun-speakers-residence-surrounded-by-armed-personnel-says-adeleke-campaign/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Adeleke campaign raises alarm as Osun Speaker&#8217;s residence is surrounded by armed personnel on election day, preventing movement. Clarification sought.\n\nRead More: https://punchng.com/osun-speakers-residence-surrounded-by-armed-personnel-says-adeleke-campaign/",
+    "published": "Sat, 15 Aug 2026 08:05:09 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:07.128321+00:00",
+    "used": false
+  },
+  {
+    "id": "beb5867e992c4717",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: Osun gov poll holds amid vote-buying allegations, Atiku sues Tinubu, other top stories",
+    "link": "https://punchng.com/morning-recap-osun-gov-poll-holds-amid-vote-buying-allegations-atiku-sues-tinubu-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Osun governorship election is marred by vote-buying allegations. Also, Atiku sues Tinubu over alleged forged documents. Get the full morning recap.\n\nRead More: https://punchng.com/morning-recap-osun-gov-poll-holds-amid-vote-buying-allegations-atiku-sues-tinubu-other-top-stories/",
+    "published": "Sat, 15 Aug 2026 07:52:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:07.128341+00:00",
+    "used": false
+  },
+  {
+    "id": "da1d8a4e5d00a31d",
+    "source": "Punch Nigeria",
+    "title": "Gov poll: Soldiers trying to block me from entering Osun — Davido",
+    "link": "https://punchng.com/gov-poll-soldiers-trying-to-block-me-from-entering-osun-davido/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Afrobeats star Davido alleges soldiers are trying to prevent his entry into Osun State during the governorship election, despite statewide movement restric\n\nRead More: https://punchng.com/gov-poll-soldiers-trying-to-block-me-from-entering-osun-davido/",
+    "published": "Sat, 15 Aug 2026 07:05:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:07.128362+00:00",
+    "used": false
+  },
+  {
+    "id": "85a59f8ff5efa76e",
+    "source": "Punch Nigeria",
+    "title": "South Korea president proposes talks with North to end Korean War",
+    "link": "https://punchng.com/south-korea-president-proposes-talks-with-north-to-end-korean-war/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "South Korean President Lee Jae Myung proposes talks with North Korea to formally end the Korean War, despite Pyongyang&#8217;s deepening ties with Russia.\n\nRead More: https://punchng.com/south-korea-president-proposes-talks-with-north-to-end-korean-war/",
+    "published": "Sat, 15 Aug 2026 07:00:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:07.128370+00:00",
+    "used": false
+  },
+  {
+    "id": "202484dcff006d21",
+    "source": "Punch Nigeria",
+    "title": "PHOTOS: Obi visits Benue attack victims, urges FG to act",
+    "link": "https://punchng.com/photos-obi-visits-benue-attack-victims-urges-fg-to-act/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Peter Obi visits communities in Benue State affected by recent attacks, urging the Federal Government to intensify efforts to protect lives and property.\n\nRead More: https://punchng.com/photos-obi-visits-benue-attack-victims-urges-fg-to-act/",
+    "published": "Sat, 15 Aug 2026 06:44:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:07.128384+00:00",
+    "used": false
+  },
+  {
+    "id": "64a3ec95329cb2b6",
+    "source": "Punch Nigeria",
+    "title": "I’m not against Enyimba Economic City project — Otti",
+    "link": "https://punchng.com/im-not-against-enyimba-economic-city-project-otti/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Abia State Governor Alex Otti clarifies his stance on the Enyimba Economic City project, insisting on transparency and proper execution for the development\n\nRead More: https://punchng.com/im-not-against-enyimba-economic-city-project-otti/",
+    "published": "Sat, 15 Aug 2026 05:30:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:07.128468+00:00",
+    "used": false
+  },
+  {
+    "id": "8646f786e0a72e71",
+    "source": "Punch Nigeria",
+    "title": "Lakurawa terrorists kill four soldiers in Sokoto",
+    "link": "https://punchng.com/lakurawa-terrorists-kill-four-soldiers-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Suspected Lakurawa terrorists attacked Kebbe town in Sokoto, killing four soldiers and looting shops. Get the latest details on the Sokoto attack.\n\nRead More: https://punchng.com/lakurawa-terrorists-kill-four-soldiers-in-sokoto/",
+    "published": "Sat, 15 Aug 2026 05:02:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:07.128500+00:00",
+    "used": false
+  },
+  {
+    "id": "d432bf4566f5d382",
+    "source": "Punch Nigeria",
+    "title": "NLC moves against pro-Tinubu group, queries Lagos chairman",
+    "link": "https://punchng.com/nlc-moves-against-pro-tinubu-group-queries-lagos-chairman/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A fresh internal crisis brews in the NLC as the national secretariat queries its Lagos chairman over her involvement with a pro-Tinubu group, Working Peopl\n\nRead More: https://punchng.com/nlc-moves-against-pro-tinubu-group-queries-lagos-chairman/",
+    "published": "Sat, 15 Aug 2026 05:01:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:07.128505+00:00",
+    "used": false
+  },
+  {
+    "id": "ef2ab887817fd4b6",
+    "source": "Premium Times",
+    "title": "Süper Lig: Osimhen scores twice as Galatasaray held by newly promoted Çorum",
+    "link": "https://www.premiumtimesng.com/sports/football/902984-super-lig-osimhen-scores-twice-as-galatasaray-held-by-newly-promoted-corum.html",
+    "summary": "<img alt=\"Victor Osimhen (CREDIT: Galatasaray on X)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"750\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Untitled-design-26-1.jpg?fit=1080%2C750&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>While Osimhen's brace rescued a point, Galatasaray will need to improve significantly if they are to defend their Süper Lig crown successfully</p>\n<p>The post <a href=\"https://www.premiumti",
+    "published": "Sat, 15 Aug 2026 07:21:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:08.262447+00:00",
+    "used": false
+  },
+  {
+    "id": "90815a4a1079f216",
+    "source": "Premium Times",
+    "title": "IOM says scarce funds threaten North-west peacebuilding",
+    "link": "https://www.premiumtimesng.com/news/top-news/902974-iom-says-scarce-funds-threaten-north-west-peacebuilding.html",
+    "summary": "<img alt=\"Sharon Dimanche, Chief of Mission of IOM Nigeria\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"815\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/HDMyrAZWsAAbrxt.jpg?fit=1170%2C815&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1170\" /><p>IOM says an EU-funded peacebuilding project in Katsina and Zamfara has achieved about 87 per cent of its planned activities, but warns that funding shortages could make it difficult to su",
+    "published": "Sat, 15 Aug 2026 07:06:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:08.262496+00:00",
+    "used": false
+  },
+  {
+    "id": "e77533ab12bf661f",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Adeleke, Oyebamiji, Salaam, 12 others battle for governorship (LIVE UPDATES)",
+    "link": "https://www.premiumtimesng.com/news/headlines/902969-osundecides2026-adeleke-oyebamiji-salaam-12-others-battle-for-governorship-live-updates.html",
+    "summary": "<img alt=\"Osundecides2026\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1143\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Mapping-Herbert-Wigwes-Global-Financial-Web-2.png?fit=2048%2C1143&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>About 1.9 million voters in Osun State will today decide who governs the state in the next four years.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/headlines/902969-osundec",
+    "published": "Sat, 15 Aug 2026 05:30:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:08.262513+00:00",
+    "used": false
+  },
+  {
+    "id": "3c6a6614d6cbca29",
+    "source": "Premium Times",
+    "title": "Court stops Imo govt, police from disrupting Rep’s rallies, removing billboards",
+    "link": "https://www.premiumtimesng.com/news/top-news/902961-court-stops-imo-govt-police-from-disrupting-reps-rallies-removing-billboards.html",
+    "summary": "<img alt=\"Ikenga Ugochinyere [Photo Credit@The Guardian Nigeria News]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"667\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/11/Ikenga-Imo-Ugochinyere-.jpg?fit=1000%2C667&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1000\" /><p>The federal lawmaker filed the suit after the Imo State Government issued a directive via a letter on 15 June limiting the federal lawmaker to a maximum of six billboar",
+    "published": "Fri, 14 Aug 2026 23:29:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:08.262579+00:00",
+    "used": false
+  },
+  {
+    "id": "d55862088d9a484c",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Yiaga to deploy AI, PRVT to scrutinise governorship election results",
+    "link": "https://www.premiumtimesng.com/news/top-news/902954-osundecides2026-yiaga-to-deploy-ai-prvt-to-scrutinise-governorship-election-results.html",
+    "summary": "<img alt=\"Executive Director, Yiaga Africa, Samson Itodo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1920\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_4467-scaled.jpeg?fit=2560%2C1920&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Yiaga said it would combine its Process and Results Verification for Transparency (PRVT) methodology with its Election Result Analysis Dashboard (ERAD 2.0) to assess both the electoral p",
+    "published": "Fri, 14 Aug 2026 22:14:53 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:08.262639+00:00",
+    "used": false
+  },
+  {
+    "id": "9e87cc77f2206d2e",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Army, police mount checkpoints as INEC moves sensitive materials to registration centres",
+    "link": "https://www.premiumtimesng.com/news/more-news/902953-osundecides2026-army-police-mount-checkpoints-as-inec-moves-sensitive-materials-to-registration-centres.html",
+    "summary": "<img alt=\"Nigerian Police officers on duty\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"391\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/08/admin-ajax-81-1.jpg?fit=600%2C391&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>In most of the INEC offices, the distribution of sensitive materials to Registration Area Centres (RACs) began as early as 10 a.m., with nearly all the offices visited having completed the distribution.</p",
+    "published": "Fri, 14 Aug 2026 20:55:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:08.262650+00:00",
+    "used": false
+  },
+  {
+    "id": "4d35c33bc28dc2ef",
+    "source": "Leadership Newspaper",
+    "title": "Osun Votes, Nigeria Watches: What The Poll Could Mean For 2027",
+    "link": "https://leadership.ng/osun-votes-nigeria-watches-what-the-poll-could-mean-for-2027/",
+    "summary": "ADEMU IDAKWO writes about today’s gubernatorial election in Osun State and its implications for the country’s 2027 general election As 2,339,233 registered voters prepare to head to 3,763 polling units across Osun State to elect a governor for another four-year term today, the governorship election is attracting attention far beyond the state, emerging as the [&#8230;]",
+    "published": "Sat, 15 Aug 2026 07:09:16 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:12.277577+00:00",
+    "used": false
+  },
+  {
+    "id": "b0b9b4380409d9ec",
+    "source": "Leadership Newspaper",
+    "title": "No One Can Defeat Adeleke In Osun Today – Accord Party Spokesman",
+    "link": "https://leadership.ng/no-one-can-defeat-adeleke-in-osun-today-accord-party-spokesman/",
+    "summary": "Pelumi Olajengbesi, the spokesman for the Ademola Adeleke Campaign Organisation, Imole Campaign Council, speaks with Ademu Idakwo about the conditions under which his party and its candidate would accept the outcome of today&#8217;s governorship election in Osun State. As a major contender in this election, how do you assess the Accord Party&#8217;s chances of winning [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:58:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:12.277604+00:00",
+    "used": false
+  },
+  {
+    "id": "2d59253597a05067",
+    "source": "Leadership Newspaper",
+    "title": "Troops Foil Terrorists’ Attacks, Rescue 9 Abductees In Niger",
+    "link": "https://leadership.ng/troops-foil-terrorists-attacks-rescue-9-abductees-in-niger/",
+    "summary": "Troops of 18 Brigade have foiled terrorists’ attacks and rescued nine Kidnap victims during operations in Mariga and Rijau local government areas of Niger State. A statement by the acting assistant director, Army Public Relations HQ 18 Brigade, Bida, Captain Adebayo Adewumi said troops of Nigerian Army Training Centre (NATRAC) Admin Battalion, deployed at Kotonkoro, [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:52:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:12.277621+00:00",
+    "used": false
+  },
+  {
+    "id": "b44786988103c686",
+    "source": "Leadership Newspaper",
+    "title": "APC Lawmaker Drags Party, INEC To Court Over Benue Assembly Ticket",
+    "link": "https://leadership.ng/apc-lawmaker-drags-party-inec-to-court-over-benue-assembly-ticket/",
+    "summary": "A member of the Benue State House of Assembly, Mathew Damkor, has dragged the All Progressives Congress (APC) and the Independent National Electoral Commission (INEC), before a Federal High Court, to recognise him as the party’s authentic candidate for the Tiev State Constituency seat in the 2027 general election. Damkor, who represents the constituency and [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:51:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:12.277631+00:00",
+    "used": false
+  },
+  {
+    "id": "7a718d5b9c78c856",
+    "source": "Leadership Newspaper",
+    "title": "Police Secure Conviction Of 3 Persons In Adamawa",
+    "link": "https://leadership.ng/police-secure-conviction-of-3-persons-in-adamawa/",
+    "summary": "The Adamawa State Police Command has secured the conviction of three persons for criminal trespass, house-breaking and theft, assisting in the concealment of stolen property and receiving stolen property. The case followed a complaint lodged by Ahmad Aliyu of Jimeta, who reported that one John Ishaya allegedly broke into his residence at about 3am and [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:50:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:12.277639+00:00",
+    "used": false
+  },
+  {
+    "id": "c15fd9a7eedaee0a",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria Needs Diaspora Capital, Expertise – Tinubu",
+    "link": "https://leadership.ng/nigeria-needs-diaspora-capital-expertise-tinubu/",
+    "summary": "President Bola Tinubu has commended Nigerians in the diaspora for their courage, enterprise, resilience, and outstanding contributions to the global economy and Nigeria’s image. President Tinubu, represented by his Chief of Staff, Femi Gbajabiamila, stated this while declaring open a three-day Nigeria Diaspora Economic Conference (NIDEC) 2026 at the Apollo Convention Centre, Toronto, Canada. He [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:49:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:12.277646+00:00",
+    "used": false
+  },
+  {
+    "id": "9aca0c734dc1a46f",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026:INEC Officials Arrive With Voting Materials At Ogooluwa Kitan 1",
+    "link": "https://leadership.ng/osun-election-2026inec-officials-arrive-with-voting-materials-at-ogooluwa-kitan-1/",
+    "summary": "The INEC officials arrived at the Ogooluwa Kitan 1 polling unit in Osogbo, Osun State, a few minutes after 7:15 a.m., with the necessary voting materials. Their arrival followed the early turnout of voters who had gathered at the polling unit, waiting for the electoral process to commence. The officials immediately began preparations for the [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:45:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:12.277653+00:00",
+    "used": false
+  },
+  {
+    "id": "1d2b82b61bb59a7c",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026: Voters Arrive Early At Ogooluwa Kitan 1, Await Officials",
+    "link": "https://leadership.ng/osun-election-2026-voters-arrive-early-at-ogooluwa-kitan-1-await-officials/",
+    "summary": "At Ogooluwa Kitan 1 in Osogbo, residents had formed queues by 7:15 a.m, waiting for INEC officials to arrive and begin accreditation. The early turnout comes as Osun heads to the polls to elect a new governor, with 2,339,233 registered voters across the state’s 3,763 polling units. Osogbo Local Government, which includes the Ogooluwa Kitan [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:40:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T07:27:12.277662+00:00",
     "used": false
   },
   {
@@ -39886,6 +40128,116 @@
     "used": false
   },
   {
+    "id": "f414079b0c6840e5",
+    "source": "Punch Nigeria",
+    "title": "Meet Nigerian professor, Ibrahim Abubakar, appointed CEPI CEO",
+    "link": "https://punchng.com/meet-nigerian-professor-ibrahim-abubakar-appointed-cepi-ceo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian professor Ibrahim Abubakar has been appointed CEO of CEPI. Learn about his background, research, and global health contributions in this profile.\n\nRead More: https://punchng.com/meet-nigerian-professor-ibrahim-abubakar-appointed-cepi-ceo/",
+    "published": "Sat, 15 Aug 2026 06:42:00 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:07.128400+00:00",
+    "used": false
+  },
+  {
+    "id": "cba5500d476df9ba",
+    "source": "Punch Nigeria",
+    "title": "Powerful earthquake sparks mass evacuations in Indonesia",
+    "link": "https://punchng.com/powerful-earthquake-sparks-mass-evacuations-in-indonesia/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A powerful 7.7-magnitude Indonesia earthquake off Flores island sparked mass evacuations and a tsunami warning. Learn about the impact and aftermath.\n\nRead More: https://punchng.com/powerful-earthquake-sparks-mass-evacuations-in-indonesia/",
+    "published": "Sat, 15 Aug 2026 06:38:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:07.128417+00:00",
+    "used": false
+  },
+  {
+    "id": "566a0aaa5db53add",
+    "source": "Punch Nigeria",
+    "title": "WAEC extends 2026 GCE registration deadline to August 28",
+    "link": "https://punchng.com/waec-extends-2026-gce-registration-deadline-to-august-28/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "WAEC extends 2026 GCE registration deadline to August 28. Prospective candidates can now complete their WAEC GCE registration for the computer-based exam.\n\nRead More: https://punchng.com/waec-extends-2026-gce-registration-deadline-to-august-28/",
+    "published": "Sat, 15 Aug 2026 06:36:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:07.128437+00:00",
+    "used": false
+  },
+  {
+    "id": "503edbae13bc5dd2",
+    "source": "Punch Nigeria",
+    "title": "My ancestry search ended in Lagos royal family — US-born Nigerian,  Olomo",
+    "link": "https://punchng.com/my-ancestry-search-ended-in-lagos-royal-family-us-born-nigerian-olomo/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Olomo, a US-born Nigerian, shares her journey of tracing her ancestry, which led her to the Senlu Royal House of Imota in Lagos State. Discover her inspiri\n\nRead More: https://punchng.com/my-ancestry-search-ended-in-lagos-royal-family-us-born-nigerian-olomo/",
+    "published": "Sat, 15 Aug 2026 05:30:03 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:07.128488+00:00",
+    "used": false
+  },
+  {
+    "id": "b5fa2f01dc73ecd4",
+    "source": "Punch Nigeria",
+    "title": "NUPRC plans crude swap to boost refinery supply",
+    "link": "https://punchng.com/nuprc-plans-crude-swap-to-boost-refinery-supply/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NUPRC is consulting on a domestic crude oil swap to cut supply costs and ensure more crude is available to Nigerian refineries. Learn more about this initi\n\nRead More: https://punchng.com/nuprc-plans-crude-swap-to-boost-refinery-supply/",
+    "published": "Sat, 15 Aug 2026 05:00:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:07.128520+00:00",
+    "used": false
+  },
+  {
+    "id": "d8f83386dfb8754f",
+    "source": "Punch Nigeria",
+    "title": "EFCC arraigns man over N56m pilgrimage fraud",
+    "link": "https://punchng.com/efcc-arraigns-man-over-n56m-pilgrimage-fraud/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The EFCC has arraigned Lawal Musa for allegedly defrauding individuals of N56 million under the guise of facilitating the 2023 Hajj pilgrimage. Learn more\n\nRead More: https://punchng.com/efcc-arraigns-man-over-n56m-pilgrimage-fraud/",
+    "published": "Sat, 15 Aug 2026 04:58:06 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:07.128534+00:00",
+    "used": false
+  },
+  {
+    "id": "f3ef857756309ede",
+    "source": "Premium Times",
+    "title": "Asaba Incident: Aircraft’s black box data overwritten after crew flew back to Lagos – NSIB",
+    "link": "https://www.premiumtimesng.com/news/more-news/902963-asaba-incident-aircrafts-black-box-data-overwritten-after-crew-flew-back-to-lagos-nsib.html",
+    "summary": "<img alt=\"Director-General of the NSIB, Alex Badeh\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/752180467_122290366652219269_2152974567012239928_n.jpg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The NSIB disclosed the development 65 days after the 10 June incident, saying the aircraft’s return to Lagos before investigators arrived resulted in the over",
+    "published": "Fri, 14 Aug 2026 23:46:13 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:08.262563+00:00",
+    "used": false
+  },
+  {
+    "id": "af06301a42be1d1c",
+    "source": "Premium Times",
+    "title": "NAHCON announces 2027 Hajj fares, fixes payment deadline",
+    "link": "https://www.premiumtimesng.com/news/top-news/902934-nahcon-announces-2027-hajj-fares-fixes-payment-deadline.html",
+    "summary": "<img alt=\"NAHCON Chairman, Ismaila Yusuf/\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"400\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Abba-Ismail-Yusuf-644x400-1.jpeg?fit=644%2C400&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"644\" /><p>NAHCON said intending pilgrims who had already deposited ₦5 million must pay the outstanding balance to complete their registration.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news",
+    "published": "Fri, 14 Aug 2026 17:57:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:08.262751+00:00",
+    "used": false
+  },
+  {
+    "id": "a6ab03ecd95c014c",
+    "source": "Leadership Newspaper",
+    "title": "Vom People Can’t Have It Both Ways",
+    "link": "https://leadership.ng/vom-people-cant-have-it-both-ways/",
+    "summary": "By Joe Bitrus Ali Can people demand access to Nigeria’s national opportunities for their own sons and daughters, but in active collusion with their political and traditional leaders, insist that federal establishments located in their territory should be reserved, in practice, for them alone? The answer must be no. There is everything wrong with creating [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:40:07 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:12.277685+00:00",
+    "used": false
+  },
+  {
+    "id": "563fd490f0c30ad9",
+    "source": "Leadership Newspaper",
+    "title": "‘N750bn Capital Injection Positions Insurers To Underwrite Bigger Risks, Drive Growth’",
+    "link": "https://leadership.ng/n750bn-capital-injection-positions-insurers-to-underwrite-bigger-risks-drive-growth/",
+    "summary": "Nigeria’s insurance industry has recorded its biggest capital boost in over a decade, with 48 underwriters successfully meeting the new recapitalization requirements set by the National Insurance Commission (NAICOM). The exercise, which raised the minimum capital base for Life, Non-Life and Reinsurance companies, saw the industry collectively inject over N750 billion in fresh capital through [&#8230;]",
+    "published": "Sat, 15 Aug 2026 06:37:08 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T07:27:12.277712+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -42666,6 +43018,28 @@
     "published": "Fri, 14 Aug 2026 17:34:11 +0000",
     "priority": "low",
     "fetched_at": "2026-08-14T17:56:50.038884+00:00",
+    "used": false
+  },
+  {
+    "id": "39ae864e96589d96",
+    "source": "Punch Nigeria",
+    "title": "Euro 2020 winner Ciro Immobile retires at 36",
+    "link": "https://punchng.com/euro-2020-winner-ciro-immobile-retires-at-36/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Euro 2020 champion Ciro Immobile announces his retirement from professional football at age 36, citing physical pain and family time.\n\nRead More: https://punchng.com/euro-2020-winner-ciro-immobile-retires-at-36/",
+    "published": "Sat, 15 Aug 2026 06:35:04 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-15T07:27:07.128452+00:00",
+    "used": false
+  },
+  {
+    "id": "ca070dd121b7f976",
+    "source": "Premium Times",
+    "title": "Aliyu Zubair takes charge at Al Ahly Wad Madani ahead of CAF Confederation Cup",
+    "link": "https://www.premiumtimesng.com/sports/football/902959-aliyu-zubair-takes-charge-at-al-ahly-wad-madani-ahead-of-caf-confederation-cup.html",
+    "summary": "<img alt=\"Aliyu Zubair been unveiled Credit: Al Ahly Wad Madani Media\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"504\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003860895.jpg?fit=681%2C504&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"681\" /><p>The Nigerian coach was unveiled on Friday during a ceremony in Kigali, Rwanda, where Al Ahly Wad Madani are currently conducting their preparations for the upcoming CAF Confederation ",
+    "published": "Fri, 14 Aug 2026 23:22:42 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-15T07:27:08.262614+00:00",
     "used": false
   }
 ]
