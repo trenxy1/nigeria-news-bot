@@ -1086,7 +1086,7 @@
     "published": "Wed, 15 Jul 2026 15:55:50 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.803456+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "a5d7509cf3f0e217",
@@ -19368,6 +19368,204 @@
     "published": "Sat, 15 Aug 2026 15:30:57 +0000",
     "priority": "high",
     "fetched_at": "2026-08-15T17:27:14.904572+00:00",
+    "used": false
+  },
+  {
+    "id": "11ee8da975836df2",
+    "source": "Punch Nigeria",
+    "title": "#OsunDecides2026: Protect votes during collation, Adeleke urges Tinubu",
+    "link": "https://punchng.com/osundecides2026-protect-votes-during-collation-adeleke-urges-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Osun State Governor, Ademola Adeleke, appeals to President Tinubu to ensure security agencies protect votes during the OsunDecides2026 collation process.\n\nRead More: https://punchng.com/osundecides2026-protect-votes-during-collation-adeleke-urges-tinubu/",
+    "published": "Sat, 15 Aug 2026 19:00:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:47.383697+00:00",
+    "used": false
+  },
+  {
+    "id": "5956137aaa30e61b",
+    "source": "Punch Nigeria",
+    "title": "#OsunDecides2026: Resident alleges error in votes record",
+    "link": "https://punchng.com/osundecides2026-resident-alleges-error-in-votes-record/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An Osun resident alleges an error in recording Accord Party votes during the governorship election. Learn more about the Osun election results controversy.\n\nRead More: https://punchng.com/osundecides2026-resident-alleges-error-in-votes-record/",
+    "published": "Sat, 15 Aug 2026 18:48:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:47.383705+00:00",
+    "used": false
+  },
+  {
+    "id": "3967589c64b0ef3f",
+    "source": "Punch Nigeria",
+    "title": "#OsunDecides2026: Shame APC, we are winning Osun no be Edo – Davido",
+    "link": "https://punchng.com/osundecides2026-shame-apc-we-are-winning-osun-no-be-edo-davido/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Afrobeats star Davido claims Governor Ademola Adeleke is leading in the Osun Election 2026, urging vigilance as votes are counted across the state.\n\nRead More: https://punchng.com/osundecides2026-shame-apc-we-are-winning-osun-no-be-edo-davido/",
+    "published": "Sat, 15 Aug 2026 18:30:29 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:47.383751+00:00",
+    "used": false
+  },
+  {
+    "id": "6ed75e5fd491acde",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Results from registration areas, wards (LIVE UPDATES)",
+    "link": "https://www.premiumtimesng.com/news/headlines/903200-osundecides2026-results-from-registration-areas-wards-live-updates.html",
+    "summary": "<img alt=\"Osun governorship election: Counting ongoing at a polling unit\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"810\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-15-at-12.43.08-1.jpeg?fit=1080%2C810&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>After the results are announced at polling units, they are collated at the wards and subsequently at each of the 30 local governments in Osun State.",
+    "published": "Sat, 15 Aug 2026 19:54:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:48.531871+00:00",
+    "used": false
+  },
+  {
+    "id": "ca84b81b3b39a776",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: APC wins campaign DG Oluwole Oke’s polling unit",
+    "link": "https://www.premiumtimesng.com/news/more-news/903199-osundecides2026-apc-wins-campaign-dg-oluwole-okes-polling-unit.html",
+    "summary": "<img alt=\"APC governorship primary\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/362ec2df-662d-41e2-8b12-678a0e34da7b.jpeg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The Accord Party came second behind the APC in the polling unit.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/903199-osundecides2026-apc-wins-campaign-dg-oluwole",
+    "published": "Sat, 15 Aug 2026 19:40:26 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:48.531911+00:00",
+    "used": false
+  },
+  {
+    "id": "5de2ebeb7aff6ca7",
+    "source": "Premium Times",
+    "title": "Dickson raises concern over monetisation of Nigerian elections",
+    "link": "https://www.premiumtimesng.com/news/top-news/903195-dickson-raises-concern-over-monetisation-of-nigerian-elections.html",
+    "summary": "<img alt=\"Senator Seriake Dickson (PHOTO CREDIT: Henry Seriake Dickson on Facebook)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"413\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/662883761_1461269388726008_2025037948083248087_n-e1774963690395.jpg?fit=640%2C413&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>The National Leader of the Nigeria Democratic Congress made this statement on Saturday in Abuja, following a meeting",
+    "published": "Sat, 15 Aug 2026 19:29:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:48.531958+00:00",
+    "used": false
+  },
+  {
+    "id": "b4b6317b39fb550c",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Adeleke’s Accord Party defeats APC in Oyinlola’s polling unit",
+    "link": "https://www.premiumtimesng.com/news/top-news/903189-osundecides2026-adelekes-accord-party-defeats-apc-in-oyinlolas-polling-unit.html",
+    "summary": "<img alt=\"Olagunsoye Oyinlola\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"414\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/images-9.jpg?fit=738%2C414&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"738\" /><p>Mr Oyinlola withdrew his support for Governor Ademola Adeleke’s re-election bid a few weeks ago and endorsed Bola Oyebamiji of the APC.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/903189-osundecides2",
+    "published": "Sat, 15 Aug 2026 18:50:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:48.531972+00:00",
+    "used": false
+  },
+  {
+    "id": "c23b42fde8f5e8b2",
+    "source": "Premium Times",
+    "title": "2027: Cross River PDP governorship candidate vows to do single term if elected",
+    "link": "https://www.premiumtimesng.com/regional/south-south-regional/903183-2027-cross-river-pdp-governorship-candidate-vows-to-do-single-term-if-elected.html",
+    "summary": "<img alt=\"Mr Arthur Javis Archibong, Cross River PDP governorship candidate\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"677\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Mr-Arthur-Javis-Archibong-Cross-River-PDP-governorship-candidate-e1786817946375.jpg?fit=1080%2C677&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>“I will serve only one term because it represents the balance of the tenure of the Southern Senatorial Dis",
+    "published": "Sat, 15 Aug 2026 18:22:31 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:48.532030+00:00",
+    "used": false
+  },
+  {
+    "id": "0332bee408ca2a88",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Adeleke’s campaign spokesperson wins polling unit",
+    "link": "https://www.premiumtimesng.com/news/more-news/903179-osundecides2026-adelekes-campaign-spokesperson-wins-polling-unit.html",
+    "summary": "<img alt=\"Pelumi Olajengbesi and Gov. Ademola Adeleke of Osun State (PHOTO CREDIT: Facebook @Pelumi Olajengbesi))\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1280\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Pelumi-Olajengbesi-and-Gov.-Ademola-Adeleke-of-Osun-State-e1786817549848.jpg?fit=2048%2C1280&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Mr Olajengbesi has been highly vocal in his support for Governor Adeleke’",
+    "published": "Sat, 15 Aug 2026 18:15:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:48.532053+00:00",
+    "used": false
+  },
+  {
+    "id": "7602955e9c6f430c",
+    "source": "Premium Times",
+    "title": "ADC loses to APC in Aregbesola’s polling unit",
+    "link": "https://www.premiumtimesng.com/news/top-news/903176-adc-loses-to-apc-in-aregbesolas-polling-unit.html",
+    "summary": "<img alt=\"Former Minister of Interior, Rauf Aregbesola\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"676\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/343950-e1786815061151.jpg?fit=1080%2C676&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>The result came as a blow to Mr Aregbesola's political profile as a former governor of Osun State and one of the top national leaders of the ADC.</p>\n<p>The post <a href=\"https://www.pr",
+    "published": "Sat, 15 Aug 2026 17:37:55 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:48.532072+00:00",
+    "used": false
+  },
+  {
+    "id": "f02abbd91eacd75f",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026: Adeleke Takes Early Lead, Polls 177,572 Votes As 303 Wards Report Results",
+    "link": "https://leadership.ng/osun-election-2026-adeleke-takes-early-lead-polls-177572-votes-as-303-wards-report-results/",
+    "summary": "Incumbent Osun State Governor, Ademola Adeleke, has taken an early lead in the ongoing collation of results from Saturday’s governorship election, polling 177,572 votes as results from 303 of the state’s 332 wards are being reported. Adeleke, who is seeking re-election on the platform of the Accord Party, leads his closest challenger, Bola Oyebamiji of [&#8230;]",
+    "published": "Sat, 15 Aug 2026 19:27:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:52.168414+00:00",
+    "used": false
+  },
+  {
+    "id": "6101408f969df4ae",
+    "source": "Leadership Newspaper",
+    "title": "Ranching Proposal: Alia Vows To Put Benue’s Interest First",
+    "link": "https://leadership.ng/ranching-proposal-alia-vows-to-put-benues-interest-first/",
+    "summary": "Benue State governor, Rev. Fr. Hyacinth Alia, has said he will take a decision on the federal government’s proposed pilot ranches in the state based on what is in the best interest of the people. Alia, through his chief press secretary, Sir Tersoo Kula, urged restraint and thoughtful consideration of the proposal, saying there was [&#8230;]",
+    "published": "Sat, 15 Aug 2026 19:10:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:52.168458+00:00",
+    "used": false
+  },
+  {
+    "id": "5285c5819d48b78b",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026: Akande Delivers Pollling Unit To APC",
+    "link": "https://leadership.ng/osun-election-2026-akande-delivers-pollling-unit-to-apc/",
+    "summary": "Former Osun State governor and ex-Interim National Chairman of the All Progressives Congress (APC), Chief Bisi Akande, has delivered his polling unit in Ila Local Government Area for the All Progressives Congress (APC) in today’s governorship election in the state. The APC polled 181 votes at the polling unit, located at Ita Atewogbade II, Isedo [&#8230;]",
+    "published": "Sat, 15 Aug 2026 18:55:42 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:52.168469+00:00",
+    "used": false
+  },
+  {
+    "id": "4fca32aa1d067eda",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026: Adeleke Wins 1st Polling Unit, Defeats APC, ADC, Others",
+    "link": "https://leadership.ng/osun-election-2026-adeleke-wins-1st-polling-unit-defeats-apc-adc-others/",
+    "summary": "&#160; Osun State governor, Ademola Adeleke, has recorded an early victory at his polling unit after the Accord Party defeated the All Progressives Congress (APC), African Democratic Congress (ADC) and other parties at Polling Unit 026, Ward 5, in Osogbo Local Government Area. According to the result declared at the polling unit, Accord polled 57 [&#8230;]",
+    "published": "Sat, 15 Aug 2026 18:37:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:52.168476+00:00",
+    "used": false
+  },
+  {
+    "id": "100b35e13388ab1a",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026: Accord  Party Defeats APC At Oyinlola, Omisore Polling Units",
+    "link": "https://leadership.ng/osun-election-2026-accord-party-defeats-apc-at-oyinlola-omisore-polling-units/",
+    "summary": "The Accord Party has secured victories at the polling units of former Osun State governor, Prince Olagunsoye Oyinlola, in Okuku, Odo-Otin Local Government Area, and former Deputy Governor and ex-National Secretary of the All Progressives Congress (APC), Senator Iyiola Omisore, in Ife East Local Government Area. According to results uploaded on the Independent National Electoral [&#8230;]",
+    "published": "Sat, 15 Aug 2026 18:29:54 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:52.168483+00:00",
+    "used": false
+  },
+  {
+    "id": "23a44ce7da2c69c4",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election: APC Deputy Gov Candidate Commends Voters For Massive Turnout",
+    "link": "https://leadership.ng/osun-election-apc-deputy-gov-candidate-commends-voters-for-massive-turnout/",
+    "summary": "The All Progressives Congress (APC) deputy governorship candidate in the ongoing Osun State governorship election, Kayode Adereti, has commended voters for the massive turnout recorded across the state. ‎Adereti spoke shortly after casting his vote at Ward 11, Unit 3, Ilare, in Ife Central Local Government Area of the state. ‎He described the turnout as [&#8230;]",
+    "published": "Sat, 15 Aug 2026 18:20:46 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:52.168492+00:00",
+    "used": false
+  },
+  {
+    "id": "33d009bce7521f31",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026 : 1,386 Of 3,763 Results Uploaded On INEC’s IReV Portal",
+    "link": "https://leadership.ng/osun-election-2026-1386-of-3763-results-uploaded-on-inecs-irev-portal/",
+    "summary": "The Independent National Electoral Commission (INEC) has uploaded 36.83 per cent of results from Saturday’s Osun State governorship election to its Result Viewing Portal (IReV). Checks by our correspondent on the portal as of 5:30pm showed that results from 1,386 polling units had been uploaded out of the 3,763 expected, representing 36.83 per cent of [&#8230;]",
+    "published": "Sat, 15 Aug 2026 18:19:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:52.168502+00:00",
+    "used": false
+  },
+  {
+    "id": "7fdba2bcbbbeada9",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026: Massive Early Turnout, Peaceful Voting Marred By Ejigbo Violence",
+    "link": "https://leadership.ng/massive-turnout-peaceful-election-in-osun-west-senatorial-district/",
+    "summary": "Voting in the Osun State governorship election was largely peaceful and orderly across the Osun West Senatorial District on Saturday, with voters turning out early in large numbers, although isolated incidents of violence were reported in Ejigbo. In several polling units visited, voters arrived as early as 7:00 a.m., with long queues stretching towards adjoining [&#8230;]",
+    "published": "Sat, 15 Aug 2026 18:14:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-15T20:08:52.168509+00:00",
     "used": false
   },
   {
@@ -40678,6 +40876,105 @@
     "used": false
   },
   {
+    "id": "d6f80a69fd136b8c",
+    "source": "Punch Nigeria",
+    "title": "FULL LIST: Top 20 EPL clubs with biggest player sales",
+    "link": "https://punchng.com/full-list-top-20-epl-clubs-with-biggest-player-sales/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Discover the top 20 EPL clubs that have generated the most revenue from player sales, featuring record-breaking transfers and huge profits.\n\nRead More: https://punchng.com/full-list-top-20-epl-clubs-with-biggest-player-sales/",
+    "published": "Sat, 15 Aug 2026 20:57:39 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:47.383586+00:00",
+    "used": false
+  },
+  {
+    "id": "25e4d867e1895496",
+    "source": "Punch Nigeria",
+    "title": "EPL: Coventry City agree deal to sign Awoniyi",
+    "link": "https://punchng.com/epl-coventry-city-agree-deal-to-sign-awoniyi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Coventry City has agreed a deal to sign Nigerian striker Taiwo Awoniyi from Nottingham Forest. Get the latest on Awoniyi&#8217;s permanent transfer to Frank Lamp\n\nRead More: https://punchng.com/epl-coventry-city-agree-deal-to-sign-awoniyi/",
+    "published": "Sat, 15 Aug 2026 20:33:35 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:47.383618+00:00",
+    "used": false
+  },
+  {
+    "id": "ca9e0c21384b6717",
+    "source": "Punch Nigeria",
+    "title": "EPL: Fernández booed by Chelsea fans in Real Sociedad win",
+    "link": "https://punchng.com/epl-fernandez-booed-by-chelsea-fans-in-real-sociedad-win/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Enzo Fernández was booed by Chelsea fans during a pre-season win over Real Sociedad, following his desire to leave the club. Discover the fan reaction and\n\nRead More: https://punchng.com/epl-fernandez-booed-by-chelsea-fans-in-real-sociedad-win/",
+    "published": "Sat, 15 Aug 2026 20:16:16 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:47.383644+00:00",
+    "used": false
+  },
+  {
+    "id": "106d7298fddd5f7a",
+    "source": "Punch Nigeria",
+    "title": "NFL player blames fertility medication for positive drug test",
+    "link": "https://punchng.com/nfl-player-blames-fertility-medication-for-positive-drug-test/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NFL player Nazeeh Johnson receives a six-game suspension after a positive drug test, blaming fertility medication. Learn more about the NFL suspension and\n\nRead More: https://punchng.com/nfl-player-blames-fertility-medication-for-positive-drug-test/",
+    "published": "Sat, 15 Aug 2026 20:05:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:47.383663+00:00",
+    "used": false
+  },
+  {
+    "id": "c63a166e6cd9c3d7",
+    "source": "Punch Nigeria",
+    "title": "#OsunDecides2026: Aregbesola loses unit to APC, Accord wins PDP treasurer’s unit",
+    "link": "https://punchng.com/osundecides2026-aregbesola-loses-unit-to-apc-accord-wins-pdp-treasurers-unit/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "In OsunDecides2026, ADC&#8217;s Rauf Aregbesola lost his unit to APC, while Accord Party secured a win in PDP Treasurer Diran Odeyemi&#8217;s unit. Follow live updates\n\nRead More: https://punchng.com/osundecides2026-aregbesola-loses-unit-to-apc-accord-wins-pdp-treasurers-unit/",
+    "published": "Sat, 15 Aug 2026 20:02:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:47.383691+00:00",
+    "used": false
+  },
+  {
+    "id": "27eb749e6c75eaa4",
+    "source": "Punch Nigeria",
+    "title": "RMAFC concludes revenue formula, judicial pay review",
+    "link": "https://punchng.com/rmafc-concludes-revenue-formula-judicial-pay-review/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The RMAFC has completed its review of Nigeria&#8217;s Revenue Allocation Formula and judicial remuneration, aiming for a more equitable and sustainable revenue-s\n\nRead More: https://punchng.com/rmafc-concludes-revenue-formula-judicial-pay-review/",
+    "published": "Sat, 15 Aug 2026 18:34:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:47.383727+00:00",
+    "used": false
+  },
+  {
+    "id": "a8f4e858f913fe1e",
+    "source": "Premium Times",
+    "title": "Cameroon journalist held incommunicado for publishing photo",
+    "link": "https://www.premiumtimesng.com/foreign/903184-cameroon-journalist-held-incommunicado-for-publishing-photo.html",
+    "summary": "<img alt=\"A stack of microphones, signifying an illustration of Journalists\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"902\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/07/Journalists.png?fit=1600%2C902&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1600\" /><p>The Anglophone crisis began in 2016 with protests by lawyers and teachers over the appointment of French-speaking officials in the minority English-speaking Northwest and Sou",
+    "published": "Sat, 15 Aug 2026 18:34:41 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:48.532007+00:00",
+    "used": false
+  },
+  {
+    "id": "a6eb2735c5e88a5c",
+    "source": "Leadership Newspaper",
+    "title": "SMEDAN Unveils ₦250,000 Weekly Seed Funding For Young Startup Entrepreneurs",
+    "link": "https://leadership.ng/smedan-unveils-%e2%82%a6250000-weekly-seed-funding-for-young-startup-entrepreneurs/",
+    "summary": "The Small and Medium Enterprises Development Agency of Nigeria (SMEDAN) has unveiled a new entrepreneurship initiative that will provide ₦250,000 in weekly seed funding to selected young startup entrepreneurs as part of a broader plan to support more than 100,000 young Nigerians annually. The initiative, known as the Building Resilient Young Nigerian Entrepreneurs (BRYNE) Project, [&#8230;]",
+    "published": "Sat, 15 Aug 2026 19:42:37 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:52.168389+00:00",
+    "used": false
+  },
+  {
+    "id": "f08c707d544ececc",
+    "source": "Leadership Newspaper",
+    "title": "Abia Bans Manual Sewage Evacuation After 2 Workers Die In Aba",
+    "link": "https://leadership.ng/abia-bans-manual-sewage-evacuation-after-2-workers-die-in-aba/",
+    "summary": "‎ The Abia State Environmental Protection Agency (ASEPA) has banned the manual evacuation of sewage across the state following the deaths of two sewage evacuators in Aba. The Deputy General Manager (DGM), Aba Zone of ASEPA, Okezie Ezengwa, announced the ban while briefing journalists in Aba on the incident. Ezengwa described manual sewage evacuation as [&#8230;]",
+    "published": "Sat, 15 Aug 2026 19:17:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-15T20:08:52.168442+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -43480,6 +43777,17 @@
     "published": "Fri, 14 Aug 2026 23:22:42 +0000",
     "priority": "low",
     "fetched_at": "2026-08-15T07:27:08.262614+00:00",
+    "used": false
+  },
+  {
+    "id": "065cd6b25ebbe19b",
+    "source": "Premium Times",
+    "title": "Enugu gives roadside traders ultimatum to vacate roads",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-east/903192-enugu-gives-roadside-traders-ultimatum-to-vacate-roads.html",
+    "summary": "<img alt=\"Enugu State Commissioner for Transport, Obi Ozor\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"590\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/515541895_24521510334123359_6572373536815686155_n-e1786822031986.jpg?fit=853%2C590&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"853\" /><p>The government also warned against one-way driving in the state.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/regional/ssouth-eas",
+    "published": "Sat, 15 Aug 2026 19:29:58 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-15T20:08:48.531947+00:00",
     "used": false
   }
 ]
