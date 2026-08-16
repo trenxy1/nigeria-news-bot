@@ -1119,7 +1119,7 @@
     "published": "Wed, 15 Jul 2026 15:11:03 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.803567+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "f39178c85cac923f",
@@ -20028,6 +20028,292 @@
     "published": "Sun, 16 Aug 2026 16:04:16 +0000",
     "priority": "high",
     "fetched_at": "2026-08-16T17:26:25.039831+00:00",
+    "used": false
+  },
+  {
+    "id": "35e67d1d5a981908",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: Your strides paid off, NGF hails Adeleke’s re-election",
+    "link": "https://punchng.com/osun-poll-your-strides-paid-off-ngf-hails-adelekes-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Nigeria Governors&#8217; Forum congratulates Osun State Governor Ademola Adeleke on his re-election, citing his strides and the electorate&#8217;s confidence. Lear\n\nRead More: https://punchng.com/osun-poll-your-strides-paid-off-ngf-hails-adelekes-re-election/",
+    "published": "Sun, 16 Aug 2026 20:36:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688679+00:00",
+    "used": false
+  },
+  {
+    "id": "89d19a9bd50aed29",
+    "source": "Punch Nigeria",
+    "title": "Strikes kill 19 in Russia, Ukraine",
+    "link": "https://punchng.com/strikes-kill-19-in-russia-ukraine/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Recent strikes in Russia and Ukraine have killed 19 civilians, marking the highest death toll since 2022. Both nations escalate long-range attacks.\n\nRead More: https://punchng.com/strikes-kill-19-in-russia-ukraine/",
+    "published": "Sun, 16 Aug 2026 20:21:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688696+00:00",
+    "used": false
+  },
+  {
+    "id": "8ea92fd86700c335",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: ADC candidate congratulates Adeleke, says democracy has prevailed",
+    "link": "https://punchng.com/osun-poll-adc-candidate-congratulates-adeleke-says-democracy-has-prevailed/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "ADC candidate Najeem Salaam congratulates Governor Ademola Adeleke on his re-election in the Osun election, stating that democracy has prevailed.\n\nRead More: https://punchng.com/osun-poll-adc-candidate-congratulates-adeleke-says-democracy-has-prevailed/",
+    "published": "Sun, 16 Aug 2026 20:04:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688705+00:00",
+    "used": false
+  },
+  {
+    "id": "3b7d77fe1c9418bf",
+    "source": "Punch Nigeria",
+    "title": "Man arrested for setting wife on fire in Kogi",
+    "link": "https://punchng.com/man-arrested-for-setting-wife-on-fire-in-kogi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A man has been arrested in Kogi for setting his wife ablaze after a domestic dispute over burnt clothes. The victim is receiving treatment.\n\nRead More: https://punchng.com/man-arrested-for-setting-wife-on-fire-in-kogi/",
+    "published": "Sun, 16 Aug 2026 20:02:23 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688716+00:00",
+    "used": false
+  },
+  {
+    "id": "cafc2b67ae6d50b4",
+    "source": "Punch Nigeria",
+    "title": "Tambuwal congratulates Adeleke on re-election, says democracy has won",
+    "link": "https://punchng.com/tambuwal-congratulates-adeleke-on-re-election-says-democracy-has-won/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Sokoto Governor Aminu Tambuwal congratulates Osun State Governor Ademola Adeleke on his re-election, calling it a victory for democracy and the peop\n\nRead More: https://punchng.com/tambuwal-congratulates-adeleke-on-re-election-says-democracy-has-won/",
+    "published": "Sun, 16 Aug 2026 19:45:17 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688724+00:00",
+    "used": false
+  },
+  {
+    "id": "713d8a2f0bfb8614",
+    "source": "Punch Nigeria",
+    "title": "Kebbi gov replaces deputy, picks new running mate for 2027",
+    "link": "https://punchng.com/kebbi-gov-replaces-deputy-picks-new-running-mate-for-2027/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Kebbi State Governor Nasir Idris has replaced his deputy, Senator Umar Tafida, with Alhaji Ibrahim Augie as his running mate for the 2027 governorship elec\n\nRead More: https://punchng.com/kebbi-gov-replaces-deputy-picks-new-running-mate-for-2027/",
+    "published": "Sun, 16 Aug 2026 19:39:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688738+00:00",
+    "used": false
+  },
+  {
+    "id": "a460186402fc7455",
+    "source": "Punch Nigeria",
+    "title": "Four workers, 14-year-old student killed in Kano building collapse",
+    "link": "https://punchng.com/four-workers-14-year-old-student-killed-in-kano-building-collapse/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Tragedy strikes Kano as two building collapses claim five lives, including a 14-year-old student, and injure ten others. Investigations into the Kano build\n\nRead More: https://punchng.com/four-workers-14-year-old-student-killed-in-kano-building-collapse/",
+    "published": "Sun, 16 Aug 2026 19:24:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688782+00:00",
+    "used": false
+  },
+  {
+    "id": "c7a5165454a1226b",
+    "source": "Punch Nigeria",
+    "title": "Regular exercise keeps elderly fit, Obasanjo says",
+    "link": "https://punchng.com/regular-exercise-keeps-elderly-fit-obasanjo-says/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former President Olusegun Obasanjo stresses the importance of regular exercise for elderly people to maintain health and live gracefully.\n\nRead More: https://punchng.com/regular-exercise-keeps-elderly-fit-obasanjo-says/",
+    "published": "Sun, 16 Aug 2026 19:09:53 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688788+00:00",
+    "used": false
+  },
+  {
+    "id": "b21ff90daf216787",
+    "source": "Punch Nigeria",
+    "title": "Saraki unveils 500-seater ICT centre built by Bauchi PDP gov candidate",
+    "link": "https://punchng.com/saraki-unveils-500-seater-ict-centre-built-by-bauchi-pdp-gov-candidate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Senate President Bukola Saraki commissions a 500-seater ICT centre built by Bauchi PDP gov candidate Usman Suphi, aimed at youth empowerment and dig\n\nRead More: https://punchng.com/saraki-unveils-500-seater-ict-centre-built-by-bauchi-pdp-gov-candidate/",
+    "published": "Sun, 16 Aug 2026 18:45:44 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688813+00:00",
+    "used": false
+  },
+  {
+    "id": "63977e843561899e",
+    "source": "Punch Nigeria",
+    "title": "Ododo’s achievements will ensure his 2027 re-election – Ex-Kogi speaker",
+    "link": "https://punchng.com/ododos-achievements-will-ensure-his-2027-re-election-ex-kogi-speaker/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Kogi Speaker, Matthew Kolawole, believes Governor Ododo&#8217;s achievements in infrastructure, education, and security will secure his 2027 re-election b\n\nRead More: https://punchng.com/ododos-achievements-will-ensure-his-2027-re-election-ex-kogi-speaker/",
+    "published": "Sun, 16 Aug 2026 18:41:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688824+00:00",
+    "used": false
+  },
+  {
+    "id": "746ab897c7d0ad8f",
+    "source": "Punch Nigeria",
+    "title": "El-Rufai files fresh N10bn suit against ICPC over family access",
+    "link": "https://punchng.com/el-rufai-files-fresh-n10bn-suit-against-icpc-over-family-access/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Former Kaduna Governor Nasir El-Rufai has filed a N10bn fundamental rights suit against the ICPC, alleging denial of family access during his detention.\n\nRead More: https://punchng.com/el-rufai-files-fresh-n10bn-suit-against-icpc-over-family-access/",
+    "published": "Sun, 16 Aug 2026 18:40:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688834+00:00",
+    "used": false
+  },
+  {
+    "id": "56b91adf3abae7e9",
+    "source": "Punch Nigeria",
+    "title": "Osun poll’s outcome shows Tinubu will lose to Makinde in 2027 – APM",
+    "link": "https://punchng.com/osun-polls-outcome-shows-tinubu-will-lose-to-makinde-in-2027-apm/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The APM predicts President Tinubu will lose the 2027 presidential election to Governor Seyi Makinde, citing the Osun poll outcome as a warning sign.\n\nRead More: https://punchng.com/osun-polls-outcome-shows-tinubu-will-lose-to-makinde-in-2027-apm/",
+    "published": "Sun, 16 Aug 2026 18:31:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:54.688843+00:00",
+    "used": false
+  },
+  {
+    "id": "bd8d46f2e6f6eb29",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: INEC results fall within independent projections – Yiaga",
+    "link": "https://www.premiumtimesng.com/news/top-news/903446-osundecides2026-inec-results-fall-within-independent-projections-yiaga.html",
+    "summary": "<img alt=\"Post-election briefing by Yiaga Africa\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1920\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG_4563-scaled.jpeg?fit=2560%2C1920&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>Yiaga Africa, however, said the consistency of the results should not be interpreted as an endorsement of the entire electoral process, particularly amid reports of vote buying and voter inducem",
+    "published": "Sun, 16 Aug 2026 19:59:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.846983+00:00",
+    "used": false
+  },
+  {
+    "id": "5eb12973199e9e92",
+    "source": "Premium Times",
+    "title": "Governors’ forum congratulates Gov Adeleke on re-election",
+    "link": "https://www.premiumtimesng.com/news/top-news/903421-governors-forum-congratulates-gov-adeleke-on-re-election.html",
+    "summary": "<img alt=\"Chairman of the forum and Governor of Kwara State, AbdulRahman AbdulRazaq and Governor Ademola Adeleke of Osun State\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1745\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/806429-scaled-e1786902427767.jpg?fit=2560%2C1745&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>NGF said the interest generated by the off-cycle Osun governorship election again confirmed the resilien",
+    "published": "Sun, 16 Aug 2026 17:52:43 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847113+00:00",
+    "used": false
+  },
+  {
+    "id": "09e576b1386a5448",
+    "source": "Premium Times",
+    "title": "Osun: The mourning after, By Festus Adedayo",
+    "link": "https://www.premiumtimesng.com/opinion/903420-osun-the-mourning-after-by-festus-adedayo.html",
+    "summary": "<img alt=\"Festus Adedayo writes about Obasa, Aláàfin Ṣàngó and the capture of Lagos.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"600\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2019/06/festus-adedayo.jpg?fit=700%2C600&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"700\" /><p>Speaking after an infrastructure inspection, Governor Ademola Adeleke openly backed President Bola Tinubu’s 2027 re-election bid. He warmly referred to him as &#822",
+    "published": "Sun, 16 Aug 2026 17:38:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847161+00:00",
+    "used": false
+  },
+  {
+    "id": "46d6d2ce59ab4e59",
+    "source": "Premium Times",
+    "title": "August Meeting: Enugu Gender Affairs Commissioner harps on unity, girl-child education",
+    "link": "https://www.premiumtimesng.com/promoted/903400-august-meeting-enugu-gender-affairs-commissioner-harps-on-unity-girl-child-education.html",
+    "summary": "<img alt=\"Enugu State Commissioner for Children, Gender Affairs, and Social Development, Mrs Ngozi Enih addressing the women during the August meeting. To her left is the Senior Special Assistant to the Governor on Media (External Relations), Uche Anichukwu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"900\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/2a41f7e2-0999-4a43-9110-4fd70eecc805.jpeg?fit=1600%2C900&amp;ssl=1\" style=\"display: block; margin: auto; margi",
+    "published": "Sun, 16 Aug 2026 17:19:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847180+00:00",
+    "used": false
+  },
+  {
+    "id": "4ce502ac3baa8d92",
+    "source": "Premium Times",
+    "title": "El-Rufai sues ICPC for allegedly denying his family access to him",
+    "link": "https://www.premiumtimesng.com/news/top-news/903403-el-rufai-sues-icpc-for-allegedly-denying-his-family-access-to-him.html",
+    "summary": "<img alt=\"Former Kaduna State Governor, Nasir El-Rufai [PHOTO CREDIT: Nasir El-Rufai﻿]\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1366\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/473709029_1183878066435508_6002838251500963528_n.jpg?fit=2048%2C1366&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>He also named the ICPC chairman and the Attorney-General of the Federation (AGF) as the second and third defendants.</p>\n<p>",
+    "published": "Sun, 16 Aug 2026 16:07:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847245+00:00",
+    "used": false
+  },
+  {
+    "id": "3267801aa8945e8f",
+    "source": "Premium Times",
+    "title": "2027: Tinubu’s future is bright in Osun – Orji Kalu",
+    "link": "https://www.premiumtimesng.com/news/more-news/903401-2027-tinubus-future-is-bright-in-osun-orji-kalu.html",
+    "summary": "<img alt=\"Sen. Orji Uzor Kalu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"400\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/09/Kalu.jpeg?fit=600%2C400&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>Mr Kalu says the outcome of the election should not be interpreted as a setback for President Bola Tinubu.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/more-news/903401-2027-tinubus-future-is-bright-in-osun-orji-",
+    "published": "Sun, 16 Aug 2026 15:39:34 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847258+00:00",
+    "used": false
+  },
+  {
+    "id": "be3d39d204070907",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: UNIOSUN VC congratulates Adeleke on re-election, hails Osun voters",
+    "link": "https://www.premiumtimesng.com/news/top-news/903395-osundecides2026-uniosun-vc-congratulates-adeleke-on-re-election-hails-osun-voters.html",
+    "summary": "<img alt=\"Vice-Chancellor of Osun University (UNIOSUN), Odunayo Adebooye (PHOTO CREDIT: The nation)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"400\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Prof-Odunayo-Adebooye.jpg?fit=600%2C400&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"600\" /><p>He added that the outcome clearly reflected citizens’ participation and democratic choice.</p>\n<p>The post <a href=\"https://www.premiumtimesng",
+    "published": "Sun, 16 Aug 2026 15:27:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847272+00:00",
+    "used": false
+  },
+  {
+    "id": "c244d0ee81687c95",
+    "source": "Premium Times",
+    "title": "Adeleke restates commitment to support Tinubu’s re-election",
+    "link": "https://www.premiumtimesng.com/news/top-news/903389-adeleke-restates-commitment-to-support-tinubus-re-election.html",
+    "summary": "<img alt=\"Osun State Governor, Senator Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Ademola-Adeleke-new.jpg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The Osun governor described the president as a “son of Osun State” while praising his support for what he called a free and fair governorship election.</p>\n<p>The post <a href=\"https://",
+    "published": "Sun, 16 Aug 2026 14:59:52 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847338+00:00",
+    "used": false
+  },
+  {
+    "id": "e2ec2dbdc35b19e8",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: TMG commends INEC, Osun voters, urges protection of electoral mandate",
+    "link": "https://www.premiumtimesng.com/news/top-news/903382-osundecides2026-tmg-commends-inec-osun-voters-urges-protection-of-electoral-mandate.html",
+    "summary": "<img alt=\"Osun state governor and governorship candidate of the Accord Party, Senator Ademola Adeleke (PHOTO CREDIT: Pelumi Olajengbesi)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1310\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/772773172_38069988602592171_3060334901693499654_n.jpg?fit=2048%2C1310&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>TMG said the election was largely free of major technical glitches in mos",
+    "published": "Sun, 16 Aug 2026 14:51:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847349+00:00",
+    "used": false
+  },
+  {
+    "id": "0a9d64066f87da17",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Tinubu hails Adeleke’s re-election, says it’s a boost to democracy",
+    "link": "https://www.premiumtimesng.com/news/top-news/903384-osundecides2026-tinubu-hails-adelekes-re-election-says-its-a-boost-to-democracy.html",
+    "summary": "<img alt=\"President Bola Ahmed Tinubu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"853\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/Bola-Tinubu.jpg?fit=1280%2C853&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>The president wished Adeleke success as he prepares to lead the state for another four years.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/903384-osundecides2026-tinubu-hails-adelekes-re-",
+    "published": "Sun, 16 Aug 2026 14:46:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:55.847361+00:00",
+    "used": false
+  },
+  {
+    "id": "daaddb59b1621713",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election: TMG Commends INEC, Calls for Protection of Voters’ Mandate",
+    "link": "https://leadership.ng/osun-election-tmg-commends-inec-calls-for-protection-of-voters-mandate/",
+    "summary": "The Transition Monitoring Group (TMG) has commended the Independent National Electoral Commission (INEC) for what it described as the relatively seamless conduct of the August 15, 2026 Osun State Governorship Election, particularly the absence of major technical glitches in most locations and the real-time uploading of polling-unit results on the INEC Result Viewing Portal (IReV). [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:55:27 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:59.341048+00:00",
+    "used": false
+  },
+  {
+    "id": "b89c45c088a062af",
+    "source": "Leadership Newspaper",
+    "title": "FCT: Wike Signs 26,272 C-Of-Os Under Tinubu, Surpassing 13-Year Total",
+    "link": "https://leadership.ng/fct-wike-signs-26272-c-of-os-under-tinubu-surpassing-13-year-total/",
+    "summary": "The Federal Capital Territory (FCT) Administration has produced and signed 26,272 Certificates of Occupancy (C-of-O) since President Bola Tinubu assumed office, representing 17,575 more than the 8,697 certificates produced and signed between 2010 and 2023. The figure, according to the FCT Administration, is part of efforts to improve the ease of doing business in the [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:50:08 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:59.341082+00:00",
+    "used": false
+  },
+  {
+    "id": "e79308f3a99c9e41",
+    "source": "Leadership Newspaper",
+    "title": "Attack On Ukum: Terrorists Can’t Takeover Benue Lands – Alia",
+    "link": "https://leadership.ng/attack-on-ukum-terrorists-cant-takeover-benue-lands-alia/",
+    "summary": "Benue State governor, Hyacinth Alia, has commended the prompt response by security agencies in the suspected armed herdsmen terror attack on Ukum Local Government Area. Governor Alia said terrorists masquerading as herdsmen in the early hours of Sunday invaded and attacked the people of Mbaterem in Ayaba, Ikpur, Yina, Aboajio, Ukpen communities of Mbazun ward, [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:46:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:59.341093+00:00",
+    "used": false
+  },
+  {
+    "id": "8af001e1ede2be13",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026: We Are Studying The Results — APC",
+    "link": "https://leadership.ng/osun-election-2026-we-are-studying-the-results-apc/",
+    "summary": "The All Progressives Congress(APC) has said it is studying the results of the just-concluded Osun State governorship election before deciding on its next line of action. The party disclosed this in a statement issued by its Director of Media and Information, Kola Olabisi, following the declaration of Governor Ademola Adeleke as winner of the election [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:42:02 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T20:07:59.341104+00:00",
     "used": false
   },
   {
@@ -41668,6 +41954,105 @@
     "used": false
   },
   {
+    "id": "5307523b3ee41c67",
+    "source": "Punch Nigeria",
+    "title": "EPL: Any team ‘ld miss him, Maresca hails Ballon d’Or winner Rodri",
+    "link": "https://punchng.com/epl-any-team-ld-miss-him-maresca-hails-ballon-dor-winner-rodri/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Man City manager Enzo Maresca praises Ballon d&#8217;Or winner Rodri, acknowledging his importance while stressing team performance over individual absence.\n\nRead More: https://punchng.com/epl-any-team-ld-miss-him-maresca-hails-ballon-dor-winner-rodri/",
+    "published": "Sun, 16 Aug 2026 20:44:24 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:54.688655+00:00",
+    "used": false
+  },
+  {
+    "id": "63813d9a3d687f13",
+    "source": "Punch Nigeria",
+    "title": "Scotland names Belgium’s Pocognoli as new manager",
+    "link": "https://punchng.com/scotland-names-belgiums-pocognoli-as-new-manager/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Sebastien Pocognoli, former Monaco coach, has been named Scotland&#8217;s new manager, replacing Steve Clarke. He will lead the team into the UEFA Nations League\n\nRead More: https://punchng.com/scotland-names-belgiums-pocognoli-as-new-manager/",
+    "published": "Sun, 16 Aug 2026 19:30:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:54.688767+00:00",
+    "used": false
+  },
+  {
+    "id": "05edffc2acf4d9fe",
+    "source": "Premium Times",
+    "title": "Zacch Adedeji’s arithmetic, By Joshua Ocheja",
+    "link": "https://www.premiumtimesng.com/opinion/903443-zacch-adedejis-arithmetic-by-joshua-ocheja.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"335\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Joshua-Ocheja.jpeg?fit=400%2C335&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"400\" /><p>&#8230;there is no economic or development theory that is superior to the balance sheet. The reality of the balance sheet is the moment where underlying assets, actual liabilities, cash flows, and debt obligations are assessed at their tr",
+    "published": "Sun, 16 Aug 2026 19:39:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:55.847038+00:00",
+    "used": false
+  },
+  {
+    "id": "9ff1da775a5e809c",
+    "source": "Premium Times",
+    "title": "SPECIAL REPORT: As COP17 nears, Nigeria’s rangelands crisis deepens, threatening farmers, pastoral livelihoods",
+    "link": "https://www.premiumtimesng.com/news/top-news/903390-special-report-as-cop17-nears-nigerias-rangelands-crisis-deepens-threatening-farmers-pastoral-livelihoods.html",
+    "summary": "<img alt=\"COP17 Mongolia (PHOTO CREDIT: UNCCD)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"362\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-16-at-18.58.26-1.jpeg?fit=848%2C362&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"848\" /><p>As Nigeria prepares to participate in the 17th session of the UNCCD (COP17) in Mongolia, the country’s rangelands and grazing routes are facing mounting pressure from desertifi",
+    "published": "Sun, 16 Aug 2026 18:09:44 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:55.847095+00:00",
+    "used": false
+  },
+  {
+    "id": "927dd3142545828a",
+    "source": "Premium Times",
+    "title": "The Sundiata Post Model (7): A philosophical triad and the language of 21st-century journalism, By Max Amuchie",
+    "link": "https://www.premiumtimesng.com/opinion/903381-the-sundiata-post-model-7-a-philosophical-triad-and-the-language-of-21st-century-journalism-by-max-amuchie.html",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"516\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Max-Amuchie.jpg?fit=464%2C516&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"464\" /><p>Across these seven parts, I have defined the problem, formulated a new institutional model, proposed its architecture, articulated its guiding principles, developed measures of success, and finally given it its own vocabulary. Together, thes",
+    "published": "Sun, 16 Aug 2026 15:23:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:55.847325+00:00",
+    "used": false
+  },
+  {
+    "id": "f2921a7be54c4b6a",
+    "source": "Leadership Newspaper",
+    "title": "Rivers: Rainbow Coalition’s Reconciliation Committee Meets Fubara, Agrees On Modalities For Peace",
+    "link": "https://leadership.ng/rivers-rainbow-coalitions-reconciliation-committee-meets-fubara-agrees-on-modalities-for-peace/",
+    "summary": "The Reconciliation Committee of the Rainbow Coalition has disclosed that none of its  members, no matter their past political disagreements, would be victimised or discriminated against in the current moves to achieve peace and full restoration of the political family. The coalition, founded and led by the Minister of the Federal Capital Territory, Chief Nyesom [&#8230;]",
+    "published": "Sun, 16 Aug 2026 20:03:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:59.340996+00:00",
+    "used": false
+  },
+  {
+    "id": "0ed2ef70d6afefb8",
+    "source": "Leadership Newspaper",
+    "title": "Civil Service Awards Expose Compliance Gap Across Ministries, Says Walson-Jack",
+    "link": "https://leadership.ng/civil-service-awards-expose-compliance-gap-across-ministries-says-walson-jack/",
+    "summary": "The Federal Civil Service’s 2026 Rewards and Recognition exercise has exposed what the Head of the Civil Service of the Federation (HCSF), Mrs Didi Esther Walson-Jack, described as a disturbing failure by many Ministries to comply with the process for identifying and rewarding outstanding workers. Walson-Jack disclosed on Saturday evening in Abuja that only nine [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:58:49 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:59.341035+00:00",
+    "used": false
+  },
+  {
+    "id": "33612ac2295bc39a",
+    "source": "Leadership Newspaper",
+    "title": "Unity Games To Strengthen Peace, Bond Among Ethnic Groups Says Olu of Warri",
+    "link": "https://leadership.ng/unity-games-to-strengthen-peace-bond-among-ethnic-groups-says-olu-of-warri/",
+    "summary": "The Olu of Warri, His Majesty Ogiame Atuwatse III, has said the newly inaugurated Warri Unity Games were conceived to foster stronger unity, peace and mutual understanding among the diverse ethnic nationalities in Warri and Delta State. Speaking at the maiden edition of the Warri Unity Games held at the Federal Government College, Warri, the [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:54:09 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:59.341075+00:00",
+    "used": false
+  },
+  {
+    "id": "6e5ab769a90a4f17",
+    "source": "Leadership Newspaper",
+    "title": "‎BBNaija S11: Kamsy Becomes 3rd Housemate To Be Evicted",
+    "link": "https://leadership.ng/bbnaija-s11-kamsy-becomes-3rd-housemate-to-be-evicted/",
+    "summary": "&#160; ‎Housemate Kamsy has become the third housemate to be evicted in the eleventh edition of Big Brother Naija. ‎The Show Ya Sef edition has already had Martins And Mercedes leave the Big Brother House. ‎The show anchor, Ebuka Obi-Uchendu announced the gift decorator and suprise expert as the house mate to be evicted in [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:29:28 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T20:07:59.341129+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -44503,6 +44888,61 @@
     "published": "Sun, 16 Aug 2026 16:38:51 +0000",
     "priority": "low",
     "fetched_at": "2026-08-16T17:26:25.039741+00:00",
+    "used": false
+  },
+  {
+    "id": "018bb25800c41b83",
+    "source": "Punch Nigeria",
+    "title": "This is probably my last year of football, Ronaldo hints retirement",
+    "link": "https://punchng.com/this-is-probably-my-last-year-of-football-ronaldo-hints-retirement/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Cristiano Ronaldo suggests he may retire from football after the 2026-27 season, aiming to leave a &#8220;spectacular legacy.&#8221; Read his full comments.\n\nRead More: https://punchng.com/this-is-probably-my-last-year-of-football-ronaldo-hints-retirement/",
+    "published": "Sun, 16 Aug 2026 18:58:21 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-16T20:07:54.688807+00:00",
+    "used": false
+  },
+  {
+    "id": "5a09dc852da1318f",
+    "source": "Premium Times",
+    "title": "Arsenal 3-0 Man City: Odegaard leads Gunners to Community Shield glory",
+    "link": "https://www.premiumtimesng.com/sports/football/903418-arsenal-3-0-man-city-odegaard-leads-gunners-to-community-shield-glory.html",
+    "summary": "<img alt=\"(PHOTO CREDIT: Arsenal Facebook Page)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1126\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003876921-1-e1786902240218.jpg?fit=1536%2C1126&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>Odegaard put the result beyond doubt two minutes into the second half.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/sports/football/903418-arsenal-3-0-man-city-odegaard-lead",
+    "published": "Sun, 16 Aug 2026 17:45:10 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-16T20:07:55.847146+00:00",
+    "used": false
+  },
+  {
+    "id": "bef566d8d8bc8268",
+    "source": "Premium Times",
+    "title": "Dating show ‘Hello Mr Right’ returns with new twist",
+    "link": "https://www.premiumtimesng.com/entertainment/903406-dating-show-hello-mr-right-returns-with-new-twist.html",
+    "summary": "<img alt=\"StarTimes Hello Mr Right (PHOTO CREDIT: StarTimes)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"510\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-16-at-18.00.53.jpeg?fit=777%2C510&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /><p>At the heart of the new season is the “Golden Date 2.0” format, which challenges contestants to look beyond their preferred physical “spec” and consider personality",
+    "published": "Sun, 16 Aug 2026 17:18:27 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-16T20:07:55.847223+00:00",
+    "used": false
+  },
+  {
+    "id": "f1e9fa2cf771e834",
+    "source": "Leadership Newspaper",
+    "title": "Vogue Photos Reveal Intimate Details Of Cristiano Ronaldo, Georgina Rodríguez Wedding",
+    "link": "https://leadership.ng/vogue-photos-reveal-intimate-details-of-cristiano-ronaldo-georgina-rodriguez-wedding/",
+    "summary": "Fashion magazine Vogue has released exclusive photos and details from the living room wedding of football superstar Cristiano Ronaldo and model Georgina Rodríguez, following their private ceremony in Cascais, Portugal. The couple exchanged vows on August 11, selecting the date to mark the 10th anniversary of their first meeting at a Gucci store in Madrid [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:23:29 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-16T20:07:59.341153+00:00",
+    "used": false
+  },
+  {
+    "id": "b479ff34e9992f58",
+    "source": "Leadership Newspaper",
+    "title": "Davido Announces ‘Tell Everybody’ Video With Leon Thomas",
+    "link": "https://leadership.ng/davido-announces-tell-everybody-video-with-leon-thomas/",
+    "summary": "Nigerian Afrobeats star Davido is set to release the official music video for his song “Tell Everybody”, featuring American singer Leon Thomas. The singer announced the release on social media, revealing that the video will premiere tomorrow at 12 noon ET, which is 5pm Nigerian time. Davido also called on fans to join him in [&#8230;]",
+    "published": "Sun, 16 Aug 2026 19:20:54 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-16T20:07:59.341178+00:00",
     "used": false
   }
 ]
