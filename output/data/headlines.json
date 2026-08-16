@@ -1097,7 +1097,7 @@
     "published": "Wed, 15 Jul 2026 15:50:58 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.803469+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "2b538cd82f1baeb3",
@@ -19566,6 +19566,270 @@
     "published": "Sat, 15 Aug 2026 18:14:15 +0000",
     "priority": "high",
     "fetched_at": "2026-08-15T20:08:52.168509+00:00",
+    "used": false
+  },
+  {
+    "id": "2939bb7ee251f756",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: INEC declares Adeleke winner of Osun poll, Islamic leaders caution against anti-Christian rhetoric, other top stories",
+    "link": "https://punchng.com/morning-recap-inec-declares-adeleke-winner-of-osun-poll-islamic-leaders-caution-against-anti-christian-rhetoric-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Independent National Electoral Commission has declared Osun State Governor, Ademola Adeleke, winner of the August 15 governorship election after he secured 19 of the state’s 30 local government areas. Meanwhile, Islamic leaders have warned against anti-Christian rhetoric over the 2027 Muslim-Muslim presidential ticket, while the Academic Staff Union of Universities in Abia State University\n\nRead More: https://punchng.com/morning-recap-inec-declares-adeleke-winner-of-osun-poll-islamic-leaders",
+    "published": "Sun, 16 Aug 2026 08:23:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:43.455805+00:00",
+    "used": false
+  },
+  {
+    "id": "09c82a45489808c4",
+    "source": "Punch Nigeria",
+    "title": "Moscow region targeted by 600 drones overnight, three wounded — Official",
+    "link": "https://punchng.com/moscow-region-targeted-by-600-drones-overnight-three-wounded-official/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A massive overnight drone attack targeted the Moscow region with 600 drones, wounding three people as Ukraine escalates long-range strikes into Russia.\n\nRead More: https://punchng.com/moscow-region-targeted-by-600-drones-overnight-three-wounded-official/",
+    "published": "Sun, 16 Aug 2026 07:47:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:43.455841+00:00",
+    "used": false
+  },
+  {
+    "id": "7dc3dbc3bda3a1bd",
+    "source": "Punch Nigeria",
+    "title": "FULL LIST: 19 Osun LGs where Adeleke recorded highest votes",
+    "link": "https://punchng.com/full-list-19-osun-lgas-where-adeleke-recorded-highest-votes/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "See the full list of 19 Osun LGAs where Governor Ademola Adeleke secured the highest votes in the recent governorship election. Get detailed Osun election\n\nRead More: https://punchng.com/full-list-19-osun-lgas-where-adeleke-recorded-highest-votes/",
+    "published": "Sun, 16 Aug 2026 07:12:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:43.455878+00:00",
+    "used": false
+  },
+  {
+    "id": "04f9383fbb91844a",
+    "source": "Punch Nigeria",
+    "title": "Osun gov poll largely peaceful, says CDD",
+    "link": "https://punchng.com/osun-gov-poll-largely-peaceful-says-cdd/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Centre for Democracy and Development (CDD) reports the Osun governorship election was largely peaceful despite some operational challenges and vote buy\n\nRead More: https://punchng.com/osun-gov-poll-largely-peaceful-says-cdd/",
+    "published": "Sun, 16 Aug 2026 07:04:20 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:43.455886+00:00",
+    "used": false
+  },
+  {
+    "id": "51cb263f62aec399",
+    "source": "Punch Nigeria",
+    "title": "BREAKING: INEC declares Adeleke winner of Osun gov poll",
+    "link": "https://punchng.com/breaking-inec-declares-adeleke-winner-of-osun-gov-poll/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Ademola Adeleke of the Accord party has been declared the winner of the Osun State governorship election, securing another term in office.\n\nRead More: https://punchng.com/breaking-inec-declares-adeleke-winner-of-osun-gov-poll/",
+    "published": "Sun, 16 Aug 2026 06:00:05 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:43.455915+00:00",
+    "used": false
+  },
+  {
+    "id": "2f12a5465e680309",
+    "source": "Punch Nigeria",
+    "title": "Police recover grenade from Borno drainage",
+    "link": "https://punchng.com/police-recover-grenade-from-borno-drainage/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Borno State Police Command has recovered a hand grenade from a drainage slab in Maiduguri. Investigation is ongoing to ascertain the origin of the Borno gr\n\nRead More: https://punchng.com/police-recover-grenade-from-borno-drainage/",
+    "published": "Sun, 16 Aug 2026 05:32:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:43.455928+00:00",
+    "used": false
+  },
+  {
+    "id": "f217a7a7e852ee75",
+    "source": "Punch Nigeria",
+    "title": "Hackers target DHQ social media account",
+    "link": "https://punchng.com/hackers-target-dhq-social-media-account/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Defence Headquarters (DHQ) confirms its official X account was compromised in an attempted cyberattack. Learn about the security measures taken.\n\nRead More: https://punchng.com/hackers-target-dhq-social-media-account/",
+    "published": "Sun, 16 Aug 2026 05:30:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:43.455955+00:00",
+    "used": false
+  },
+  {
+    "id": "6f5d0c53f4c80ab9",
+    "source": "Punch Nigeria",
+    "title": "Fake agency: Disagreements stall Reps panel report",
+    "link": "https://punchng.com/fake-agency-disagreements-stall-reps-panel-report/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Disagreements within the House of Representatives ad hoc committee are delaying the final report on the fake Presidential Foreign Investment Promotion Coun\n\nRead More: https://punchng.com/fake-agency-disagreements-stall-reps-panel-report/",
+    "published": "Sun, 16 Aug 2026 05:28:59 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:43.455993+00:00",
+    "used": false
+  },
+  {
+    "id": "66b0647dfc86e4c4",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: It’s Official: INEC declares Accord’s Ademola Adeleke winner of governorship election",
+    "link": "https://www.premiumtimesng.com/news/top-news/903305-osundecides2026-its-official-inec-declares-accords-ademola-adeleke-winner-of-governorship-election.html",
+    "summary": "<img alt=\"Osun State Governor, Senator Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/50645ed0-22fd-45d5-b5d3-8dcc2fbb2a22.png?fit=1536%2C1024&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>Mr Adeleke of the APC was formally declared the winner of the election by the INEC returning officer, Joshua Ogunwole.</p>\n<p>The post <a href=\"https://www.premiumtimes",
+    "published": "Sun, 16 Aug 2026 06:55:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585723+00:00",
+    "used": false
+  },
+  {
+    "id": "efad0e1e1ad54078",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Adeleke scores highest votes, set to be declared winner",
+    "link": "https://www.premiumtimesng.com/news/headlines/903290-osundecides2026-adeleke-scores-highest-votes-set-to-be-declared-winner.html",
+    "summary": "<img alt=\"Osun state governor and governorship candidate of the Accord Party, Senator Ademola Adeleke (PHOTO CREDIT: Pelumi Olajengbesi)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1310\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/772773172_38069988602592171_3060334901693499654_n.jpg?fit=2048%2C1310&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The final results of the 30 local government areas were announced by INEC",
+    "published": "Sun, 16 Aug 2026 05:12:47 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585792+00:00",
+    "used": false
+  },
+  {
+    "id": "bbc415aa071a3e4a",
+    "source": "Premium Times",
+    "title": "South Korean president proposes talks to officially end war with North Korea",
+    "link": "https://www.premiumtimesng.com/foreign/903280-south-korean-president-proposes-talks-to-officially-end-war-with-north-korea.html",
+    "summary": "<img alt=\"South Korea President Lee Myung-b\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1280\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/The_Inauguration_Ceremony_of_the_21st_President_of_Republic_of_Korea_54566787169.jpg?fit=1920%2C1280&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>However, there was no formal peace treaty, so technically the two Koreas are still at war.</p>\n<p>The post <a href=\"https://www.premium",
+    "published": "Sun, 16 Aug 2026 04:38:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585800+00:00",
+    "used": false
+  },
+  {
+    "id": "5572529eaf958dca",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Adeleke in early lead after results from 15 LGAs",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/903271-breaking-osundecides2026-adeleke-in-early-lead-after-results-from-15-lgas.html",
+    "summary": "<img alt=\"Osun state governor and governorship candidate of the Accord Party, Senator Ademola Adeleke (PHOTO CREDIT: Pelumi Olajengbesi)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1400\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Senator-Ademola-Adeleke.jpg?fit=2048%2C1400&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Accord Party candidate and incumbent governor, Ademola Adeleke, has taken an early lead in the Osun",
+    "published": "Sun, 16 Aug 2026 02:07:18 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585853+00:00",
+    "used": false
+  },
+  {
+    "id": "bed123ec46193428",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Final results from collation centre (LIVE UPDATES)",
+    "link": "https://www.premiumtimesng.com/news/top-news/903253-osundecides2026-final-results-from-collation-centre-live-updates.html",
+    "summary": "<img alt=\"INEC Collation centre for the 2026 Osun Governorship election\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"853\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/INEC-Collation-centre-for-the-2026-Osun-Governorship-election.jpeg?fit=1280%2C853&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>The final collation of results from the 30 local government areas of Osun State has commenced in Osogbo, the state capital, wit",
+    "published": "Sun, 16 Aug 2026 01:38:07 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585863+00:00",
+    "used": false
+  },
+  {
+    "id": "910878043c806962",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Accord Party candidate Adeleke wins Ede North by landslide",
+    "link": "https://www.premiumtimesng.com/news/903265-breaking-osundecides2026-accord-party-candidate-adeleke-wins-ede-north-by-landslide.html",
+    "summary": "<img alt=\"Osun state governor and governorship candidate of the Accord Party, Senator Ademola Adeleke (PHOTO CREDIT: Pelumi Olajengbesi)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1310\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/772773172_38069988602592171_3060334901693499654_n.jpg?fit=2048%2C1310&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Accord Party governorship candidate and incumbent Osun State Governor, Ad",
+    "published": "Sun, 16 Aug 2026 00:57:35 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585880+00:00",
+    "used": false
+  },
+  {
+    "id": "bd90e20a53be1b43",
+    "source": "Premium Times",
+    "title": "OsunDecides2026: Accord Party wins Iwo LG with a wide margin",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/903259-osundecides2026-accord-party-wins-iwo-lg-with-a-wide-margin.html",
+    "summary": "<img alt=\"Osun state governor and governorship candidate of the Accord Party, Senator Ademola Adeleke (PHOTO CREDIT: Pelumi Olajengbesi)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1400\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Senator-Ademola-Adeleke.jpg?fit=2048%2C1400&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>The Accord Party has won the Iwo Local Government Area in the Osun State governorship election, def",
+    "published": "Sun, 16 Aug 2026 00:52:06 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585890+00:00",
+    "used": false
+  },
+  {
+    "id": "1d30c99f25f2d5bc",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: APC wins Obokun LGA",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/903255-osundecides2026-apc-wins-obokun-lga.html",
+    "summary": "<img alt=\"Bola Oyebamiji\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"560\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/12/Oyebamiji-IV-840x560-1.jpg?fit=840%2C560&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"840\" /><p>The All Progressives Congress (APC) has won Obokun Local Government Area in the Osun governorship election, defeating the Accord Party by 4,097 votes, according to the result announced at the LGA collation centre.</p",
+    "published": "Sun, 16 Aug 2026 00:11:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585900+00:00",
+    "used": false
+  },
+  {
+    "id": "d082489bba2f6611",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Adeleke’s Accord Party wins Osogbo LGA",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/903250-osundecides2026-adelekes-accord-party-wins-osogbo-lga.html",
+    "summary": "<img alt=\"Osun State Governor, Senator Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1365\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Ademola-Adeleke-new.jpg?fit=2048%2C1365&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>Ademola Adeleke who is seeking re-election polled a total of 36480 to defeat his closest rival, Bola Oyebamiji of the All Progressives Congress (APC) who scored 30474 votes.</p>\n<p>The ",
+    "published": "Sat, 15 Aug 2026 23:34:03 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585916+00:00",
+    "used": false
+  },
+  {
+    "id": "dc7c060980b77ad2",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: INEC cancels results of some polling units in Ife Central",
+    "link": "https://www.premiumtimesng.com/regional/ssouth-west/903247-osundecides2026-inec-cancels-results-of-some-polling-units-in-ife-central.html",
+    "summary": "<img alt=\"PU: 28 (Open Space Motion Ground, OAU) RA: 05( Iremo/Ajebandele) This polling unit witnessed very low turnout of voters. Only security agents, party agents of Accord Party &amp; APC, and INEC adhoc staff were met on ground.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"810\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/WhatsApp-Image-2026-08-16-at-00.24.11.jpeg?fit=1080%2C810&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"",
+    "published": "Sat, 15 Aug 2026 23:26:11 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585927+00:00",
+    "used": false
+  },
+  {
+    "id": "751f8bde001aad6c",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Accord Party wins Ife Central with landslide margin",
+    "link": "https://www.premiumtimesng.com/news/top-news/903241-osundecides2026-accord-party-wins-ife-central-with-landslide-margin.html",
+    "summary": "<img alt=\"Governor Adeleke holding Accord Party flag (PHOTO CREDIT: The sun nigeria)\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"455\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-30-at-23.57.30.jpeg?fit=731%2C455&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"731\" /><p>The Accord Party has won Ife Central Local Government Area in Saturday’s Osun governorship election, defeating the All Progressives Congress",
+    "published": "Sat, 15 Aug 2026 22:54:56 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585976+00:00",
+    "used": false
+  },
+  {
+    "id": "3009e644e0e01ef9",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: Governorship poll largely peaceful despite reports of vote-buying, BVAS glitches – CDD",
+    "link": "https://www.premiumtimesng.com/news/top-news/903239-osundecides2026-governorship-poll-largely-peaceful-despite-reports-of-vote-buying-bvas-glitches-cdd.html",
+    "summary": "<img alt=\"Scene at a polling unit in Ejigbo: PU - Idi-Ape Ejigbo. RA - Elejigbo ‘B’ Osolo, Ejigbo LGA Security personnel directed party agents to move away from the voters and ballot boxes.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1387\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/unnamed-28-scaled-e1786803388631.jpg?fit=1920%2C1387&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1920\" /><p>The centre reported operational issue",
+    "published": "Sat, 15 Aug 2026 22:21:57 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:44.585994+00:00",
+    "used": false
+  },
+  {
+    "id": "f800fac13ba920a2",
+    "source": "Leadership Newspaper",
+    "title": "2027: No Projects, No Support, Constituents Threaten Returning Politicians",
+    "link": "https://leadership.ng/2027-no-projects-no-support-constituents-threaten-returning-politicians/",
+    "summary": "BY FELIX IGBEKOYI, Asaba; RICHARD NDOMA, Calabar and INIOBONG EKPONTA, Uyo As the 2027 general elections draw closer, a wave of dissatisfaction is sweeping across several constituencies, with voters increasingly questioning the performance of political office-holders seeking another mandate. Constituents who once offered overwhelming support to candidates across various political parties are now opening their [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:27:41 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:48.782098+00:00",
+    "used": false
+  },
+  {
+    "id": "05e7bb71afd5b002",
+    "source": "Leadership Newspaper",
+    "title": "Osun Election 2026: Adeleke’s Supporters Jubilate In Osogbo As INEC Declares Him Winner",
+    "link": "https://leadership.ng/osun-election-2026-adelekes-supporters-jubilate-in-osogbo-as-inec-declares-him-winner/",
+    "summary": "Jubilation erupted in Osogbo, the Osun State capital, following the declaration by the Independent National Electoral Commission (INEC) of Governor Ademola Adeleke as the winner of the August 15 Osun governorship election. The governor’s supporters trooped onto the streets of the state capital, singing victory songs. INEC, in the early hours of Sunday, declared Adeleke, [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:16:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:48.782206+00:00",
+    "used": false
+  },
+  {
+    "id": "68785958510922cb",
+    "source": "Leadership Newspaper",
+    "title": "Zoning May Work Against Atiku In 2027 – ACF Ex-Sec General, Sani",
+    "link": "https://leadership.ng/zoning-may-work-against-atiku-in-2027-acf-ex-sec-general-sani/",
+    "summary": "Anthony Sani, former Secretary General of the apex northern socio-cultural organisation, Arewa Consultative Forum (ACF), speaks with AZA MSUE on a wide range of national issues. Excerpts: What is your take on the 2027 general elections vis-à-vis the preparations, opposition’s coming together and so forth? I believe the 2027 elections will come and go. This [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:14:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:48.782241+00:00",
+    "used": false
+  },
+  {
+    "id": "790a5cbb0172eaea",
+    "source": "Leadership Newspaper",
+    "title": "India Marks 80th Independence Anniversary In Abuja With Fanfare",
+    "link": "https://leadership.ng/india-marks-80th-independence-anniversary-in-abuja-with-fanfare/",
+    "summary": "By Innocent Odoh, Abuja The Indian community marked an ecstatic celebration of India’s 80th Independence Day, with Indians joined by members of the diplomatic community for the colourful festivities in Abuja on Saturday. A resplendent Indian High Commissioner to Nigeria, Abhishek Singh, read the speech of the Indian President, Droupadi Murmu, which commended poverty reduction, [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:07:51 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-16T07:27:48.782303+00:00",
     "used": false
   },
   {
@@ -40975,6 +41239,171 @@
     "used": false
   },
   {
+    "id": "3c17fb3ac95e6dae",
+    "source": "Punch Nigeria",
+    "title": "I faced three years of online insults after BBNaija — Erica",
+    "link": "https://punchng.com/i-faced-three-years-of-online-insults-after-bbnaija-erica/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "BBNaija star Erica Nlewedim shares her experience of enduring three years of online insults and criticism, leading her to seek therapy.\n\nRead More: https://punchng.com/i-faced-three-years-of-online-insults-after-bbnaija-erica/",
+    "published": "Sun, 16 Aug 2026 07:29:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:43.455869+00:00",
+    "used": false
+  },
+  {
+    "id": "8461f23adf71c14f",
+    "source": "Punch Nigeria",
+    "title": "EPL: Alonso hails Chelsea fans’ warm reception",
+    "link": "https://punchng.com/epl-alonso-hails-chelsea-fans-warm-reception/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Chelsea manager Xabi Alonso praises the warm reception from Chelsea fans at Stamford Bridge, emphasizing the importance of their support for the new season\n\nRead More: https://punchng.com/epl-alonso-hails-chelsea-fans-warm-reception/",
+    "published": "Sun, 16 Aug 2026 07:01:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:43.455907+00:00",
+    "used": false
+  },
+  {
+    "id": "afca25abdd3a8516",
+    "source": "Punch Nigeria",
+    "title": "BOI targets 80% loans for power, manufacturing sectors",
+    "link": "https://punchng.com/boi-targets-80-loans-for-power-manufacturing-sectors/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Bank of Industry (BOI) plans to channel 80% of its large enterprise loans into priority sectors like power and manufacturing by 2026 to boost Nigeria&#8217;s\n\nRead More: https://punchng.com/boi-targets-80-loans-for-power-manufacturing-sectors/",
+    "published": "Sun, 16 Aug 2026 05:31:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:43.455947+00:00",
+    "used": false
+  },
+  {
+    "id": "06edf1d198529b6e",
+    "source": "Punch Nigeria",
+    "title": "I lost my sight, but not my dreams  — Theatre Arts graduate",
+    "link": "https://punchng.com/i-lost-my-sight-but-not-my-dreams-theatre-arts-graduate/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Comfort Ekwo, a visually impaired Theatre Arts graduate, shares her inspiring journey of losing her sight as a child and overcoming challenges in Nigeria.\n\nRead More: https://punchng.com/i-lost-my-sight-but-not-my-dreams-theatre-arts-graduate/",
+    "published": "Sun, 16 Aug 2026 05:30:55 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:43.455986+00:00",
+    "used": false
+  },
+  {
+    "id": "78ab90446676db55",
+    "source": "Punch Nigeria",
+    "title": "Air Peace alleges $42m loss to poor aircraft handling",
+    "link": "https://punchng.com/air-peace-alleges-42m-loss-to-poor-aircraft-handling/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Air Peace claims a $42m revenue loss from repeated aircraft damage by ground handlers. Learn how poor aircraft handling impacts Nigeria&#8217;s largest airline.\n\nRead More: https://punchng.com/air-peace-alleges-42m-loss-to-poor-aircraft-handling/",
+    "published": "Sun, 16 Aug 2026 05:27:57 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:43.456010+00:00",
+    "used": false
+  },
+  {
+    "id": "053feef33c52466a",
+    "source": "Punch Nigeria",
+    "title": "Apapa Customs record N323bn July revenue collection",
+    "link": "https://punchng.com/apapa-customs-record-n323bn-july-revenue-collection/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Apapa Area Command of the Nigeria Customs Service achieved a record N323bn revenue collection in July 2026, the highest monthly figure ever.\n\nRead More: https://punchng.com/apapa-customs-record-n323bn-july-revenue-collection/",
+    "published": "Sun, 16 Aug 2026 05:25:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:43.456026+00:00",
+    "used": false
+  },
+  {
+    "id": "33284a3b45a4d88f",
+    "source": "Punch Nigeria",
+    "title": "Army intercepts courier with 180 explosives in Zamfara",
+    "link": "https://punchng.com/army-intercepts-courier-with-180-explosives-in-zamfara-2/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigerian Army troops intercepted a courier with 180 Super Power explosives in Zamfara, disrupting a major supply to terrorists. Read more on the ongoing op\n\nRead More: https://punchng.com/army-intercepts-courier-with-180-explosives-in-zamfara-2/",
+    "published": "Sun, 16 Aug 2026 05:25:56 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:43.456043+00:00",
+    "used": false
+  },
+  {
+    "id": "4cf1a8f67c5dcba2",
+    "source": "Premium Times",
+    "title": "#OsunDecides2026: APC officials absent at final collation centre as Adeleke coasts to victory",
+    "link": "https://www.premiumtimesng.com/news/headlines/903298-osundecides2026-apc-officials-absent-at-final-collation-centre-as-adeleke-coasts-to-victory.html",
+    "summary": "<img alt=\"The collation centre in Osogbo\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"449\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/998f0c70-9923-11f1-b2ab-0dd01740f9f6.jpg.webp?fit=800%2C449&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"800\" /><p>When the results were moved to the state collation centre for the final stage of the process, none of the APC agents was present.</p>\n<p>The post <a href=\"https://www.premiumtimesng",
+    "published": "Sun, 16 Aug 2026 06:36:27 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:44.585773+00:00",
+    "used": false
+  },
+  {
+    "id": "0cf20b0266866e82",
+    "source": "Premium Times",
+    "title": "French press body demands action against Google AI summaries",
+    "link": "https://www.premiumtimesng.com/news/top-news/903278-french-press-body-demands-action-against-google-ai-summaries.html",
+    "summary": "<img alt=\"This is an Ai generated image used to illustrate the story &quot;French press body demands action against Google AI summaries&quot;.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/An-Image-of-googe-summaries-.png?fit=1536%2C1024&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>The French press association said the AI overview has triggered a drop in internet traff",
+    "published": "Sun, 16 Aug 2026 04:28:47 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:44.585835+00:00",
+    "used": false
+  },
+  {
+    "id": "4b307a4f2f79ee69",
+    "source": "Premium Times",
+    "title": "Nigeria partners China to expand radiotherapy capacity",
+    "link": "https://www.premiumtimesng.com/news/top-news/903242-nigeria-partners-china-to-expand-radiotherapy-capacity.html",
+    "summary": "<img alt=\"Nigerian govt partners China to expand radiotherapy capacity\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"810\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/IMG-20260815-WA0020.jpg?fit=1080%2C810&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1080\" /><p>Nigeria also signed a strategic cooperation agreement with LinaTech, a Chinese company specialising in advanced radiation therapy solutions.</p>\n<p>The post <a href=\"https",
+    "published": "Sat, 15 Aug 2026 23:04:01 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:44.585960+00:00",
+    "used": false
+  },
+  {
+    "id": "fc45eac9e042d82f",
+    "source": "Leadership Newspaper",
+    "title": "PLWDs Worst Hit By Floods, Natural Disasters – NOA",
+    "link": "https://leadership.ng/plwds-worst-hit-by-floods-natural-disasters-noa/",
+    "summary": "The National Orientation Agency (NOA), Akwa Ibom State Directorate, has raised the alarm that People Living With Disabilities (PLWDs) face high risk of death, deprivation, loss of properties and livelihoods in the face of the threatening natural disasters, especially the flood scourge. The agency, therefore, advocated for the integration and inclusion of the PLWDs into [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:22:04 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:48.782139+00:00",
+    "used": false
+  },
+  {
+    "id": "8fb30c2d1a93d5c7",
+    "source": "Leadership Newspaper",
+    "title": "Calabar Horror: How Best Friend Allegedly Lured Friend To Ritual Killers",
+    "link": "https://leadership.ng/calabar-horror-how-best-friend-allegedly-lured-friend-to-ritual-killers/",
+    "summary": "What began as a night of trust between two friends in Calabar South has ended in a chilling discovery that has left the Afokang community in fear. A young woman’s journey to a house she was allegedly led to by someone she trusted has now become the centre of a disturbing investigation following a reported [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:21:54 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:48.782166+00:00",
+    "used": false
+  },
+  {
+    "id": "3578838740b69b30",
+    "source": "Leadership Newspaper",
+    "title": "Obla Delivers ₦25m, £33,000 Scholarship To First-Class Idoma Law Graduate",
+    "link": "https://leadership.ng/obla-delivers-%e2%82%a625m-33000-scholarship-to-first-class-idoma-law-graduate/",
+    "summary": "Renowned philanthropist and Senior Advocate of Nigeria, Chief Godwin Obla, SAN, has fulfilled his pledge to sponsor an outstanding Idoma female law graduate for postgraduate studies abroad. Through the Godwin Obla Foundation, Obla has paid the £33,000 tuition fee for Ochanya, who has secured admission to Queen Mary University of London to study for an [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:21:22 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:48.782194+00:00",
+    "used": false
+  },
+  {
+    "id": "4e699be95a8c16c1",
+    "source": "Leadership Newspaper",
+    "title": "Scholes Tells Arteta To Ditch Zubimendi, Backs Lewis-Skelly For Midfield Role",
+    "link": "https://leadership.ng/scholes-tells-arteta-to-ditch-zubimendi-backs-lewis-skelly-for-midfield-role/",
+    "summary": "Manchester United legend Paul Scholes has urged Arsenal manager Mikel Arteta to part ways with Martin Zubimendi, insisting he would prefer Myles Lewis-Skelly in central midfield. Scholes believes Zubimendi struggled during his first season at Arsenal and suggested that the Spain international should be the player Arteta looks to move on this summer. Speaking on [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:16:11 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:48.782229+00:00",
+    "used": false
+  },
+  {
+    "id": "a4c5db526653299f",
+    "source": "Leadership Newspaper",
+    "title": "How We Balanced Marriage, Family, Research To Earn Our PhD Same Day – Couple",
+    "link": "https://leadership.ng/how-we-balanced-marriage-family-research-to-earn-our-phd-same-day-couple/",
+    "summary": "Dr Gift Okwuolise and his wife, Dr Blessing Chidinma Okwuolise, are scholars in Environmental Management who recently completed their PhDs at the Federal University of Technology, Owerri (FUTO). In this interview with HENRY TYOHEMBA, they discuss their journey to earning their PhDs together, balancing marriage, family and research, overcoming academic challenges, and how their research [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:10:36 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-16T07:27:48.782268+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -43788,6 +44217,17 @@
     "published": "Sat, 15 Aug 2026 19:29:58 +0000",
     "priority": "low",
     "fetched_at": "2026-08-15T20:08:48.531947+00:00",
+    "used": false
+  },
+  {
+    "id": "12e9742434094dd6",
+    "source": "Leadership Newspaper",
+    "title": "Super Falcons Defender Alani Seals Move To Turkish Club Yüksekova",
+    "link": "https://leadership.ng/super-falcons-defender-alani-seals-move-to-turkish-club-yuksekova/",
+    "summary": "Super Falcons defender Jumoke Alani has completed a move to Turkish club Yüksekova Spor Kulübü from Nigeria Women’s Football League (NWFL) side Nasarawa Amazons. The 21-year-old centre-back has signed a one-year contract with the Turkish club after impressing during spells with Edo Queens and Nasarawa Amazons. Alani was named in the NWFL Team of the [&#8230;]",
+    "published": "Sun, 16 Aug 2026 07:08:41 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-16T07:27:48.782293+00:00",
     "used": false
   }
 ]
