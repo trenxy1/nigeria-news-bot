@@ -1130,7 +1130,7 @@
     "published": "Wed, 15 Jul 2026 15:06:00 +0000",
     "priority": "high",
     "fetched_at": "2026-07-15T17:16:06.803581+00:00",
-    "used": false
+    "used": true
   },
   {
     "id": "633bc3dbe2590ae5",
@@ -20314,6 +20314,204 @@
     "published": "Sun, 16 Aug 2026 19:42:02 +0000",
     "priority": "high",
     "fetched_at": "2026-08-16T20:07:59.341104+00:00",
+    "used": false
+  },
+  {
+    "id": "be1c25cb0e17bf4c",
+    "source": "Punch Nigeria",
+    "title": "Army commander visits Sokoto community, pledges troops’ readiness to tackle terrorists",
+    "link": "https://punchng.com/army-commander-visits-sokoto-community-pledges-troops-readiness-to-tackle-terrorists/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Nigerian Army commander visited Sokoto community, pledging troops&#8217; readiness to tackle terrorists and enhance security. Residents urged to provide intell\n\nRead More: https://punchng.com/army-commander-visits-sokoto-community-pledges-troops-readiness-to-tackle-terrorists/",
+    "published": "Mon, 17 Aug 2026 08:40:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707595+00:00",
+    "used": false
+  },
+  {
+    "id": "66f39f0cff5cf096",
+    "source": "Punch Nigeria",
+    "title": "Woman arrested for stealing newborn in Kebbi",
+    "link": "https://punchng.com/woman-arrested-for-stealing-newborn-in-kebbi/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A 19-year-old woman has been arrested in Kebbi State for newborn theft, after allegedly stealing a baby and presenting it as her own to her husband. Police\n\nRead More: https://punchng.com/woman-arrested-for-stealing-newborn-in-kebbi/",
+    "published": "Mon, 17 Aug 2026 08:35:13 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707619+00:00",
+    "used": false
+  },
+  {
+    "id": "4ea1fd3d6d31c678",
+    "source": "Punch Nigeria",
+    "title": "US missionary kidnapped in Niger reunited with wife, returning home – Trump",
+    "link": "https://punchng.com/us-missionary-kidnapped-in-niger-reunited-with-wife-returning-home-trump/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "American missionary Kevin Rideout, held captive in Niger for nine months, has been released and reunited with his wife, preparing to return home to the US.\n\nRead More: https://punchng.com/us-missionary-kidnapped-in-niger-reunited-with-wife-returning-home-trump/",
+    "published": "Mon, 17 Aug 2026 07:34:50 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707664+00:00",
+    "used": false
+  },
+  {
+    "id": "118011c4b9151001",
+    "source": "Punch Nigeria",
+    "title": "Nigeria targets local production of military hardware, anti-drone systems",
+    "link": "https://punchng.com/nigeria-targets-local-production-of-military-hardware-anti-drone-systems/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria is boosting its defence industry by targeting local production of military hardware and anti-drone systems, reducing reliance on imports and creati\n\nRead More: https://punchng.com/nigeria-targets-local-production-of-military-hardware-anti-drone-systems/",
+    "published": "Mon, 17 Aug 2026 06:16:21 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707736+00:00",
+    "used": false
+  },
+  {
+    "id": "210fa5ed6f8d1b3d",
+    "source": "Punch Nigeria",
+    "title": "2027: Opposition urges Adeleke template to oust Tinubu",
+    "link": "https://punchng.com/2027-opposition-urges-adeleke-template-to-oust-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A political group, G-100, urges opposition parties to adopt the Adeleke template from Osun State to unite and oust Tinubu in the 2027 general elections.\n\nRead More: https://punchng.com/2027-opposition-urges-adeleke-template-to-oust-tinubu/",
+    "published": "Mon, 17 Aug 2026 06:15:53 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707745+00:00",
+    "used": false
+  },
+  {
+    "id": "a5fd61313699de40",
+    "source": "Punch Nigeria",
+    "title": "NDLEA arrests businessman with N23m cocaine at Lagos airport",
+    "link": "https://punchng.com/ndlea-arrests-businessman-with-n23m-cocaine-at-lagos-airport/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The NDLEA has arrested a businessman with N23m worth of cocaine at Lagos airport, concealed in his luggage. Read more about this major drug bust.\n\nRead More: https://punchng.com/ndlea-arrests-businessman-with-n23m-cocaine-at-lagos-airport/",
+    "published": "Mon, 17 Aug 2026 06:13:32 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707782+00:00",
+    "used": false
+  },
+  {
+    "id": "9853a415c70703f1",
+    "source": "Punch Nigeria",
+    "title": "Oluwo congratulates Adeleke, urges alignment with FG",
+    "link": "https://punchng.com/oluwo-congratulates-adeleke-urges-alignment-with-fg/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Oluwo of Iwoland, Oba Abdulrosheed Akanbi, congratulates Governor Ademola Adeleke on his re-election and urges alignment with the Federal Government for Os\n\nRead More: https://punchng.com/oluwo-congratulates-adeleke-urges-alignment-with-fg/",
+    "published": "Mon, 17 Aug 2026 05:54:40 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707817+00:00",
+    "used": false
+  },
+  {
+    "id": "243c36fccc2853e1",
+    "source": "Punch Nigeria",
+    "title": "Osun poll: 295 suspects arrested – Police",
+    "link": "https://punchng.com/osun-poll-295-suspects-arrested-police/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Police confirm 295 suspects arrested during the Osun State governorship election, with 293 released on bail and two remaining in custody for prosecution.\n\nRead More: https://punchng.com/osun-poll-295-suspects-arrested-police/",
+    "published": "Mon, 17 Aug 2026 05:01:38 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707828+00:00",
+    "used": false
+  },
+  {
+    "id": "1a144c16c1d7daa2",
+    "source": "Punch Nigeria",
+    "title": "Two kidnappers killed in Imo police raid",
+    "link": "https://punchng.com/two-kidnappers-killed-in-imo-police-raid/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Two suspected Imo kidnappers were killed and two victims rescued during a police raid in an Imo State forest. The operation followed an intelligence report\n\nRead More: https://punchng.com/two-kidnappers-killed-in-imo-police-raid/",
+    "published": "Mon, 17 Aug 2026 05:00:04 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:22.707836+00:00",
+    "used": false
+  },
+  {
+    "id": "441a30c8e8425085",
+    "source": "Premium Times",
+    "title": "EDITORIAL: Ishaq Oloyede’s remarkable leadership at JAMB",
+    "link": "https://www.premiumtimesng.com/news/headlines/903483-editorial-ishaq-oloyedes-remarkable-leadership-at-jamb.html",
+    "summary": "<img alt=\"Prof Ishaq Oloyede, JAMB registrar.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"853\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Untitled-design-2-5.jpg?fit=1280%2C853&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1280\" /><p>President Muhammadu Buhari appointed Mr Oloyede in August 2016, and his early actions showed his desire to deliver.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/headlines/903483-ed",
+    "published": "Mon, 17 Aug 2026 04:07:48 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:23.813226+00:00",
+    "used": false
+  },
+  {
+    "id": "adc39f0c4db4b003",
+    "source": "Premium Times",
+    "title": "Otti hails Osun poll, charges Adeleke to consolidate democratic gains",
+    "link": "https://www.premiumtimesng.com/news/more-news/903470-otti-hails-osun-poll-charges-adeleke-to-consolidate-democratic-gains.html",
+    "summary": "<img alt=\"Osun State Governor, Senator Ademola Adeleke\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1364\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/497878798_10231919004772566_8013994775750105560_n.jpg?fit=2048%2C1364&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2048\" /><p>“The peaceful conduct before, during and after the election, in spite of some observed irregularities, is a testament to the maturity of our democracy and ",
+    "published": "Sun, 16 Aug 2026 21:39:15 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:23.813281+00:00",
+    "used": false
+  },
+  {
+    "id": "2e74df055a4df647",
+    "source": "Premium Times",
+    "title": "Wike signs 26,272 Certificates of Occupancy in Abuja in three years",
+    "link": "https://www.premiumtimesng.com/news/more-news/903460-wike-signs-26272-certificates-of-occupancy-in-abuja-in-three-years.html",
+    "summary": "<img alt=\"Mr Nyesom Wike\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"427\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/1772945225953-e1772945268830.jpeg?fit=683%2C427&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"683\" /><p>The FCT Administration says the certificates were signed to ease doing business in the territory, in line with President Tinubu's Renewed Hope Agenda.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/ne",
+    "published": "Sun, 16 Aug 2026 20:29:36 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:23.813368+00:00",
+    "used": false
+  },
+  {
+    "id": "a45fb3b3478fb449",
+    "source": "Premium Times",
+    "title": "Nigeria’s year of women in law, By Chidi Anselm Odinkalu",
+    "link": "https://www.premiumtimesng.com/opinion/903455-nigerias-year-of-women-in-law-by-chidi-anselm-odinkalu.html",
+    "summary": "<img alt=\"Chidi Anselm Odinkalu writes that democracy without voters is the origin of Nigeria’s insecurity crisis.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"441\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/01/chidi-odinkalu-632x441-1.jpg?fit=632%2C441&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"632\" /><p>By some coincidence, in this year, five of the most important positions in law and justice in Nigeria are now held by women ",
+    "published": "Sun, 16 Aug 2026 20:18:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:23.813381+00:00",
+    "used": false
+  },
+  {
+    "id": "e96ebcc917149c10",
+    "source": "Premium Times",
+    "title": "National security: Building sustainable peace through Nigeria’s national peace framework, By Chido Onumah",
+    "link": "https://www.premiumtimesng.com/opinion/903450-national-security-building-sustainable-peace-through-nigerias-national-peace-framework-by-chido-onumah.html",
+    "summary": "<img alt=\"The newly-appointed National Security Adviser (NSA), Nuhu Ribadu\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1843\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/06/Nuhu-Ribadu-scaled-e1687204789258.jpeg?fit=2560%2C1843&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"2560\" /><p>If effectively implemented, the National Peace Framework can become more than another government policy. It can provide the architecture for a new app",
+    "published": "Sun, 16 Aug 2026 20:07:25 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:23.813402+00:00",
+    "used": false
+  },
+  {
+    "id": "cfcff95d9b1190a1",
+    "source": "Leadership Newspaper",
+    "title": "Nigeria Aquatics Federation Reschedules ‘Swim To The Future’ For September 5",
+    "link": "https://leadership.ng/nigeria-aquatics-federation-reschedules-swim-to-the-future-for-september-5/",
+    "summary": "The Nigeria Aquatics Federation (NAqF) has rescheduled the second edition of its grassroots swimming initiative, ‘Swim to the Future’, for 5 September 2026 in honour of its late president, Dr Chamberlain Nnamdi Dunkwu. The annual event, which was postponed following Dunkwu’s death, will now serve as a tribute to his contributions to the development of [&#8230;]",
+    "published": "Mon, 17 Aug 2026 06:41:24 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:27.113309+00:00",
+    "used": false
+  },
+  {
+    "id": "e84276c5484d0be1",
+    "source": "Leadership Newspaper",
+    "title": "Nigerian Exchange Postpones Revised Pricing Rules Hours Before August 17 Take-off",
+    "link": "https://leadership.ng/nigerian-exchange-postpones-revised-pricing-rules-hours-before-august-17-take-off/",
+    "summary": "The Nigerian Exchange (NGX) has postponed the planned rollout of its revised pricing methodology for equities trading, just a day before the new framework was scheduled to take effect on Monday, August 17, 2026. Under the revised methodology, the minimum quantity required to trigger a published price movement will depend on the security’s prevailing price. [&#8230;]",
+    "published": "Mon, 17 Aug 2026 05:58:58 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:27.113354+00:00",
+    "used": false
+  },
+  {
+    "id": "3e6af52ea44c4fac",
+    "source": "Leadership Newspaper",
+    "title": "Drama As Adeleke Dances In Channels Interview, Attributes Victory To Accessibility",
+    "link": "https://leadership.ng/drama-as-adeleke-dances-in-channels-interview-attributes-victory-to-accessibility/",
+    "summary": "There was drama on Channels Television’s Sunday Politics when re-elected Osun State Governor Ademola Adeleke broke into his trademark dance during an interview with presenter Seun Okinbaloye. Adeleke, who is popularly known as the “Dancing Governor”, was responding to a question on whether he could express his feelings through music when he replied, “You got [&#8230;]",
+    "published": "Mon, 17 Aug 2026 05:48:37 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:27.113463+00:00",
+    "used": false
+  },
+  {
+    "id": "56095c75f4ced2ba",
+    "source": "Leadership Newspaper",
+    "title": "National Security: Building Sustainable Peace Through Nigeria’s National Peace Framework",
+    "link": "https://leadership.ng/national-security-building-sustainable-peace-through-nigerias-national-peace-framework/",
+    "summary": "By Chido Onumah Nigeria&#8217;s security challenges have changed considerably in scale, character and complexity. From terrorism and violent extremism to banditry, kidnapping, communal conflicts, separatist agitations, organised crime and emerging digital threats, insecurity has become a multidimensional challenge with profound consequences for national development. The new thinking is that insecurity is not merely a military [&#8230;]",
+    "published": "Mon, 17 Aug 2026 05:46:45 +0000",
+    "priority": "high",
+    "fetched_at": "2026-08-17T07:49:27.113477+00:00",
     "used": false
   },
   {
@@ -42053,6 +42251,193 @@
     "used": false
   },
   {
+    "id": "a5cb7551dc757210",
+    "source": "Punch Nigeria",
+    "title": "Morning recap: Adeleke extends olive branch, Kwankwaso explains Obi alliance, other top stories",
+    "link": "https://punchng.com/morning-recap-adeleke-extends-olive-branch-kwankwaso-explains-obi-alliance-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Catch up on the latest Nigerian news with our morning recap, covering Adeleke&#8217;s victory, Kwankwaso&#8217;s Obi alliance, Osun tragedy, and other top stories.\n\nRead More: https://punchng.com/morning-recap-adeleke-extends-olive-branch-kwankwaso-explains-obi-alliance-other-top-stories/",
+    "published": "Mon, 17 Aug 2026 07:53:59 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:22.707645+00:00",
+    "used": false
+  },
+  {
+    "id": "723490b4e6944ff0",
+    "source": "Punch Nigeria",
+    "title": "DR Congo Ebola outbreak becomes deadliest with over 2,300 deaths",
+    "link": "https://punchng.com/dr-congo-ebola-outbreak-becomes-deadliest-with-over-2300-deaths/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The DR Congo Ebola outbreak has become the deadliest in the country&#8217;s history, with over 2,300 deaths. Learn about the fast-moving Bundibugyo strain and co\n\nRead More: https://punchng.com/dr-congo-ebola-outbreak-becomes-deadliest-with-over-2300-deaths/",
+    "published": "Mon, 17 Aug 2026 07:21:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:22.707684+00:00",
+    "used": false
+  },
+  {
+    "id": "28d3fc5f4b4fc3e5",
+    "source": "Punch Nigeria",
+    "title": "Heroes, Nashville actress Hayden Panettiere dies at 36",
+    "link": "https://punchng.com/heroes-nashville-actress-hayden-panettiere-dies-at-36/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Actress Hayden Panettiere, known for her roles in &#8220;Heroes&#8221; and &#8220;Nashville,&#8221; has died at 36. Details surrounding Hayden Panettiere&#8217;s death are under investi\n\nRead More: https://punchng.com/heroes-nashville-actress-hayden-panettiere-dies-at-36/",
+    "published": "Mon, 17 Aug 2026 07:01:30 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:22.707704+00:00",
+    "used": false
+  },
+  {
+    "id": "98dfbbf739e58450",
+    "source": "Punch Nigeria",
+    "title": "2027: Kwankwaso explains Obi alliance, declares Ganduje, Yusuf finished",
+    "link": "https://punchng.com/2027-kwankwaso-explains-obi-alliance-declares-ganduje-yusuf-finished/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Rabiu Kwankwaso explains his 2027 alliance with Peter Obi, citing national interest and equity. He also declares Ganduje and Yusuf politically finished.\n\nRead More: https://punchng.com/2027-kwankwaso-explains-obi-alliance-declares-ganduje-yusuf-finished/",
+    "published": "Mon, 17 Aug 2026 06:17:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:22.707723+00:00",
+    "used": false
+  },
+  {
+    "id": "7124109da4f8631a",
+    "source": "Punch Nigeria",
+    "title": "Millwall sweat over Azeez injury",
+    "link": "https://punchng.com/millwall-sweat-over-azeez-injury/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Millwall faces an anxious wait over Femi Azeez&#8217;s hamstring injury sustained during their Championship opener. Get the latest on the Nigerian winger&#8217;s condi\n\nRead More: https://punchng.com/millwall-sweat-over-azeez-injury/",
+    "published": "Mon, 17 Aug 2026 02:00:51 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:22.707853+00:00",
+    "used": false
+  },
+  {
+    "id": "10cbb2c425bbe804",
+    "source": "Premium Times",
+    "title": "Ecobank, Cornerstone Insurance, Africa Prudential top stock pick this week",
+    "link": "https://www.premiumtimesng.com/business/business-news/903492-ecobank-cornerstone-insurance-africa-prudential-top-stock-pick-this-week.html",
+    "summary": "<img alt=\"Floor of the Nigerian Stock Exchange Market\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"675\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2022/02/Floor-of-the-Nigerian-Stock-Exchange-Market.png?fit=1200%2C675&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" /><p>This is not a buy, sell or hold recommendation but a stock investment guide. You may need to involve your financial advisor before taking investment decisions.</p>\n",
+    "published": "Mon, 17 Aug 2026 07:17:45 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:23.813140+00:00",
+    "used": false
+  },
+  {
+    "id": "fe0d747309175ede",
+    "source": "Premium Times",
+    "title": "Cameroon win first WAFCON title in grand style",
+    "link": "https://www.premiumtimesng.com/news/top-news/903488-cameroon-win-first-wafcon-title-in-grand-style.html",
+    "summary": "<img alt=\"The Indomitable Lionesses of Cameroon\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"942\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/1003877975-e1786949966669.jpg?fit=1536%2C942&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1536\" /><p>The Indomitable Lionesses produced a dominant display to finally end years of disappointment</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/news/top-news/903488-cameroon-win-first",
+    "published": "Mon, 17 Aug 2026 07:04:38 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:23.813183+00:00",
+    "used": false
+  },
+  {
+    "id": "8960c664b30231a1",
+    "source": "Premium Times",
+    "title": "EFCC recovers $60 million for Nestoil lenders in ongoing debt investigation",
+    "link": "https://www.premiumtimesng.com/business/business-news/903288-efcc-recovers-60-million-for-nestoil-lenders-in-ongoing-debt-investigation.html",
+    "summary": "<img alt=\"Nestoil Headquarters\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"500\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/nestoil-a-e1786859037434.jpg?fit=798%2C500&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"798\" /><p>At a meeting facilitated by the EFCC, Nestoil and a consortium of banks agreed to a structured debt repayment.</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/business/business-news/903288-efcc-recove",
+    "published": "Mon, 17 Aug 2026 05:00:17 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:23.813210+00:00",
+    "used": false
+  },
+  {
+    "id": "365c288f369aa1bf",
+    "source": "Premium Times",
+    "title": "TRENDING: Angry students avenge colleague, strip lecturer over attempted sexual assault",
+    "link": "https://www.premiumtimesng.com/news/top-news/903473-trending-angry-students-avenge-colleague-strip-lecturer-over-attempted-sexual-assault.html",
+    "summary": "<img alt=\"UNIZIK-gate\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"397\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/09/UNIZIK-gate.jpg?fit=640%2C397&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"640\" /><p>PREMIUM TIMES gathered that the incident happened after the female student came out of the lecturer's office with his clothes, claiming that the lecturer attempted to sexually assault her in the office.</p>\n<p>The post <a href=\"ht",
+    "published": "Sun, 16 Aug 2026 22:26:25 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:23.813264+00:00",
+    "used": false
+  },
+  {
+    "id": "25615098095e761c",
+    "source": "Premium Times",
+    "title": "Taking personal responsibility for your desired rest (3), By Ayo Akerele",
+    "link": "https://www.premiumtimesng.com/opinion/903465-taking-personal-responsibility-for-your-desired-rest-3-by-ayo-akerele.html",
+    "summary": "<p>Arise today and step out of the Egyptian cycle of endless, fruitless toil. Take up your yoke, learn the mechanics of the Kingdom, build the structures required to support the blessing, and watch the Lord of the Sabbath transform your regular labour into an enduring, multi-dimensional season of supernatural rest. Contemporary Believers Who Took Responsibility [&#8230;]</p>\n<p>The post <a href=\"https://www.premiumtimesng.com/opinion/903465-taking-personal-responsibility-for-your-desired-rest-3-",
+    "published": "Sun, 16 Aug 2026 20:56:02 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:23.813313+00:00",
+    "used": false
+  },
+  {
+    "id": "8f6dbc888beed6b4",
+    "source": "Premium Times",
+    "title": "Electoral infidels!, By Wole Olaoye",
+    "link": "https://www.premiumtimesng.com/opinion/903462-electoral-infidels-by-wole-olaoye.html",
+    "summary": "<img alt=\"Wole Olaoye writes about e-jackasses who are on the prowl.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/07/Wole-Olaoye-NEW.jpg?fit=499%2C518&amp;ssl=1\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"499\" /><p>There have been calls for the prosecution of both Jingir and Fadahunsi. Unlikely as that eventuality may be, let us at least do what grown-ups do: introspect. The ultimate test of",
+    "published": "Sun, 16 Aug 2026 20:55:32 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:23.813360+00:00",
+    "used": false
+  },
+  {
+    "id": "76a2555ca14a1790",
+    "source": "Leadership Newspaper",
+    "title": "The Most Common Mistakes That Get A Deposit Bonus Voided",
+    "link": "https://leadership.ng/the-most-common-mistakes-that-get-a-deposit-bonus-voided/",
+    "summary": "In the fast-moving world of online gaming, landing a solid deposit bonus can genuinely feel like a head start on the rest of the field. Whether it’s a generous match percentage or a stack of free spins, these offers exist to give players more time on device and a better shot at walking away with [&#8230;]",
+    "published": "Mon, 17 Aug 2026 07:02:10 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:27.113286+00:00",
+    "used": false
+  },
+  {
+    "id": "9461807585980b65",
+    "source": "Leadership Newspaper",
+    "title": "Personal Pension Plan Target Threatened By 91% Unfunded Accounts",
+    "link": "https://leadership.ng/personal-pension-plan-target-threatened-by-91-unfunded-accounts/",
+    "summary": "The National Pension Commission (PenCom) has warned that the Personal Pension Plan’s (PPP) target to have 30 per cent of accounts funded by the fourth quarter of 2026 is unlikely to be met. The regulator attributed the shortfall to the persistent gap between account registration and actual savings, compounded by weak contribution habits among enrollees. [&#8230;]",
+    "published": "Mon, 17 Aug 2026 06:00:12 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:27.113340+00:00",
+    "used": false
+  },
+  {
+    "id": "898b5b8130a35e0c",
+    "source": "Leadership Newspaper",
+    "title": "NASENI To Begin FutureMakers Virtual Hackathon, Pitch Sessions",
+    "link": "https://leadership.ng/naseni-to-begin-futuremakers-virtual-hackathon-pitch-sessions/",
+    "summary": "The National Agency for Science and Engineering Infrastructure (NASENI) will on Monday kick-start the FutureMakers by NASENI Virtual Hackathon and Pitch sessions for 60 participants drawn from all six geopolitical zones of the country. A statement issued on Sunday by the deputy director of Information, Chima Akwaja,  said the programme organised by NASENI Innovation Hub [&#8230;]",
+    "published": "Mon, 17 Aug 2026 05:56:58 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:27.113381+00:00",
+    "used": false
+  },
+  {
+    "id": "e851093bbc83a8e0",
+    "source": "Leadership Newspaper",
+    "title": "APC Bauchi Welcomes Over 150,000 New Members Amid Statewide Surge",
+    "link": "https://leadership.ng/apc-bauchi-welcomes-over-150000-new-members-amid-statewide-surge/",
+    "summary": "The All Progressives Congress (APC) in Bauchi State has announced that more than 150,000 people have joined the party in a recent wave of political realignments, with the figure continuing to rise. In an official statement signed by the State Chairman, Hon. Mohammed Hassan, the party said lists containing approximately 117,000 new members were formally [&#8230;]",
+    "published": "Mon, 17 Aug 2026 05:54:52 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:27.113403+00:00",
+    "used": false
+  },
+  {
+    "id": "69e824a660ea07a2",
+    "source": "Leadership Newspaper",
+    "title": "Ikoyi Club Hosts Zenith Bank Team Tennis Tournament",
+    "link": "https://leadership.ng/ikoyi-club-hosts-zenith-bank-team-tennis-tournament/",
+    "summary": "A total of 64 players will compete for honours as the Zenith Bank 2026 Team Tennis Tournament serves off on Monday (today) at Ikoyi Club 1938 in Lagos. The tournament is being organised by Ikoyi Club in partnership with Zenith Bank Plc and will run until 21 August at the club’s Tennis Section. The 64 [&#8230;]",
+    "published": "Mon, 17 Aug 2026 05:51:26 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:27.113428+00:00",
+    "used": false
+  },
+  {
+    "id": "de5a37805922da6f",
+    "source": "Leadership Newspaper",
+    "title": "Residents Stranded, Cars Submerged As Flood Hits Parts Of Abuja",
+    "link": "https://leadership.ng/residents-stranded-cars-submerged-as-flood-hits-parts-of-abuja/",
+    "summary": "Residents and motorists were left stranded on Saturday after heavy rainfall triggered flash flooding in parts of Abuja, the Federal Capital Territory (FCT). Several areas, including Wuse 2, Adetokunbo Ademola Crescent, the vicinity of Delight Event Centre in Gudu and Efab Estate in Lokogoma, were affected by the flooding. The bridge linking Gaduwa and Durumi [&#8230;]",
+    "published": "Mon, 17 Aug 2026 05:50:43 +0000",
+    "priority": "medium",
+    "fetched_at": "2026-08-17T07:49:27.113448+00:00",
+    "used": false
+  },
+  {
     "id": "ecf72315d0384e3a",
     "source": "Channels TV",
     "title": "Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG With Qing Madi, Thousands Of Students",
@@ -44943,6 +45328,17 @@
     "published": "Sun, 16 Aug 2026 19:20:54 +0000",
     "priority": "low",
     "fetched_at": "2026-08-16T20:07:59.341178+00:00",
+    "used": false
+  },
+  {
+    "id": "d09416934b69d414",
+    "source": "Punch Nigeria",
+    "title": "Like Eagles, like Falcons: The dwindling fortunes of Africa’s 10-time champions",
+    "link": "https://punchng.com/like-eagles-like-falcons-the-dwindling-fortunes-of-africas-10-time-champions/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Nigeria&#8217;s Super Falcons face a challenging World Cup play-off route after their WAFCON quarter-final exit, mirroring the Super Eagles&#8217; recent struggles. Ca\n\nRead More: https://punchng.com/like-eagles-like-falcons-the-dwindling-fortunes-of-africas-10-time-champions/",
+    "published": "Mon, 17 Aug 2026 06:12:51 +0000",
+    "priority": "low",
+    "fetched_at": "2026-08-17T07:49:22.707809+00:00",
     "used": false
   }
 ]
